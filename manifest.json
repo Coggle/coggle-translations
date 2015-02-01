@@ -1,0 +1,12 @@
+{
+  "resources": [
+    "https://d3bulw1k28xkbc.cloudfront.net/translations/{{ locale }}.l20n"
+  ],
+  "locales": [
+    "en-US",
+    "en-GB",
+    "fr"
+  ],
+  "default_locale": "en-US"
+}
+
