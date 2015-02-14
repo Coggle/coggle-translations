@@ -1,5 +1,19 @@
+<login-signup-button """
+  <p>SIGN UP</p><p>USING GOOGLE</p>
+""">
+
+<login-tagline """
+    It's simple, and free! Already signed up? <a>log in</a>.
+""">
+
+<index-description """
+    <h1>Unleash your creativity</h1>
+    <p>Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!</p>
+    <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
+""">
+
 <orgbanner """
-  Organizations are a great way to keep your work organised and secure in a large
+  Organisations are a great way to keep your work organised and secure in a large
   team.
   <a href='/organisations' target='_blank' >Read more,</a> 
   or email
