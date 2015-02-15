@@ -156,6 +156,73 @@ Getting Started <a>hide</a><a>show</a>
   Read more...
 """>
 
+<sidebar-contact """
+  <h3>Contact Us!</h3>
+  <p>Need some help? Found a bug? Want to get in touch? Then email us at <a>hello@coggle.it</a></p>
+  <p>Stay up to date with Coggle announcements and tutorials with <a>Bloggle</a>, the Coggle blog.</p>
+  <p>More <a>about Coggle</a>. Our <a>privacy policy</a>.</p>
+  <p>For the <a>press</a>. For <a>developers</a>.</p>
+""">
+
+/* Self-dialog & Supporter Signup */
+<me-manage-account "Manage account">
+<me-unsupport-progress "Sorry you're leaving. Unsubscribing you now!">
+<me-as-orgmember "You're viewing Coggle as an <b>organisation member</b>.">
+<me-as-orgmember-youget "This means you get great features like:">
+<me-unsupport """
+  <a>Stop</a> supporting Coggle <span> &mdash; are you sure? <a>I'm sure</a></span>
+""">
+<me-signedup "Great! You\'re signed up as a Coggle supporter.">
+<me-support-cancelled """
+  <span>Hello &mdash; this is you!</span>
+  Your supporter subscription has been cancelled. <a>Sign up again</a>.
+""">
+<me-support-signupnow "Sign me up now!">
+<me-support-weusestripe """
+  We use <a href="http://stripe.com" target="_blank">stripe</a> to process payments securely: your card details never go through our servers.
+""">
+<me-support-benefits """
+  <span>Hello &mdash; this is you!</span>
+  Become a Coggle supporter for <b>£5 / year</b> and get early access to new features including:
+""">
+
+<support-feature-bigimages """
+  <img>
+  <span>
+    <span>Upload large images to your Coggle. </span>
+    <span>Just drag and drop images from your desktop to add them, as a suppoerter you can add much bigger images!</span>
+  </span>
+""">
+
+<support-feature-xlinks """
+  <img>
+  <span>
+    <span>Easily create cross-links between items. </span>
+    <span>Use the drag-and-drop menu item to easily show dependencies between items in your Coggle!</span>
+  </span>
+""">
+
+
+/* My Settings Page (/me) */
+<me-hi "Hi {{ $userName }},">
+<me-supporterpitch """
+  Coggle is free, and we think that <strong>great tools should be available for everyone</strong>.
+  But if you'd like to support the continued development of Coggle then you can by becoming a Coggle supporter - in return you'll get early access to great new features that we're trialling.
+""">
+<me-communication "Communication!'>
+<me-emailslist "These are the emails we have on record for you:">
+<me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
+<me-commspref "Here's what you've told us about your communication preferences:">
+<me-comms-explain """
+  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
+""">
+<me-talktome "Talk to me: ">
+<me-diagram-notifications "Diagram notifications: ">
+
+<slider-yes "YES">
+<slider-no "NO">
+
+
 
 /* diagram tooltips */
 <context-dragclick "drag to move, click to edit">
