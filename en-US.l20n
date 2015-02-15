@@ -204,7 +204,7 @@ Getting Started <a>hide</a><a>show</a>
 
 
 /* My Settings Page (/me) */
-<me-hi "Hi {{ $userName }},">
+<me-hi "Hi {{ user.givenName }},">
 <me-supporterpitch """
   Coggle is free, and we think that <strong>great tools should be available for everyone</strong>.
   But if you'd like to support the continued development of Coggle then you can by becoming a Coggle supporter - in return you'll get early access to great new features that we're trialling.
