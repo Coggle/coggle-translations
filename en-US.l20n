@@ -1,10 +1,14 @@
+/* login widget content */
+
 <login-signup-button """
   <p>SIGN UP</p><p>USING GOOGLE</p>
 """>
+<login-tagline "It's free and it's easy! Already signed up? <a>log in</a>.">
+<logout "Logout">
 
-<login-tagline """
-  It's free and it's easy! Already signed up? <a>log in</a>.
-""">
+
+
+/* front page content */
 
 <index-description """
   <h1>Unleash your creativity</h1>
@@ -12,7 +16,7 @@
   <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
 """>
 
-<testemonial-jenn """
+<testimonial-jenn """
   <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
   <p>Jenn, Coggle User</p>
 """>
@@ -44,8 +48,8 @@
 
 <features-colours """
   <img>
-  <h2>Get the colour right</h2>
-  <p>Are you a visual thinker? Do you learn by layout and colour? Well, make sure you get the right colour for your topics, just click on a branch to bring up the colour wheel and select the colour you want.</p>
+  <h2>Get the color right</h2>
+  <p>Are you a visual thinker? Do you learn by layout and color? Well, make sure you get the right color for your topics, just click on a branch to bring up the color wheel and select the color you want.</p>
 """>
 
 <features-others """
@@ -61,7 +65,21 @@
   <p>For the <a>press</a>.</p>
 """>
 
+
+
+/* documents list content */
+<createcoggle """
+  <p title="Create a new Coggle.">CREATE</p>
+""">
+<createfolder """
+  <img>
+  <p title="Create a new Folder.">ADD</p>
+""">
+<limitedaccess "You have limited access to  as you're re not a member">
+<linkdrive "Too many Coggles? Organize them in Google Drive">
+
 <orgbanner """
   Organizations are a great way to keep your work organized and secure in a large
   team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
 """>
+
