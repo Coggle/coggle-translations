@@ -170,9 +170,22 @@ Getting Started <a>hide</a><a>show</a>
 
 
 /* sharing dialog content */
+<share-newlink "New Link:">
+<share-newlink-tip """
+  These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+""">
+<share-tag-user "user">
+<share-tag-embed "embed">
+<share-embed "Embed this Coggle in a Website">
+
 
 /* download dialog content */
-
+<download-pdf "Download PDF">
+<download-png "Download Image">
+<download-mm ".mm File">
+<download-txt "Plain-Text Outline">
+<download-advanced "Advanced Types">
+<download-failed "File generation failed.">
 
 
 /* Coggle Facts */
