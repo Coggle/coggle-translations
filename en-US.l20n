@@ -179,7 +179,7 @@ Getting Started <a>hide</a><a>show</a>
 """>
 <me-support-signupnow "Sign me up now!">
 <me-support-weusestripe """
-  We use <a href="http://stripe.com" target="_blank">stripe</a> to process payments securely: your card details never go through our servers.
+  We use <atarget="_blank">stripe</a> to process payments securely: your card details never go through our servers.
 """>
 <me-support-benefits """
   <span>Hello &mdash; this is you!</span>
@@ -222,6 +222,37 @@ Getting Started <a>hide</a><a>show</a>
 <slider-yes "YES">
 <slider-no "NO">
 
+
+
+/* About Coggle (/about) */
+<about-hello """
+  <h1>Hello!</h1>
+  <p>Coggle is about redefining the way documents work: the way we share and store knowledge. It's a space for thoughts that works the way that people do — not in the rigid ways of computers.</p>
+  <p>It's free, and we promise it always will be, but we still take our responsibilities seriously. We promise to look after your data the best we know how, to keep backups, and to take security seriously.</p>
+  <p>Our mission is to change the way that people work and collaborate forever, to make you more productive, and to make it easier to share information with others, and to do it in a way that's beautiful, and a pleasure to use.</p>
+""">
+
+<about-getintouch """
+  <h1>Get in Touch</h1>
+  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter </a>and if you prefer you can always send an email to <a>hello@coggle.it </a>— we love to chat!</p>
+""">
+
+<about-spreadtheword """
+  <h1>Spread the Word</h1>
+  <p>If you love Coggle, then help us break even more people free from the confines of lists, spreadsheets and conventional documents! You can share Coggle <a>on Twitter </a>or <a>on Facebook</a>, or you can even get a <a>Coggle tshirt</a>.</p>
+""">
+
+<about-press """
+  <h1>In the press?</h1>
+  <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
+""">
+
+<about-company """
+ <div>
+   <p>Registered in England and Wales. No. 9030487</p>
+   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
+ </div>
+""">
 
 
 /* diagram tooltips */
@@ -283,10 +314,10 @@ Did you know you can put links in Coggles? You can!<p>They work like this:<br>[d
 Did you know that you can download your Coggle as a PDF or an image. You can! Look for the download button in the top right of the screen
 """>
 <fact-markdown """
-Did you know that Coggle uses <a href="http://daringfireball.net/projects/markdown/">markdown syntax</a>? It does!<p>Try out links like this: &lt;http://example.com&gt;
+Did you know that Coggle uses <a>markdown syntax</a>? It does!<p>Try out links like this: &lt;http://example.com&gt;
 """>
 <fact-latex """
-Did you know Coggle supports LaTeX formulae? It does!<p>Use \\\\( LaTeX here \\\\) to try it out! Check out <a href="http://en.wikibooks.org/wiki/LaTeX/Mathematics">this link</a> for syntax help.
+Did you know Coggle supports LaTeX formulae? It does!<p>Use \\\\( LaTeX here \\\\) to try it out! Check out <a>this link</a> for syntax help.
 """>
 <fact-move """
 Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
@@ -301,7 +332,7 @@ Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+] in m
 Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-] in most browsers!
 """>
 <fact-markdown2 """
-Did you know that <a href="http://daringfireball.net/projects/markdown/">Markdown</a> is awesome? It is, and Coggle supports it!
+Did you know that <a>Markdown</a> is awesome? It is, and Coggle supports it!
 """>
 <fact-pdf """
 You can download your Coggle as a PDF! Look for the download button in the top right of the screen.
@@ -310,7 +341,7 @@ You can download your Coggle as a PDF! Look for the download button in the top r
 You can download your Coggle as an Image! Look for the download button in the top right of the screen.
 """>
 <fact-latex2 """
-Did you know Coggle supports LaTeX for math? It does!<p>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a href="http://en.wikibooks.org/wiki/LaTeX/Mathematics">a syntax guide</a>.
+Did you know Coggle supports LaTeX for math? It does!<p>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a>a syntax guide</a>.
 """>
 <fact-history """
 Did you know you can view the history of who changed what, when in your Coggle? You can! Click the history icon in the top right.
@@ -337,7 +368,7 @@ Did you know you can drag a URL from your address bar onto a Coggle to make a li
 Did you know you can change the font? You can!<p>Use #, ##, or ### at the start of a line to make the text bigger.
 """>
 <fact-md-reference """
-Did you know you can use Markdown in Coggles to add links, images and more? You can!<p>Here\'s the <a href="http://bloggle.coggle.it/coggle-markdown-reference/">complete reference</a>.
+Did you know you can use Markdown in Coggles to add links, images and more? You can!<p>Here\'s the <a>complete reference</a>.
 """>
 <fact-multiline-keys """
 Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field downwards, and then use [return] normally.
@@ -361,7 +392,7 @@ Did you know you can edit your Coggle using only the keyboard? You can, here\'s 
 Did you know you can select which branch to edit using keyboard shortcuts? You can!<p>Use [alt]+[shift]+arrow keys to move along branches.
 """>
 <fact-task-lists """
-Did you know you can <a href="https://help.github.com/articles/github-flavored-markdown">Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
+Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
 """>
 <fact-supporter-1 """
 Did you know you can become a Coggle Supporter? You can! For £5/year you get early access to great new features.", more:"http://bloggle.coggle.it/cross-links-supporters/
