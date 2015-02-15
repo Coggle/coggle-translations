@@ -85,6 +85,9 @@
 
 
 /* diagram sidebar content */
+<sidebar-getstarted """
+Getting Started <a>hide</a><a>show</a>
+""">
 <guidestep-add "Add a new item">
 <guidestep-edit "Edit an item">
 <guidestep-move "Move an item ">
@@ -92,6 +95,7 @@
 <guidestep-undo "Undo a change">
 <guidestep-redo "Redo a change">
 
+<sidebar-controls "Controls">
 <sidebar-addbranch """
   <div>Add Branch:</div>
   <div><span> click </span><div></div></div>
@@ -124,11 +128,12 @@
   <div> Zoom: </div>
   <div><div> ctrl </div><span> + mousewheel </span></div>
 """>
+<sidebar-shortcuts "Shortcuts">
 <sidebar-undo """
   <div> Undo: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-redo"> """
+<sidebar-redo """
   <div> Redo: </div>
   <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
