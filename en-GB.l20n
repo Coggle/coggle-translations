@@ -82,3 +82,203 @@
   Organisations are a great way to keep your work organised and secure in a large
   team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
 """>
+
+
+/* diagram sidebar content */
+<guidestep-add "Add a new item">
+<guidestep-edit "Edit an item">
+<guidestep-move "Move an item ">
+<guidestep-remove "Remove an item">
+<guidestep-undo "Undo a change">
+<guidestep-redo "Redo a change">
+
+<sidebar-addbranch """
+  <div>Add Branch:</div>
+  <div><span> click </span><div></div></div>
+""">
+<sidebar-removebranch """
+  <div>Remove Branch:</div>
+  <div><div> alt </div> <span> + click </span> <div></div></div>
+""">
+<sidebar-insertbranch """
+  <div>Insert Branch:</div>
+  <div><div> shift </div> <span> + click </span> <div></div></div>
+""">
+<sidebar-movebranch """
+  <div> Move Branch: </div>
+  <div><div> drag anything! </div></div>
+""">
+<sidebar-transplantbranch """
+  <div> Transplant Branch: </div>
+  <div><div> shift </div> <span> + drag </span> <div></div></div>
+""">
+<sidebar-recolourbranch """
+  <div> Change Colours: </div>
+  <div><span> click a branch </span></div>
+""">
+<sidebar-addimages """
+  <div> Add <a>Images</a>: </div>
+  <div><div> drag and drop </div></div>
+""">
+<sidebar-zoom """
+  <div> Zoom: </div>
+  <div><div> ctrl </div><span> + mousewheel </span></div>
+""">
+<sidebar-undo """
+  <div> Undo: </div>
+  <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
+""">
+<sidebar-redo"> """
+  <div> Redo: </div>
+  <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
+""">
+<sidebar-whentyping "When typing">
+<sidebar-sc-newitem """
+  <div> New Item: </div>
+  <div><div> shift </div><span> + </span><div> return </div></div>
+""">
+<sidebar-sc-newchild """
+  <div> New Child Item: </div>
+  <div><div> tab </div></div>
+""">
+<sidebar-sc-parent """
+  <div> Jump to Parent: </div>
+  <div><div> shift </div><span> + </span><div> tab </div></div>
+""">
+<cogglefacts """
+  Coggle Fact <a>another!</a>
+""">
+<cogglefacts-more """
+  Read more...
+""">
+
+
+/* diagram tooltips */
+
+/* sharing dialog content */
+
+/* download dialog content */
+
+
+
+/* Coggle Facts */
+<fact-math """
+Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
+""">
+<fact-collaborate """
+Did you know that you can can collaborate in real-time with others? You can! Look for the share button in the top right.
+""">
+<fact-share """
+Did you know that you can edit a Coggle at the same time as someone else? You can! Look for the share button in the top right.
+""">
+<fact-chat """
+Did you know that you can chat with everyone else editing the Coggle at the same time? You can! Look for the chat icon in the top right.
+""">
+<fact-font """
+Did you know you can use a fixed-width code font in Coggles? You can!<p>Just use `backticks` around the text, it also stops other special syntax from being interpreted.
+""">
+<fact-bold """
+Did you know you can use **bold text** in Coggles?<p>Just use **double asterisks** where you want the emphasis!
+""">
+<fact-italic """
+Did you know you can use *italic text* in Coggles?<p>Just use *asterisks* where you want the emphasis!
+""">
+<fact-links """
+Did you know you can put links in Coggles? You can!<p>They work like this:<br>[description](http://example.com)
+""">
+<fact-download """
+Did you know that you can download your Coggle as a PDF or an image. You can! Look for the download button in the top right of the screen
+""">
+<fact-markdown """
+Did you know that Coggle uses <a href="http://daringfireball.net/projects/markdown/">markdown syntax</a>? It does!<p>Try out links like this: &lt;http://example.com&gt;
+""">
+<fact-latex """
+Did you know Coggle supports LaTeX formulae? It does!<p>Use \\\\( LaTeX here \\\\) to try it out! Check out <a href="http://en.wikibooks.org/wiki/LaTeX/Mathematics">this link</a> for syntax help.
+""">
+<fact-move """
+Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
+""">
+<fact-fontsize """
+Text too big? Too small? You can zoom!<br> use [ctrl] [+] / [ctrl] [-]
+""">
+<fact-zoomin """
+Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+] in most browsers!
+""">
+<fact-zoomout """
+Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-] in most browsers!
+""">
+<fact-markdown2 """
+Did you know that <a href="http://daringfireball.net/projects/markdown/">Markdown</a> is awesome? It is, and Coggle supports it!
+""">
+<fact-pdf """
+You can download your Coggle as a PDF! Look for the download button in the top right of the screen.
+""">
+<fact-png """
+You can download your Coggle as an Image! Look for the download button in the top right of the screen.
+""">
+<fact-latex2 """
+Did you know Coggle supports LaTeX for math? It does!<p>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a href="http://en.wikibooks.org/wiki/LaTeX/Mathematics">a syntax guide</a>.
+""">
+<fact-history """
+Did you know you can view the history of who changed what, when in your Coggle? You can! Click the history icon in the top right.
+""">
+<fact-images """
+Did you know you can put images in your Coggle? You can!<p>Just drag and drop an image from your computer to wherever you want it.
+""">
+<fact-images2 """
+Did you know you can use images in Coggles? You can!<p>Just drag and drop an image from your computer to wherever you want it. A mini version of the image is uploaded and saved!
+""">
+<fact-multipleimages """
+Did you know you can add multiple images at the same time? You can!<p>Select multiple files on your computer, then drag them onto your Coggle.
+""">
+<fact-plaintext-in """
+Did you know you can drag & drop plain text files onto Coggle to import them? You can!<p>If your file has indentation, Coggle will even add structure to the imported text.
+""">
+<fact-freemind-in """
+Did you know you can drag & drop Freemind .mm files onto Coggle to import them? You can!
+""">
+<fact-link-drag """
+Did you know you can drag a URL from your address bar onto a Coggle to make a link to that site? You can!
+""">
+<fact-text-size """
+Did you know you can change the font? You can!<p>Use #, ##, or ### at the start of a line to make the text bigger.
+""">
+<fact-md-reference """
+Did you know you can use Markdown in Coggles to add links, images and more? You can!<p>Here\'s the <a href="http://bloggle.coggle.it/coggle-markdown-reference/">complete reference</a>.
+""">
+<fact-multiline-keys """
+Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field downwards, and then use [return] normally.
+""">
+<fact-multiline-drag """
+Did you know you can break text over multiple lines? You can! Drag the corner of the edit field downwards, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
+""">
+<fact-resize-images """
+Did you know you can resize images? you can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
+""">
+<fact-image-size """
+Did you know we support a Markdown extension to specify image size? We do! Specify a 200 by 100 pixel image like this: ![image description](http://url.to.image "optional title" 200x100)
+""">
+<fact-bold-kbshort """
+Did you know you can use keyboard shortcuts to add **bold text** in Coggles? You can! Just press [ctrl]+[b] (or [cmd]+[b] on macs) with the text you want bold selected.
+""">
+<fact-shortcuts-1 """
+Did you know you can edit your Coggle using only the keyboard? You can, here\'s how:<p>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
+""">
+<fact-shortcuts-2 """
+Did you know you can select which branch to edit using keyboard shortcuts? You can!<p>Use [alt]+[shift]+arrow keys to move along branches.
+""">
+<fact-task-lists """
+Did you know you can <a href="https://help.github.com/articles/github-flavored-markdown">Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
+""">
+<fact-supporter-1 """
+Did you know you can become a Coggle Supporter? You can! For £5/year you get early access to great new features.", more:"http://bloggle.coggle.it/cross-links-supporters/
+""">
+<fact-supporter-2 """
+Did you know you can become a Coggle Supporter? You can! For £5/year you can show your support for Coggle, and get some neat perks!.", more:"http://bloggle.coggle.it/cross-links-supporters/
+""">
+<fact-supporter-3 """
+Did you know you can become a Coggle Supporter? You can! For £5/year you get great perks including creating cross-links, and you show your support for Coggle!", more:"http://bloggle.coggle.it/cross-links-supporters/
+""">
+<fact-api-1 """
+Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.", more:"http://bloggle.coggle.it/introducing-the-coggle-api/
+""">
