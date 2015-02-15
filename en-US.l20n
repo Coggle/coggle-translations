@@ -3,19 +3,65 @@
 """>
 
 <login-tagline """
-    It's free and it's easy! Already signed up? <a>log in</a>.
+  It's free and it's easy! Already signed up? <a>log in</a>.
 """>
 
 <index-description """
-    <h1>Unleash your creativity</h1>
-    <p>Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!</p>
-    <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
+  <h1>Unleash your creativity</h1>
+  <p>Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!</p>
+  <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
+""">
+
+<testemonial-jenn """
+  <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
+  <p>Jenn, Coggle User</p>
+""">
+
+<features-collaborate """
+  <img>
+  <h2>Get everyone involved</h2>
+  <p>Often we work best in teams, and teams operate most effectively when they can collaborate freely. Coggle lets you invite your friends and colleagues to work with you, at the same time, on your diagrams.</p>
+""">
+
+<features-images """
+  <img>
+  <h2>Complete the picture</h2>
+  <p>A picture is worth a thousand words. Coggle lets you drag-and-drop images right from your desktop to your diagrams. Simple as that!</p>
+  <p>Best of all, there's no limit to the number of images you can add.</p>
+""">
+
+<features-history """
+  <img>
+  <h2>Go back in time</h2>
+  <p>Have you made changes to a document, only to come back a day later and decide you don't like the edits? With Coggle that's not a problem. Simply enter history mode to find the right version, and make a copy from that point!</p>
+""">
+
+<features-blame """
+  <img>
+  <h2>Track accountability</h2>
+  <p>Ever wondered who made those changes to that shared document? Well with Coggle you can look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.</p>
+""">
+
+<features-colours """
+  <img>
+  <h2>Get the colour right</h2>
+  <p>Are you a visual thinker? Do you learn by layout and colour? Well, make sure you get the right colour for your topics, just click on a branch to bring up the colour wheel and select the colour you want.</p>
+""">
+
+<features-others """
+  Coggle has loads of other great features, so <a>try it now</a>, it's free! Visit the <a>blog</a> to read more.
+""">
+
+<footer-index """
+  <p>More <a>about Coggle</a>.</p>
+  <a><img alt="like us on facebook"></a>
+  <a><img alt="follow us on twitter"></a>
+  <p>Get <a>Coggle stuff</a>!</p><br>
+  <p>Our <a>privacy policy</a>.</p>
+  <p>For the <a>press</a>.</p>
 """>
 
 <orgbanner """
   Organizations are a great way to keep your work organized and secure in a large
-  team.
-  <a href='/organisations' target='_blank' >Read more,</a> 
-  or email
-  <a href='mailto:orgs@coggle.it'>orgs@coggle.it</a>
+  team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
 """>
