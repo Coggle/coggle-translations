@@ -84,6 +84,9 @@
 """>
 
 /* diagram sidebar content */
+<sidebar-getstarted """
+Getting Started <a>hide</a><a>show</a>
+""">
 <guidestep-add "Add a new item">
 <guidestep-edit "Edit an item">
 <guidestep-move "Move an item ">
@@ -91,6 +94,7 @@
 <guidestep-undo "Undo a change">
 <guidestep-redo "Redo a change">
 
+<sidebar-controls "Controls">
 <sidebar-addbranch """
   <div>Add Branch:</div>
   <div><span> click </span><div></div></div>
@@ -123,11 +127,12 @@
   <div> Zoom: </div>
   <div><div> ctrl </div><span> + mousewheel </span></div>
 """>
+<sidebar-shortcuts "Shortcuts">
 <sidebar-undo """
   <div> Undo: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-redo"> """
+<sidebar-redo """
   <div> Redo: </div>
   <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
@@ -153,6 +158,14 @@
 
 
 /* diagram tooltips */
+<context-dragclick "drag to move, click to edit">
+<context-dragclickfollow "drag to move, click to edit, {{ followLinkKey }} + click to follow links">
+
+<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
+<context-insert-branch "insert text: release [shift] to add branch instead">
+<context-squash-branch "squash text: release {{ squashKeys }} to add branch instead">
+<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
+<context-add-branch "click to add branch: hold {{ removeKey }} to remove instead">
 
 /* sharing dialog content */
 
