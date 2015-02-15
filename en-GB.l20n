@@ -1,10 +1,14 @@
+/* login widget content */
+
 <login-signup-button """
   <p>SIGN UP</p><p>USING GOOGLE</p>
 """>
+<login-tagline "It's free and it's easy! Already signed up? <a>log in</a>.">
+<logout "Logout">
 
-<login-tagline """
-  It's free and it's easy! Already signed up? <a>log in</a>.
-""">
+
+
+/* front page content */
 
 <index-description """
   <h1>Unleash your creativity</h1>
@@ -12,7 +16,7 @@
   <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
 """>
 
-<testemonial-jenn """
+<testimonial-jenn """
   <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
   <p>Jenn, Coggle User</p>
 """>
@@ -60,6 +64,19 @@
   <p>Our <a>privacy policy</a>.</p>
   <p>For the <a>press</a>.</p>
 """>
+
+
+
+/* documents list content */
+<createcoggle """
+  <p title="Create a new Coggle.">CREATE</p>
+""">
+<createfolder """
+  <img>
+  <p title="Create a new Folder.">ADD</p>
+""">
+<limitedaccess "You have limited access to  as you're re not a member">
+<linkdrive "Too many Coggles? Organise them in Google Drive">
 
 <orgbanner """
   Organisations are a great way to keep your work organised and secure in a large
