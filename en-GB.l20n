@@ -159,6 +159,15 @@ Getting Started <a>hide</a><a>show</a>
 
 
 /* diagram tooltips */
+<context-dragclick "drag to move, click to edit">
+<context-dragclickfollow "drag to move, click to edit, {{ followLinkKey }} + click to follow links">
+
+<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
+<context-insert-branch "insert text: release [shift] to add branch instead">
+<context-squash-branch "squash text: release {{ squashKeys }} to add branch instead">
+<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
+<context-add-branch "click to add branch: hold {{ removeKey }} to remove instead">
+
 
 /* sharing dialog content */
 
