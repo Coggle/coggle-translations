@@ -83,6 +83,46 @@
   team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
 """>
 
+/* documents list contextual help items */
+<help-hide-for-now "Hide for now">
+<help-ok-got-it "OK, got it!">
+<help-orgswitch-title "Organisation Switcher">
+<help-orgswitch """
+  <p>Click to switch between your Organisations, or create a new one.</p>
+  <p>Organisations let you control sharing of Coggles and work more effectively in larger teams.</p>
+""">
+<help-createfolder "Create folders to share with groups of people, or categorise Coggles.">
+<help-filtercoggles-title "Filter Coggles">
+<help-filtercoggles """
+  Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
+""">
+<help-profile-title "This is you!">
+<help-profile "Click your icon to view your user profile and settings.">
+
+
+/* diagram introductory tutorial */
+<guide-editanytext "you can edit any text">
+<guide-draganything "and drag anything to move it">
+<guide-clicktoadd "now click here to add child item">
+<guide-taptoaddmore "now tap to add more">
+<guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
+<guide-undo "you can use {{ $undoKey }} to undo any anything you do!">
+<guide-redo "and {{ $redoKey }} to re-do things again afterwards">
+<guide-donebasics "neat you've got the hang of the basics!">
+
+
+/* diagram contextual help items */
+<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
+<help-sidebar "Click here to show or hide the help sidebar at any time.">
+<help-share-diagram "Click to invite people to edit or view this Coggle. We'll send them an email with a link to sign in and edit!">
+<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
+<help-toolbar-invite-title "Work With Others">
+<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
+<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-toolbar-invitemulti """
+  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+""">
+
 
 /* diagram sidebar content */
 <sidebar-getstarted """
