@@ -229,7 +229,7 @@ Getting Started <a>hide</a><a>show</a>
   <h2>Coggle Organisations</h2>
   <p>When Coggle is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
   <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>£5 per user per month</b> (about $8).<br><b>Unlimited everything</b>.</p>
+  <p>Pricing is simple, <b>£5 per user per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
 <orgs-signupnow """
@@ -276,6 +276,38 @@ Getting Started <a>hide</a><a>show</a>
 <orgs-feature-supporter """
   In addition, all members of your organisation will get the Coggle <a>Supporter</a> features.
 """>
+
+/* Organisations Sign-Up Page (/organisations/new) */
+<orgcreate-title "Create an Organisation">
+<orgcreate-controlsharing """
+  <img>
+  <h3>Control Sharing</h3>
+  <div>Make sure Coggles created by your organisation stay in your organisation.</div>
+""">
+<orgcreate-branding """
+  <img>
+  <h3>Brand your Exports</h3>
+  <div>Have your logo appear as a watermark when diagrams are exported.</div>
+""">
+<orgcreate-dashboard """
+  <img>
+  <h3>Super-user Dashboard</h3>
+  <div>Administrator accounts get full control of all the diagrams in your organisation.</div>
+""">
+<orgcreate-gotqs "Got questions? Ask us! <a>orgs@coggle.it</a>">
+<orgcreate-choosename "Organisation Name">
+<orgcreate-nameinput """
+  <input placeholder="Choose Your Organisation Name">
+  <span>Pick something short and recognisable!</span>
+""">
+<orgcreate-billing "Billing">
+<orgcreate-pricing "Pricing is simple:<b> £5 per user per month</b>.  Unlimited everything.">
+<orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
+<orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
+<orgcreate-stripeinfo """
+  Stripe are certified to PCI level 1, and store your payment information using AES-256 encryption. You can read more about about their security practices on Stripe's <a>security page</a>.
+""">
+<orgcreate-create "<p>CREATE</p>">
 
 
 /* About Coggle (/about) */

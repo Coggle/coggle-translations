@@ -277,6 +277,39 @@ Getting Started <a>hide</a><a>show</a>
 """>
 
 
+/* Organizations Sign-Up Page (/organizations/new) */
+<orgcreate-title "Create an Organization">
+<orgcreate-controlsharing """
+  <img>
+  <h3>Control Sharing</h3>
+  <div>Make sure Coggles created by your organization stay in your organization.</div>
+""">
+<orgcreate-branding """
+  <img>
+  <h3>Brand your Exports</h3>
+  <div>Have your logo appear as a watermark when diagrams are exported.</div>
+""">
+<orgcreate-dashboard """
+  <img>
+  <h3>Super-user Dashboard</h3>
+  <div>Administrator accounts get full control of all the diagrams in your organization.</div>
+""">
+<orgcreate-gotqs "Got questions? Ask us! <a>orgs@coggle.it</a>">
+<orgcreate-choosename "Organization Name">
+<orgcreate-nameinput """
+  <input placeholder="Choose Your Organization Name">
+  <span>Pick something short and recognizable!</span>
+""">
+<orgcreate-billing "Billing">
+<orgcreate-pricing "Pricing is simple:<b> £5 per user per month</b> (about $8).  Unlimited everything.">
+<orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
+<orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
+<orgcreate-stripeinfo """
+  Stripe are certified to PCI level 1, and store your payment information using AES-256 encryption. You can read more about about their security practices on Stripe's <a>security page</a>.
+""">
+<orgcreate-create "<p>CREATE</p>">
+
+
 /* About Coggle (/about) */
 <about-hello """
   <h1>Hello!</h1>
