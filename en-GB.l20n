@@ -224,6 +224,59 @@ Getting Started <a>hide</a><a>show</a>
 <slider-no "NO">
 
 
+/* Organisations Landing Page (/organisations) */
+<orgs-pitch """
+  <h2>Coggle Organisations</h2>
+  <p>When Coggle is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
+  <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
+  <p>Pricing is simple, <b>£5 per user per month</b> (about $8).<br><b>Unlimited everything</b>.</p>
+""">
+
+<orgs-signupnow """
+  <h2>Signup for an Organisation now: </h2>
+  <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
+""">
+
+<orgs-feature-in-one-place """
+  <img>
+  <h2>Everything in One Place</h2>
+  <p>All your organisations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.</p>
+""">
+
+<orgs-feature-control-sharing """
+  <img>
+  <h2>Control Sharing</h2>
+  <p>You can make sure that Coggles created in your organisation stay in your organisation. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.</p>
+""">
+
+<orgs-feature-manage-users """
+  <img>
+  <h2>Safely Manage Users</h2>
+  <p>Remove users from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by users past and present, deleted or active.</p>
+""">
+
+<orgs-feature-export """
+  <img>
+  <h2>Bulk Export</h2>
+  <p>Organisation admins can download all of the organisations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind. </p>
+""">
+
+<orgs-feature-branding """
+  <img>
+  <h2>Show your Brand</h2>
+  <p>Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.</p>
+""">
+
+<orgs-feature-editable-links """
+  <img>
+  <h2>Editable Private Links</h2>
+  <p>Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.</p>
+""">
+
+<orgs-feature-supporter """
+  In addition, all members of your organisation will get the Coggle <a>Supporter</a> features.
+""">
+
 
 /* About Coggle (/about) */
 <about-hello """
