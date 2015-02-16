@@ -26,7 +26,7 @@ guide](https://help.github.com/articles/using-pull-requests/) to the process.
 To create a new language, in your own fork of the repository:
 
  1. Create a new file, named after the [language
-    code](https://msdn.microsoft.com/en-us/library/ms533052(v=vs.85).aspx) for
+    code](http://www.lingoes.net/en/translator/langcode.htm) for
     the language you want to translate, for example the British-English
     translation is in a file called `en-GB.l20n`.
 
