@@ -5,6 +5,7 @@
   "locales": [
     "en-US",
     "en-GB",
+    "pt-BR",
     "fr"
   ],
   "default_locale": "en-US"
