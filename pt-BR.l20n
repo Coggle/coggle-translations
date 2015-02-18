@@ -1,0 +1,36 @@
+/* login widget content */
+
+<login-signup-button """
+  <p>ASSINE</p><p>USANDO O GOOGLE</p>
+""">
+<login-tagline "É gratuito e fácil! Já é assinante? <a>entrar</a>.">
+<logout "Sair">
+
+
+
+/* front page content */
+
+<index-description """
+  <h1>Liberte a sua criatividade</h1>
+  <p>Produza belas notas, de forma rápida e fácil. Compartilhe-as com amigos e colegas para aprimorar suas ideias de forma colaborativa. Tudo de graça!</p>
+  <p><a><span><b>Comece agora! </b></span></a><a><span>Ou, leia mais.</span></a></p>
+""">
+
+<testimonial-jenn """
+  <p>"Eu só consigo pensar em uma palavra para descrever a minha felicidade com isto ... supercalifragilisticexpialidocious!"</p>
+  <p>Jenn, usuário Coggle</p>
+""">
+
+<features-collaborate """
+  <img>
+  <h2>Envolver todos</h2>
+  <p>Muitas vezes, nós trabalhamos melhor em equipes, e as equipes funcionam de forma mais eficaz quando podem colaborar livremente. Coggle permite que você convide seus amigos e colegas para trabalhar com você, ao mesmo tempo, em seus diagramas.</p>
+""">
+
+<features-images """
+  <img>
+  <h2>Complete a imagem</h2>
+  <p>Uma imagem vale mais que mil palavras. Coggle permite que você arraste e solte imagens a partir do seu ambiente de trabalho para seus diagramas. Simples assim!</p>
+  <p>O melhor de tudo, não há limite para o número de imagens que você pode adicionar.</p>
+""">
+
