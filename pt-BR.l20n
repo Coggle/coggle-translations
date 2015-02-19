@@ -84,7 +84,7 @@
 """>
 
 /* documents list contextual help items */
-<help-hide-for-now "Manter oculto>
+<help-hide-for-now "Manter oculto">
 <help-ok-got-it "OK, entendido!">
 <help-orgswitch-title "Alterar a Organização">
 <help-orgswitch """
@@ -220,7 +220,7 @@ Começando <a>ocultar</a><a>mostrar</a>
 """>
 <me-support-signupnow "Inscreva-me agora!">
 <me-support-weusestripe """
-  Utilizamos <atarget="_blank">stripe</a> para processar os pagamentos com segurança: seus detalhes do cartão nunca vão para nossos servidores.
+  Utilizamos <a>stripe</a> para processar os pagamentos com segurança: seus detalhes do cartão nunca vão para nossos servidores.
 """>
 <me-support-benefits """
   <span>Olá &mdash; este é você!</span>
