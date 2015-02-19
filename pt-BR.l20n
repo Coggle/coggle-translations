@@ -34,3 +34,203 @@
   <p>O melhor de tudo, não há limite para o número de imagens que você pode adicionar.</p>
 """>
 
+<features-history """
+  <img>
+  <h2>Volte no tempo</h2>
+  <p>Você fez alterações em um documento, e um dia depois notou que não gostou das edições? Com o Coggle isso não é um problema. Basta entrar no modo de histórico para encontrar a versão correta, e fazer uma cópia a partir desse ponto!</p>
+""">
+
+<features-blame """
+  <img>
+  <h2>Rastreamento de  responsabilidade</h2>
+  <p>Já se perguntou quem fez as alterações naquele documento compartilhado? Bem com o Coggle você pode olhar através do histórico de seu diagrama para ver quem alterou o quê, e quando! Basta entrar no modo de histórico do diagrama para descobrir.</p>
+""">
+
+<features-colours """
+  <img>
+  <h2>Tenha o direito da cor</h2>
+  <p>Você é um pensador visual? Você aprende pela disposição e pela cor? Bem, tenha certeza de obter a cor certa para seus tópicos, apenas clique em um ramo para mostrar a roda de cores e selecione a cor desejada.</p>
+""">
+
+<features-others """
+  Coggle tem uma infinidade de outros grandes recursos, então <a>experimente-o agora</a>, é gratuito! Visite o <a>blog</a> para ler mais.
+""">
+
+<footer-index """
+  <p>Mais <a>sobre o Coggle</a>.</p>
+  <a><img alt="curta nossa fanpage no facebook"></a>
+  <a><img alt="siga-nos no twitter"></a>
+  <p>Obtenha <a>material sobre o Coggle</a>!</p><br>
+  <p>Nossa <a>política de privacidade</a>.</p>
+  <p>Canal para a <a>imprensa</a>.</p>
+""">
+
+
+
+/* documents list content */
+<createcoggle """
+  <p title="Crie um novo Coggle.">CRIAR</p>
+""">
+<createfolder """
+  <img>
+  <p title="Crie uma nova pasta.">ADICIONAR</p>
+""">
+<limitedaccess "Você tem acesseo limitado a  como você ainda não é um membro">
+<linkdrive "Muitos Coggles? Organize them in Google Drive">
+
+<orgbanner """
+  Organizações são uma ótima maneira de manter seu trabalho organizado e seguro em um grande  
+  time. <a>Leia mais,</a> ou  nos envie um e-mail <a>orgs@coggle.it</a>
+""">
+
+/* documents list contextual help items */
+<help-hide-for-now "Manter oculto>
+<help-ok-got-it "OK, entendido!">
+<help-orgswitch-title "Alterar a Organização">
+<help-orgswitch """
+  <p>Clique para alterar entre suas Organizações, ou crie uma nova.</p>
+  <p>Organizações permitem você controlar melhor o compartilhamento de Coggles e trabalho mais efetivo em grandes times.</p>
+""">
+<help-createfolder "Crie pastas para compartilhar com grupos de pessoas, ou categorize os Coggles.">
+<help-filtercoggles-title "Filtre os Coggles">
+<help-filtercoggles """
+  Filtre seus Coggles e abra-os rapidamente – pressione <b>[enter]</b> para abrir o Coggle no topo da lista filtrada.
+""">
+<help-profile-title "Este é você!">
+<help-profile "Clique no seu ícone para ver seu perfil e configurações.">
+
+
+/* diagram introductory tutorial */
+<guide-editanytext "you can edit any text">
+<guide-draganything "and drag anything to move it">
+<guide-clicktoadd "now click here to add child item">
+<guide-taptoaddmore "now tap to add more">
+<guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
+<guide-undo "you can use {{ $undoKey }} to undo any anything you do!">
+<guide-redo "and {{ $redoKey }} to re-do things again afterwards">
+<guide-donebasics "neat you've got the hang of the basics!">
+
+
+/* diagram contextual help items */
+<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
+<help-sidebar "Click here to show or hide the help sidebar at any time.">
+<help-share-diagram "Click to invite people to edit or view this Coggle. We'll send them an email with a link to sign in and edit!">
+<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
+<help-toolbar-invite-title "Work With Others">
+<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
+<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-toolbar-invitemulti """
+  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+""">
+
+
+/* diagram sidebar content */
+<sidebar-getstarted """
+Começando <a>ocultar</a><a>mostrar</a>
+""">
+<guidestep-add "Adicione um novo item">
+<guidestep-edit "Altere um item">
+<guidestep-move "Mover um item ">
+<guidestep-remove "Remover um item">
+<guidestep-undo "Desfazer uma alteração">
+<guidestep-redo "Refazer uma alteração">
+
+<sidebar-controls "Controles">
+<sidebar-addbranch """
+  <div>Adicionar um Ramos:</div>
+  <div><span> clique </span><div></div></div>
+""">
+<sidebar-removebranch """
+  <div>Remover um Ramo:</div>
+  <div><div> alt </div> <span> + clique </span> <div></div></div>
+""">
+<sidebar-insertbranch """
+  <div>Inserir um Ramo:</div>
+  <div><div> shift </div> <span> + clique </span> <div></div></div>
+""">
+<sidebar-movebranch """
+  <div> Mover um Ramo: </div>
+  <div><div> arrastar qualquer coisa! </div></div>
+""">
+<sidebar-transplantbranch """
+  <div> Transplantar um Ramo: </div>
+  <div><div> shift </div> <span> + arraste </span> <div></div></div>
+""">
+<sidebar-recolourbranch """
+  <div> Mudar as Cores: </div>
+  <div><span> clique em um Ramo </span></div>
+""">
+<sidebar-addimages """
+  <div> Adicione <a>Imagens</a>: </div>
+  <div><div> arraste e solte </div></div>
+""">
+<sidebar-zoom """
+  <div> Zoom: </div>
+  <div><div> ctrl </div><span> + roda do mouse </span></div>
+""">
+<sidebar-shortcuts "Teclas de Atalho">
+<sidebar-undo """
+  <div> Desfazer: </div>
+  <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
+""">
+<sidebar-redo """
+  <div> Refazer: </div>
+  <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
+""">
+<sidebar-whentyping "Quando digitando">
+<sidebar-sc-newitem """
+  <div> Novo Item: </div>
+  <div><div> shift </div><span> + </span><div> enter </div></div>
+""">
+<sidebar-sc-newchild """
+  <div> Novo item filho: </div>
+  <div><div> tab </div></div>
+""">
+<sidebar-sc-parent """
+  <div> Pular para um Pai: </div>
+  <div><div> shift </div><span> + </span><div> tab </div></div>
+""">
+<cogglefacts """
+  Coggle Fato <a>relevante!</a>
+""">
+<cogglefacts-more """
+  Leia mais...
+""">
+
+<sidebar-contact """
+  <h3>Entre em contato!</h3>
+  <p>Precisa de ajuda? Encontrou um defeito? Quer entrar em contato? Então nos envie um e-mail para <a>hello@coggle.it</a></p>
+  <p>Mantenha-se atualizado com anúncios coggle e tutoriais no <a>Bloggle</a>, o Blog do Coggle.</p>
+  <p>Mais <a>sobre Coggle</a>. Nossa <a>política de privacidade</a>.</p>
+  <p>Para a <a>imprensa</a>. Para <a>desenvolvedores</a>.</p>
+""">
+
+/* Self-dialog & Supporter Signup */
+<me-manage-account "Gerenciar a conta">
+<me-unsupport-progress "Qe pena você está nos deixando. Desassociando você agora!">
+<me-as-orgmember "Você está vendo o Coggle como um <b>membro de organização</b>.">
+<me-as-orgmember-youget "Isto significa que você tem grandes recursos como:">
+<me-unsupport """
+  <a>Pare</a> de apoiar o Coggle <span> &mdash; você tem certeza? <a>Estou certo disso</a></span>
+""">
+<me-signedup "Ótimo! Você agora é um apoiador do Coggle.">
+<me-support-cancelled """
+  <span>Olá &mdash; este é você!</span>
+  Sua assinatura de apoio foi cancelada. <a>Increva-se novamente</a>.
+""">
+<me-support-signupnow "Inscreva-me agora!">
+<me-support-weusestripe """
+  Utilizamos <atarget="_blank">stripe</a> para processar os pagamentos com segurança: seus detalhes do cartão nunca vão para nossos servidores.
+""">
+<me-support-benefits """
+  <span>Olá &mdash; este é você!</span>
+  Torne-se um apoiador do Coggle por <b>£5 / ano</b> e obtenha acesso antecipado a novos recursos incluindo:
+""">
+
+<support-feature-bigimages """
+  <img>
+  <span>
+    <span>Envie grandes imagens para seu Coggle. </span>
+    <span>Apenas arraste e solte imagens de sua área de trabalho para adicioná-las, como apoiador você pode adicionar imagens bem maiores!</span>
+  </span>
+""">
