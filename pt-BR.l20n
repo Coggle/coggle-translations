@@ -36,68 +36,68 @@
 
 <features-history """
   <img>
-  <h2>Go back in time</h2>
-  <p>Have you made changes to a document, only to come back a day later and decide you don't like the edits? With Coggle that's not a problem. Simply enter history mode to find the right version, and make a copy from that point!</p>
+  <h2>Volte no tempo</h2>
+  <p>Você fez alterações em um documento, e um dia depois notou que não gostou das edições? Com o Coggle isso não é um problema. Basta entrar no modo de histórico para encontrar a versão correta, e fazer uma cópia a partir desse ponto!</p>
 """>
 
 <features-blame """
   <img>
-  <h2>Track accountability</h2>
-  <p>Ever wondered who made those changes to that shared document? Well with Coggle you can look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.</p>
+  <h2>Rastreamento de  responsabilidade</h2>
+  <p>Já se perguntou quem fez as alterações naquele documento compartilhado? Bem com o Coggle você pode olhar através do histórico de seu diagrama para ver quem alterou o quê, e quando! Basta entrar no modo de histórico do diagrama para descobrir.</p>
 """>
 
 <features-colours """
   <img>
-  <h2>Get the color right</h2>
-  <p>Are you a visual thinker? Do you learn by layout and color? Well, make sure you get the right color for your topics, just click on a branch to bring up the color wheel and select the color you want.</p>
+  <h2>Tenha o direito da cor</h2>
+  <p>Você é um pensador visual? Você aprende pela disposição e pela cor? Bem, tenha certeza de obter a cor certa para seus tópicos, apenas clique em um ramo para mostrar a roda de cores e selecione a cor desejada.</p>
 """>
 
 <features-others """
-  Coggle has loads of other great features, so <a>try it now</a>, it's free! Visit the <a>blog</a> to read more.
+  Coggle tem uma infinidade de outros grandes recursos, então <a>experimente-o agora</a>, é gratuito! Visite o <a>blog</a> para ler mais.
 """>
 
 <footer-index """
-  <p>More <a>about Coggle</a>.</p>
-  <a><img alt="like us on facebook"></a>
-  <a><img alt="follow us on twitter"></a>
-  <p>Get <a>Coggle stuff</a>!</p><br>
-  <p>Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>.</p>
+  <p>Mais <a>sobre o Coggle</a>.</p>
+  <a><img alt="curta nossa fanpage no facebook"></a>
+  <a><img alt="siga-nos no twitter"></a>
+  <p>Obtenha <a>material sobre o Coggle</a>!</p><br>
+  <p>Nossa <a>política de privacidade</a>.</p>
+  <p>Canal para a <a>imprensa</a>.</p>
 """>
 
 
 
 /* documents list content */
 <createcoggle """
-  <p title="Create a new Coggle.">CREATE</p>
+  <p title="Crie um novo Coggle.">CRIAR</p>
 """>
 <createfolder """
   <img>
-  <p title="Create a new Folder.">ADD</p>
+  <p title="Crie uma nova pasta.">ADICIONAR</p>
 """>
-<limitedaccess "You have limited access to  as you're re not a member">
-<linkdrive "Too many Coggles? Organize them in Google Drive">
+<limitedaccess "Você tem acesseo limitado a  como você ainda não é um membro">
+<linkdrive "Muitos Coggles? Organize them in Google Drive">
 
 <orgbanner """
-  Organizations are a great way to keep your work organized and secure in a large
-  team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
+  Organizações são uma ótima maneira de manter seu trabalho organizado e seguro em um grande  
+  time. <a>Leia mais,</a> ou  nos envie um e-mail <a>orgs@coggle.it</a>
 """>
 
 /* documents list contextual help items */
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
-<help-orgswitch-title "Organization Switcher">
+<help-hide-for-now "Manter oculto>
+<help-ok-got-it "OK, entendido!">
+<help-orgswitch-title "Alterar a Organização">
 <help-orgswitch """
-  <p>Click to switch between your Organizations, or create a new one.</p>
-  <p>Organizations let you control sharing of Coggles and work more effectively in larger teams.</p>
+  <p>Clique para alterar entre suas Organizações, ou crie uma nova.</p>
+  <p>Organizações permitem você controlar melhor o compartilhamento de Coggles e trabalho mais efetivo em grandes times.</p>
 """>
-<help-createfolder "Create folders to share with groups of people, or categorize Coggles.">
-<help-filtercoggles-title "Filter Coggles">
+<help-createfolder "Crie pastas para compartilhar com grupos de pessoas, ou categorize os Coggles.">
+<help-filtercoggles-title "Filtre os Coggles">
 <help-filtercoggles """
-  Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
+  Filtre seus Coggles e abra-os rapidamente – pressione <b>[enter]</b> para abrir o Coggle no topo da lista filtrada.
 """>
-<help-profile-title "This is you!">
-<help-profile "Click your icon to view your user profile and settings.">
+<help-profile-title "Este é você!">
+<help-profile "Clique no seu ícone para ver seu perfil e configurações.">
 
 
 /* diagram introductory tutorial */
