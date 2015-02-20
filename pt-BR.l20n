@@ -76,7 +76,11 @@
   <p title="Crie uma nova pasta.">ADICIONAR</p>
 """>
 <limitedaccess "Você tem acesseo limitado a  como você ainda não é um membro">
-<link-drive "Muitos Coggles? Organize them in Google Drive">
+<link-drive """
+  <a><img>
+    <span>Muitos Coggles? Organize them in Google Drive</span>
+  </a>
+""">
 
 <orgbanner """
   Organizações são uma ótima maneira de manter seu trabalho organizado e seguro em um grande  
