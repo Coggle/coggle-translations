@@ -76,7 +76,11 @@
   <p title="Create a new Folder.">ADD</p>
 """>
 <limitedaccess "You have limited access to  as you're re not a member">
-<linkdrive "Too many Coggles? Organise them in Google Drive">
+<link-drive """
+  <a><img>
+    <span>Too many Coggles? Organise them in Google Drive</span>
+  </a>
+""">
 
 <orgbanner """
   Organisations are a great way to keep your work organised and secure in a large
