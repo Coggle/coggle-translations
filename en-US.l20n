@@ -76,11 +76,18 @@
   <p title="Create a new Folder.">ADD</p>
 """>
 <limitedaccess "You have limited access to  as you're re not a member">
-<linkdrive "Too many Coggles? Organize them in Google Drive">
+<link-drive """
+  <a><img>
+    <span>Too many Coggles? Organize them in Google Drive</span>
+  </a>
+""">
 
 <orgbanner """
   Organizations are a great way to keep your work organized and secure in a large
   team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
+""">
+<orgbanner-editlinks """
+  Create <a>shareable links</a> that can be edited without logging in — and lots more — by signing up for an <a>Organization plan</a>.
 """>
 
 /* documents list contextual help items */
@@ -220,7 +227,7 @@ Getting Started <a>hide</a><a>show</a>
 """>
 <me-support-signupnow "Sign me up now!">
 <me-support-weusestripe """
-  We use <atarget="_blank">stripe</a> to process payments securely: your card details never go through our servers.
+  We use <a>stripe</a> to process payments securely: your card details never go through our servers.
 """>
 <me-support-benefits """
   <span>Hello &mdash; this is you!</span>
