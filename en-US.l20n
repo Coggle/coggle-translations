@@ -274,7 +274,7 @@ Getting Started <a>hide</a><a>show</a>
 
 <orgs-signupnow """
   <h2>Signup for an Organization now: </h2>
-  <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
+  <a><div><p>CREATE</p><p>ORGANIZATION</p></div></a>
 """>
 
 <orgs-feature-in-one-place """
