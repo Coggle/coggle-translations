@@ -424,6 +424,14 @@ Getting Started <a>hide</a><a>show</a>
 <download-failed "File generation failed.">
 
 
+/* Image drag-drop messages */
+<imgupload-was-resized """
+  <p>Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!</p>
+  <a>Coggle Supporters</a> can upload much larger images, and get early access to great new features, too: <a>read more</a>
+""">
+<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
+
+
 /* Coggle Facts */
 <fact-math """
 Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
