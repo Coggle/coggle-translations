@@ -409,7 +409,12 @@ Getting Started <a>hide</a><a>show</a>
 <share-tag-embed "embed">
 <share-tag-writable "editable">
 <share-embed "Embed this Coggle in a Website">
-
+<share-send-email "SEND">
+<share-email-hints """
+  <div>to invite, type an email</div>
+  <div>then hit enter</div>
+  <div>friend@example.com</div>
+""">
 
 /* download dialog content */
 <download-pdf "Download PDF">
