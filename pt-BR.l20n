@@ -96,7 +96,7 @@
 <help-orgswitch-title "Alterar a Organização">
 <help-orgswitch """
   <p>Clique para alterar entre suas Organizações, ou crie uma nova.</p>
-  <p>Organizações permitem você controlar melhor o compartilhamento de Coggles e trabalho mais efetivo em grandes times.</p>
+  <p>Organizações permitem você controlar melhor o compartilhamento de Coggles e trabalhar de forma mais efetiva em grandes times.</p>
 """>
 <help-createfolder "Crie pastas para compartilhar com grupos de pessoas, ou categorize os Coggles.">
 <help-filtercoggles-title "Filtre os Coggles">
@@ -135,8 +135,8 @@
 <sidebar-getstarted """
 Começando <a>ocultar</a><a>mostrar</a>
 """>
-<guidestep-add "Adicione um novo item">
-<guidestep-edit "Altere um item">
+<guidestep-add "Adicionar um novo item">
+<guidestep-edit "Alterar um item">
 <guidestep-move "Mover um item ">
 <guidestep-remove "Remover um item">
 <guidestep-undo "Desfazer uma alteração">
@@ -161,15 +161,15 @@ Começando <a>ocultar</a><a>mostrar</a>
 """>
 <sidebar-transplantbranch """
   <div> Transplantar um Ramo: </div>
-  <div><div> shift </div> <span> + arraste </span> <div></div></div>
+  <div><div> shift </div> <span> + arrastar </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
   <div> Mudar as Cores: </div>
   <div><span> clique em um Ramo </span></div>
 """>
 <sidebar-addimages """
-  <div> Adicione <a>Imagens</a>: </div>
-  <div><div> arraste e solte </div></div>
+  <div> Adicionar <a>Imagens</a>: </div>
+  <div><div> arrastar e soltar </div></div>
 """>
 <sidebar-zoom """
   <div> Zoom: </div>
@@ -198,7 +198,7 @@ Começando <a>ocultar</a><a>mostrar</a>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
 <cogglefacts """
-  Curiosidades Coggle <a>outra!</a>
+  Fatos Coggle <a>outro!</a>
 """>
 <cogglefacts-more """
   Leia mais...
@@ -220,10 +220,10 @@ Começando <a>ocultar</a><a>mostrar</a>
 <me-unsupport """
   <a>Pare</a> de apoiar o Coggle <span> &mdash; você tem certeza? <a>Estou certo disso</a></span>
 """>
-<me-signedup "Ótimo! Você agora é um apoiador do Coggle.">
+<me-signedup "Ótimo! Você agora é um mantenedor do Coggle.">
 <me-support-cancelled """
   <span>Olá &mdash; este é você!</span>
-  Sua assinatura de apoio foi cancelada. <a>Increva-se novamente</a>.
+  Sua assinatura de mantenedor foi cancelada. <a>Increva-se novamente</a>.
 """>
 <me-support-signupnow "Inscreva-me agora!">
 <me-support-weusestripe """
@@ -231,14 +231,14 @@ Começando <a>ocultar</a><a>mostrar</a>
 """>
 <me-support-benefits """
   <span>Olá &mdash; este é você!</span>
-  Torne-se um apoiador do Coggle por <b>£5 / ano</b> e obtenha acesso antecipado a novos recursos incluindo:
+  Torne-se um mantenedor do Coggle por <b>£5 / ano</b> e obtenha acesso antecipado a novos recursos incluindo:
 """>
 
 <support-feature-bigimages """
   <img>
   <span>
     <span>Envie grandes imagens para seu Coggle. </span>
-    <span>Apenas arraste e solte imagens de sua área de trabalho para adicioná-las, como apoiador você pode adicionar imagens bem maiores!</span>
+    <span>Apenas arraste e solte imagens de sua área de trabalho para adicioná-las, como mantenedor você pode adicionar imagens bem maiores!</span>
   </span>
 """>
 
@@ -246,7 +246,7 @@ Começando <a>ocultar</a><a>mostrar</a>
   <img>
   <span>
     <span>Crie facilmente ligações cruzadas entre itens. </span>
-    <span>Use o item de menu drag-and-drop para mostrar facilmente dependências entre os itens em seu Coggle!</span>
+    <span>Use o item de menu arrastar-e-soltar para mostrar facilmente dependências entre os itens em seu Coggle!</span>
   </span>
 """>
 
