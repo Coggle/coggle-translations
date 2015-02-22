@@ -353,7 +353,7 @@ Getting Started <a>hide</a><a>show</a>
 <orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
 <orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
 <orgcreate-stripeinfo """
-  Stripe are certified to PCI level 1, and store your payment information using AES-256 encryption. You can read more about about their security practices on Stripe's <a>security page</a>.
+  Stripe is certified to PCI level 1, and store your payment information using AES-256 encryption. You can read more about their security practices on Stripe's <a>security page</a>.
 """>
 <orgcreate-create "<p>CREATE</p>">
 
