@@ -108,6 +108,8 @@
 
 
 /* diagram introductory tutorial */
+<guide-click-here "click here">
+<guide-or-here "or here">
 <guide-editanytext "you can edit any text">
 <guide-draganything "and drag anything to move it">
 <guide-clicktoadd "now click here to add child item">
