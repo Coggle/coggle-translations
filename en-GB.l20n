@@ -108,6 +108,8 @@
 
 
 /* diagram introductory tutorial */
+<guide-click-here "click here">
+<guide-or-here "or here">
 <guide-editanytext "you can edit any text">
 <guide-draganything "and drag anything to move it">
 <guide-clicktoadd "now click here to add child item">
@@ -408,7 +410,12 @@ Getting Started <a>hide</a><a>show</a>
 <share-tag-embed "embed">
 <share-tag-writable "editable">
 <share-embed "Embed this Coggle in a Website">
-
+<share-send-email "SEND">
+<share-email-hints """
+  <div>to invite, type an email</div>
+  <div>then hit enter</div>
+  <div>friend@example.com</div>
+""">
 
 /* download dialog content */
 <download-pdf "Download PDF">
@@ -417,6 +424,14 @@ Getting Started <a>hide</a><a>show</a>
 <download-txt "Plain-Text Outline">
 <download-advanced "Advanced Types">
 <download-failed "File generation failed.">
+
+
+/* Image drag-drop messages */
+<imgupload-was-resized """
+  <p>Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!</p>
+  <a>Coggle Supporters</a> can upload much larger images, and get early access to great new features, too: <a>read more</a>
+""">
+<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
 
 
 /* Coggle Facts */
