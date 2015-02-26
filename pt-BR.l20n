@@ -108,6 +108,8 @@
 
 
 /* diagram introductory tutorial */
+<guide-click-here "clique aqui">
+<guide-or-here "or here">
 <guide-editanytext "você pode editar qualquer texto">
 <guide-draganything "e arrastar qualquer coisa para move-la">
 <guide-clicktoadd "agora clique aqui para adicionar um item filho">
@@ -398,3 +400,101 @@ Começando <a>ocultar</a><a>mostrar</a>
 <context-squash-branch "squash text: pressione {{ $squashKeys }} para adicionar ramo ao invés">
 <context-remove-branch-ctrl "removeer este ramo: use [ctrl]+[shift] para remover apenas este item">
 <context-add-branch "clique para adicionar ramo: segure {{ $removeKey }} para remover ao invés">
+
+/* sharing dialog content */
+<share-newlink "Novo Link:">
+<share-newlink-tip """
+  Estes permitem que você compartilhe seu diagrama com pessoas que não estão logadas, mas tenha cuidado, eles permitem que <strong>qualquer um</strong> com o link veja seu trabalho!
+""">
+<share-tag-user "usuário">
+<share-tag-embed "incorporado">
+<share-tag-writable "editável">
+<share-embed "Incorporar esta coggle em um site">
+<share-send-email "ENVIAR">
+<share-email-hints """
+  <div>para convidar, digite um e-mail</div>
+  <div>então pressione enter</div>
+  <div>amigo@exemplo.com.br</div>
+""">
+
+/* download dialog content */
+<download-pdf "Baixar PDF">
+<download-png "Baixar Imagem">
+<download-mm "Arquivo .mm">
+<download-txt "Transcrição em Texto">
+<download-advanced "Tipos Avançados">
+<download-failed "A geração do arquivo falhou.">
+
+
+/* Image drag-drop messages */
+<imgupload-was-resized """
+  <p>Sua imagem foi redimensionada para caber em {{ $maxWidth }} &times; {{ $maxHeight }}, assim é que podemos guardar sua imagem gratuitamente, para sempre!</p>
+  <a>Mantenedores do Coggle</a> podem enviar imagens em maiores, e ter acesso prévio aos novos recursos, também: <a>leia mais</a>
+""">
+<imgupload-slow-down "Opa, vai devagar! Tente carregar um arquivo de cada vez.">
+
+
+/* Coggle Facts */
+<fact-math """
+Você sabia que pode-se escrever matemática nos Coggles? (Sério, genial!) Use \\\\( LaTeX aqui \\\\) para tentar!
+""">
+<fact-collaborate """
+Você sabia que pode-se colaborar em tempo real com outros? Você pode! Olhe para o botão compartilhar no topo à direita.
+""">
+<fact-share """
+Você sabia que pode-se editar um Coggle ao mesmo tempo que outro qualquer? Você pode! Procure o botão compartilhar no topo à direita.
+""">
+<fact-chat """
+Você sabia que pode-se bater papo com todos editando o Coggle ao mesmo tempo? Você pode! Procure o ícone de bate-papo no topo à direita.
+""">
+<fact-font """
+Você sabia que pode-se usar fonte de largura fixa nos Coggles? Você pode!<p>Apenas use `crases` ao redor do texto, isso também interrompe outra sintaxe especial de ser interpretada.
+""">
+<fact-bold """
+Você sabia que pode-se usar texto em **negrito** nos Coggles?<p>Basta adicionar **dois asteriscos** onde quer dar ênfase!
+""">
+<fact-italic """
+Você sabia que pode-se usar texto em *itálico* nos Coggles?<p>Basta usar *asterisco* onde quer dar ênfase!
+""">
+<fact-links """
+Você sabia que pode-se colocar links nos Coggles? Você pode!<p>Eles vão funcionar assim:<br>[descrição](http://exemplo.com.br)
+""">
+<fact-download """
+Você sabia que pode-se baixar seu Coggle como um PDF ou como uma imagem. Você pode! Procure o botão de download no canto superior direito da tela
+""">
+<fact-markdown """
+Você sabia que Coggle usa a <a>sintaxe  markdown</a> Usa!<p>Experimente links como este: &lt;http://exemplo.com.br&gt;
+""">
+<fact-latex """
+Você sabia que Coggle suporta fórmulas LaTeX? Isso mesmo!<p>Use \\\\( LaTeX aqui \\\\) para experimentar! Confira <a>este link</a> para ajuda na sintaxe.
+""">
+<fact-move """
+Quer este ítem em uma parte diferente do Coggle? Sem problema! Segure o shift enquanto arrasta o botão (+) de um item para recolocálo em outro lugar.
+""">
+<fact-fontsize """
+Texto muito grande? Você poder dar zoom!<br> use [ctrl] [+] / [ctrl] [-]
+""">
+<fact-zoomin """
+Você sabia que pode aumentar o zoom para uma visão aproximada?<br> use [ctrl] [+] na maioria dos navgeadores!
+""">
+<fact-zoomout """
+Você sabia que pode diminuir o zoom para visão geral? Você pode!<br> use [ctrl] [-] na maioria dos navgeadores!
+""">
+<fact-markdown2 """
+Você sabia que <a>Markdown</a> é impressionante? Isso mesmo, e o Coggle dá suporte!
+""">
+<fact-pdf """
+Você pode baixar seu Coggle como um PDF! Procure pelo botão baixar no topo à direita da tela.
+""">
+<fact-png """
+Você pode baixar seu Coggle como uma imagem! Procure pelo botão baixar no topo à direita da tela.
+""">
+<fact-latex2 """
+Você sabia que Coggle suporta LaTeX para matemática? Isso mesmo!<p>Use \\\\( LaTeX aqui \\\\) para experimentar! Aqui há <a>um guia de sintaxe</a>.
+""">
+<fact-history """
+Você sabia que pode-se ver um histórico de quem mudou o quê, quando no seu Coggle? Você pode! Clique no ícone de histórico no topo à direita.
+""">
+<fact-images """
+Você sabia que pode-se por imagens no seu Coggle? Você pode!<p>Apenas arraste e solte uma imagem do seu computador pora onde você a quer.
+""">
