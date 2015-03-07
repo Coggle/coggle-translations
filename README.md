@@ -4,8 +4,8 @@ Help translate [Coggle](https://coggle.it) into your native language!
 This repository holds translations of Coggle's interface into different
 languages, what's in the
 [production](https://github.com/coggle/translations/tree/production) branch
-should match what's live on the site – so if you see a mistake, submit a pull
-request to fix it!
+should match what's live on the site – so if you see a mistake, submit a [pull
+request](https://help.github.com/articles/using-pull-requests/) to fix it!
 
 We use [l20n](http://l20n.org) for our translations, so for a guide to the
 syntax of our l20n files you can read the [l20n
@@ -36,10 +36,18 @@ To create a new language, in your own fork of the repository:
  
  4. Then submit a pull request for us to add the language. You can do this as
     soon as your file has any translations (it doesn't have to be complete!).
-    Before your pull-request can be accepted you'll have to agree to our
+    Before your pull-request can be accepted you need to agree to our
     [contributor
     agreement](https://www.clahub.com/agreements/Coggle/translations), which
-    gives us the right to use your content on our site.
+    gives us the necessary permissions to use your translations on the live
+    site.
+ 
+ 5. As you make and commit new changes, they will appear on the existing pull
+    request (until that is merged), after that you should open a new [pull
+    requests](https://help.github.com/articles/using-pull-requests/) to update
+    the main Coggle/translations repository with your changes. You may have to
+    [sync your fork](https://help.github.com/articles/syncing-a-fork/) to pull
+    in other people's changes, too.
 
 ## Translating Text
 If there's a specific bit of text in Coggle that you want to translate, first
