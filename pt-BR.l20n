@@ -274,7 +274,7 @@ Começando <a>ocultar</a><a>mostrar</a>
 
 
 /* Organizations Landing Page (/organizations) */
-<orgs-pitch """
+<orgs-pitch-2 """
   <h2>Organizações Coggle</h2>
   <p>Quando coggle é fundamental para a sua equipe, você precisa de ferramentas mais poderosas, e mais controle sobre seus dados. É por isso que nós construímos <a>coggle Organizações</a>.</p>
   <p>Cada Organização Coggle vem com recursos projetados para o gerenciamento de grandes grupos de pessoas, onde os membros vêm e vão, e informações confidenciais precisa ser protegido.</p>

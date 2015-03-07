@@ -274,9 +274,9 @@ Getting Started <a>hide</a><a>show</a>
 
 
 /* Organizations Landing Page (/organizations) */
-<orgs-pitch """
+<orgs-pitch-2 """
   <h2>Coggle Organizations</h2>
-  <p>When Coggle is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organizations</a>.</p>
+  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organizations</a>.</p>
   <p>Each Coggle Organization comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
   <p>Pricing is simple, <b>£5 per user per month</b> (about $8).<br><b>Unlimited everything</b>.</p>
 """>
