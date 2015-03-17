@@ -416,7 +416,8 @@ Getting Started <a>hide</a><a>show</a>
 <share-embed "Intégrer ce Coggle dans un site web">
 <share-send-email "ENVOYER">
 <share-email-hints """
-  <div>pour inviter quelqu'un, écrivez un mail</div>
+  <div>pour inviter quelqu'un</div>
+  <div>écrivez un mail</div>
   <div>et ensuite tapez entrer</div>
   <div>ami@exemple.fr</div>
 """>
