@@ -55,15 +55,16 @@
 """>
 
 <features-others """
-  Coggle has loads of other great features, so <a>try it now</a>, it's free! Visit the <a>blog</a> to read more.
+  Coggle a des tas d'autres fonctionnalités géniales, alors <a>essayez les  maintenant</a>, c'est gratuit !
+  Visitez le <a>blog</a> pour en savoir plus.
 """>
 
 <footer-index """
-  <p>More <a>about Coggle</a>.</p>
-  <a><img alt="like us on facebook"></a>
-  <a><img alt="follow us on twitter"></a>
+  <p>En savoir plus <a>à propos de Coggle</a>.</p>
+  <a><img alt="likez-nous sur Facebook"></a>
+  <a><img alt="suivez-nous sur Twitter"></a>
   <p>Get <a>Coggle stuff</a>!</p><br>
-  <p>Our <a>privacy policy</a>.</p>
+  <p>Notre <a>politique de confidentialité</a>.</p>
   <p>For the <a>press</a>.</p>
 """>
 
@@ -71,55 +72,55 @@
 
 /* documents list content */
 <createcoggle """
-  <p title="Create a new Coggle.">CREATE</p>
+  <p title="Créer un nouveau Coggle.">CRÉER</p>
 """>
 <createfolder """
   <img>
-  <p title="Create a new Folder.">ADD</p>
+  <p title="Créer un nouveau dossier.">AJOUTER</p>
 """>
-<limitedaccess "You have limited access to  as you're re not a member">
+<limitedaccess "Vous avez un accès limité à  comme vous n'êtes pas un membre.">
 <link-drive """
   <a><img>
-    <span>Too many Coggles? Organize them in Google Drive</span>
+    <span>Beaucoup trop de Coggle? Organisez-les dans Google Drive</span>
   </a>
 """>
 
 <orgbanner """
-  Organizations are a great way to keep your work organized and secure in a large
-  team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
+  Organisations sont un excellent moyen de garder votre travail organisé et sécurisé dans une grande équipe.
+  <a>En savoir plus,</a> ou envoyez un mail à <a>orgs@coggle.it</a>
 """>
 <orgbanner-editlinks """
-  Create <a>shareable links</a> that can be edited without logging in — and lots more — by signing up for an <a>Organization plan</a>.
+  Créer des <a>liens partageables</a> qui peuvent être édités sans se connecter — et bien plus — en souscrivant à un <a>forfait Organisation</a>.
 """>
 
 /* documents list contextual help items */
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
-<help-orgswitch-title "Organization Switcher">
+<help-hide-for-now "Cacher pour l'instant">
+<help-ok-got-it "OK, j'ai compris!">
+<help-orgswitch-title "Changer d'organisation">
 <help-orgswitch """
-  <p>Click to switch between your Organizations, or create a new one.</p>
-  <p>Organizations let you control sharing of Coggles and work more effectively in larger teams.</p>
+  <p>Appuyez pour changer d'organisations ou en créer une nouvelle.</p>
+  <p>Les organisations vous permet de contrôler le partage de vos Coggle et de travailler plus efficacement dans les grandes équipes.</p>
 """>
-<help-createfolder "Create folders to share with groups of people, or categorize Coggles.">
-<help-filtercoggles-title "Filter Coggles">
+<help-createfolder "Créer des dossiers à partager avec des groupes de personnes, ou pour ranger vos Coggles.">
+<help-filtercoggles-title "Filtrer les Coggles">
 <help-filtercoggles """
   Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
 """>
-<help-profile-title "This is you!">
-<help-profile "Click your icon to view your user profile and settings.">
+<help-profile-title "C'est vous!">
+<help-profile "Appuyez sur l'icône pour visualiser votre profil et vos paramètres.">
 
 
 /* diagram introductory tutorial */
-<guide-click-here "click here">
-<guide-or-here "or here">
-<guide-editanytext "you can edit any text">
-<guide-draganything "and drag anything to move it">
-<guide-clicktoadd "now click here to add child item">
-<guide-taptoaddmore "now tap to add more">
-<guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
-<guide-undo "you can use {{ $undoKey }} to undo any anything you do!">
-<guide-redo "and {{ $redoKey }} to re-do things again afterwards">
-<guide-donebasics "neat you've got the hang of the basics!">
+<guide-click-here "appuyez ici">
+<guide-or-here "ou bien là">
+<guide-editanytext "vous pouvez éditer n'importe quel texte">
+<guide-draganything "et glisser n'importe quoi pour le déplacer">
+<guide-clicktoadd "maintenant appuyez ici pour créer un enfant">
+<guide-taptoaddmore "maintenant tapotez pour en ajouter plus">
+<guide-holdtoremove "... ou restez appuyé sur {{ $removeKey }} et appuyez ici pour le supprimer sinon">
+<guide-undo "vous pouvez utiliser {{ $undoKey }} pour défaire tous ce que vous avez fait!">
+<guide-redo "et {{ $redoKey }} pour re-faire toutes les choses encore dans l'autre sens">
+<guide-donebasics "parfait, vous avez les bases!">
 
 
 /* diagram contextual help items */
@@ -139,140 +140,140 @@
 <sidebar-getstarted """
 Getting Started <a>hide</a><a>show</a>
 """>
-<guidestep-add "Add a new item">
-<guidestep-edit "Edit an item">
-<guidestep-move "Move an item ">
-<guidestep-remove "Remove an item">
-<guidestep-undo "Undo a change">
-<guidestep-redo "Redo a change">
+<guidestep-add "Ajouter un élement">
+<guidestep-edit "Éditer un élement">
+<guidestep-move "Déplacer un élement ">
+<guidestep-remove "Supprimer un élement">
+<guidestep-undo "Défaire un changement">
+<guidestep-redo "Refaire un changement">
 
-<sidebar-controls "Controls">
+<sidebar-controls "Contrôles">
 <sidebar-addbranch """
-  <div>Add Branch:</div>
-  <div><span> click </span><div></div></div>
+  <div>Ajouter une branche:</div>
+  <div><span> clic </span><div></div></div>
 """>
 <sidebar-removebranch """
-  <div>Remove Branch:</div>
-  <div><div> alt </div> <span> + click </span> <div></div></div>
+  <div>Supprimer une branche:</div>
+  <div><div> alt </div> <span> + clic </span> <div></div></div>
 """>
 <sidebar-insertbranch """
-  <div>Insert Branch:</div>
-  <div><div> shift </div> <span> + click </span> <div></div></div>
+  <div>Insérer une branche:</div>
+  <div><div> shift </div> <span> + clic </span> <div></div></div>
 """>
 <sidebar-movebranch """
-  <div> Move Branch: </div>
-  <div><div> drag anything! </div></div>
+  <div> Déplacer une branche: </div>
+  <div><div> Glissez n'importe quoi! </div></div>
 """>
 <sidebar-transplantbranch """
-  <div> Transplant Branch: </div>
-  <div><div> shift </div> <span> + drag </span> <div></div></div>
+  <div> Transplanter une branche: </div>
+  <div><div> shift </div> <span> + glisser </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
-  <div> Change Colors: </div>
-  <div><span> click a branch </span></div>
+  <div> Changer les couleurs: </div>
+  <div><span> clic sur une branche </span></div>
 """>
 <sidebar-addimages """
-  <div> Add <a>Images</a>: </div>
-  <div><div> drag and drop </div></div>
+  <div> Ajouter des <a>Images</a>: </div>
+  <div><div> glisser-déposer </div></div>
 """>
 <sidebar-zoom """
   <div> Zoom: </div>
-  <div><div> ctrl </div><span> + mousewheel </span></div>
+  <div><div> ctrl </div><span> + molette de la souris </span></div>
 """>
-<sidebar-shortcuts "Shortcuts">
+<sidebar-shortcuts "Raccourcis">
 <sidebar-undo """
-  <div> Undo: </div>
+  <div> Défaire: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
-  <div> Redo: </div>
+  <div> Refaire: </div>
   <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-whentyping "When typing">
+<sidebar-whentyping "Quand vous écrivez">
 <sidebar-sc-newitem """
-  <div> New Item: </div>
-  <div><div> shift </div><span> + </span><div> enter </div></div>
+  <div> Nouveau élement: </div>
+  <div><div> shift </div><span> + </span><div> entrer </div></div>
 """>
 <sidebar-sc-newchild """
-  <div> New Child Item: </div>
+  <div> Nouveau enfant: </div>
   <div><div> tab </div></div>
 """>
 <sidebar-sc-parent """
-  <div> Jump to Parent: </div>
+  <div> Se déplacer au parent: </div>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
 <cogglefacts """
   Coggle Fact <a>another!</a>
 """>
 <cogglefacts-more """
-  Read more...
+  En apprendre plus...
 """>
 
 <sidebar-contact """
-  <h3>Contact Us!</h3>
-  <p>Need some help? Found a bug? Want to get in touch? Then email us at <a>hello@coggle.it</a></p>
-  <p>Stay up to date with Coggle announcements and tutorials with <a>Bloggle</a>, the Coggle blog.</p>
-  <p>More <a>about Coggle</a>. Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>. For <a>developers</a>.</p>
+  <h3>Nous contacter!</h3>
+  <p>Besoin d'aide? Vous avez trouvé un bug? Vous voulez entrer en contact? Alors envoyez-nous un mail à <a>hello@coggle.it</a></p>
+  <p>Restez à jour avec les annonces et tutoriels Coggle avec <a>Bloggle</a>, le blog de Coggle.</p>
+  <p>En savoir plus <a>à propos de Coggle</a>. Notre <a>politique de confidentialité</a>.</p>
+  <p>For the <a>press</a>. Pour les <a>développeurs</a>.</p>
 """>
 
 /* Self-dialog & Supporter Signup */
-<me-manage-account "Manage account">
-<me-unsupport-progress "Sorry you're leaving. Unsubscribing you now!">
-<me-as-orgmember "You're viewing Coggle as an <b>organization member</b>.">
-<me-as-orgmember-youget "This means you get great features like:">
+<me-manage-account "Gérer son compte">
+<me-unsupport-progress "Désolé que vous partez. On vous désabonne maintenant!">
+<me-as-orgmember "Vous êtes sur Coggle en tant que <b>membre d'organisation</b>.">
+<me-as-orgmember-youget "Ça veut dire que vous avez des fonctionnalités géniales comme:">
 <me-unsupport """
-  <a>Stop</a> supporting Coggle <span> &mdash; are you sure? <a>I'm sure</a></span>
+  <a>Arrêter</a> de supporter Coggle <span> &mdash; êtes-vous sûr? <a>Je suis sûr</a></span>
 """>
-<me-signedup "Great! You\'re signed up as a Coggle supporter.">
+<me-signedup "Génial! Vous êtes maintenant un supporteur de Coggle.">
 <me-support-cancelled """
-  <span>Hello &mdash; this is you!</span>
-  Your supporter subscription has been cancelled. <a>Sign up again</a>.
+  <span>Bonjour &mdash; c'est vous!</span>
+  Votre souscription en tant que supporteur a bien été annulée. <a>Souscrire encore</a>.
 """>
 <me-support-signupnow "Sign me up now!">
 <me-support-weusestripe """
-  We use <a>stripe</a> to process payments securely: your card details never go through our servers.
+  Nous utilisons <a>stripe</a> afin de traiter vos paiements de manière sécurisé: ainsi, vos informations de carte bancaires ne passent jamais par nos serveurs.
 """>
 <me-support-benefits """
-  <span>Hello &mdash; this is you!</span>
-  Become a Coggle supporter for <b>£5 / year</b> (about $8) and get early access to new features including:
+  <span>Bonjour &mdash; c'est vous!</span>
+  Devenez un supporteur de Coggle pour <b>£5 / an</b> (environ 7€) et gagnez l'accès à toutes les nouvelles fonctionnalités en premier:
 """>
 
 <support-feature-bigimages """
   <img>
   <span>
-    <span>Upload large images to your Coggle. </span>
-    <span>Just drag and drop images from your desktop to add them, as a suppoerter you can add much bigger images!</span>
+    <span>Téléversez des images volumineuses sur Coggle. </span>
+    <span>Juste glisser-déposer vos images de votre bureau pour les ajouter, en tant que supporteur vous pouvez ajouter des images plus volumineuses!</span>
   </span>
 """>
 
 <support-feature-xlinks """
   <img>
   <span>
-    <span>Easily create cross-links between items. </span>
+    <span>Créer facilement des liens inter-Coggle. </span>
     <span>Use the drag-and-drop menu item to easily show dependencies between items in your Coggle!</span>
   </span>
 """>
 
 
 /* My Settings Page (/me) */
-<me-hi "Hi {{ $user.givenName }},">
+<me-hi "Bonjour {{ $user.givenName }},">
 <me-supporterpitch """
-  Coggle is free, and we think that <strong>great tools should be available for everyone</strong>.
-  But if you'd like to support the continued development of Coggle then you can by becoming a Coggle supporter - in return you'll get early access to great new features that we're trialling.
+  Coggle est gratuit, et nous pensons que les <strong>grands outils devraient être accessibles à tout le monde</strong>.
+  Mais si vous voulez supporter le développement continue de Coggle, alors vous pouvez devenir un supporteur de Coggle - en échange, vous aurez un accès prioritaire à de nouvelles fonctionnalités géniales que nous expérimentons.
 """>
 <me-communication "Communication!">
-<me-emailslist "These are the emails we have on record for you:">
-<me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
-<me-commspref "Here's what you've told us about your communication preferences:">
+<me-emailslist "Ceci sont les mails que nous avons de vous:">
+<me-emailstip "Nous vous enverrons des mails qu'à votre adresse principale, toutefois, vous pouvez recevoir des invitations de chacun des mails.">
+<me-commspref "Voici ce que vous nous avez demandé concernant vos préférences de communications:">
 <me-comms-explain """
-  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
+  Parfois nous avons besoin d'envoyer des notices de services, ou des informations concernant des nouvelles fonctionnalités que nous vous envoyons à votre adresse <strong> principale </strong>. Nous vous enverrons jamais de spam ou de publicité de nous ou d'une tierce personne (nous détestons recevoir ce genre de truc aussi).
 """>
-<me-talktome "Talk to me: ">
-<me-diagram-notifications "Diagram notifications: ">
+<me-talktome "Me parler: ">
+<me-diagram-notifications "Notifications sur les diagrammes: ">
 
-<slider-yes "YES">
-<slider-no "NO">
+<slider-yes "OUI">
+<slider-no "NON">
 
 
 /* Organizations Landing Page (/organizations) */
@@ -365,82 +366,83 @@ Getting Started <a>hide</a><a>show</a>
 
 /* About Coggle (/about) */
 <about-hello """
-  <h1>Hello!</h1>
-  <p>Coggle is about redefining the way documents work: the way we share and store knowledge. It's a space for thoughts that works the way that people do — not in the rigid ways of computers.</p>
-  <p>It's free, and we promise it always will be, but we still take our responsibilities seriously. We promise to look after your data the best we know how, to keep backups, and to take security seriously.</p>
-  <p>Our mission is to change the way that people work and collaborate forever, to make you more productive, and to make it easier to share information with others, and to do it in a way that's beautiful, and a pleasure to use.</p>
+  <h1>Bonjour!</h1>
+  <p>Coggle is about redefining the way documents work: the way we share and store knowledge. It's a space for thoughts that works the way that people do — not in the rigid ways of computers.
+  Coggle est un moyen afin de redéfinir le fonctionnement des documents: La façon dont nous partageons et nos stockons nos connaissances. C'est un espace pour exprimer des pensées comme les gens le feraient - non pas par les moyens inflexibles des ordinateurs.</p>
+  <p>C'est gratuit, et nous promettons que nous le serons toujours, mais nous prenons quand même nos responsabilités au sérieux. Nous promettons de s'occuper de vos données du mieux que nous savons le faire, de garder des sauvegardes, et de prendre la sécurité au sérieux.</p>
+  <p>Notre mission est de changer la manière dont les personnes travaillent et collaborent pour toujours, de vous rendre plus productif, et de faire en sorte qu'il soit plus simple de partager des informations avec les autres, et de le faire d'une manière qui est belle et qui en fait un plaisir à utiliser.</p>
 """>
 
 <about-getintouch """
-  <h1>Get in Touch</h1>
-  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter </a>and if you prefer you can always send an email to <a>hello@coggle.it </a>— we love to chat!</p>
+  <h1>Rentrer en contact</h1>
+  <p>Vous avez une question? Vous voulez nous dire comment vous utiliser Coggle? Ou peut-être juste nous donner votre avis? Vous pouvez nous retrouver sur <a>facebook </a>et sur <a>Twitter </a>et si vous le préferez vous pouvez nous envoyer un mail à <a>hello@coggle.it </a>— nous adorons discuter!</p>
 """>
 
 <about-spreadtheword """
-  <h1>Spread the Word</h1>
-  <p>If you love Coggle, then help us break even more people free from the confines of lists, spreadsheets and conventional documents! You can share Coggle <a>on Twitter </a>or <a>on Facebook</a>, or you can even get a <a>Coggle tshirt</a>.</p>
+  <h1>Passez le mot</h1>
+  <p>Si vous aimez Coggle, alors aidez-nous à libérer les gens des limites des listes, tableurs et autres documents conventionnels! Vous pouvez partager Coggle <a>sur Twitter </a>ou <a>sur Facebook</a>, ou vous pouvez carrément obtenir un <a>t-shirt Coggle</a>.</p>
 """>
 
 <about-press """
-  <h1>In the press?</h1>
-  <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
+  <h1>Dans la presse?</h1>
+  <p>Alors regardez notre <a>kit de presse</a>, ou <a>rentrez en contact</a> pour en savoir plus!</p>
 """>
 
 <about-company """
  <div>
-   <p>Registered in England and Wales. No. 9030487</p>
-   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
+   <p>Enregistré en Angleterre et Pays de Galle. Numéro. 9030487</p>
+   <p>Bureau enregistré: William James House, Cowley Road, Cambridge CB4 0WX</p>
  </div>
 """>
 
 
 /* diagram tooltips */
-<context-dragclick "drag to move, click to edit">
-<context-dragclickfollow "drag to move, click to edit, {{ $followLinkKey }} + click to follow links">
+<context-dragclick "faire glisser pour déplacer, puis appuyer pour modifier">
+<context-dragclickfollow "faire glisser pour déplacer, appuyez pour modifier, {{ $followLinkKey }} + appuyez pour suivre les liens">
 
-<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
+<context-remove-branch-alt "supprimer cette branche: release [alt] to add branch instead">
 <context-insert-branch "insert text: release [shift] to add branch instead">
 <context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
-<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
-<context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
+<context-remove-branch-ctrl "supprimer cette branche: utilisez [ctrl]+[shift] pour supprimer uniquement cet élément">
+<context-add-branch "appuyer pour ajouter une nouvelle branche: tenez la touche {{ $removeKey }} appuyé pour supprimer">
 
 
 /* sharing dialog content */
-<share-newlink "New Link:">
+<share-newlink "Nouveau lien:">
 <share-newlink-tip """
-  These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+  Ceci vous permet de partager votre diagramme avec tous les gens qui ne sont pas connectés, mais soyez prudent, <strong>quiconque</strong> qui possède le lien peut voir votre travail!
 """>
-<share-tag-user "user">
-<share-tag-embed "embed">
-<share-tag-writable "editable">
-<share-embed "Embed this Coggle in a Website">
-<share-send-email "SEND">
+<share-tag-user "utilisateur">
+<share-tag-embed "intégrer">
+<share-tag-writable "modifiable">
+<share-embed "Intégrer ce Coggle dans un site web">
+<share-send-email "ENVOYER">
 <share-email-hints """
-  <div>to invite, type an email</div>
-  <div>then hit enter</div>
-  <div>friend@example.com</div>
+  <div>pour inviter quelqu'un, écrivez un mail</div>
+  <div>et ensuite tapez entrer</div>
+  <div>ami@exemple.fr</div>
 """>
 
 /* download dialog content */
-<download-pdf "Download PDF">
-<download-png "Download Image">
-<download-mm ".mm File">
-<download-txt "Plain-Text Outline">
-<download-advanced "Advanced Types">
-<download-failed "File generation failed.">
+<download-pdf "Téléchargez le PDF">
+<download-png "Téléchargez une image (PNG)">
+<download-mm "Un fichier .mm">
+<download-txt "Aperçu du texte brute">
+<download-advanced "Types avancées">
+<download-failed "La génération du fichier a échoué.">
 
 
 /* Image drag-drop messages */
 <imgupload-was-resized """
-  <p>Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!</p>
-  <a>Coggle Supporters</a> can upload much larger images, and get early access to great new features, too: <a>read more</a>
+  <p>Votre image a été redimensionné pour s'accorder à une dimension de {{ $maxWidth }} &times; {{ $maxHeight }}, comme ça, on peut stocker votre image gratuitement pour toujours!</p>
+  <a>Coggle Supporteurs</a> peuvent téléverser des images plus volumineuses, et ont un accès prioritaire aux nouvelles fonctionnalités, aussi: <a>en savoir plus</a>
 """>
-<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
+<imgupload-slow-down "Whoa, moins vite! Essayez de téléverser un fichier à la fois.">
 
 
 /* Coggle Facts */
 <fact-math """
-Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
+Saviez vous que vous pouviez écrire des maths dans vos Coggle? (Ouais, geeky!) Utilisez \\\\( LaTeX ici \\\\) pour essayer!
 """>
 <fact-collaborate """
 Did you know that you can collaborate in real-time with others? You can! Look for the share button in the top right.
