@@ -75,7 +75,7 @@
   <img>
   <p title="Create a new Folder.">ADD</p>
 """>
-<limitedaccess "You have limited access to  as you're re not a member">
+<limitedaccess "You have limited access to  as you're not a member">
 <link-drive """
   <a><img>
     <span>Too many Coggles? Organize them in Google Drive</span>
@@ -240,7 +240,7 @@ Getting Started <a>hide</a><a>show</a>
   <img>
   <span>
     <span>Upload large images to your Coggle. </span>
-    <span>Just drag and drop images from your desktop to add them, as a suppoerter you can add much bigger images!</span>
+    <span>Just drag and drop images from your desktop to add them, as a supporter you can add much bigger images!</span>
   </span>
 """>
 
@@ -284,6 +284,7 @@ Getting Started <a>hide</a><a>show</a>
 <orgs-signupnow """
   <h2>Signup for an Organization now: </h2>
   <a><div><p>CREATE</p><p>ORGANIZATION</p></div></a>
+  <p>From £5 per user per month (about $8)</p>
 """>
 
 <orgs-feature-in-one-place """
