@@ -3,7 +3,6 @@
 <login-signup-button """
   <p>S'INSCRIRE</p><p>UTILISER SON COMPTE GOOGLE</p>
 """>
-<login-tagline "It's free and it's easy! Already signed up? <a>log in</a>.">
 <login-tagline "C'est gratuit et simple! Déjà inscrit? <a>se connecter</a>.">
 <logout "Se déconnecter">
 
@@ -44,14 +43,14 @@
 
 <features-blame """
   <img>
-  <h2>Track accountability</h2>
-  <p>Ever wondered who made those changes to that shared document? Well with Coggle you can look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.</p>
+  <h2>Suivez ce qui se passe</h2>
+  <p>Êtes-vous déjà demandé qui avait fait ces changements? Eh bien avec Coggle, vous n'avez qu'à regarder l'historique de vos changements pour savoir qui a fait quoi, et quand! Il suffit d'entrer dans le mode historique pour le découvrir.</p>
 """>
 
 <features-colours """
   <img>
-  <h2>Get the color right</h2>
-  <p>Are you a visual thinker? Do you learn by layout and color? Well, make sure you get the right color for your topics, just click on a branch to bring up the color wheel and select the color you want.</p>
+  <h2>Trouver la bonne couleur</h2>
+  <p>Êtes-vous plutôt visuel? Apprenez-vous les choses grâce à leur disposition et leur couleur? Très bien, soyez sûr de sélectionner la bonne couleur pour vos thèmes, juste appuyez sur une branche pour amener la roue des couleurs et sélectionner la couleur que vous voulez.</p>
 """>
 
 <features-others """
@@ -124,15 +123,15 @@
 
 
 /* diagram contextual help items */
-<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
-<help-sidebar "Click here to show or hide the help sidebar at any time.">
-<help-share-diagram "Click to invite people to edit or view this Coggle. We'll send them an email with a link to sign in and edit!">
-<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
-<help-toolbar-invite-title "Work With Others">
-<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
-<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-gohome "Appuyez sur le logo de Coggle pour revenir à la page d'accueil, vos documents sont automatiquement sauvegardés.">
+<help-sidebar "Appuyez ici pour cacher ou montrer le menu latéral à tout moment.">
+<help-share-diagram "Appuyez ici pour inviter des personnes à modifier ou consulter ce Coggle. Nous leur enverrons un mail avec un lien pour s'inscrire et modifier!">
+<help-multiline "Ajouter plusieurs lignes de texte avec [ctrl] + [entrer], ou en redimensionnant la case avant d'écrire.">
+<help-toolbar-invite-title "Travaillez avec les autres">
+<help-toolbar-invite "Appuyez pour inviter des personnes à consulter ou modifier ce Coggle. Vous pouvez contrôler les permissions des personnes en appuyant sur leur icône.">
+<help-toolbar-invitemulti-title "Inviter plusieurs personnes">
 <help-toolbar-invitemulti """
-  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+Pour gagner du temps, vous pouvez inviter plusieurs personnes en une fois: écrivez (ou collez) les adresses mails séparés par un espace, une virgule<b>,</b> ou bien des point-virgules<b>;</b>
 """>
 
 
@@ -230,7 +229,7 @@ Getting Started <a>hide</a><a>show</a>
   <span>Bonjour &mdash; c'est vous!</span>
   Votre souscription en tant que supporteur a bien été annulée. <a>Souscrire encore</a>.
 """>
-<me-support-signupnow "Sign me up now!">
+<me-support-signupnow "Souscrire maintenant!">
 <me-support-weusestripe """
   Nous utilisons <a>stripe</a> afin de traiter vos paiements de manière sécurisé: ainsi, vos informations de carte bancaires ne passent jamais par nos serveurs.
 """>
