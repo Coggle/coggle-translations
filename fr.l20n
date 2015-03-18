@@ -242,7 +242,7 @@ Getting Started <a>hide</a><a>show</a>
   <img>
   <span>
     <span>Téléversez des images volumineuses sur Coggle. </span>
-    <span>Juste glisser-déposer vos images de votre bureau pour les ajouter, en tant que supporteur vous pouvez ajouter des images plus volumineuses!</span>
+    <span>Il vous suffit de glisser-déposer vos images de votre bureau pour les ajouter, en tant que supporteur vous pouvez ajouter des images plus volumineuses!</span>
   </span>
 """>
 
@@ -453,7 +453,7 @@ Savez-vous que vous pouvez modifier un Coggle en même temps que quelqu'un d'aut
 Saviez-vous que vous pouvez discuter avec tout le monde qui modifie le Coggle en même temps? Essayez! Pour ce faire, cherchez l'icône de chat en haut à droite.
 """>
 <fact-font """
-Saviez-vous que vous pouvez utiliser un codage pour avoir une police à largeur fixée dans Coggle? Essayez!<p>Juste entourer votre texte de `accent grave`, cela arrête aussi toutes les autres syntaxes spéciales d'être interpretées!
+Saviez-vous que vous pouvez utiliser un codage pour avoir une police à largeur fixée dans Coggle? Essayez!<p>Il vous suffit d'entourer votre texte de `accent grave`, cela arrête aussi toutes les autres syntaxes spéciales d'être interpretées!
 """>
 <fact-bold """
 Saviez-vous que pouvez utiliser **texte en gras** dans Coggle?<p>Il suffit de mettre votre texte entre **double astéristiques** où vous souhaitez mettre en valeur votre texte!
