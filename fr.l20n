@@ -30,9 +30,9 @@
 
 <features-images """
   <img>
-  <h2>Compléter l'image</h2>
+  <h2>Complétez l'image</h2>
   <p>Une image vaut mille mots. Coggle vous permet de déposer des images en les glissant depuis votre bureau dans vos diagrammes. Aussi simple que ça!</p>
-  <p>Le mieux, c'est qu'il n'y a pas de limite aux nombre d'images que vous pouvez ajouter.</p>
+  <p>Le mieux, c'est qu'il n'y a pas de limite au nombre d'images que vous pouvez ajouter.</p>
 """>
 
 <features-history """
@@ -44,13 +44,13 @@
 <features-blame """
   <img>
   <h2>Suivez ce qui se passe</h2>
-  <p>Êtes-vous déjà demandé qui avait fait ces changements? Eh bien avec Coggle, vous n'avez qu'à regarder l'historique de vos changements pour savoir qui a fait quoi, et quand! Il suffit d'entrer dans le mode historique pour le découvrir.</p>
+  <p>Vous êtes-vous déjà demandé qui avait fait ces changements? Eh bien avec Coggle, vous n'avez qu'à regarder l'historique des changements pour savoir qui a fait quoi, et quand! Il suffit d'entrer dans le mode historique pour le découvrir.</p>
 """>
 
 <features-colours """
   <img>
-  <h2>Trouver la bonne couleur</h2>
-  <p>Êtes-vous plutôt visuel? Apprenez-vous les choses grâce à leur disposition et leur couleur? Très bien, soyez sûr de sélectionner la bonne couleur pour vos thèmes, juste appuyez sur une branche pour amener la roue des couleurs et sélectionner la couleur que vous voulez.</p>
+  <h2>Trouvez la bonne couleur</h2>
+  <p>Êtes-vous plutôt visuel? Apprenez-vous les choses grâce à leur disposition et leur couleur? Très bien, soyez sûr de sélectionner la bonne couleur pour vos éléments, il vous suffit d'appuyer sur une branche pour amèner la roue des couleurs et sélectionner la couleur que vous souhaitez.</p>
 """>
 
 <features-others """
@@ -62,9 +62,9 @@
   <p>En savoir plus <a>à propos de Coggle</a>.</p>
   <a><img alt="likez-nous sur Facebook"></a>
   <a><img alt="suivez-nous sur Twitter"></a>
-  <p>Get <a>Coggle stuff</a>!</p><br>
+  <p>Obtenez des <a>trucs Coggle</a>!</p><br>
   <p>Notre <a>politique de confidentialité</a>.</p>
-  <p>For the <a>press</a>.</p>
+  <p>Pour la <a>presse</a>.</p>
 """>
 
 
@@ -137,7 +137,7 @@ Pour gagner du temps, vous pouvez inviter plusieurs personnes en une fois: écri
 
 /* diagram sidebar content */
 <sidebar-getstarted """
-Getting Started <a>hide</a><a>show</a>
+Pour commencer <a>cacher</a><a>montrer</a>
 """>
 <guidestep-add "Ajouter un élement">
 <guidestep-edit "Éditer un élement">
@@ -213,7 +213,7 @@ Getting Started <a>hide</a><a>show</a>
   <p>Besoin d'aide? Vous avez trouvé un bug? Vous voulez entrer en contact? Alors envoyez-nous un mail à <a>hello@coggle.it</a></p>
   <p>Restez à jour avec les annonces et tutoriels Coggle avec <a>Bloggle</a>, le blog de Coggle.</p>
   <p>En savoir plus <a>à propos de Coggle</a>. Notre <a>politique de confidentialité</a>.</p>
-  <p>For the <a>press</a>. Pour les <a>développeurs</a>.</p>
+  <p>Pour la <a>presse</a>. Pour les <a>développeurs</a>.</p>
 """>
 
 /* Self-dialog & Supporter Signup */
