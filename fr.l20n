@@ -366,7 +366,7 @@ Getting Started <a>hide</a><a>show</a>
 /* About Coggle (/about) */
 <about-hello """
   <h1>Bonjour!</h1>
-  Coggle est un moyen afin de redéfinir le fonctionnement des documents: La façon dont nous partageons et nos stockons nos connaissances. C'est un espace pour exprimer des pensées comme les gens le feraient - non pas par les moyens inflexibles des ordinateurs.</p>
+  <p>Coggle est un moyen afin de redéfinir le fonctionnement des documents: La façon dont nous partageons et nos stockons nos connaissances. C'est un espace pour exprimer des pensées comme les gens le feraient - non pas par les moyens inflexibles des ordinateurs.</p>
   <p>C'est gratuit, et nous promettons que nous le serons toujours, mais nous prenons quand même nos responsabilités au sérieux. Nous promettons de s'occuper de vos données du mieux que nous savons le faire, de garder des sauvegardes, et de prendre la sécurité au sérieux.</p>
   <p>Notre mission est de changer la manière dont les personnes travaillent et collaborent pour toujours, de vous rendre plus productif, et de faire en sorte qu'il soit plus simple de partager des informations avec les autres, et de le faire d'une manière qui est belle et qui en fait un plaisir à utiliser.</p>
 """>
@@ -416,7 +416,8 @@ Getting Started <a>hide</a><a>show</a>
 <share-embed "Intégrer ce Coggle dans un site web">
 <share-send-email "ENVOYER">
 <share-email-hints """
-  <div>pour inviter quelqu'un, écrivez un mail</div>
+  <div>pour inviter quelqu'un</div>
+  <div>écrivez un mail</div>
   <div>et ensuite tapez entrer</div>
   <div>ami@exemple.fr</div>
 """>
