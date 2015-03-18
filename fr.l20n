@@ -103,7 +103,7 @@
 <help-createfolder "Créer des dossiers à partager avec des groupes de personnes, ou pour ranger vos Coggles.">
 <help-filtercoggles-title "Filtrer les Coggles">
 <help-filtercoggles """
-  Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
+  Tapez quelque chose pour filtrer vos Coggle et les ouvrir rapidement - pressez <b>[entrer]</b> pour ouvrir le premier Coggle dans la liste filtrée.
 """>
 <help-profile-title "C'est vous!">
 <help-profile "Appuyez sur l'icône pour visualiser votre profil et vos paramètres.">
@@ -190,7 +190,7 @@ Pour commencer <a>cacher</a><a>montrer</a>
 """>
 <sidebar-whentyping "Quand vous écrivez">
 <sidebar-sc-newitem """
-  <div> Nouveau élement: </div>
+  <div> Nouvel élement: </div>
   <div><div> shift </div><span> + </span><div> entrer </div></div>
 """>
 <sidebar-sc-newchild """
@@ -202,10 +202,10 @@ Pour commencer <a>cacher</a><a>montrer</a>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
 <cogglefacts """
-  Coggle Fact <a>another!</a>
+  Faits Coggle <a>un autre!</a>
 """>
 <cogglefacts-more """
-  En apprendre plus...
+  En savoir plus...
 """>
 
 <sidebar-contact """
