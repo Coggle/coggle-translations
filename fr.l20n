@@ -277,90 +277,90 @@ Getting Started <a>hide</a><a>show</a>
 
 /* Organizations Landing Page (/organizations) */
 <orgs-pitch-2 """
-  <h2>Coggle Organizations</h2>
-  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organizations</a>.</p>
-  <p>Each Coggle Organization comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>£5 per user per month</b> (about $8).<br><b>Unlimited everything</b>.</p>
+  <h2>Coggle pour les organisations</h2>
+  <p>Quand l'information est critique pour votre équipe, vous avez besoin d'outils plus puissants et plus de contrôle sur vos données. C'est pourquoi nous avons créé <a>Coggle pour les organisations</a>.</p>
+  <p>Chaque organisation Coggle est muni de fonctionnalités designés pour gérer de grands groupes de personnes, où les membres circulent, et les informations sensibles ont besoin d'être protégées.</p>
+  <p>Le prix est simple, <b>£5 par utilisateur par mois</b> (environ 7€).<br><b>Tout est illimité</b>.</p>
 """>
 
 <orgs-signupnow """
-  <h2>Signup for an Organization now: </h2>
-  <a><div><p>CREATE</p><p>ORGANIZATION</p></div></a>
-  <p>From £5 per user per month (about $8)</p>
+  <h2>Souscrire pour une organisation maintenant: </h2>
+  <a><div><p>CRÉER</p><p>ORGANISATION</p></div></a>
+  <p>A partir de £5 par utilisateur par mois (environ 7€)</p>
 """>
 
 <orgs-feature-in-one-place """
   <img>
-  <h2>Everything in One Place</h2>
-  <p>All your organizations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.</p>
+  <h2>Tout dans un seul endroit</h2>
+  <p>Tous les diagrammes de votre organisation dans un seul endroit. Laissez vos équipes travaillez de manière sûre, dans un seul et unique endroit à gérer - comme ça, vous savez exactement où chercher.</p>
 """>
 
 <orgs-feature-control-sharing """
   <img>
-  <h2>Control Sharing</h2>
-  <p>You can make sure that Coggles created in your organization stay in your organization. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.</p>
+  <h2>Contrôle du partage</h2>
+  <p>Vous pouvez être sûr que les Coggles créés dans votre organisations restent dans votre organisation. Vos documents sensibles sont ainsi protégés contre l'exposition accidentelle si la mauvaise adresse email est invitée à un document.</p>
 """>
 
 <orgs-feature-manage-users """
   <img>
-  <h2>Safely Manage Users</h2>
-  <p>Remove users from your organization without losing the work they've done. Use the management dashboard to view all the diagrams created in your organization by users past and present, deleted or active.</p>
+  <h2>Gérer de manière sûre vos utilisateurs</h2>
+  <p>Supprimez des utilisateurs de votre organisation sans perdre le travail qu'ils ont fait. Utilisez le tableau de bord de gestion pour visualiser tous les diagrammes crées dans votre organisation par les utilisateurs passés, présents, supprimés ou actifs.</p>
 """>
 
 <orgs-feature-export """
   <img>
-  <h2>Bulk Export</h2>
-  <p>Organization admins can download all of the organizations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind. </p>
+  <h2>Exportation en masse</h2>
+  <p>Les administrateurs d'organisations peuvent télécharger tous les Coggle de l'organisation dans un format -lisible par les machines- d'archive JSON, en un seul clic. Bien pour la conformité réglementaire ou juste la tranquilité d'esprit.</p>
 """>
 
 <orgs-feature-branding """
   <img>
-  <h2>Show your Brand</h2>
-  <p>Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.</p>
+  <h2>Montrez votre marque</h2>
+  <p>Créer des diagrammes professionnels, et propre qui mettent en valeur votre logo et exportez-les en PDF ou PNG. Bien pour partager des diagrammes avec des clients ou associés dans votre entreprise.</p>
 """>
 
 <orgs-feature-editable-links """
   <img>
-  <h2>Editable Private Links</h2>
-  <p>Create a private link to share with collaborators outside of your organization, allowing them to edit a diagram without logging in.</p>
+  <h2>Liens privés modifiables</h2>
+  <p>Créer des liens privés à partager avec vos collaborateurs en dehors de votre organisation, leur permettant de modifier un diagramme sans se connecter.</p>
 """>
 
 <orgs-feature-supporter """
-  In addition, all members of your organization will get the Coggle <a>Supporter</a> features.
+    En plus, tous les membres de votre organisation ont accès aux fonctionnalités comme si ils étaient des Coggle <a>Supporteurs</a>.
 """>
 
 
 /* Organizations Sign-Up Page (/organizations/new) */
-<orgcreate-title "Create an Organization">
+<orgcreate-title "Créer une organisation">
 <orgcreate-controlsharing """
   <img>
-  <h3>Control Sharing</h3>
-  <div>Make sure Coggles created by your organization stay in your organization.</div>
+  <h3>Contrôlez le partage</h3>
+  <div>Soyez sûr que les Coggles créés par votre organisation restent dans votre organisation.</div>
 """>
 <orgcreate-branding """
   <img>
-  <h3>Brand your Exports</h3>
-  <div>Have your logo appear as a watermark when diagrams are exported.</div>
+  <h3>Marquez vos exports</h3>
+  <div>Faites apparaître votre logo comme filigrane quand les diagrammes sont exportés.</div>
 """>
 <orgcreate-dashboard """
   <img>
-  <h3>Super-user Dashboard</h3>
-  <div>Administrator accounts get full control of all the diagrams in your organization.</div>
+  <h3>Tableau de bord super-utilisateur</h3>
+  <div>Les comptes administrateurs ont un contrôle total de tous les diagrammes dans leur organisation.</div>
 """>
-<orgcreate-gotqs "Got questions? Ask us! <a>orgs@coggle.it</a>">
-<orgcreate-choosename "Organization Name">
+<orgcreate-gotqs "Questions? Posez-les nous! <a>orgs@coggle.it</a>">
+<orgcreate-choosename "Nom de l'organisation">
 <orgcreate-nameinput """
-  <input placeholder="Choose Your Organization Name">
-  <span>Pick something short and recognizable!</span>
+  <input placeholder="Choississez le nom de votre organisation">
+  <span>Prenez quelque chose de simple et reconnaissable!</span>
 """>
-<orgcreate-billing "Billing">
-<orgcreate-pricing "Pricing is simple:<b> £5 per user per month</b> (about $8).  Unlimited everything.">
-<orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
-<orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
+<orgcreate-billing "Facturation">
+<orgcreate-pricing "Prix simple:<b> £5 par utilisateur par mois</b> (environ 7€).  Tout est illimité.">
+<orgcreate-paymentinfo "<p><a>En savoir plus</a> sur comment nous traitons les paiements.</p>">
+<orgcreate-weusestripe "Nous utilisons <a>Stripe</a> pour traiter les paiements de manière sécurisée.">
 <orgcreate-stripeinfo """
-  Stripe is certified to PCI level 1, and store your payment information using AES-256 encryption. You can read more about their security practices on Stripe's <a>security page</a>.
+    Stripe est certifié PCI niveau 1, et stocke vos informations de paiement en utilisant un chiffrement AES-256. Vous pouvez en savoir plus sur leur pratiques de sécurité sur <a>la page sécurité</a> de Stripe.
 """>
-<orgcreate-create "<p>CREATE</p>">
+<orgcreate-create "<p>CRÉER</p>">
 
 
 /* About Coggle (/about) */
