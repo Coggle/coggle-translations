@@ -462,7 +462,7 @@ Did you know you can use *italic text* in Coggles?<p>Just use *asterisks* where 
 Did you know you can put links in Coggles? You can!<p>They work like this:<br>[description](http://example.com)
 """>
 <fact-download """
-Did you know that you can download your Coggle as a PDF or an image. You can! Look for the download button in the top right of the screen
+Did you know that you can download your Coggle as a PDF or an image? You can! Look for the download button in the top right of the screen.
 """>
 <fact-markdown """
 Did you know that Coggle uses <a>markdown syntax</a>? It does!<p>Try out links like this: &lt;http://example.com&gt;
@@ -528,7 +528,7 @@ Did you know you can break text over multiple lines? You can! Hold [ctrl] while 
 Did you know you can break text over multiple lines? You can! Drag the corner of the edit field downwards, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
 """>
 <fact-resize-images """
-Did you know you can resize images? you can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
+Did you know you can resize images? You can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
 """>
 <fact-image-size """
 Did you know we support a Markdown extension to specify image size? We do! Specify a 200 by 100 pixel image like this: ![image description](http://url.to.image "optional title" 200x100)
@@ -549,7 +549,7 @@ Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here
 Did you know you can become a Coggle Supporter? You can! For £5/year you get early access to great new features.", more:"http://bloggle.coggle.it/cross-links-supporters/
 """>
 <fact-supporter-2 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you can show your support for Coggle, and get some neat perks!.", more:"http://bloggle.coggle.it/cross-links-supporters/
+Did you know you can become a Coggle Supporter? You can! For £5/year you can show your support for Coggle, and get some neat perks!", more:"http://bloggle.coggle.it/cross-links-supporters/
 """>
 <fact-supporter-3 """
 Did you know you can become a Coggle Supporter? You can! For £5/year you get great perks including creating cross-links, and you show your support for Coggle!", more:"http://bloggle.coggle.it/cross-links-supporters/
