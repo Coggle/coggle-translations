@@ -173,10 +173,9 @@ Getting Started <a>hide</a><a>show</a>
   <div> Add <a>Images</a>: </div>
   <div><div> drag and drop </div></div>
 """>
-<mousewheelkey($os) { $os == "mac" ? "⌘ " : "ctrl" }>
 <sidebar-zoom """
   <div> Zoom: </div>
-  <div><div> {{ $mousewheelkey(@os) }} </div><span> + mousewheel </span></div>
+  <div><div> ctrl </div><span> + mousewheel </span></div>
 """>
 <sidebar-shortcuts "Shortcuts">
 <sidebar-undo """
