@@ -175,9 +175,10 @@ Pour commencer <a>cacher</a><a>montrer</a>
   <div> Ajouter des <a>Images</a>: </div>
   <div><div> glisser-déposer </div></div>
 """>
+<mousewheelkey($os) { $os == "mac" ? "⌘ " : "ctrl" }>
 <sidebar-zoom """
   <div> Zoom: </div>
-  <div><div> ctrl </div><span> + molette de la souris </span></div>
+  <div><div> {{ $mousewheelkey(@os) }} </div><span> + molette de la souris </span></div>
 """>
 <sidebar-shortcuts "Raccourcis">
 <sidebar-undo """

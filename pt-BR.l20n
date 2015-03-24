@@ -173,9 +173,10 @@ Começando <a>ocultar</a><a>mostrar</a>
   <div> Adicionar <a>Imagens</a>: </div>
   <div><div> arrastar e soltar </div></div>
 """>
+<mousewheelkey($os) { $os == "mac" ? "⌘ " : "ctrl" }>
 <sidebar-zoom """
   <div> Zoom: </div>
-  <div><div> ctrl </div><span> + roda do mouse </span></div>
+  <div><div> {{ $mousewheelkey(@os) }} </div><span> + roda do mouse </span></div>
 """>
 <sidebar-shortcuts "Teclas de Atalho">
 <sidebar-undo """
