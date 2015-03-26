@@ -65,6 +65,38 @@
   <p>For the <a>press</a>.</p>
 """>
 
+/* new frontpage content */
+<index-tagline "A clear way to share complex information.">
+<index-signupnow "Sign Up Now for Free">
+
+<index-use-notes """
+  <div><img></div>
+  <h2>Take Notes</h2>
+  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
+""">
+    
+<index-use-brainstorm """
+  <div><img></div>
+  <h2>Brainstorm</h2>
+  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+""">
+
+<index-use-share """
+  <div><img></div>
+  <h2>Share Information</h2>
+  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+""">
+    
+<index-use-other """
+  These are just a few of the things Coggle is useful for – <a>get started</a> now and find your own use!
+""">
+
+<index-helpteam-orgs """
+  <a><img></a>
+  <h2>Help your team communicate with <a>Coggle Organizations</a>.</h2>
+  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organizations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
+  <a>Sign up now<div>From £5 per user per month (about $8)</div></a>
+""">
 
 
 /* documents list content */
