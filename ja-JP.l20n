@@ -11,49 +11,49 @@
 /* front page content */
 
 <index-description """
-  <h1>Unleash your creativity</h1>
-  <p>Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!</p>
-  <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
+  <h1>創造性を解き放て</h1>
+  <p>素早く、簡単に、きれいなノートを作りましょう。アイディアをよりよくするために友達や同僚にシェアしましょう。すべて無料です！</p>
+  <p><a><span><b>さぁ、はじめましょう！ </b></span></a><a><span>もう少し読む。</span></a></p>
 """>
 
 <testimonial-jenn """
-  <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
-  <p>Jenn, Coggle User</p>
+  <p>"Coggleを使って感じた幸せを表す言葉はこの言葉以外にないね... supercalifragilisticexpialidocious!"</p>
+  <p>Jenn, Coggleの利用者</p>
 """>
 
 <features-collaborate """
   <img>
-  <h2>Get everyone involved</h2>
-  <p>Often we work best in teams, and teams operate most effectively when they can collaborate freely. Coggle lets you invite your friends and colleagues to work with you, at the same time, on your diagrams.</p>
+  <h2>みんなを巻き込もう</h2>
+  <p>私達はチームで最高の仕事を成し遂げます。そして、自由に共同作業ができるとき、チームはとてもうまく働きます。Coggleを使えば、共同作業をするために友達や同僚を一度にあなたのダイアグラムに招待できます。</p>
 """>
 
 <features-images """
   <img>
-  <h2>Complete the picture</h2>
-  <p>A picture is worth a thousand words. Coggle lets you drag-and-drop images right from your desktop to your diagrams. Simple as that!</p>
-  <p>Best of all, there's no limit to the number of images you can add.</p>
+  <h2>視覚に訴えよう</h2>
+  <p>イメージは1000の言葉以上の価値を持っています。Coggleではデスクトップ上のイメージをドラッグ・アンド・ドロップでダイアグラムに追加できます。とても簡単！</p>
+  <p>その上、追加できるイメージの数に上限はありません。</p>
 """>
 
 <features-history """
   <img>
-  <h2>Go back in time</h2>
-  <p>Have you made changes to a document, only to come back a day later and decide you don't like the edits? With Coggle that's not a problem. Simply enter history mode to find the right version, and make a copy from that point!</p>
+  <h2>すぐに戻れる</h2>
+  <p>ドキュメントに加えた変更が、一日後に見なおした時によくなかったと思ったことはありますか？Coggleでは問題になりません。ヒストリー・モードにして戻りたい箇所まで戻って、そこからコピーを作ればよいのです！</p>
 """>
 
 <features-blame """
   <img>
-  <h2>Track accountability</h2>
-  <p>Ever wondered who made those changes to that shared document? Well with Coggle you can look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.</p>
+  <h2>誰が加えた変更かを知る</h2>
+  <p>共有されたドキュメントに誰が変更を加えたか知りたいことはありませんか？Coggleではダイアグラムのヒストリーから誰がいつ変更を加えたかを知ることができます。ヒストリー・モードにして探すだけです。</p>
 """>
 
 <features-colours """
   <img>
-  <h2>Get the colour right</h2>
-  <p>Are you a visual thinker? Do you learn by layout and colour? Well, make sure you get the right colour for your topics, just click on a branch to bring up the colour wheel and select the colour you want.</p>
+  <h2>色を使おう</h2>
+  <p>あなたはヴィジュアルでものを考える人ですか？あなたはレイアウトや色から学ぶ人ですか？トピックに最適な色を選びましょう。ブランチをクリックしてカラー・ホイールを表示させ、好きな色を選びましょう。</p>
 """>
 
 <features-others """
-  Coggle has loads of other great features, so <a>try it now</a>, it's free! Visit the <a>blog</a> to read more.
+  Coggleにはほかにもたくさんのきのうがあります。さぁ、<a>試してみましょう</a>。 無料です！ <a>ブログ</a> を開いて続きを見てみましょう。
 """>
 
 <footer-index """
@@ -74,7 +74,7 @@
   <h2>Take Notes</h2>
   <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
 """>
-    
+
 <index-use-brainstorm """
   <div><img></div>
   <h2>Brainstorm</h2>
@@ -86,7 +86,7 @@
   <h2>Share Information</h2>
   <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
 """>
-    
+
 <index-use-other """
   These are just a few of the things Coggle is useful for – <a>get started</a> now and find your own use!
 """>
