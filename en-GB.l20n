@@ -444,6 +444,12 @@ Getting Started <a>hide</a><a>show</a>
 <context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
 <context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
 
+/* diagram not-found page */
+<nodiagram-title "Diagram not found!">
+<nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">
+<nodiagram-logged-in "You are currently logged in as <b>{{ $user.givenName }}</b>, with the email address <b>{{ $user.email }}</b>. If this diagram exists, this account does not have permission to access it.">
+<nodiagram-not-logged-in "<b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.">
+<nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
 
 /* sharing dialog content */
 <share-newlink "New Link:">
