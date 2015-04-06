@@ -122,6 +122,12 @@
   Create <a>shareable links</a> that can be edited without logging in — and lots more — by signing up for an <a>Organization plan</a>.
 """>
 
+/* documents list placeholder content */
+<css--folder-anonymous-cogglelist-empty-before "Welcome to Coggle! – Diagrams you create will be listed here.">
+<css--folders-error-before "Loading folders failed, please reload the page to try again.">
+<css--folder-permission-admin-cogglelist-empty-before "Drag a Coggle here to move it to this folder.">
+<css--folder-error-cogglelist-empty-before "Uh-oh! Loading folder failed, refresh the page to try again.">
+
 /* documents list contextual help items */
 <help-hide-for-now "Hide for now">
 <help-ok-got-it "OK, got it!">
@@ -151,6 +157,11 @@
 <guide-redo "and {{ $redoKey }} to re-do things again afterwards">
 <guide-donebasics "neat you've got the hang of the basics!">
 
+/* diagram placeholder content */
+<css--desktop-holder-textlabel-roottextlabel-empty-not-active-after "Unnamed Coggle">
+<css--touch-holder-not-readonly-textlabel-empty-not-active-after "hold to edit">
+<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "click to edit">
+<css--holder-readonly-textlabel-empty-not-active-after "no text">
 
 /* diagram contextual help items */
 <help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
@@ -450,6 +461,7 @@ Getting Started <a>hide</a><a>show</a>
   <div>then hit enter</div>
   <div>friend@example.com</div>
 """>
+<css--share-view-privatelinks-cogglelist-empty-before "No private links yet!">
 
 /* download dialog content */
 <download-pdf "Download PDF">
