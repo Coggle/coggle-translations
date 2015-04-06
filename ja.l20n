@@ -66,29 +66,29 @@
 """>
 
 /* new frontpage content */
-<index-tagline "A clear way to share complex information.">
-<index-signupnow "Sign Up Now for Free">
+<index-tagline "複雑な情報を共有するシンプルなやり方">
+<index-signupnow "無料で登録する">
 
 <index-use-notes """
   <div><img></div>
-  <h2>Take Notes</h2>
-  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
+  <h2>ノートをとる</h2>
+  <p>ミーティングで。復習で。インスピレーションが湧いた時、それがどこでも、Coggleを開き美しく構造的なノートをとろう。</p>
 """>
 
 <index-use-brainstorm """
   <div><img></div>
-  <h2>Brainstorm</h2>
-  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+  <h2>ブレインストーミングする</h2>
+  <p>アイディアの出始めにCoggleを開いて育てよう。そして、そのアイディアが完全に成熟して、整えられ、共有する準備ができるところまで見届けよう。</p>
 """>
 
 <index-use-share """
   <div><img></div>
-  <h2>Share Information</h2>
-  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+  <h2>情報をシェアする</h2>
+  <p>考えていることを細部までCoggleにまとめ、チームや、クラスメート、はたまた、世界に共有しよう！</p>
 """>
 
 <index-use-other """
-  These are just a few of the things Coggle is useful for – <a>get started</a> now and find your own use!
+  これはCoggleができることの一部です。 – <a>はじめましょう！</a> そして、自分なりの使い方を見つけて下さい!
 """>
 
 <index-helpteam-orgs """
