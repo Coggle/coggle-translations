@@ -123,20 +123,20 @@
 """>
 
 /* documents list contextual help items */
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
+<help-hide-for-now "今は隠す">
+<help-ok-got-it "OK, わかりました!">
 <help-orgswitch-title "Organisation Switcher">
 <help-orgswitch """
   <p>Click to switch between your Organisations, or create a new one.</p>
   <p>Organisations let you control sharing of Coggles and work more effectively in larger teams.</p>
 """>
-<help-createfolder "Create folders to share with groups of people, or categorise Coggles.">
-<help-filtercoggles-title "Filter Coggles">
+<help-createfolder "フォルダを作ってグループでシェアしたり、Coggleをカテゴライズしましょう。">
+<help-filtercoggles-title "Coggleを検索する">
 <help-filtercoggles """
-  Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
+  検索文言を入れて、素早くCoggleを開きましょう。 – <b>[enter]</b> を押すと、検索結果の一番上のCoggleが開きます。
 """>
-<help-profile-title "This is you!">
-<help-profile "Click your icon to view your user profile and settings.">
+<help-profile-title "あなたです!">
+<help-profile "アイコンをタップして、プロフィールや設定を見ましょう。">
 
 
 /* diagram introductory tutorial */
