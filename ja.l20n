@@ -1,10 +1,10 @@
 /* login widget content */
 
 <login-signup-button """
-  <p>SIGN UP</p><p>USING GOOGLE</p>
+  <p>サインアップ</p><p>USING GOOGLE</p>
 """>
-<login-tagline "It's free and it's easy! Already signed up? <a>log in</a>.">
-<logout "Logout">
+<login-tagline "無料で簡単！すでにサインアップしていますか？ <a>ログイン</a>.">
+<logout "ログアウト">
 
 
 
@@ -57,12 +57,12 @@
 """>
 
 <footer-index """
-  <p>More <a>about Coggle</a>.</p>
-  <a><img alt="like us on facebook"></a>
-  <a><img alt="follow us on twitter"></a>
-  <p>Get <a>Coggle stuff</a>!</p><br>
-  <p>Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>.</p>
+  <p>Coggleのことを<a>もっと知る</a></p>
+  <a><img alt="FacebookでLikeする"></a>
+  <a><img alt="Twitterでフォローする"></a>
+  <p><a>Coggle グッズ</a>をゲットする!</p><br>
+  <p>私たちの<a>プライバシー・ポリシー</a></p>
+  <p><a>プレスの方へ</a></p>
 """>
 
 /* new frontpage content */
@@ -101,16 +101,16 @@
 
 /* documents list content */
 <createcoggle """
-  <p title="Create a new Coggle.">CREATE</p>
+  <p title="Coggleの新規作成">新規作成</p>
 """>
 <createfolder """
   <img>
-  <p title="Create a new Folder.">ADD</p>
+  <p title="フォルダの追加">追加</p>
 """>
-<limitedaccess "You have limited access to  as you're not a member">
+<limitedaccess "メンバー以外のアクセスは制限されています。">
 <link-drive """
   <a><img>
-    <span>Too many Coggles? Organise them in Google Drive</span>
+    <span>Coggleが増えすぎましたか？Google Driveで管理しましょう。</span>
   </a>
 """>
 
@@ -123,45 +123,45 @@
 """>
 
 /* documents list contextual help items */
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
+<help-hide-for-now "今は隠す">
+<help-ok-got-it "OK, わかりました!">
 <help-orgswitch-title "Organisation Switcher">
 <help-orgswitch """
   <p>Click to switch between your Organisations, or create a new one.</p>
   <p>Organisations let you control sharing of Coggles and work more effectively in larger teams.</p>
 """>
-<help-createfolder "Create folders to share with groups of people, or categorise Coggles.">
-<help-filtercoggles-title "Filter Coggles">
+<help-createfolder "フォルダを作ってグループでシェアしたり、Coggleをカテゴライズしましょう。">
+<help-filtercoggles-title "Coggleを検索する">
 <help-filtercoggles """
-  Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
+  検索文言を入れて、素早くCoggleを開きましょう。 – <b>[enter]</b> を押すと、検索結果の一番上のCoggleが開きます。
 """>
-<help-profile-title "This is you!">
-<help-profile "Click your icon to view your user profile and settings.">
+<help-profile-title "あなたです!">
+<help-profile "アイコンをタップして、プロフィールや設定を見ましょう。">
 
 
 /* diagram introductory tutorial */
-<guide-click-here "click here">
-<guide-or-here "or here">
-<guide-editanytext "you can edit any text">
-<guide-draganything "and drag anything to move it">
-<guide-clicktoadd "now click here to add child item">
-<guide-taptoaddmore "now tap to add more">
-<guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
-<guide-undo "you can use {{ $undoKey }} to undo any anything you do!">
-<guide-redo "and {{ $redoKey }} to re-do things again afterwards">
-<guide-donebasics "neat you've got the hang of the basics!">
+<guide-click-here "ここをクリック">
+<guide-or-here "こっちでもOK">
+<guide-editanytext "どんなテキストも編集できます">
+<guide-draganything "そして、ドラッグすれば移動もできます">
+<guide-clicktoadd "ここをクリックして、子アイテムを追加しましょう">
+<guide-taptoaddmore "タップしてもっと追加してみましょう">
+<guide-holdtoremove "... また、 {{ $removeKey }} を長押しして、ここをクリックすることで削除をすることができます。">
+<guide-undo "{{ $undoKey }} を使って、一つ前の作業を取り消すことができます。">
+<guide-redo "また、 {{ $redoKey }} を使って、取り消した作業を一つ復活させることができます。">
+<guide-donebasics "すばらしい！基本を抑えましたね！">
 
 
 /* diagram contextual help items */
-<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
-<help-sidebar "Click here to show or hide the help sidebar at any time.">
-<help-share-diagram "Click to invite people to edit or view this Coggle. We'll send them an email with a link to sign in and edit!">
-<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
-<help-toolbar-invite-title "Work With Others">
-<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
-<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-gohome "Coggleのロゴをクリックすると、一覧ページに戻ります。その際、編集中のドキュメントは自動保存されます。">
+<help-sidebar "いつでもここをクリックすることでヘルプ・サイドバーの表示・非表示を変更できます。">
+<help-share-diagram "クリックしてCoggleの編集や閲覧のために共同作業者をお誘いしましょう。サインインと編集のためのemailリンクが送られます！">
+<help-multiline "[ctrl] + [enter]や書き込む前に入力欄のサイズを変更して、複数行の編集をしましょう。">
+<help-toolbar-invite-title "共同作業をする">
+<help-toolbar-invite "クリックしてCoggleの編集や閲覧のために共同作業者をお誘いしましょう。アイコンをタップすることで、共同作業者の権限の変更ができます。">
+<help-toolbar-invitemulti-title "一度に誘いましょう">
 <help-toolbar-invitemulti """
-  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+  時間の節約のために、一度に複数の人を誘うことができます: スペースや、カンマ <b>,</b> セミコロン <b>;</b> で区切ってemailを入力（ペースト）します。
 """>
 
 
@@ -286,20 +286,20 @@ Getting Started <a>hide</a><a>show</a>
 
 
 /* My Settings Page (/me) */
-<me-hi "Hi {{ $user.givenName }},">
+<me-hi "こんにちは {{ $user.givenName }},">
 <me-supporterpitch """
-  Coggle is free, and we think that <strong>great tools should be available for everyone</strong>.
-  But if you'd like to support the continued development of Coggle then you can by becoming a Coggle supporter - in return you'll get early access to great new features that we're trialling.
+  Coggleは無料です。私達は<strong>素晴らしいツールはすべての人に開かれているべきだ</strong>と考えています。
+  もし、あなたがCoggleの継続的な開発をサポートしたいと思われるなら、Coggleのサポーターになってください。代わりに、開発中の新しい機能に優先的にアクセスできるようになります。
 """>
-<me-communication "Communication!">
-<me-emailslist "These are the emails we have on record for you:">
-<me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
-<me-commspref "Here's what you've told us about your communication preferences:">
+<me-communication "コミュニケーション！">
+<me-emailslist "私たちが記録しているemailアドレスです:">
+<me-emailstip "私たちはprimaryのemailアドレスにのみ連絡しますが、Coggleのお誘いは他のemailアドレスでも受け取ることができます。">
+<me-commspref "こちらは、あなたのコミュニケーション設定です:">
 <me-comms-explain """
-  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
+  ときどき、サービスのアップデートや新機能のお知らせを送ることがありますが、<strong>primary</strong>アドレスにのみ送信します。スパムや第三者の広告は送信しません（私たちもうその手のものを受け取るのは大嫌いです）。
 """>
 <me-talktome "Talk to me: ">
-<me-diagram-notifications "Diagram notifications: ">
+<me-diagram-notifications "ダイアグラムの通知: ">
 
 <slider-yes "YES">
 <slider-no "NO">
