@@ -140,16 +140,16 @@
 
 
 /* diagram introductory tutorial */
-<guide-click-here "click here">
-<guide-or-here "or here">
-<guide-editanytext "you can edit any text">
-<guide-draganything "and drag anything to move it">
-<guide-clicktoadd "now click here to add child item">
-<guide-taptoaddmore "now tap to add more">
-<guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
-<guide-undo "you can use {{ $undoKey }} to undo any anything you do!">
-<guide-redo "and {{ $redoKey }} to re-do things again afterwards">
-<guide-donebasics "neat you've got the hang of the basics!">
+<guide-click-here "ここをクリック">
+<guide-or-here "こっちでもOK">
+<guide-editanytext "どんなテキストも編集できます">
+<guide-draganything "そして、ドラッグすれば移動もできます">
+<guide-clicktoadd "ここをクリックして、子アイテムを追加しましょう">
+<guide-taptoaddmore "タップしてもっと追加してみましょう">
+<guide-holdtoremove "... また、 {{ $removeKey }} を長押しして、ここをクリックすることで削除をすることができます。">
+<guide-undo "{{ $undoKey }} を使って、一つ前の作業を取り消すことができます。">
+<guide-redo "また、 {{ $redoKey }} を使って、取り消した作業を一つ復活させることができます。">
+<guide-donebasics "すばらしい！基本を抑えましたね！">
 
 
 /* diagram contextual help items */
