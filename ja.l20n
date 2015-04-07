@@ -57,12 +57,12 @@
 """>
 
 <footer-index """
-  <p>More <a>about Coggle</a>.</p>
-  <a><img alt="like us on facebook"></a>
-  <a><img alt="follow us on twitter"></a>
-  <p>Get <a>Coggle stuff</a>!</p><br>
-  <p>Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>.</p>
+  <p>Coggleのことを<a>もっと知る</a></p>
+  <a><img alt="FacebookでLikeする"></a>
+  <a><img alt="Twitterでフォローする"></a>
+  <p><a>Coggle グッズ</a>をゲットする!</p><br>
+  <p>私たちの<a>プライバシー・ポリシー</a></p>
+  <p><a>プレスの方へ</a></p>
 """>
 
 /* new frontpage content */
