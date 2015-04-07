@@ -101,16 +101,16 @@
 
 /* documents list content */
 <createcoggle """
-  <p title="Create a new Coggle.">CREATE</p>
+  <p title="Coggleの新規作成">新規作成</p>
 """>
 <createfolder """
   <img>
-  <p title="Create a new Folder.">ADD</p>
+  <p title="フォルダの追加">追加</p>
 """>
-<limitedaccess "You have limited access to  as you're not a member">
+<limitedaccess "メンバー以外のアクセスは制限されています。">
 <link-drive """
   <a><img>
-    <span>Too many Coggles? Organise them in Google Drive</span>
+    <span>Coggleが増えすぎましたか？Google Driveで管理しましょう。</span>
   </a>
 """>
 
