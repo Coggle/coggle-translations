@@ -286,20 +286,20 @@ Getting Started <a>hide</a><a>show</a>
 
 
 /* My Settings Page (/me) */
-<me-hi "Hi {{ $user.givenName }},">
+<me-hi "こんにちは {{ $user.givenName }},">
 <me-supporterpitch """
-  Coggle is free, and we think that <strong>great tools should be available for everyone</strong>.
-  But if you'd like to support the continued development of Coggle then you can by becoming a Coggle supporter - in return you'll get early access to great new features that we're trialling.
+  Coggleは無料です。私達は<strong>素晴らしいツールはすべての人に開かれているべきだ</strong>と考えています。
+  もし、あなたがCoggleの継続的な開発をサポートしたいと思われるなら、Coggleのサポーターになってください。代わりに、開発中の新しい機能に優先的にアクセスできるようになります。
 """>
-<me-communication "Communication!">
-<me-emailslist "These are the emails we have on record for you:">
-<me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
-<me-commspref "Here's what you've told us about your communication preferences:">
+<me-communication "コミュニケーション！">
+<me-emailslist "私たちが記録しているemailアドレスです:">
+<me-emailstip "私たちはprimaryのemailアドレスにのみ連絡しますが、Coggleのお誘いは他のemailアドレスでも受け取ることができます。">
+<me-commspref "こちらは、あなたのコミュニケーション設定です:">
 <me-comms-explain """
-  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
+  ときどき、サービスのアップデートや新機能のお知らせを送ることがありますが、<strong>primary</strong>アドレスにのみ送信します。スパムや第三者の広告は送信しません（私たちもうその手のものを受け取るのは大嫌いです）。
 """>
 <me-talktome "Talk to me: ">
-<me-diagram-notifications "Diagram notifications: ">
+<me-diagram-notifications "ダイアグラムの通知: ">
 
 <slider-yes "YES">
 <slider-no "NO">
