@@ -394,25 +394,25 @@ Getting Started <a>hide</a><a>show</a>
 
 /* About Coggle (/about) */
 <about-hello """
-  <h1>Hello!</h1>
-  <p>Coggle is about redefining the way documents work: the way we share and store knowledge. It's a space for thoughts that works the way that people do — not in the rigid ways of computers.</p>
-  <p>It's free, and we promise it always will be, but we still take our responsibilities seriously. We promise to look after your data the best we know how, to keep backups, and to take security seriously.</p>
-  <p>Our mission is to change the way that people work and collaborate forever, to make you more productive, and to make it easier to share information with others, and to do it in a way that's beautiful, and a pleasure to use.</p>
+  <h1>こんにちは！</h1>
+  <p>Coggleは私たちが知識を共有したり貯めておく手段としてのドキュメントのあり方を変えようとしています。コンピュータの融通のきかないやり方ではない方法を考える余地があります。</p>
+  <p>無料です。常に無料であることをお約束します。ただ、その責任をまじめに捉えています。私たちは知りうる限り最善の方法であなたのデータに責任を持ち、バックアップを取り、セキュリティを保ちます。</p>
+  <p>私たちのミッションは人々の働き方やコラボレーションのやり方を将来にわたって変えてゆくこと、もっと人々を生産的にすること、情報を共有しやすくすること、それを美しく楽しいやりかたで成し遂げることです。</p>
 """>
 
 <about-getintouch """
-  <h1>Get in Touch</h1>
-  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter </a>and if you prefer you can always send an email to <a>hello@coggle.it </a>— we love to chat!</p>
+  <h1>連絡をとりましょう</h1>
+  <p>質問がありますか？どのようにCoggleを使っているか私たちに伝えたいですか？フィードバックがありますか？<a>facebook </a>や<a>Twitter</a>でお知らせ下さい。<a>hello@coggle.it </a>へのemailはいつでも受け付けています。 - 私たちはお話をすることが大好きです！</p>
 """>
 
 <about-spreadtheword """
-  <h1>Spread the Word</h1>
-  <p>If you love Coggle, then help us break even more people free from the confines of lists, spreadsheets and conventional documents! You can share Coggle <a>on Twitter </a>or <a>on Facebook</a>, or you can even get a <a>Coggle tshirt</a>.</p>
+  <h1>世界に広げる</h1>
+  <p>Coggleが大好きなら、もっとたくさんの人をリストや表計算ソフトや伝統的なドキュメントの限界から解き放つ手助けをして下さい！Coggleを<a>Twitter</a>や<a>Facebook</a>でシェアしたり、<a>Coggle Tシャツ</a>をゲットしてください。</p>
 """>
 
 <about-press """
-  <h1>In the press?</h1>
-  <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
+  <h1>プレスは？</h1>
+  <p>私たちの<a>プレス・キット</a>をチェックして下さい。また、もっと詳しくご理解頂くために<a>ご連絡下さい</a>！</p>
 """>
 
 <about-company """
