@@ -153,15 +153,15 @@
 
 
 /* diagram contextual help items */
-<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
-<help-sidebar "Click here to show or hide the help sidebar at any time.">
-<help-share-diagram "Click to invite people to edit or view this Coggle. We'll send them an email with a link to sign in and edit!">
-<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
-<help-toolbar-invite-title "Work With Others">
-<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
-<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-gohome "Coggleのロゴをクリックすると、一覧ページに戻ります。その際、編集中のドキュメントは自動保存されます。">
+<help-sidebar "いつでもここをクリックすることでヘルプ・サイドバーの表示・非表示を変更できます。">
+<help-share-diagram "クリックしてCoggleの編集や閲覧のために共同作業者をお誘いしましょう。サインインと編集のためのemailリンクが送られます！">
+<help-multiline "[ctrl] + [enter]や書き込む前に入力欄のサイズを変更して、複数行の編集をしましょう。">
+<help-toolbar-invite-title "共同作業をする">
+<help-toolbar-invite "クリックしてCoggleの編集や閲覧のために共同作業者をお誘いしましょう。アイコンをタップすることで、共同作業者の権限の変更ができます。">
+<help-toolbar-invitemulti-title "一度に誘いましょう">
 <help-toolbar-invitemulti """
-  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+  時間の節約のために、一度に複数の人を誘うことができます: スペースや、カンマ <b>,</b> セミコロン <b>;</b> で区切ってemailを入力（ペースト）します。
 """>
 
 
