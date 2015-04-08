@@ -488,122 +488,122 @@
 
 /* Coggle Facts */
 <fact-math """
-Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
+Coggleで数式が書けるのを知っていましたか？（そう、ギークっぽいでしょう！） \\\\( LaTeX here \\\\) と書いて試して下さい！
 """>
 <fact-collaborate """
-Did you know that you can collaborate in real-time with others? You can! Look for the share button in the top right.
+他の人とリアルタイムで共同作業ができるのを知っていましたか？できるんです！画面右上のシェアボタンからどうぞ。
 """>
 <fact-share """
-Did you know that you can edit a Coggle at the same time as someone else? You can! Look for the share button in the top right.
+他の人と同時に編集ができるのを知っていましたか？できるんです！画面右上のシェアボタンからどうぞ。
 """>
 <fact-chat """
-Did you know that you can chat with everyone else editing the Coggle at the same time? You can! Look for the chat icon in the top right.
+Coggleを編集している他の人とチャットが出来るのを知っていましたか？できるんです！画面右上のチャットアイコンからどうぞ。
 """>
 <fact-font """
-Did you know you can use a fixed-width code font in Coggles? You can!<p>Just use `backticks` around the text, it also stops other special syntax from being interpreted.
+Coggleで固定幅のコード・フォントが使えるのを知っていましたか？できるんです！<p>ただ、 `backticks` でテキストを囲むだけです。他の特別構文もキャンセルできます。
 """>
 <fact-bold """
-Did you know you can use **bold text** in Coggles?<p>Just use **double asterisks** where you want the emphasis!
+Coggleで **太字** を使えるのを知っていましたか？<p>強調したい箇所を **アスタリスク２つ** で囲むだけ！
 """>
 <fact-italic """
-Did you know you can use *italic text* in Coggles?<p>Just use *asterisks* where you want the emphasis!
+Coggleで *イタリック* を使えるのを知っていましたか？<p>協調したい箇所を *アスタリスク* で囲むだけ！
 """>
 <fact-links """
-Did you know you can put links in Coggles? You can!<p>They work like this:<br>[description](http://example.com)
+Coggleでリンクを使えるのを知っていましたか？できるんです！<p>こんな感じです。:<br>[詳細](http://example.com)
 """>
 <fact-download """
-Did you know that you can download your Coggle as a PDF or an image? You can! Look for the download button in the top right of the screen.
+CoggleをPDFや画像の形式でダウンロードできるのを知っていましたか？できるんです！画面右上のダウンロードボタンからどうぞ。
 """>
 <fact-markdown """
-Did you know that Coggle uses <a>markdown syntax</a>? It does!<p>Try out links like this: &lt;http://example.com&gt;
+Coggleは<a>Markdown</a>で記述できることを知っていましたか？サポートしてるんです！<p>こんな感じでリンクを書いてみましょう。: &lt;http://example.com&gt;
 """>
 <fact-latex """
-Did you know Coggle supports LaTeX formulae? It does!<p>Use \\\\( LaTeX here \\\\) to try it out! Check out <a>this link</a> for syntax help.
+CoggleはLaTeX関数をサポートしているのを知っていましたか？サポートしてるんです！<p>\\\\( LaTeX here \\\\) と書いてみてください。<a>このリンクから</a>構文のヘルプを見ることができます。
 """>
 <fact-move """
-Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
+Coggleの別の場所のアイテムがほしいですか？問題ありません！シフトを押しながらアイテムの(+)ボタンをドラッグして他の場所にくっつけて下さい。
 """>
 <fact-fontsize """
-Text too big? Too small? You can zoom!<br> use [ctrl] [+] / [ctrl] [-]
+テキストが大きすぎる？小さすぎr？ズームが出来ます！<br>[ctrl] [+] / [ctrl] [-] をしてみましょう。
 """>
 <fact-zoomin """
-Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+] in most browsers!
+詳細に見るためにズームができることを知っていましたか？できるんです！<br>[ctrl] [+] をしてみてください。ほとんどのブラウザでできます!
 """>
 <fact-zoomout """
-Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-] in most browsers!
+全体像を確認するためにズーム・アウトができることを知っていましたか？できるんです！<br>[ctrl] [-] をしてみてください。ほとんどのブラウザでできます！
 """>
 <fact-markdown2 """
-Did you know that <a>Markdown</a> is awesome? It is, and Coggle supports it!
+<a>Markdown</a>がすごいことを知っていましたか？すごいんです。そして、Coggleではそれをサポートしているんです！
 """>
 <fact-pdf """
-You can download your Coggle as a PDF! Look for the download button in the top right of the screen.
+CoggleをPDFとしてダウンロードできます！画面右上のダウンロードボタンからどうぞ。
 """>
 <fact-png """
-You can download your Coggle as an Image! Look for the download button in the top right of the screen.
+Coggleを画像としてダウンロードできます！画面右上のダウンロードボタンからどうぞ。
 """>
 <fact-latex2 """
-Did you know Coggle supports LaTeX for math? It does!<p>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a>a syntax guide</a>.
+Coggleで数式が書けるのを知っていましたか？書けるんです！<p>\\\\( \\LaTeX here \\\\) を試してみてください。そして、こちらが<a>構文ガイド</a>です。
 """>
 <fact-history """
-Did you know you can view the history of who changed what, when in your Coggle? You can! Click the history icon in the top right.
+Coggleで誰が何を変えたのかのヒストリーが見れることを知っていましたか？見れるんです！画面右上のヒストリーアイコンをクリックしてどうぞ。
 """>
 <fact-images """
-Did you know you can put images in your Coggle? You can!<p>Just drag and drop an image from your computer to wherever you want it.
+画像をCoggleに追加できることを知っていましたか？できるんです！<p>コンピュータから、好きな場所にイメージをドラッグ・アンド・ドロップしてください。
 """>
 <fact-images2 """
-Did you know you can use images in Coggles? You can!<p>Just drag and drop an image from your computer to wherever you want it. A mini version of the image is uploaded and saved!
+Coggleで画像を使えるのを知っていましたか？使えるんです！<p>コンピュータから、好きな場所にイメージをドラッグ・アンド・ドロップしてください。小さな画像がアップロードされ、保存されます。
 """>
 <fact-multipleimages """
-Did you know you can add multiple images at the same time? You can!<p>Select multiple files on your computer, then drag them onto your Coggle.
+同時に複数の画像をアップロードできるのを知っていましたか？できるんです！<p>コンピュータ上の複数のファイルを選択して、Coggleにドラッグして下さい。
 """>
 <fact-plaintext-in """
-Did you know you can drag & drop plain text files onto Coggle to import them? You can!<p>If your file has indentation, Coggle will even add structure to the imported text.
+プレーン・テキスト・ファイルをCoggleにドラッグ・アンド・ドロップでインポートできるのを知っていましたか？できるんです！<p>もし、ファイルにインデントがあったら、Coggleはインポートされたテキストを構造化さえします。
 """>
 <fact-freemind-in """
-Did you know you can drag & drop Freemind .mm files onto Coggle to import them? You can!
+Freemind .mmファイルをドラッグ・アンド・ドロップでCoggleにインポートできるのを知っていましたか？できるんです！
 """>
 <fact-link-drag """
-Did you know you can drag a URL from your address bar onto a Coggle to make a link to that site? You can!
+アドレスバーのURLをドラッグしてリンクとしてCoggleに追加できるのを知っていましたか？できるんです！
 """>
 <fact-text-size """
-Did you know you can change the font? You can!<p>Use #, ##, or ### at the start of a line to make the text bigger.
+フォントを変えられるのを知っていましたか？変えられるんです！<p>#や、##や、###を行の最初につけるとテキストが大きくなります。
 """>
 <fact-md-reference """
-Did you know you can use Markdown in Coggles to add links, images and more? You can!<p>Here\'s the <a>complete reference</a>.
+Coggleでリンクや画像などをMarkdownで記述できることを知っていましたか？できるんです！<p>こちらが<a>完全ガイド</a>です。
 """>
 <fact-multiline-keys """
-Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field downwards, and then use [return] normally.
+テキストを改行できることを知っていましたか？できるんです！[ctrl]を押しながら、[return]を押すと、改行することができます。また、編集フィールドの角を下の方にドラッグしてひろげ、[return]をいつもどおり押しても改行することができます。
 """>
 <fact-multiline-drag """
-Did you know you can break text over multiple lines? You can! Drag the corner of the edit field downwards, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
+テキストを開業できることを知っていましたか？できるんです！編集フィールドの角を下の方にドラッグして広げ、[return]することで、保存する代わりに開業します。また、[ctrl]を押しながら[return]をすることでも改行することができます。
 """>
 <fact-resize-images """
-Did you know you can resize images? You can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
+画像をリサイズできることを知っていましたか？できるんです！インターネット上のイメージ（それが利用可能であることが必要です）をCoggleにドラッグして、画像の右下の角をドラッグすることでリサイズできます。
 """>
 <fact-image-size """
-Did you know we support a Markdown extension to specify image size? We do! Specify a 200 by 100 pixel image like this: ![image description](http://url.to.image "optional title" 200x100)
+画像サイズを指定するマークダウンの拡張をサポートしていることを知っていましたか？サポートしているんです！200 x 100 ピクセルの画像はこのように書けます： ![image description](http://url.to.image "optional title" 200x100)
 """>
 <fact-bold-kbshort """
-Did you know you can use keyboard shortcuts to add **bold text** in Coggles? You can! Just press [ctrl]+[b] (or [cmd]+[b] on macs) with the text you want bold selected.
+Coggleには**太字**のショートカットがあることを知っていましたか？あるんです！太字にしたい文字を選択肢て、[ctrl]+[b](Macでは[cmd]+[b])とするだけです。
 """>
 <fact-shortcuts-1 """
-Did you know you can edit your Coggle using only the keyboard? You can, here\'s how:<p>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
+キーボードだけでCoggleを編集できることを知っていましたか？できるんです！やり方はこうです：<p>子アイテムを追加するときは[tab]を押します。<br>親に移動するときは、[shift]+[tab]とします。<br>兄弟アイテムを追加するときは、[shift]+[return]とします。
 """>
 <fact-shortcuts-2 """
-Did you know you can select which branch to edit using keyboard shortcuts? You can!<p>Use [alt]+[shift]+arrow keys to move along branches.
+キーボードショートカットで編集したいブランチを選択できることをしっていましたか？できるんです！<p>[alt]+[shift]+arrow キーでブランチを移動できます。
 """>
 <fact-task-lists """
-Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
+CoggleにMarkdownでチェックリストを追加できることを知っていましtか？できるんです。やり方はこうです：<p>- [ ] 未チェックのチェックボックス<br>- [X] チェック済みのチェックボックス</p><p>チェックボックスをチェックするとMarkdownも書き換わります。
 """>
 <fact-supporter-1 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you get early access to great new features.", more:"http://bloggle.coggle.it/cross-links-supporters/
+Coggleサポーターになれることを知っていましたか！なれるんです！1年間£5で、新機能を優先的に利用できるようになります。", 詳しくはこちら:"http://bloggle.coggle.it/cross-links-supporters/
 """>
 <fact-supporter-2 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you can show your support for Coggle, and get some neat perks!", more:"http://bloggle.coggle.it/cross-links-supporters/
+Coggleサポーターになれることを知っていましたか！なれるんです！1年間£5で、サポートを表明することができます。素敵な特典もあります。", 詳しくはこちら:"http://bloggle.coggle.it/cross-links-supporters/
 """>
 <fact-supporter-3 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you get great perks including creating cross-links, and you show your support for Coggle!", more:"http://bloggle.coggle.it/cross-links-supporters/
+Coggleサポーターになれることを知っていましたか！なれるんです！1年間£5で、クロスリンクを含めたすばらしい特典があります。そして、Coggleへのサポートを表明できます！", 詳しくはこちら:"http://bloggle.coggle.it/cross-links-supporters/
 """>
 <fact-api-1 """
-Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.", more:"http://bloggle.coggle.it/introducing-the-coggle-api/
+CoggleにはAPIがあることをしっていましたか？あるんです！Coggleを新規作成したり、調査したり、操作したりをプログラムから自動で行うことができます。", 詳しくはこちら :"http://bloggle.coggle.it/introducing-the-coggle-api/
 """>
