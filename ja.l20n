@@ -424,66 +424,66 @@
 
 
 /* diagram tooltips */
-<context-dragclick "drag to move, click to edit">
-<context-dragclickfollow "drag to move, click to edit, {{ $followLinkKey }} + click to follow links">
+<context-dragclick "ドラッグして移動、クリックして編集">
+<context-dragclickfollow "ドラッグして移動、クリックして編集、{{ $followLinkKey }} + でリンクを開く">
 
-<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
-<context-insert-branch "insert text: release [shift] to add branch instead">
-<context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
-<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
-<context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
+<context-remove-branch-alt "このブランチを削除する。[alt] を離してブランチを追加">
+<context-insert-branch "テキストを挿入。[shift] を離してブランチを追加">
+<context-squash-branch "テキストを取り除く。{{ $squashKeys }} を離してブランチを追加">
+<context-remove-branch-ctrl "ブランチを削除。[ctrl]+[shift] で、このアイテムのみ削除">
+<context-add-branch "クリックしてブランチを追加。{{ $removeKey }} を押して削除">
 
 
 /* sharing dialog content */
-<share-newlink "New Link:">
+<share-newlink "リンクの新規作成:">
 <share-newlink-tip """
-  These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+  ログインしていない人たちに対してダイアグラムを共有することができます。注意して下さい。<strong>どんな人</strong>でもリンクを通してあなたのダイアグラムが見えることになります。
 """>
 <share-tag-user "user">
 <share-tag-embed "embed">
 <share-tag-writable "editable">
-<share-embed "Embed this Coggle in a Website">
-<share-send-email "SEND">
+<share-embed "Coggleをウェブ・サイトに埋め込む">
+<share-send-email "送信">
 <share-email-hints """
-  <div>to invite, type an email</div>
-  <div>then hit enter</div>
+  <div>emailを入力して</div>
+  <div>enterを押して下さい</div>
   <div>friend@example.com</div>
 """>
 
 /* download dialog content */
-<download-pdf "Download PDF">
-<download-png "Download Image">
-<download-mm ".mm File">
-<download-txt "Plain-Text Outline">
-<download-advanced "Advanced Types">
-<download-failed "File generation failed.">
+<download-pdf "PDFをダウンロード">
+<download-png "Imageをダウンロード">
+<download-mm ".mm ファイル">
+<download-txt "プレーン・テキスト　アウトライン">
+<download-advanced "その他の形式">
+<download-failed "ファイルの生成に失敗しました。">
 
 /* access control slider content */
-<access-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-author "Author<br/><span>Allow creating and editing documents</span>">
+<access-readonly "閲覧のみ<br/><span>閲覧権限のみ付与</span>">
+<access-readclone "閲覧とコピー<br/><span>ダウンロードとコピー権限を付与</span>">
+<access-author "編集者<br/><span>新規作成、編集権限を付与</span>">
 
-<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
-<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
+<access-folder-readonly "閲覧のみ<br/><span>閲覧権限のみ付与</span>">
+<access-folder-readclone "閲覧とコピー<br/><span>ダウンロードとコピー権限を付与</span>">
+<access-folder-author "編集者<br/><span>新規作成、編集権限を付与</span>">
+<access-folder-admin "管理者<br/><span>メンバーやドキュメントを追加・削除できる</span>">
 
-<access-remove "Remove {{ $user.givenName }}">
+<access-remove "{{ $user.givenName }}を外す">
 
 /* Notification Messages */
 <notice-history """
-You are viewing previous versions of this Coggle! close the history viewer to return to the current version.
+古いバージョンのCoggleを見ています！現在のバージョンに戻るには、ヒストリー・ビューアを閉じます。
 """>
 <notice-disconnected """
-Connection lost: changes made now may not be saved. You could try to <a>reconnect now</a>, or <a>reload the page</a>.
+接続が切れました。変更は保存されていないかもしれません。<a>再接続を試みる</a>か、ページの<a>リロード</a>を試してみてください。
 """>
 
 /* Image drag-drop messages */
 <imgupload-was-resized """
-  <p>Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!</p>
-  <a>Coggle Supporters</a> can upload much larger images, and get early access to great new features, too: <a>read more</a>
+  <p>画像は、無料を維持するために{{ $maxWidth }} &times; {{ $maxHeight }}に収まるサイズに縮小されています。</p>
+  <a>Coggleサポーター</a>はもっと大きな画像をアップロードできます。また、新機能を優先的に使うことができます。 <a>続きを読む</a>
 """>
-<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
+<imgupload-slow-down "あわわ、遅くなってる！一枚ずつ画像をアップロードしてみてください。">
 
 
 /* Coggle Facts */
