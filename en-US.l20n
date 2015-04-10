@@ -616,14 +616,14 @@ Did you know you can select which branch to edit using keyboard shortcuts? You c
 Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
 """>
 <fact-supporter-1 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you get early access to great new features.", more:"http://bloggle.coggle.it/cross-links-supporters/
+Did you know you can become a Coggle Supporter? You can! For £5/year you get early access to great new features.
 """>
 <fact-supporter-2 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you can show your support for Coggle, and get some neat perks!", more:"http://bloggle.coggle.it/cross-links-supporters/
+Did you know you can become a Coggle Supporter? You can! For £5/year you can show your support for Coggle, and get some neat perks!
 """>
 <fact-supporter-3 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you get great perks including creating cross-links, and you show your support for Coggle!", more:"http://bloggle.coggle.it/cross-links-supporters/
+Did you know you can become a Coggle Supporter? You can! For £5/year you get great perks including creating cross-links, and you show your support for Coggle!
 """>
 <fact-api-1 """
-Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.", more:"http://bloggle.coggle.it/introducing-the-coggle-api/
+Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
 """>
