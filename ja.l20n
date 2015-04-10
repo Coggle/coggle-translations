@@ -1,9 +1,9 @@
 /* login widget content */
 
 <login-signup-button """
-  <p>サインアップ</p><p>USING GOOGLE</p>
+  <p>サインアップ</p><p>Googleアカウント</p>
 """>
-<login-tagline "無料で簡単！すでにサインアップしていますか？ <a>ログイン</a>.">
+<login-tagline "無料で簡単！すでにサインアップしているなら<a>ログイン</a>">
 <logout "ログアウト">
 
 
