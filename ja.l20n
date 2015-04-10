@@ -264,23 +264,23 @@
   We use <a>stripe</a> to process payments securely: your card details never go through our servers.
 """>
 <me-support-benefits """
-  <span>Hello &mdash; this is you!</span>
-  Become a Coggle supporter for <b>£5 / year</b> and get early access to new features including:
+  <span>こんにちは &mdash; これはあなたです！</span>
+  Coggleサポーターになって、新機能を優先的に使いましょう。<b>年間 £5</b>です:
 """>
 
 <support-feature-bigimages """
   <img>
   <span>
-    <span>Upload large images to your Coggle. </span>
-    <span>Just drag and drop images from your desktop to add them, as a supporter you can add much bigger images!</span>
+    <span>大きな画像をCoggleにアップロードすることができます。 </span>
+    <span>画像をデスクトップからドラッグ・アンド・ドロップするだけで追加できます。サポーターになることで、もっと大きな画像を追加することができるようになります！</span>
   </span>
 """>
 
 <support-feature-xlinks """
   <img>
   <span>
-    <span>Easily create cross-links between items. </span>
-    <span>Use the drag-and-drop menu item to easily show dependencies between items in your Coggle!</span>
+    <span>簡単にアイテム間のクロス・リンクを張ることができます。</span>
+    <span>メニュー・アイテムをドラッグ・アンド・ドロップするだけで、簡単にアイテム間の依存関係を表示することができます！</span>
   </span>
 """>
 
