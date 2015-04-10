@@ -167,7 +167,7 @@
 
 /* diagram sidebar content */
 <sidebar-getstarted """
-はじめに <a>隠す</a><a>表示する</a>
+まずはここから <a>隠す</a><a>表示する</a>
 """>
 <guidestep-add "新しいアイテムを追加する">
 <guidestep-edit "アイテムを編集する">
@@ -178,53 +178,53 @@
 
 <sidebar-controls "操作">
 <sidebar-addbranch """
-  <div>ブランチを追加する:</div>
+  <div>ブランチを追加:</div>
   <div><span> クリック </span><div></div></div>
 """>
 <sidebar-removebranch """
-  <div>ブランチを削除する:</div>
+  <div>ブランチを削除:</div>
   <div><div> alt </div> <span> + クリック </span> <div></div></div>
 """>
 <sidebar-insertbranch """
-  <div>ブランチを挿入する:</div>
+  <div>ブランチを挿入:</div>
   <div><div> shift </div> <span> + クリック </span> <div></div></div>
 """>
 <sidebar-movebranch """
-  <div>ブランチを移動する: </div>
-  <div><div> ドラッグする！ </div></div>
+  <div>ブランチを移動: </div>
+  <div><div> ドラッグ！ </div></div>
 """>
 <sidebar-transplantbranch """
-  <div>ブランチを挿し替える: </div>
+  <div>ブランチを挿し替え: </div>
   <div><div> shift </div> <span> + ドラッグ </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
-  <div>色を変える: </div>
-  <div><span> ブランチをクリックする </span></div>
+  <div>色を変更: </div>
+  <div><span> ブランチをクリック</span></div>
 """>
 <sidebar-addimages """
-  <div><a>画像</a> を追加する: </div>
-  <div><div> ドラッグ・アンド・ドロップ </div></div>
+  <div><a>画像</a> を追加: </div>
+  <div><div> ドラッグ & ドロップ </div></div>
 """>
 <sidebar-zoom """
   <div>ズームする: </div>
-  <div><div> ctrl </div><span> + マウスホイール </span></div>
+  <div><div> ctrl </div><span> + ホイール </span></div>
 """>
 <sidebar-shortcuts "ショートカット">
 <sidebar-undo """
-  <div> 変更の取り消し: </div>
+  <div> 変更の取消し: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
-  <div> 取り消した変更のキャンセル: </div>
+  <div> 取消しのキャンセル: </div>
   <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-whentyping "入力時">
 <sidebar-sc-newitem """
-  <div> アイテムの新規作成: </div>
+  <div> アイテム新規作成: </div>
   <div><div> shift </div><span> + </span><div> return </div></div>
 """>
 <sidebar-sc-newchild """
-  <div> 子アイテムの新規作成: </div>
+  <div> 子アイテム新規作成: </div>
   <div><div> tab </div></div>
 """>
 <sidebar-sc-parent """
@@ -243,7 +243,7 @@
   <p>ヘルプが必要ですか？バグを見つけましたか？連絡を取りたいですか？ <a>hello@coggle.it</a> メールをお待ちしています。</p>
   <p>Coggleの最新情報やチュートリアルは <a>Bloggle</a> で見ることができます。Coggleのブログです。</p>
   <p><a>Coggleのことをもっと知りたい</a>。 私たちの <a>プライバシー・ポリシー</a>。</p>
-  <p><a>プレスはこちら</a>。 <a>ディベロッパーはこちら</a>。</p>
+  <p>プレスは<a>こちら</a>。 ディベロッパー<a>はこちら</a>。</p>
 """>
 
 /* Self-dialog & Supporter Signup */
