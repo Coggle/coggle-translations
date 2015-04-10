@@ -437,7 +437,7 @@
 /* sharing dialog content */
 <share-newlink "リンクの新規作成:">
 <share-newlink-tip """
-  ログインしていない人たちに対してダイアグラムを共有することができます。注意して下さい。<strong>どんな人</strong>でもリンクを通してあなたのダイアグラムが見えることになります。
+  ログインしていない人たちに対してダイアグラムを共有することができます。注意して下さい。リンクを通して<strong>誰でも</strong>あなたのダイアグラムが見えることになります。
 """>
 <share-tag-user "user">
 <share-tag-embed "embed">
