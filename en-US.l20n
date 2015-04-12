@@ -242,6 +242,10 @@ Getting Started <a>hide</a><a>show</a>
   <div> Jump to Parent: </div>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
+<sidebar-sc-markdown"""
+    <div>Format text: </div>
+    <div>use <a>Markdown</a></div>
+""">
 <cogglefacts """
   Coggle Fact <a>another!</a>
 """>
