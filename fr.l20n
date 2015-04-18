@@ -201,6 +201,10 @@ Pour commencer <a>cacher</a><a>montrer</a>
   <div> Se déplacer au parent: </div>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
+<sidebar-sc-markdown """
+    <div>Format text: </div>
+    <div>use <a>Markdown</a></div>
+""">
 <cogglefacts """
   Faits Coggle <a>un autre!</a>
 """>
@@ -507,9 +511,6 @@ Saviez-vous que vous pouviez mettre des images dans votre Coggle? En effet!<p>Il
 <fact-images2 """
 Saviez-vous que vous pouvez utiliser des images dans des Coggles? En effet!<p>Il suffit de glisser-déposer une image de votre ordinateur où que vous le voulez. Une mini-version de l'image est téléversé et sauvegardé!
 """>
-<fact-multipleimages """
-Saviez-vous que vous pouvez ajouter plusieurs images en même temps? En effet!<p>Sélectionner plusieurs fichiers sur votre ordinateur, et glissez-les dans Coggle.
-""">
 <fact-plaintext-in """
 Saviez-vous que vous pouvez glisser-déposer des fichiers textes dans Coggle pour les importer? En effet!<p>Si votre fichier a de l'indentation, Coggle conservera la structure du texte importé.
 """>
@@ -522,6 +523,12 @@ Saviez-vous que vous pouvez glisser un lien hypertexte de votre barre d'adresse 
 <fact-text-size """
 Saviez-vous que vous pouvez changer la taille de la police? En effet!<p> Utilisez #, ##, ou ### au début d'une ligne pour rendre le texte de plus en plus grand.
 """>
+<fact-text-size2 """
+Did you know you can change the font? You can!<p>Drag the corner of the text editing area up or down to change the text size.
+""">
+<fact-text-size3 """
+Did you know you can change the text size? You can!<p>Drag the corner of the text editing area.
+""">
 <fact-md-reference """
 Saviez-vous que vous pouvez utiliser Markdown dans Coggle pour ajouter des liens, images et plus encore? En effet!<p>Vous pouvez lire le <a>manuel complet</a> ici.
 """>
@@ -530,6 +537,9 @@ Saviez-vous que vous pouvez diviser votre texte sur plusieurs lignes? En effet! 
 """>
 <fact-multiline-drag """
 Saviez-vous que vous pouvez diviser le texte sur plusieurs lignes? En effet! Augmentez la taille du champ d'édition, et l'utilisation du retour à la ligne insérera une nouvelle ligne au lieu de sauvegarder vos modifications. Vous pouvez aussi tenir appuyé [ctrl] pendant que vous pressez [entrer] pour insérer une nouvelle ligne pendant que vous écrivez.
+""">
+<fact-multiline-wrap """
+Did you know you can break text over multiple lines? You can! Drag the corner of the text editing area left/right to wrap text onto multiple lines.
 """>
 <fact-resize-images """
 Saviez-vous que vous pouvez redimensionner les images? Glisser-déposer votre image sur Coggle de n'importe quel emplacement (à condition que vous la permission de l'utiliser), et faites glisser le coin en bas à droite de l'image pour la redimensionner.
@@ -560,4 +570,13 @@ Saviez-vous que vous pouvez devenir un supporteur de Coggle? En effet! Pour £5/
 """>
 <fact-api-1 """
 Saviez-vous que nous avions une API? Eh oui! Les programmes peuvent l'utiliser pour créer, examiner ou manipuler des Coggles automatiquement.
+""">
+<fact-organisation """
+Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+""">
+<fact-organisation2 """
+Did you know Coggle Organisations can put their logo on their Coggles? They can!
+""">
+<fact-organisation3 """
+Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
 """>
