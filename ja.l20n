@@ -231,6 +231,10 @@
   <div> 親アイテムへの移動: </div>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
+<sidebar-sc-markdown """
+    <div>Format text: </div>
+    <div>use <a>Markdown</a></div>
+""">
 <cogglefacts """
   Coggleができること <a>他を見る!</a>
 """>
@@ -553,9 +557,6 @@ Coggleで誰が何を変えたのかのヒストリーが見れることを知�
 <fact-images2 """
 Coggleで画像を使えるのを知っていましたか？使えるんです！<p>コンピュータから、好きな場所にイメージをドラッグ・アンド・ドロップしてください。小さな画像がアップロードされ、保存されます。
 """>
-<fact-multipleimages """
-同時に複数の画像をアップロードできるのを知っていましたか？できるんです！<p>コンピュータ上の複数のファイルを選択して、Coggleにドラッグして下さい。
-""">
 <fact-plaintext-in """
 プレーン・テキスト・ファイルをCoggleにドラッグ・アンド・ドロップでインポートできるのを知っていましたか？できるんです！<p>もし、ファイルにインデントがあったら、Coggleはインポートされたテキストを構造化さえします。
 """>
@@ -568,6 +569,12 @@ Freemind .mmファイルをドラッグ・アンド・ドロップでCoggleに�
 <fact-text-size """
 フォントを変えられるのを知っていましたか？変えられるんです！<p>#や、##や、###を行の最初につけるとテキストが大きくなります。
 """>
+<fact-text-size2 """
+Did you know you can change the font? You can!<p>Drag the corner of the text editing area up or down to change the text size.
+""">
+<fact-text-size3 """
+Did you know you can change the text size? You can!<p>Drag the corner of the text editing area.
+""">
 <fact-md-reference """
 Coggleでリンクや画像などをMarkdownで記述できることを知っていましたか？できるんです！<p>こちらが<a>完全ガイド</a>です。
 """>
@@ -576,6 +583,9 @@ Coggleでリンクや画像などをMarkdownで記述できることを知って
 """>
 <fact-multiline-drag """
 テキストを開業できることを知っていましたか？できるんです！編集フィールドの角を下の方にドラッグして広げ、[return]することで、保存する代わりに開業します。また、[ctrl]を押しながら[return]をすることでも改行することができます。
+""">
+<fact-multiline-wrap """
+Did you know you can break text over multiple lines? You can! Drag the corner of the text editing area left/right to wrap text onto multiple lines.
 """>
 <fact-resize-images """
 画像をリサイズできることを知っていましたか？できるんです！インターネット上のイメージ（それが利用可能であることが必要です）をCoggleにドラッグして、画像の右下の角をドラッグすることでリサイズできます。
@@ -606,4 +616,13 @@ Coggleサポーターになれることを知っていましたか！なれる�
 """>
 <fact-api-1 """
 CoggleにはAPIがあることをしっていましたか？あるんです！Coggleを新規作成したり、調査したり、操作したりをプログラムから自動で行うことができます。
+""">
+<fact-organisation """
+Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+""">
+<fact-organisation2 """
+Did you know Coggle Organisations can put their logo on their Coggles? They can!
+""">
+<fact-organisation3 """
+Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
 """>
