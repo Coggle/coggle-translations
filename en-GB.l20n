@@ -242,6 +242,10 @@ Getting Started <a>hide</a><a>show</a>
   <div> Jump to Parent: </div>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
+<sidebar-sc-markdown """
+    <div>Format text: </div>
+    <div>use <a>Markdown</a></div>
+""">
 <cogglefacts """
   Coggle Fact <a>another!</a>
 """>
@@ -509,10 +513,10 @@ Connection lost: changes made now may not be saved. You could try to <a>reconnec
 Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
 """>
 <fact-collaborate """
-Did you know that you can collaborate in real-time with others? You can! Look for the share button in the top right.
+Did you know that you can collaborate in real-time with others? You can! Use the (+) button in the top right.
 """>
 <fact-share """
-Did you know that you can edit a Coggle at the same time as someone else? You can! Look for the share button in the top right.
+Did you know that you can edit a Coggle at the same time as someone else? You can! Use the (+) button in the top right to invite others.
 """>
 <fact-chat """
 Did you know that you can chat with everyone else editing the Coggle at the same time? You can! Look for the chat icon in the top right.
@@ -545,10 +549,10 @@ Want that item on a different part of the Coggle? No problem! Hold shift while d
 Text too big? Too small? You can zoom!<br> use [ctrl] [+] / [ctrl] [-]
 """>
 <fact-zoomin """
-Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+] in most browsers!
+Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+], or right click and drag the zoom icon!
 """>
 <fact-zoomout """
-Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-] in most browsers!
+Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-], or right click and drag the zoom icon!
 """>
 <fact-markdown2 """
 Did you know that <a>Markdown</a> is awesome? It is, and Coggle supports it!
@@ -563,16 +567,13 @@ You can download your Coggle as an Image! Look for the download button in the to
 Did you know Coggle supports LaTeX for math? It does!<p>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a>a syntax guide</a>.
 """>
 <fact-history """
-Did you know you can view the history of who changed what, when in your Coggle? You can! Click the history icon in the top right.
+Did you know you can view the history of who changed what, when in your Coggle?  You can! Click the clock icon in the top right.
 """>
 <fact-images """
 Did you know you can put images in your Coggle? You can!<p>Just drag and drop an image from your computer to wherever you want it.
 """>
 <fact-images2 """
-Did you know you can use images in Coggles? You can!<p>Just drag and drop an image from your computer to wherever you want it. A mini version of the image is uploaded and saved!
-""">
-<fact-multipleimages """
-Did you know you can add multiple images at the same time? You can!<p>Select multiple files on your computer, then drag them onto your Coggle.
+Did you know you can use images in Coggles? You can!<p>Drag and drop an image from your computer to wherever you want it. A mini version of the image is uploaded and saved!
 """>
 <fact-plaintext-in """
 Did you know you can drag & drop plain text files onto Coggle to import them? You can!<p>If your file has indentation, Coggle will even add structure to the imported text.
@@ -586,14 +587,23 @@ Did you know you can drag a URL from your address bar onto a Coggle to make a li
 <fact-text-size """
 Did you know you can change the font? You can!<p>Use #, ##, or ### at the start of a line to make the text bigger.
 """>
+<fact-text-size2 """
+Did you know you can change the font? You can!<p>Drag the corner of the text editing area up or down to change the text size.
+""">
+<fact-text-size3 """
+Did you know you can change the text size? You can!<p>Drag the corner of the text editing area.
+""">
 <fact-md-reference """
 Did you know you can use Markdown in Coggles to add links, images and more? You can!<p>Here\'s the <a>complete reference</a>.
 """>
 <fact-multiline-keys """
-Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field downwards, and then use [return] normally.
+Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
 """>
 <fact-multiline-drag """
-Did you know you can break text over multiple lines? You can! Drag the corner of the edit field downwards, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
+Did you know you can break text over multiple lines? You can! Drag the corner of the edit field, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
+""">
+<fact-multiline-wrap """
+Did you know you can break text over multiple lines? You can! Drag the corner of the text editing area left/right to wrap text onto multiple lines.
 """>
 <fact-resize-images """
 Did you know you can resize images? You can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
@@ -624,4 +634,13 @@ Did you know you can become a Coggle Supporter? You can! For £5/year you get gr
 """>
 <fact-api-1 """
 Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
+""">
+<fact-organisation """
+Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+""">
+<fact-organisation2 """
+Did you know Coggle Organisations can put their logo on their Coggles? They can!
+""">
+<fact-organisation3 """
+Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
 """>
