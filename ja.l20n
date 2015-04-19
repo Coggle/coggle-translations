@@ -232,8 +232,8 @@
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
 <sidebar-sc-markdown """
-    <div>Format text: </div>
-    <div>use <a>Markdown</a></div>
+    <div> テキストのフォーマット: </div>
+    <div><a>Markdown</a></div>
 """>
 <cogglefacts """
   Coggleができること <a>他を見る!</a>
