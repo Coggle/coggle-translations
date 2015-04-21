@@ -1,7 +1,7 @@
 /* login widget content */
 
 <login-signup-button """
-  <p>注册</p><p>开始使用GOOGLE</p>
+  <p>注册</p><p>开始使用Coggle</p>
 """>
 <login-tagline "简单且免费! 已经有一个账户了? <a>登陆一下</a>.">
 <logout "Logout">
@@ -11,63 +11,63 @@
 /* front page content */
 
 <index-description """
-  <h1>Unleash your creativity</h1>
-  <p>Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!</p>
-  <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
+  <h1>展开你的想象力</h1>
+  <p>制作一张精美的笔记, 并分享给你的朋友或者同事一起协作吧!</p>
+  <p><a><span><b>马上开始! </b></span></a><a><span>或者, 再看看.</span></a></p>
 """>
 
 <testimonial-jenn """
-  <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
-  <p>Jenn, Coggle User</p>
+  <p>"一句话来形容Coggle... 太tm好用了!"</p>
+  <p>Jenn, Coggle 用户</p>
 """>
 
 <features-collaborate """
   <img>
-  <h2>Get everyone involved</h2>
-  <p>Often we work best in teams, and teams operate most effectively when they can collaborate freely. Coggle lets you invite your friends and colleagues to work with you, at the same time, on your diagrams.</p>
+  <h2>众人拾柴火焰高</h2>
+  <p>你可以邀请你的朋友和同事和你一起制作笔记, 同时哦.</p>
 """>
 
 <features-images """
   <img>
-  <h2>Complete the picture</h2>
-  <p>A picture is worth a thousand words. Coggle lets you drag-and-drop images right from your desktop to your diagrams. Simple as that!</p>
-  <p>Best of all, there's no limit to the number of images you can add.</p>
+  <h2>一幅图胜过千言万语</h2>
+  <p>你可以拖拽你桌面上的图片到笔记中, 非常简单!</p>
+  <p>而且图片数量不限.</p>
 """>
 
 <features-history """
   <img>
-  <h2>Go back in time</h2>
-  <p>Have you made changes to a document, only to come back a day later and decide you don't like the edits? With Coggle that's not a problem. Simply enter history mode to find the right version, and make a copy from that point!</p>
+  <h2>时光机器</h2>
+  <p>做了一些改动, 几天之后觉得不喜欢? 没关系, 在笔记的修改历史中选择一个你喜欢的时间点, 基于它制作一份拷贝!</p>
 """>
 
 <features-blame """
   <img>
-  <h2>Track accountability</h2>
-  <p>Ever wondered who made those changes to that shared document? Well with Coggle you can look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.</p>
+  <h2>任务追踪</h2>
+  <p>想看看是谁在你的共享笔记中做了什么改动? 只需要进入笔记的修改历史中查看所有的修改记录.</p>
 """>
 
 <features-colours """
   <img>
-  <h2>Get the colour right</h2>
-  <p>Are you a visual thinker? Do you learn by layout and colour? Well, make sure you get the right colour for your topics, just click on a branch to bring up the colour wheel and select the colour you want.</p>
+  <h2>选择最精准的颜色</h2>
+  <p>外貌协会会员? 对颜色和布局非常挑剔? 没问题, 只需要点击连接线就可以在色彩圆环中选择你想要的颜色.</p>
 """>
 
 <features-others """
-  Coggle has loads of other great features, so <a>try it now</a>, it's free! Visit the <a>blog</a> to read more.
+  Coggle有很多很棒的功能, <a>马上试一下</a>, 免费! 点击<a>blog</a> 来查看更多内容.
 """>
 
 <footer-index """
-  <p>More <a>about Coggle</a>.</p>
-  <a><img alt="like us on facebook"></a>
-  <a><img alt="follow us on twitter"></a>
-  <p>Get <a>Coggle stuff</a>!</p><br>
-  <p>Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>.</p>
+  <p><a>关于Coggle</a>.</p>
+  <a><img alt="facebook上点个赞"></a>
+  <a><img alt="关注我们的twitter"></a>
+  <p>购买 <a>Coggle 周边产品</a>!</p><br>
+  <p>我们的 <a>隐私声明</a>.</p>
+  <p><a>媒体素材</a>.</p>
 """>
 
 /* new frontpage content */
-<index-tagline "A clear way to share complex information.">
-<index-signupnow "Sign Up Now for Free">
+<index-tagline "化繁复为简洁.">
+<index-signupnow "免费注册">
 
 <index-use-notes """
   <div><img></div>
