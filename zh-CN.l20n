@@ -53,7 +53,7 @@
 """>
 
 <features-others """
-  Coggle有很多很棒的功能, <a>马上试一下</a>, 免费! 点击<a>blog</a> 来查看更多内容.
+  Coggle有很多很棒的功能, <a>马上试一下</a>, 免费! 点击<a>我们的博客</a> 来查看更多内容.
 """>
 
 <footer-index """
@@ -71,121 +71,120 @@
 
 <index-use-notes """
   <div><img></div>
-  <h2>Take Notes</h2>
-  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
+  <h2>随手笔记</h2>
+  <p>开会中或者任何灵感碰撞的时候, 打开Coogle创建一份组织精美的笔记.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
-  <h2>Brainstorm</h2>
-  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+  <h2>头脑风暴</h2>
+  <p>把你的想法在Coogle中开一个小头, 然后把它一点一点变成成清晰详实可分享的大计划.</p>
 """>
 
 <index-use-share """
   <div><img></div>
-  <h2>Share Information</h2>
-  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+  <h2>信息共享</h2>
+  <p>将每一个细节浓缩成Coggle笔记, 然后共享给团队, 同学, 或者全世界!</p>
 """>
     
 <index-use-other """
-  These are just a few of the things Coggle is useful for – <a>get started</a> now and find your own use!
+  以上仅仅是Coggle的拿手项目, – <a>马上开始</a> 来尝试你自己的用法!
 """>
 
 <index-helpteam-orgs """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From £5 per user per month</div></a>
+  <h2>加强团队沟通? 你需要<a>Coggle Organisations</a>.</h2>
+  <p>给你的团队找一个即可以头脑风暴, 又能记事儿和记录灵感的小角落. Coggle Organisations拥有数据管理,工作流程整合的所有特性. 阅读更多<a>here</a>.</p>
+  <a>现在注册<div>每用户£5每月起</div></a>
 """>
 
 
 /* documents list content */
 <createcoggle """
-  <p title="Create a new Coggle.">CREATE</p>
+  <p title="新建一个Coogle笔记.">CREATE</p>
 """>
 <createfolder """
   <img>
-  <p title="Create a new Folder.">ADD</p>
+  <p title="新建一个目录.">ADD</p>
 """>
-<limitedaccess "You have limited access to  as you're not a member">
+<limitedaccess "访问 受限, 非注册成员">
 <link-drive """
   <a><img>
-    <span>Too many Coggles? Organise them in Google Drive</span>
+    <span>有太多笔记? 去Google Drive里整理一下吧</span>
   </a>
 """>
 
 <orgbanner """
-  Organisations are a great way to keep your work organised and secure in a large
-  team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
+  Organisations可以让你的团队合作竟然有序. <a>阅读更多,</a> 或者发送邮件至<a>orgs@coggle.it</a>
 """>
 <orgbanner-editlinks """
-  Create <a>shareable links</a> that can be edited without logging in — and lots more — by signing up for an <a>Organisation plan</a>.
+  创建一个<a>共享链接</a> 来分享一个无需注册登陆就能编辑的笔记 —更多功能— 加入<a>Organisation plan</a>.
 """>
 
 /* documents list placeholder content */
-<css--folder-anonymous-cogglelist-empty-before "Welcome to Coggle! – Diagrams you create will be listed here.">
-<css--folders-error-before "Loading folders failed, please reload the page to try again.">
-<css--folder-permission-admin-cogglelist-empty-before "Drag a Coggle here to move it to this folder.">
-<css--folder-error-cogglelist-empty-before "Uh-oh! Loading folder failed, refresh the page to try again.">
+<css--folder-anonymous-cogglelist-empty-before "欢迎使用Coggle! – 创建好的笔记将被列在这里.">
+<css--folders-error-before "文件夹加载失败, 请刷新页面重试.">
+<css--folder-permission-admin-cogglelist-empty-before "拖动Coggle笔记到这个文件夹.">
+<css--folder-error-cogglelist-empty-before "艾玛! 加载文件夹加载失败, 请刷新页面重试.">
 
 /* documents list contextual help items */
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
-<help-orgswitch-title "Organisation Switcher">
+<help-hide-for-now "不再提示">
+<help-ok-got-it "OK, 搞定!">
+<help-orgswitch-title "切换Organisations">
 <help-orgswitch """
-  <p>Click to switch between your Organisations, or create a new one.</p>
-  <p>Organisations let you control sharing of Coggles and work more effectively in larger teams.</p>
+  <p>点击来在不同的Organisations中切换, 或者创建一个新Organisation.</p>
+  <p>Organisations帮你在团队中分享Coggles笔记提高工作效率.</p>
 """>
-<help-createfolder "Create folders to share with groups of people, or categorise Coggles.">
-<help-filtercoggles-title "Filter Coggles">
+<help-createfolder "创建文件夹来与他人分享, 或者是用来对Coggle笔记分类.">
+<help-filtercoggles-title "筛选Coggle笔记">
 <help-filtercoggles """
-  Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
+  输入关键字来筛选Coggles笔记 – 按 <b>[enter]</b> 在结果中打开所需的Coggle笔记.
 """>
-<help-profile-title "This is you!">
-<help-profile "Click your icon to view your user profile and settings.">
+<help-profile-title "这就是你啦!">
+<help-profile "点击头像来查看用户信息和设置.">
 
 
 /* diagram introductory tutorial */
-<guide-click-here "click here">
-<guide-or-here "or here">
-<guide-editanytext "you can edit any text">
-<guide-draganything "and drag anything to move it">
-<guide-clicktoadd "now click here to add child item">
-<guide-taptoaddmore "now tap to add more">
-<guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
-<guide-undo "you can use {{ $undoKey }} to undo any anything you do!">
-<guide-redo "and {{ $redoKey }} to re-do things again afterwards">
-<guide-donebasics "neat you've got the hang of the basics!">
+<guide-click-here "猛击这里">
+<guide-or-here "或这里">
+<guide-editanytext "可以编辑文字">
+<guide-draganything "或者拖动它">
+<guide-clicktoadd "现在点击这里来创建一个子项">
+<guide-taptoaddmore "点击来创建更多">
+<guide-holdtoremove "... 或者按住 {{ $removeKey }} 然后点这里来删除">
+<guide-undo "你可以按 {{ $undoKey }} 来回退改动!">
+<guide-redo "或者 {{ $redoKey }} 来重做改动">
+<guide-donebasics "不错, 你已经掌握了基本操作啦!">
 
 /* diagram placeholder content */
-<css--desktop-holder-textlabel-roottextlabel-empty-not-active-after "Unnamed Coggle">
-<css--touch-holder-not-readonly-textlabel-empty-not-active-after "hold to edit">
-<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "click to edit">
-<css--holder-readonly-textlabel-empty-not-active-after "no text">
+<css--desktop-holder-textlabel-roottextlabel-empty-not-active-after "未命名Coggle笔记">
+<css--touch-holder-not-readonly-textlabel-empty-not-active-after "按住来编辑">
+<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "点击来编辑">
+<css--holder-readonly-textlabel-empty-not-active-after "没有文字">
 
 /* diagram contextual help items */
-<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
-<help-sidebar "Click here to show or hide the help sidebar at any time.">
-<help-share-diagram "Click to invite people to edit or view this Coggle. We'll send them an email with a link to sign in and edit!">
-<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
-<help-toolbar-invite-title "Work With Others">
-<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
-<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-gohome "点击Coggle图标可以回到主页, 在那里可以找到所有自动保存好的笔记.">
+<help-sidebar "任何时候都可以点击这里来显示和隐藏帮助信息.">
+<help-share-diagram "点击这里来邀请其他人一起查看或编辑此篇Coggle笔记. 我们会给她/他发送一份包含链接的邮件用来登陆和编辑!">
+<help-multiline "用[ctrl] + [enter]来换行, 在输入前或者拖拽改变输入框大小.">
+<help-toolbar-invite-title "协作">
+<help-toolbar-invite "点击这里来邀请其他人一起查看或编辑此篇Coggle笔记. 你可以点击他们的头像来给予他们不同的权限.">
+<help-toolbar-invitemulti-title "邀请多人">
 <help-toolbar-invitemulti """
-  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+  你可以一次邀请多人: 键入或者粘贴他们的邮件地址, 用空格, 逗号<b>,</b>或者分号<b>;</b>来分隔
 """>
 
 
 /* diagram sidebar content */
 <sidebar-getstarted """
-Getting Started <a>hide</a><a>show</a>
+开始吧 <a>隐藏</a><a>显示</a>
 """>
-<guidestep-add "Add a new item">
-<guidestep-edit "Edit an item">
-<guidestep-move "Move an item ">
-<guidestep-remove "Remove an item">
-<guidestep-undo "Undo a change">
-<guidestep-redo "Redo a change">
+<guidestep-add "添加">
+<guidestep-edit "修改">
+<guidestep-move "移动">
+<guidestep-remove "删除">
+<guidestep-undo "回退">
+<guidestep-redo "重做">
 
 <sidebar-controls "Controls">
 <sidebar-addbranch """
