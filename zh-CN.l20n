@@ -129,7 +129,6 @@
 
 /* documents list contextual help items */
 <help-hide-for-now "不再提示">
-<help-ok-got-it "OK, 搞定!">
 <help-orgswitch-title "切换Organisations">
 <help-orgswitch """
   <p>点击来在不同的Organisations中切换, 或者创建一个新Organisation.</p>
@@ -149,7 +148,7 @@
 <guide-or-here "或这里">
 <guide-editanytext "可以编辑文字">
 <guide-draganything "或者拖动它">
-<guide-clicktoadd "现在点击这里来创建一个子项">
+<guide-clicktoadd "现在点击这里来创建一个子节点">
 <guide-taptoaddmore "点击来创建更多">
 <guide-holdtoremove "... 或者按住 {{ $removeKey }} 然后点这里来删除">
 <guide-undo "你可以按 {{ $undoKey }} 来回退改动!">
@@ -183,81 +182,81 @@
 <guidestep-edit "修改">
 <guidestep-move "移动">
 <guidestep-remove "删除">
-<guidestep-undo "回退">
-<guidestep-redo "重做">
+<guidestep-undo "撤销修改">
+<guidestep-redo "重做修改">
 
-<sidebar-controls "Controls">
+<sidebar-controls "控制">
 <sidebar-addbranch """
-  <div>Add Branch:</div>
-  <div><span> click </span><div></div></div>
+  <div>添加分支:</div>
+  <div><span> 单击 </span><div></div></div>
 """>
 <sidebar-removebranch """
-  <div>Remove Branch:</div>
-  <div><div> alt </div> <span> + click </span> <div></div></div>
+  <div>删除分支:</div>
+  <div><div> alt </div> <span> + 单击 </span> <div></div></div>
 """>
 <sidebar-insertbranch """
-  <div>Insert Branch:</div>
-  <div><div> shift </div> <span> + click </span> <div></div></div>
+  <div>插入分支:</div>
+  <div><div> shift </div> <span> + 单击 </span> <div></div></div>
 """>
 <sidebar-movebranch """
-  <div> Move Branch: </div>
-  <div><div> drag anything! </div></div>
+  <div> 移动: </div>
+  <div><div> 鼠标拖动 </div></div>
 """>
 <sidebar-transplantbranch """
-  <div> Transplant Branch: </div>
+  <div> 嫁接分支: </div>
   <div><div> shift </div> <span> + drag </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
-  <div> Change Colours: </div>
-  <div><span> click a branch </span></div>
+  <div> 更改颜色: </div>
+  <div><span> 单击分支 </span></div>
 """>
 <sidebar-addimages """
-  <div> Add <a>Images</a>: </div>
-  <div><div> drag and drop </div></div>
+  <div> 添加 <a>图片</a>: </div>
+  <div><div> 拖拽图片文件至工作区 </div></div>
 """>
 <sidebar-zoom """
-  <div> Zoom: </div>
-  <div><div> ctrl </div><span> + mousewheel </span></div>
+  <div> 放大缩小: </div>
+  <div><div> ctrl </div><span> + 鼠标滚轮 </span></div>
 """>
-<sidebar-shortcuts "Shortcuts">
+<sidebar-shortcuts "快捷键">
 <sidebar-undo """
-  <div> Undo: </div>
+  <div> 撤销修改: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
-  <div> Redo: </div>
+  <div> 重做修改: </div>
   <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-whentyping "When typing">
+<sidebar-whentyping "输入文字时">
 <sidebar-sc-newitem """
-  <div> New Item: </div>
+  <div> 新并列节点: </div>
   <div><div> shift </div><span> + </span><div> return </div></div>
 """>
 <sidebar-sc-newchild """
-  <div> New Child Item: </div>
+  <div> 新子节点: </div>
   <div><div> tab </div></div>
 """>
 <sidebar-sc-parent """
-  <div> Jump to Parent: </div>
+  <div> 跳转回父节点: </div>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
 <sidebar-sc-markdown """
-    <div>Format text: </div>
-    <div>use <a>Markdown</a></div>
+    <div>调整文字格式: </div>
+    <div>使用<a>Markdown格式说明</a></div>
 """>
 <cogglefacts """
-  Coggle Fact <a>another!</a>
+  Coggle 小提示 <a>下一个!</a>
 """>
 <cogglefacts-more """
-  Read more...
+  更多...
 """>
 
 <sidebar-contact """
-  <h3>Contact Us!</h3>
-  <p>Need some help? Found a bug? Want to get in touch? Then email us at <a>hello@coggle.it</a></p>
-  <p>Stay up to date with Coggle announcements and tutorials with <a>Bloggle</a>, the Coggle blog.</p>
-  <p>More <a>about Coggle</a>. Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>. For <a>developers</a>.</p>
+  <h3>联系我们!</h3>
+  <p>需要帮助? 发现了一个bug? 想联系我们? 请发送邮件至<a>hello@coggle.it</a></p>
+  <p>想要获取最新Coogle信息或教程, 欢迎访问<a>Bloggle</a>, 我们的博客.</p>
+  <p>更多 <a>Coggle信息</a>. 我们的<a>隐私策略</a>.</p>
+  <p>至<a>媒体</a>. 至<a>开发者</a>.</p>
 """>
 
 /* Self-dialog & Supporter Signup */
