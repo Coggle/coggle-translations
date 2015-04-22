@@ -129,6 +129,7 @@
 
 /* documents list contextual help items */
 <help-hide-for-now "不再提示">
+<help-ok-got-it "OK, 好的!">
 <help-orgswitch-title "切换Organisations">
 <help-orgswitch """
   <p>点击来在不同的Organisations中切换, 或者创建一个新Organisation.</p>
