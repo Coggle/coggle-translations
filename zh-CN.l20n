@@ -72,13 +72,13 @@
 <index-use-notes """
   <div><img></div>
   <h2>随手笔记</h2>
-  <p>开会中或者任何灵感碰撞的时候, 打开Coogle创建一份组织精美的笔记.</p>
+  <p>开会中或者任何灵感碰撞的时候, 打开Coggle创建一份组织精美的笔记.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
   <h2>头脑风暴</h2>
-  <p>把你的想法在Coogle中开一个小头, 然后把它一点一点变成成清晰详实可分享的大计划.</p>
+  <p>把你的想法在Coggle中开一个小头, 然后把它一点一点变成成清晰详实可分享的大计划.</p>
 """>
 
 <index-use-share """
@@ -101,7 +101,7 @@
 
 /* documents list content */
 <createcoggle """
-  <p title="新建一个Coogle笔记.">CREATE</p>
+  <p title="新建一个Coggle笔记.">CREATE</p>
 """>
 <createfolder """
   <img>
@@ -255,7 +255,7 @@
 <sidebar-contact """
   <h3>联系我们!</h3>
   <p>需要帮助? 发现了一个bug? 想联系我们? 请发送邮件至<a>hello@coggle.it</a></p>
-  <p>想要获取最新Coogle信息或教程, 欢迎访问<a>Bloggle</a>, 我们的博客.</p>
+  <p>想要获取最新Coggle信息或教程, 欢迎访问<a>Bloggle</a>, 我们的博客.</p>
   <p>更多 <a>Coggle信息</a>. 我们的<a>隐私策略</a>.</p>
   <p>至<a>媒体</a>. 至<a>开发者</a>.</p>
 """>
