@@ -115,20 +115,19 @@
 """>
 
 <orgbanner """
-  Organisations are a great way to keep your work organised and secure in a large
-  team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
+  Coggle Organisationsは大きなチームで仕事を安全に整理する素晴らしい方法です。 <a>続きを読む</a>、メールで聞く <a>orgs@coggle.it</a>
 """>
 <orgbanner-editlinks """
-  Create <a>shareable links</a> that can be edited without logging in — and lots more — by signing up for an <a>Organisation plan</a>.
+  ログインしなくても編集できる<a>共有リンク</a>を作りましょう。<a>Coggle Organisations</a>にサインアップして更にたくさんの機能を使いましょう。
 """>
 
 /* documents list contextual help items */
 <help-hide-for-now "今は隠す">
 <help-ok-got-it "OK, わかりました!">
-<help-orgswitch-title "Organisation Switcher">
+<help-orgswitch-title "Organisations スイッチ">
 <help-orgswitch """
-  <p>Click to switch between your Organisations, or create a new one.</p>
-  <p>Organisations let you control sharing of Coggles and work more effectively in larger teams.</p>
+  <p>クリックすることでOrganizatinoを変更したり、新規作成することができます。</p>
+  <p>Organizationsを使うことで大きなチームでのCoggleの共有管理や効率的な作業ができるようになります。</p>
 """>
 <help-createfolder "フォルダを作ってグループでシェアしたり、Coggleをカテゴライズしましょう。">
 <help-filtercoggles-title "Coggleを検索する">
