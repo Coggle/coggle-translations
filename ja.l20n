@@ -250,21 +250,21 @@
 """>
 
 /* Self-dialog & Supporter Signup */
-<me-manage-account "Manage account">
-<me-unsupport-progress "Sorry you're leaving. Unsubscribing you now!">
-<me-as-orgmember "You're viewing Coggle as an <b>organisation member</b>.">
-<me-as-orgmember-youget "This means you get great features like:">
+<me-manage-account "アカウント管理">
+<me-unsupport-progress "登録解除します。">
+<me-as-orgmember "<b>Organisation member</b>としてCoggleを閲覧中です。">
+<me-as-orgmember-youget "以下の素晴らしい機能を使うことができます:">
 <me-unsupport """
-  <a>Stop</a> supporting Coggle <span> &mdash; are you sure? <a>I'm sure</a></span>
+  <a></a>Coggleのサポートをやめる<span> &mdash; 本当にやめますか？ <a>やめます</a></span>
 """>
-<me-signedup "Great! You\'re signed up as a Coggle supporter.">
+<me-signedup "すばらしい！Coggleサポーターとしてサインアップしました。">
 <me-support-cancelled """
-  <span>Hello &mdash; this is you!</span>
-  Your supporter subscription has been cancelled. <a>Sign up again</a>.
+  <span>こんにちは &mdash; これはあなたです！</span>
+  あなたのサポーター登録はキャンセルされました。<a>もういちどサインアップする</a>。
 """>
-<me-support-signupnow "Sign me up now!">
+<me-support-signupnow "サインアップする">
 <me-support-weusestripe """
-  We use <a>stripe</a> to process payments securely: your card details never go through our servers.
+  私たちは安全なお支払いを行っていただくために<a>stripe</a>を利用しています: あなたのカードの詳細情報は私たちのサーバには送られません。
 """>
 <me-support-benefits """
   <span>こんにちは &mdash; これはあなたです！</span>
