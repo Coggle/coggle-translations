@@ -42,8 +42,8 @@
 
 <features-blame """
   <img>
-  <h2>Track accountability</h2>
-  <p>Ever wondered who made those changes to that shared document? Well with Coggle you can look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.</p>
+  <h2>Spåra förändringar</h2>
+  <p>Har du någonsin undrat vem som gjort ändringar i ett delat dokument? Med Coggle du kan titta igenom historiken till ditt diagram för att se vem som ändrat vad och när! Gå bara in diagrammets historikläge för att få reda på det.</p>
 """>
 
 <features-colours """
