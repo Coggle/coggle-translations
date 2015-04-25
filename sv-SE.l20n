@@ -1,10 +1,10 @@
 /* login widget content */
 
 <login-signup-button """
-  <p>SIGN UP</p><p>USING GOOGLE</p>
+  <p>REGISTRERA DIG</p><p>MED HJÄLP AV GOOGLE</p>
 """>
-<login-tagline "It's free and it's easy! Already signed up? <a>log in</a>.">
-<logout "Logout">
+<login-tagline "Det är enkelt och gratis! Redan registrerad? <a>logga in</a>.">
+<logout "Logga ut">
 
 
 
