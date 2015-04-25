@@ -36,8 +36,8 @@
 
 <features-history """
   <img>
-  <h2>Go back in time</h2>
-  <p>Have you made changes to a document, only to come back a day later and decide you don't like the edits? With Coggle that's not a problem. Simply enter history mode to find the right version, and make a copy from that point!</p>
+  <h2>Gå bakåt i tiden</h2>
+  <p>Har du gjort ändringar i ett dokument, bara för att komma tillbaka en dag senare och upptäcka att du inte gillar ändringarna? Med Coggle det är inte ett problem. Gå bara in i historikläget för att hitta rätt version, och gör en kopia från den punkten!</p>
 """>
 
 <features-blame """
