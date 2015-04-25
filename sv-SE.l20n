@@ -11,9 +11,9 @@
 /* front page content */
 
 <index-description """
-  <h1>Unleash your creativity</h1>
-  <p>Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!</p>
-  <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
+  <h1>Släpp loss din kreativitet</h1>
+  <p>Skapa vackra anteckningar, snabbt och enkelt. Dela dem med vänner och kollegor för att förbättra dina idéer tillsammans. Allt utan kostnad!</p>
+  <p><a><span><b>Kom igång nu! </b></span></a><a><span>Eller, läs mer.</span></a></p>
 """>
 
 <testimonial-jenn """
