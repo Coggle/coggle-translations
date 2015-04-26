@@ -57,12 +57,12 @@
 """>
 
 <footer-index """
-  <p>More <a>about Coggle</a>.</p>
-  <a><img alt="like us on facebook"></a>
-  <a><img alt="follow us on twitter"></a>
-  <p>Get <a>Coggle stuff</a>!</p><br>
-  <p>Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>.</p>
+  <p>Mer <a>om Coggle</a>.</p>
+  <a><img alt="gilla oss på facebook"></a>
+  <a><img alt="följ oss på twitter"></a>
+  <p>Skaffa <a>Coggle-saker</a>!</p><br>
+  <p>Vår <a>integritetspolicy</a>.</p>
+  <p>För <a>press &auml; media</a>.</p>
 """>
 
 /* new frontpage content */
