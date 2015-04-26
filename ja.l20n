@@ -126,7 +126,7 @@
 <help-ok-got-it "OK, わかりました!">
 <help-orgswitch-title "Organisations スイッチ">
 <help-orgswitch """
-  <p>クリックすることでOrganizatinoを変更したり、新規作成することができます。</p>
+  <p>クリックすることでOrganizationを変更したり、新規作成することができます。</p>
   <p>Organizationsを使うことで大きなチームでのCoggleの共有管理や効率的な作業ができるようになります。</p>
 """>
 <help-createfolder "フォルダを作ってグループでシェアしたり、Coggleをカテゴライズしましょう。">
