@@ -3,7 +3,7 @@
 <login-signup-button """
   <p>ЗАРЕГИСТРИРОВАТЬСЯ</p><p>ИСПОЛЬЗУЯ GOOGLE</p>
 """>
-<login-tagline "Это беслатно и просто! Уже зарегистрировались? <a>войдите</a>.">
+<login-tagline "Это бесплатно и просто! Уже зарегистрировались? <a>войдите</a>.">
 <logout "Выйти">
 
 
@@ -11,91 +11,91 @@
 /* front page content */
 
 <index-description """
-  <h1>Unleash your creativity</h1>
-  <p>Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!</p>
-  <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
+  <h1>Проявите свою креативность</h1>
+  <p>Создавайте красивые заметки быстро и легко. Делитесь ими с друзьями и коллегами чтобы совершенствовать ваши идеи совместно. Всё это бесплатно!</p>
+  <p><a><span><b>Начните прямо сейчас! </b></span></a><a><span>Или же узнайте больше.</span></a></p>
 """>
 
 <testimonial-jenn """
-  <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
-  <p>Jenn, Coggle User</p>
+  <p>"У меня есть всего одно слово чтобы описать мою радость от использования этого... supercalifragilisticexpialidocious!"</p>
+  <p>Jenn, пользователь Coggle</p>
 """>
 
 <features-collaborate """
   <img>
-  <h2>Get everyone involved</h2>
-  <p>Often we work best in teams, and teams operate most effectively when they can collaborate freely. Coggle lets you invite your friends and colleagues to work with you, at the same time, on your diagrams.</p>
+  <h2>Позвольте всем принять участие</h2>
+  <p>Зачастую лучшую продуктивность мы показываем в командах, и команды действуют эффективнее если они могут свободно сотрудничать. Coggle даёт вам возможность пригласить друзей и коллег к совместной и одновременной работе над вашими диаграммами.</p>
 """>
 
 <features-images """
   <img>
-  <h2>Complete the picture</h2>
-  <p>A picture is worth a thousand words. Coggle lets you drag-and-drop images right from your desktop to your diagrams. Simple as that!</p>
-  <p>Best of all, there's no limit to the number of images you can add.</p>
+  <h2>Завершите картину</h2>
+  <p>Картина лучше тысячи слов. Coggle позволяет вам перетаскивать изображения на диаграммы прямо с вашего рабочего стола. Так просто!</p>
+  <p>И самое лучшее, никакого лимита на количество изображений, которое вы можете добавить.</p>
 """>
 
 <features-history """
   <img>
-  <h2>Go back in time</h2>
-  <p>Have you made changes to a document, only to come back a day later and decide you don't like the edits? With Coggle that's not a problem. Simply enter history mode to find the right version, and make a copy from that point!</p>
+  <h2>Путешествуйте назад во времени</h2>
+  <p>Вы делали когда-либо изменения в документе, а через позже понимали, что вам не нравятся изменения?< С Coggle это не проблема. Просто войдите в режим истории чтобы найти нужную версию, и сделайте копию этой версии!/p>
 """>
 
 <features-blame """
   <img>
-  <h2>Track accountability</h2>
-  <p>Ever wondered who made those changes to that shared document? Well with Coggle you can look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.</p>
+  <h2>Отслеживайте изменения на уровне аккаунтов</h2>
+  <p>Вам когда-либо было интересно, кто же изменил этот общий документ? Что же, с Coggle вы можете просматривать историю ваших диаграмм чтобы увидеть кем, что и когда было изменено! Просто зайдите в режим истории диаграммы чтобы выяснить это.</p>
 """>
 
 <features-colours """
   <img>
-  <h2>Get the color right</h2>
-  <p>Are you a visual thinker? Do you learn by layout and color? Well, make sure you get the right color for your topics, just click on a branch to bring up the color wheel and select the color you want.</p>
+  <h2>Настройте цвета правильно</h2>
+  <p>Вы мыслите графически? Вы запоминаете с помощью расположения и цвета? Что же, убедитесь, что вы выбрали правильные цвета для ваших тем, просто кликните на ветку чтобы вызвать цветовое колесо и выберите цвет, который хотите.</p>
 """>
 
 <features-others """
-  Coggle has loads of other great features, so <a>try it now</a>, it's free! Visit the <a>blog</a> to read more.
+  Coggle включает в себя множество других великолепных функций, поэтому <a>попробуйте его сейчас</a>, он бесплатный! Зайдите на <a>блог</a> чтобы прочитать больше.
 """>
 
 <footer-index """
-  <p>More <a>about Coggle</a>.</p>
-  <a><img alt="like us on facebook"></a>
-  <a><img alt="follow us on twitter"></a>
+  <p>Больше <a>про Coggle</a>.</p>
+  <a><img alt="ставьте лайки на facebook"></a>
+  <a><img alt="подписывайтесь на нас в twitter"></a>
   <p>Get <a>Coggle stuff</a>!</p><br>
-  <p>Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>.</p>
+  <p>Наша <a>политика приватности</a>.</p>
+  <p>Для <a>прессы</a>.</p>
 """>
 
 /* new frontpage content */
-<index-tagline "A clear way to share complex information.">
-<index-signupnow "Sign Up Now for Free">
+<index-tagline "Простой путь делиться сложной информацией.">
+<index-signupnow "Зарегистрируйтесь сейчас бесплатно">
 
 <index-use-notes """
   <div><img></div>
-  <h2>Take Notes</h2>
-  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
+  <h2>Делайте Заметки</h2>
+  <p>Откройте Coggle на встрече, во время доработки или во время вдохновения чтобы создать красивые, структурированные заметки.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
-  <h2>Brainstorm</h2>
-  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+  <h2>Мозговой штурм</h2>
+  <p>Дайте старт идее, развивайте её с Coggle и следите за тем, как она превращается в полностью самостоятельный проект, понятно изложенный и готовый к распространению.</p>
 """>
 
 <index-use-share """
   <div><img></div>
-  <h2>Share Information</h2>
-  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+  <h2>Делитесь Информацией</h2>
+  <p>Разложите по полочкам вашу тему в Coggle, включите все детали и поделитесь ей с вашей командой, вашими одноклассниками или миром!</p>
 """>
     
 <index-use-other """
-  These are just a few of the things Coggle is useful for – <a>get started</a> now and find your own use!
+  Coggle может быть полезен в разных ситуациях – <a>начните</a> сейчас и найдите своё применение!
 """>
 
 <index-helpteam-orgs """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organizations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organizations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From £5 per user per month (about $8)</div></a>
+  <h2>Помогите вашей команде коммуницировать с <a>Coggle Organizations</a>.</h2>
+  <p>Дайте вашей команде общее пространство для мозгового штурма, создания записок и документирования их идей. Coggle Organizations содержит все функции, которые могут вам понадобиться чтобы контролировать вашу информацию и интегрироваться с вашим бизнес-процессом. Читайте больше <a>здесь</a>.</p>
+  <a>Зарегистрируйтесь сейчас<div>От £5 за пользователя в месяц (около $8)</div></a>
 """>
 
 
