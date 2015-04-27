@@ -93,9 +93,9 @@
 
 <index-helpteam-orgs """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From £5 per user per month</div></a>
+  <h2><a>Coggle Organisations</a>でよりよいチームのコミュニケーションを</h2>
+  <p>ブレイン・ストーミングをしたり、ノートを取ったり、アイディアを記録したりする共用スペースをチームメンバーに提供しましょう。Coggle Organisationsはデータの管理やビジネス・ワークフローに統合するために必要なすべての機能を持っています。<a>続きを読む</a>。</p>
+  <a>サインアップ<div>1ユーザ1月£5から</div></a>
 """>
 
 
@@ -115,20 +115,19 @@
 """>
 
 <orgbanner """
-  Organisations are a great way to keep your work organised and secure in a large
-  team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
+  Coggle Organisationsは大きなチームで仕事を安全に整理する素晴らしい方法です。 <a>続きを読む</a>、メールで聞く <a>orgs@coggle.it</a>
 """>
 <orgbanner-editlinks """
-  Create <a>shareable links</a> that can be edited without logging in — and lots more — by signing up for an <a>Organisation plan</a>.
+  ログインしなくても編集できる<a>共有リンク</a>を作りましょう。<a>Coggle Organisations</a>にサインアップして更にたくさんの機能を使いましょう。
 """>
 
 /* documents list contextual help items */
 <help-hide-for-now "今は隠す">
 <help-ok-got-it "OK, わかりました!">
-<help-orgswitch-title "Organisation Switcher">
+<help-orgswitch-title "Organisations スイッチ">
 <help-orgswitch """
-  <p>Click to switch between your Organisations, or create a new one.</p>
-  <p>Organisations let you control sharing of Coggles and work more effectively in larger teams.</p>
+  <p>クリックすることでOrganizationを変更したり、新規作成することができます。</p>
+  <p>Organizationsを使うことで大きなチームでのCoggleの共有管理や効率的な作業ができるようになります。</p>
 """>
 <help-createfolder "フォルダを作ってグループでシェアしたり、Coggleをカテゴライズしましょう。">
 <help-filtercoggles-title "Coggleを検索する">
@@ -251,21 +250,21 @@
 """>
 
 /* Self-dialog & Supporter Signup */
-<me-manage-account "Manage account">
-<me-unsupport-progress "Sorry you're leaving. Unsubscribing you now!">
-<me-as-orgmember "You're viewing Coggle as an <b>organisation member</b>.">
-<me-as-orgmember-youget "This means you get great features like:">
+<me-manage-account "アカウント管理">
+<me-unsupport-progress "登録解除します。">
+<me-as-orgmember "<b>Organisation member</b>としてCoggleを閲覧中です。">
+<me-as-orgmember-youget "以下の素晴らしい機能を使うことができます:">
 <me-unsupport """
-  <a>Stop</a> supporting Coggle <span> &mdash; are you sure? <a>I'm sure</a></span>
+  <a></a>Coggleのサポートをやめる<span> &mdash; 本当にやめますか？ <a>やめます</a></span>
 """>
-<me-signedup "Great! You\'re signed up as a Coggle supporter.">
+<me-signedup "すばらしい！Coggleサポーターとしてサインアップしました。">
 <me-support-cancelled """
-  <span>Hello &mdash; this is you!</span>
-  Your supporter subscription has been cancelled. <a>Sign up again</a>.
+  <span>こんにちは &mdash; これはあなたです！</span>
+  あなたのサポーター登録はキャンセルされました。<a>もういちどサインアップする</a>。
 """>
-<me-support-signupnow "Sign me up now!">
+<me-support-signupnow "サインアップする">
 <me-support-weusestripe """
-  We use <a>stripe</a> to process payments securely: your card details never go through our servers.
+  私たちは安全なお支払いを行っていただくために<a>stripe</a>を利用しています: あなたのカードの詳細情報は私たちのサーバには送られません。
 """>
 <me-support-benefits """
   <span>こんにちは &mdash; これはあなたです！</span>
@@ -618,11 +617,11 @@ Coggleサポーターになれることを知っていましたか！なれる�
 CoggleにはAPIがあることをしっていましたか？あるんです！Coggleを新規作成したり、調査したり、操作したりをプログラムから自動で行うことができます。
 """>
 <fact-organisation """
-Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+仕事でCoggleを使っていますか？Coggle Organizationを作って会社のCoggleを管理しましょう。
 """>
 <fact-organisation2 """
-Did you know Coggle Organisations can put their logo on their Coggles? They can!
+Coggle Organizationsではロゴを切り替えられるのを知っていましたか？できるんです！
 """>
 <fact-organisation3 """
-Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
+Coggle Organizationを作れば、会社のCoggleを管理できるのを知っていしたか？できるんです！
 """>
