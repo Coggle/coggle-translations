@@ -149,7 +149,7 @@
 <guide-click-here "click here">
 <guide-or-here "or here">
 <guide-editanytext "you can edit any text">
-<guide-draganything "and drag anything to move it">
+<guide-draganything "and drag any text to move it">
 <guide-clicktoadd "now click here to add child item">
 <guide-taptoaddmore "now tap to add more">
 <guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
