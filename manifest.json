@@ -9,7 +9,8 @@
     "fr",
     "ja",
     "ru",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "default_locale": "en-US"
 }
