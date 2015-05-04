@@ -447,6 +447,8 @@ Getting Started <a>hide</a><a>show</a>
 <context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
 <context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
 <context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
+<context-hide-branch "click to collapse this branch">
+<context-show-branch "click to expand this branch">
 
 /* diagram not-found page */
 <nodiagram-title "Diagram not found!">
