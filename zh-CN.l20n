@@ -300,7 +300,7 @@
 
 
 /* My Settings Page (/me) */
-<me-hi "Hi {{ $user.givenName }},">
+<me-hi "你好 {{ $user.givenName }},">
 <me-supporterpitch """
   Coggle is free, and we think that <strong>great tools should be available for everyone</strong>.
   But if you'd like to support the continued development of Coggle then you can by becoming a Coggle supporter - in return you'll get early access to great new features that we're trialling.
@@ -472,39 +472,37 @@
 <css--share-view-privatelinks-cogglelist-empty-before "No private links yet!">
 
 /* download dialog content */
-<download-pdf "Download PDF">
-<download-png "Download Image">
-<download-mm ".mm File">
-<download-txt "Plain-Text Outline">
-<download-advanced "Advanced Types">
-<download-failed "File generation failed.">
+<download-pdf "下载为PDF">
+<download-png "下载为图片">
+<download-mm ".mm 文件">
+<download-txt "纯文本文件">
+<download-advanced "其他格式">
+<download-failed "文件生成失败.">
 
 /* access control slider content */
-<access-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-author "Author<br/><span>Allow creating and editing documents</span>">
+<access-readonly "只读<br/><span>仅给予他人阅读权限</span>">
+<access-author "创作者<br/><span>允许创建和修改文档</span>">
 
-<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
-<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
+<access-folder-readonly "只读<br/><span>仅给予他人阅读权限</span>">
+<access-folder-author "创作者<br/><span>允许创建和修改文档</span>">
+<access-folder-admin "管理员<br/><span>添加和删除成员与文档</span>">
 
-<access-remove "Remove {{ $user.givenName }}">
+<access-remove "移除 {{ $user.givenName }}">
 
 /* Notification Messages */
 <notice-history """
-You are viewing previous versions of this Coggle! close the history viewer to return to the current version.
+你正在浏览此Coggle笔记的历史归档! 关闭历史模式来回到当前版本.
 """>
 <notice-disconnected """
-Connection lost: changes made now may not be saved. You could try to <a>reconnect now</a>, or <a>reload the page</a>.
+连接断开: 从现在起的改动可能不会被保存. 你可以尝试<a>重连</a>, 或者<a>刷新本页面</a>.
 """>
 
 /* Image drag-drop messages */
 <imgupload-was-resized """
-  <p>Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!</p>
-  <a>Coggle Supporters</a> can upload much larger images, and get early access to great new features, too: <a>read more</a>
+  <p>图片已经被缩放至适合于{{ $maxWidth }} &times; {{ $maxHeight }}, 以让我们可以永久的保存你的图片!</p>
+  <a>Coggle Supporters</a> 可以上传大尺寸图片, 并且也可以更早获取最新的功能: <a>了解更多</a>
 """>
-<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
+<imgupload-slow-down "别着急, 同时只能上传一张图片.">
 
 
 /* Coggle Facts */
