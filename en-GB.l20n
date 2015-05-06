@@ -149,7 +149,7 @@
 <guide-click-here "click here">
 <guide-or-here "or here">
 <guide-editanytext "you can edit any text">
-<guide-draganything "and drag anything to move it">
+<guide-draganything "and drag any text to move it">
 <guide-clicktoadd "now click here to add child item">
 <guide-taptoaddmore "now tap to add more">
 <guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
@@ -174,6 +174,7 @@
 <help-toolbar-invitemulti """
   To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
 """>
+<help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
 
 
 /* diagram sidebar content */
@@ -447,6 +448,8 @@ Getting Started <a>hide</a><a>show</a>
 <context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
 <context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
 <context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
+<context-hide-branch "click to collapse this branch">
+<context-show-branch "click to expand this branch">
 
 /* diagram not-found page */
 <nodiagram-title "Diagram not found!">
