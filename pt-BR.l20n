@@ -144,6 +144,14 @@ Começando <a>ocultar</a><a>mostrar</a>
 <guidestep-undo "Desfazer uma alteração">
 <guidestep-redo "Refazer uma alteração">
 
+<controls[@os] 
+ removeKey[@os]: {
+  *win: "ctrl",
+   mac: "alt",
+   linux: "ctrl"
+ }
+>
+
 <sidebar-controls "Controles">
 <sidebar-addbranch """
   <div>Adicionar um Ramo:</div>
@@ -151,7 +159,7 @@ Começando <a>ocultar</a><a>mostrar</a>
 """>
 <sidebar-removebranch """
   <div>Remover um Ramo:</div>
-  <div><div> alt </div> <span> + clique </span> <div></div></div>
+  <div><div> {{ controls::removeKey }} </div> <span> + clique </span> <div></div></div>
 """>
 <sidebar-insertbranch """
   <div>Inserir um Ramo:</div>

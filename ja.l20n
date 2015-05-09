@@ -175,6 +175,14 @@
 <guidestep-undo "変更を取り消す">
 <guidestep-redo "取り消した変更をやりなおす">
 
+<controls[@os] 
+ removeKey[@os]: {
+  *win: "ctrl",
+   mac: "alt",
+   linux: "ctrl"
+ }
+>
+
 <sidebar-controls "操作">
 <sidebar-addbranch """
   <div>ブランチを追加:</div>
@@ -182,7 +190,7 @@
 """>
 <sidebar-removebranch """
   <div>ブランチを削除:</div>
-  <div><div> alt </div> <span> + クリック </span> <div></div></div>
+  <div><div> {{ controls::removeKey }} </div> <span> + クリック </span> <div></div></div>
 """>
 <sidebar-insertbranch """
   <div>ブランチを挿入:</div>

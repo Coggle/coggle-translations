@@ -188,6 +188,14 @@ Getting Started <a>hide</a><a>show</a>
 <guidestep-undo "Undo a change">
 <guidestep-redo "Redo a change">
 
+<controls[@os] 
+ removeKey[@os]: {
+  *win: "ctrl",
+   mac: "alt",
+   linux: "ctrl"
+ }
+>
+
 <sidebar-controls "Controls">
 <sidebar-addbranch """
   <div>Add Branch:</div>
@@ -195,7 +203,7 @@ Getting Started <a>hide</a><a>show</a>
 """>
 <sidebar-removebranch """
   <div>Remove Branch:</div>
-  <div><div> alt </div> <span> + click </span> <div></div></div>
+  <div><div> {{ controls::removeKey }} </div> <span> + click </span> <div></div></div>
 """>
 <sidebar-insertbranch """
   <div>Insert Branch:</div>

@@ -146,6 +146,14 @@ Pour commencer <a>cacher</a><a>montrer</a>
 <guidestep-undo "Défaire un changement">
 <guidestep-redo "Refaire un changement">
 
+<controls[@os] 
+ removeKey[@os]: {
+  *win: "ctrl",
+   mac: "alt",
+   linux: "ctrl"
+ }
+>
+
 <sidebar-controls "Contrôles">
 <sidebar-addbranch """
   <div>Ajouter une branche:</div>
@@ -153,7 +161,7 @@ Pour commencer <a>cacher</a><a>montrer</a>
 """>
 <sidebar-removebranch """
   <div>Supprimer une branche:</div>
-  <div><div> alt </div> <span> + clic </span> <div></div></div>
+  <div><div> {{ controls::removeKey }} </div> <span> + clic </span> <div></div></div>
 """>
 <sidebar-insertbranch """
   <div>Insérer une branche:</div>
