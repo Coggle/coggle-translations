@@ -68,6 +68,7 @@
 /* new frontpage content */
 <index-tagline "A clear way to share complex information.">
 <index-signupnow "Sign Up Now for Free">
+<index-login "Already signed up? Log in here.">
 
 <index-use-notes """
   <div><img></div>
@@ -97,6 +98,42 @@
   <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organizations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
   <a>Sign up now<div>From £5 per member per month (about $8)</div></a>
 """>
+
+/* sign-up page content */
+<signup-choose-plan "Choose your personal plan">
+
+<signup-free-plan """
+  <label>
+    <input>
+    <b>Free!</b>
+    <span> active</span>
+    <p>Unlimited diagrams. Unlimited images. Unlimited downloads. All the Coggle goodness.</p>
+  </label>
+""">
+
+<signup-supporter-plan """
+  <label>
+    <input>
+    <b>Coggle Supporter</b> — <b>£5 per year</b> (about $8)
+    <span> active</span>
+    <p>Early access to new features! Larger image uploads, cross links between items. <a>Read more</a>.</p>
+  </label>
+""">
+
+<help-setup-org """
+    <input> Also help me to set up a <a>Coggle Organization</a> for my team &mdash; <b>£5 per member per month</b>
+""">
+
+<help-setup-org-description """
+    A Coggle Organization allows you to separate your business data from personal accounts. They're best suited to businesses that need to manage permissions for a group of employees.
+""">
+
+<billing-check-out-orgs """
+    <b>Using Coggle for business?</b> Check out <a>Coggle Organizations</a>
+""">
+
+<signup-signup "SIGN UP">
+<signup-save "SAVE">
 
 
 /* documents list content */
@@ -649,11 +686,11 @@ Did you know you can become a Coggle Supporter? You can! For £5/year you get gr
 Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
 """>
 <fact-organisation """
-Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+Using Coggle in Business? You can create a Coggle Organization to manage your Company's Coggles.
 """>
 <fact-organisation2 """
-Did you know Coggle Organisations can put their logo on their Coggles? They can!
+Did you know Coggle Organizations can put their logo on their Coggles? They can!
 """>
 <fact-organisation3 """
-Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
+Did you know you can create a Coggle Organization to organise your businesses Coggles? You can!
 """>
