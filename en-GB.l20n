@@ -68,6 +68,7 @@
 /* new frontpage content */
 <index-tagline "A clear way to share complex information.">
 <index-signupnow "Sign Up Now for Free">
+<index-login "Already signed up? Log in here.">
 
 <index-use-notes """
   <div><img></div>
@@ -95,8 +96,44 @@
   <a><img></a>
   <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
   <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From £5 per user per month</div></a>
+  <a>Sign up now<div>From £5 per member per month</div></a>
 """>
+
+/* sign-up page content */
+<signup-choose-plan "Choose your personal plan">
+
+<signup-free-plan """
+  <label>
+    <input>
+    <b>Free!</b>
+    <span> active</span>
+    <p>Unlimited diagrams. Unlimited images. Unlimited downloads. All the Coggle goodness.</p>
+  </label>
+""">
+
+<signup-supporter-plan """
+  <label>
+    <input>
+    <b>Coggle Supporter</b> — <b>£5 per year</b>
+    <span> active</span>
+    <p>Early access to new features! Larger image uploads, cross links between items. <a>Read more</a>.</p>
+  </label>
+""">
+
+<help-setup-org """
+    <input> Also help me to set up a <a>Coggle Organisation</a> for my team &mdash; <b>£5 per member per month</b>
+""">
+
+<help-setup-org-description """
+    A Coggle Organisation allows you to separate your business data from personal accounts. They're best suited to businesses that need to manage permissions for a group of employees.
+""">
+
+<billing-check-out-orgs """
+    <b>Using Coggle for business?</b> Check out <a>Coggle Organisations</a>
+""">
+
+<signup-signup "SIGN UP">
+<signup-save "SAVE">
 
 
 /* documents list content */
@@ -188,6 +225,14 @@ Getting Started <a>hide</a><a>show</a>
 <guidestep-undo "Undo a change">
 <guidestep-redo "Redo a change">
 
+<controls[@os] 
+ removeKey[@os]: {
+  *win: "ctrl",
+   mac: "alt",
+   linux: "ctrl"
+ }
+>
+
 <sidebar-controls "Controls">
 <sidebar-addbranch """
   <div>Add Branch:</div>
@@ -195,7 +240,7 @@ Getting Started <a>hide</a><a>show</a>
 """>
 <sidebar-removebranch """
   <div>Remove Branch:</div>
-  <div><div> alt </div> <span> + click </span> <div></div></div>
+  <div><div> {{ controls::removeKey }} </div> <span> + click </span> <div></div></div>
 """>
 <sidebar-insertbranch """
   <div>Insert Branch:</div>
@@ -326,13 +371,13 @@ Getting Started <a>hide</a><a>show</a>
   <h2>Coggle Organisations</h2>
   <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
   <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>£5 per user per month</b>.<br><b>Unlimited everything</b>.</p>
+  <p>Pricing is simple, <b>£5 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
 <orgs-signupnow """
   <h2>Signup for an Organisation now: </h2>
   <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
-  <p>From £5 per user per month (about $8)</p>
+  <p>From £5 per member per month (about $8)</p>
 """>
 
 <orgs-feature-in-one-place """
@@ -350,7 +395,7 @@ Getting Started <a>hide</a><a>show</a>
 <orgs-feature-manage-users """
   <img>
   <h2>Safely Manage Users</h2>
-  <p>Remove users from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by users past and present, deleted or active.</p>
+  <p>Remove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active.</p>
 """>
 
 <orgs-feature-export """
@@ -399,7 +444,7 @@ Getting Started <a>hide</a><a>show</a>
   <span>Pick something short and recognisable!</span>
 """>
 <orgcreate-billing "Billing">
-<orgcreate-pricing "Pricing is simple:<b> £5 per user per month</b>.  Unlimited everything.">
+<orgcreate-pricing "Pricing is simple:<b> £5 per member per month</b>.  Unlimited everything.">
 <orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
 <orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
 <orgcreate-stripeinfo """

@@ -186,6 +186,14 @@
 <guidestep-undo "撤销修改">
 <guidestep-redo "重做修改">
 
+<controls[@os] 
+ removeKey[@os]: {
+  *win: "ctrl",
+   mac: "alt",
+   linux: "ctrl"
+ }
+>
+
 <sidebar-controls "控制">
 <sidebar-addbranch """
   <div>添加分支:</div>
@@ -193,7 +201,7 @@
 """>
 <sidebar-removebranch """
   <div>删除分支:</div>
-  <div><div> alt </div> <span> + 单击 </span> <div></div></div>
+  <div><div> {{ controls::removeKey }} </div> <span> + 单击 </span> <div></div></div>
 """>
 <sidebar-insertbranch """
   <div>插入分支:</div>
