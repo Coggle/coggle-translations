@@ -10,7 +10,8 @@
     "ja",
     "ru",
     "zh-CN",
-    "zh-TW"
+    "zh-TW",
+    "sv"
   ],
   "default_locale": "en-US"
 }
