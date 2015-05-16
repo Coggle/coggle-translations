@@ -98,6 +98,41 @@
   <a>サインアップ<div>1メンバー1月£5から</div></a>
 """>
 
+/* sign-up page content */
+<signup-choose-plan "パーソナルプランを選択してください">
+
+<signup-free-plan """
+  <label>
+    <input>
+    <b>フリー!</b>
+    <span> 有効にする</span>
+    <p>ダイアグラムの作成は無制限。画像の追加は無制限。ダウンロードは無制限。CoggleのこれがCoggleの良さです。</p>
+  </label>
+""">
+
+<signup-supporter-plan """
+  <label>
+    <input>
+    <b>サポーター</b> — <b>年間 £5</b>
+    <span> 有効にする</span>
+    <p>新機能を早く体験できます！大きい画像もアップロードできます。アイテム間のクロスリンクを張ることができます。 <a>その他の機能はこちら</a>。</p>
+  </label>
+""">
+
+<help-setup-org """
+    <input> チームの為に <a>Coggle Organization</a> のセットアップをしたい &mdash; <b>1メンバー1月£5から</b>
+""">
+
+<help-setup-org-description """
+    Coggle Organization をりようすることで、ビジネスデータを個人アカウントのデータを分けることができます。チームメンバーの権限管理が必要なビジネスでの利用に適しています。
+""">
+
+<billing-check-out-orgs """
+    <b>Coggleをビジネスで利用しますか？Coggle Organizationsを</b> チェックする <a></a>
+""">
+
+<signup-signup "サインアップ">
+<signup-save "保存">
 
 /* documents list content */
 <createcoggle """
@@ -175,7 +210,7 @@
 <guidestep-undo "変更を取り消す">
 <guidestep-redo "取り消した変更をやりなおす">
 
-<controls[@os] 
+<controls[@os]
  removeKey[@os]: {
   *win: "ctrl",
    mac: "alt",
