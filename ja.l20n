@@ -356,13 +356,13 @@
   <h2>Coggle Organisations</h2>
   <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
   <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>£5 per user per month</b>.<br><b>Unlimited everything</b>.</p>
+  <p>Pricing is simple, <b>£5 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
 <orgs-signupnow """
   <h2>Signup for an Organisation now: </h2>
   <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
-  <p>From £5 per user per month (about $8)</p>
+  <p>From £5 per member per month (about $8)</p>
 """>
 
 <orgs-feature-in-one-place """
@@ -380,7 +380,7 @@
 <orgs-feature-manage-users """
   <img>
   <h2>Safely Manage Users</h2>
-  <p>Remove users from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by users past and present, deleted or active.</p>
+  <p>Remove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active.</p>
 """>
 
 <orgs-feature-export """
@@ -429,7 +429,7 @@
   <span>Pick something short and recognisable!</span>
 """>
 <orgcreate-billing "Billing">
-<orgcreate-pricing "Pricing is simple:<b> £5 per user per month</b>.  Unlimited everything.">
+<orgcreate-pricing "Pricing is simple:<b> £5 per member per month</b>.  Unlimited everything.">
 <orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
 <orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
 <orgcreate-stripeinfo """
