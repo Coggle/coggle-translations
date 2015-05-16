@@ -177,7 +177,7 @@
 <guide-click-here "ここをクリック">
 <guide-or-here "こっちでもOK">
 <guide-editanytext "どんなテキストも編集できます">
-<guide-draganything "そして、ドラッグすれば移動もできます">
+<guide-draganything "そして、ドラッグすればテキストの移動もできます">
 <guide-clicktoadd "ここをクリックして、子アイテムを追加しましょう">
 <guide-taptoaddmore "タップしてもっと追加してみましょう">
 <guide-holdtoremove "... また、 {{ $removeKey }} を長押しして、ここをクリックすることで削除をすることができます。">
@@ -197,7 +197,7 @@
 <help-toolbar-invitemulti """
   時間の節約のために、一度に複数の人を誘うことができます: スペースや、カンマ <b>,</b> セミコロン <b>;</b> で区切ってemailを入力（ペースト）します。
 """>
-
+<help-inactive-invite "友達と一緒に生活を変えるアイディアを実現しましょう！<br>こちらからメールで招待しましょう。">
 
 /* diagram sidebar content */
 <sidebar-getstarted """
@@ -478,7 +478,8 @@
 <context-squash-branch "テキストを取り除く。{{ $squashKeys }} を離してブランチを追加">
 <context-remove-branch-ctrl "ブランチを削除。[ctrl]+[shift] で、このアイテムのみ削除">
 <context-add-branch "クリックしてブランチを追加。{{ $removeKey }} を押して削除">
-
+<context-hide-branch "クリックしてブランチを畳む。">
+<context-show-branch "クリックしてブランチを広げる。">
 
 /* sharing dialog content */
 <share-newlink "リンクの新規作成:">
