@@ -95,9 +95,44 @@
   <a><img></a>
   <h2><a>Coggle Organisations</a>でよりよいチームのコミュニケーションを</h2>
   <p>ブレイン・ストーミングをしたり、ノートを取ったり、アイディアを記録したりする共用スペースをチームメンバーに提供しましょう。Coggle Organisationsはデータの管理やビジネス・ワークフローに統合するために必要なすべての機能を持っています。<a>続きを読む</a>。</p>
-  <a>サインアップ<div>1ユーザ1月£5から</div></a>
+  <a>サインアップ<div>1メンバー1月£5から</div></a>
 """>
 
+/* sign-up page content */
+<signup-choose-plan "パーソナルプランを選択してください">
+
+<signup-free-plan """
+  <label>
+    <input>
+    <b>フリー!</b>
+    <span> 有効にする</span>
+    <p>ダイアグラムの作成は無制限。画像の追加は無制限。ダウンロードは無制限。CoggleのこれがCoggleの良さです。</p>
+  </label>
+""">
+
+<signup-supporter-plan """
+  <label>
+    <input>
+    <b>サポーター</b> — <b>年間 £5</b>
+    <span> 有効にする</span>
+    <p>新機能を早く体験できます！大きい画像もアップロードできます。アイテム間のクロスリンクを張ることができます。 <a>その他の機能はこちら</a>。</p>
+  </label>
+""">
+
+<help-setup-org """
+    <input> チームの為に <a>Coggle Organization</a> のセットアップをしたい &mdash; <b>1メンバー1月£5から</b>
+""">
+
+<help-setup-org-description """
+    Coggle Organization を利用することで、ビジネスデータを個人アカウントのデータを分けることができます。チームメンバーの権限管理が必要なビジネスでの利用に適しています。
+""">
+
+<billing-check-out-orgs """
+    <b>Coggleをビジネスで利用しますか？Coggle Organizationsを</b> チェックする <a></a>
+""">
+
+<signup-signup "サインアップ">
+<signup-save "保存">
 
 /* documents list content */
 <createcoggle """
@@ -142,7 +177,7 @@
 <guide-click-here "ここをクリック">
 <guide-or-here "こっちでもOK">
 <guide-editanytext "どんなテキストも編集できます">
-<guide-draganything "そして、ドラッグすれば移動もできます">
+<guide-draganything "そして、ドラッグすればテキストの移動もできます">
 <guide-clicktoadd "ここをクリックして、子アイテムを追加しましょう">
 <guide-taptoaddmore "タップしてもっと追加してみましょう">
 <guide-holdtoremove "... また、 {{ $removeKey }} を長押しして、ここをクリックすることで削除をすることができます。">
@@ -162,7 +197,7 @@
 <help-toolbar-invitemulti """
   時間の節約のために、一度に複数の人を誘うことができます: スペースや、カンマ <b>,</b> セミコロン <b>;</b> で区切ってemailを入力（ペースト）します。
 """>
-
+<help-inactive-invite "友達と一緒に生活を変えるアイディアを実現しましょう！<br>こちらからメールで招待しましょう。">
 
 /* diagram sidebar content */
 <sidebar-getstarted """
@@ -175,7 +210,7 @@
 <guidestep-undo "変更を取り消す">
 <guidestep-redo "取り消した変更をやりなおす">
 
-<controls[@os] 
+<controls[@os]
  removeKey[@os]: {
   *win: "ctrl",
    mac: "alt",
@@ -321,13 +356,13 @@
   <h2>Coggle Organisations</h2>
   <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
   <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>£5 per user per month</b>.<br><b>Unlimited everything</b>.</p>
+  <p>Pricing is simple, <b>£5 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
 <orgs-signupnow """
   <h2>Signup for an Organisation now: </h2>
   <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
-  <p>From £5 per user per month (about $8)</p>
+  <p>From £5 per member per month (about $8)</p>
 """>
 
 <orgs-feature-in-one-place """
@@ -345,7 +380,7 @@
 <orgs-feature-manage-users """
   <img>
   <h2>Safely Manage Users</h2>
-  <p>Remove users from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by users past and present, deleted or active.</p>
+  <p>Remove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active.</p>
 """>
 
 <orgs-feature-export """
@@ -394,7 +429,7 @@
   <span>Pick something short and recognisable!</span>
 """>
 <orgcreate-billing "Billing">
-<orgcreate-pricing "Pricing is simple:<b> £5 per user per month</b>.  Unlimited everything.">
+<orgcreate-pricing "Pricing is simple:<b> £5 per member per month</b>.  Unlimited everything.">
 <orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
 <orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
 <orgcreate-stripeinfo """
@@ -443,7 +478,8 @@
 <context-squash-branch "テキストを取り除く。{{ $squashKeys }} を離してブランチを追加">
 <context-remove-branch-ctrl "ブランチを削除。[ctrl]+[shift] で、このアイテムのみ削除">
 <context-add-branch "クリックしてブランチを追加。{{ $removeKey }} を押して削除">
-
+<context-hide-branch "クリックしてブランチを畳む。">
+<context-show-branch "クリックしてブランチを広げる。">
 
 /* sharing dialog content */
 <share-newlink "リンクの新規作成:">
