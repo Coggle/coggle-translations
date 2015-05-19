@@ -38,7 +38,7 @@ To create a new language, in your own fork of the repository:
     soon as your file has any translations (it doesn't have to be complete!).
     Before your pull-request can be accepted you need to agree to our
     [contributor
-    agreement](https://www.clahub.com/agreements/Coggle/translations), which
+    agreement](https://www.clahub.com/agreements/Coggle/coggle-translations), which
     gives us the necessary permissions to use your translations on the live
     site.
  
