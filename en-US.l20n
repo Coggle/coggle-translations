@@ -513,13 +513,19 @@ Getting Started <a>hide</a><a>show</a>
 <share-tag-user "user">
 <share-tag-embed "embed">
 <share-tag-writable "editable">
-<share-embed "Embed this Coggle in a Website">
 <share-send-email "SEND">
 <share-email-hints """
   <div>to invite, type an email</div>
   <div>then hit enter</div>
   <div>friend@example.com</div>
 """>
+<share-social """
+  <a title='Embed in a website'> <img/> </a>
+  <a title='Share on Facebook'> <img/> </a>
+  <a title='Share on Twitter'> <img/> </a>
+""">
+<share-open "Can everyone view this diagram?">
+<share-open-detail "Open diagrams can be viewed by anyone and may be found by search engines">
 <css--share-view-privatelinks-cogglelist-empty-before "No private links yet!">
 
 /* download dialog content */
