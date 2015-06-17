@@ -360,7 +360,7 @@
 """>
 
 <orgs-signupnow """
-  <h2>Signup for an Organisation now: </h2>
+  <h2>Sign up for an Organisation now: </h2>
   <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
   <p>From £5 per member per month (about $8)</p>
 """>
