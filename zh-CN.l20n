@@ -114,13 +114,6 @@
   </a>
 """>
 
-<orgbanner """
-  Organisations可以让你的团队合作竟然有序. <a>阅读更多,</a> 或者发送邮件至<a>orgs@coggle.it</a>
-""">
-<orgbanner-editlinks """
-  创建一个<a>共享链接</a> 来分享一个无需注册登陆就能编辑的笔记 —更多功能— 加入<a>Organisation plan</a>.
-""">
-
 /* documents list placeholder content */
 <css--folder-anonymous-cogglelist-empty-before "欢迎使用Coggle! – 创建好的笔记将被列在这里.">
 <css--folders-error-before "文件夹加载失败, 请刷新页面重试.">

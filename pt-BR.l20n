@@ -82,13 +82,6 @@
   </a>
 """>
 
-<orgbanner """
-  Organizações são uma ótima maneira de manter seu trabalho organizado e seguro em um grande  
-  time. <a>Leia mais,</a> ou  nos envie um e-mail <a>orgs@coggle.it</a>
-""">
-<orgbanner-editlinks """
-  Crie <a>links compartilháveis</a> que pode ser editado sem logging in — e muito mais — assinando um  <a> plano de Organização</a>.
-""">
 
 /* documents list contextual help items */
 <help-hide-for-now "Manter oculto">

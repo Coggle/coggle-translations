@@ -149,13 +149,6 @@
   </a>
 """>
 
-<orgbanner """
-  Coggle Organisationsは大きなチームで仕事を安全に整理する素晴らしい方法です。 <a>続きを読む</a>、メールで聞く <a>orgs@coggle.it</a>
-""">
-<orgbanner-editlinks """
-  ログインしなくても編集できる<a>共有リンク</a>を作りましょう。<a>Coggle Organisations</a>にサインアップして更にたくさんの機能を使いましょう。
-""">
-
 /* documents list contextual help items */
 <help-hide-for-now "今は隠す">
 <help-ok-got-it "OK, わかりました!">

@@ -151,14 +151,6 @@
   </a>
 """>
 
-<orgbanner """
-  Organisations are a great way to keep your work organised and secure in a large
-  team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
-""">
-<orgbanner-editlinks """
-  Create <a>shareable links</a> that can be edited without logging in — and lots more — by signing up for an <a>Organisation plan</a>.
-""">
-
 /* documents list placeholder content */
 <css--folder-anonymous-cogglelist-empty-before "Welcome to Coggle! – Diagrams you create will be listed here.">
 <css--folders-error-before "Loading folders failed, please reload the page to try again.">
