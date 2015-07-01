@@ -87,9 +87,9 @@
 /* documents list contextual help items */
 <help-hide-for-now "Cacher pour l'instant">
 <help-ok-got-it "OK, j'ai compris!">
-<help-orgswitch-title "Changer d'organisation">
-<help-orgswitch """
-  <p>Appuyez pour changer d'organisations ou en créer une nouvelle.</p>
+<help-settingsswitch-title "Access Your Settings">
+<help-settingsswitch """
+  <p>Click to access your personal settings, and to switch between, or create, Organizations.</p>
   <p>Les organisations vous permet de contrôler le partage de vos Coggle et de travailler plus efficacement dans les grandes équipes.</p>
 """>
 <help-createfolder "Créer des dossiers à partager avec des groupes de personnes, ou pour ranger vos Coggles.">

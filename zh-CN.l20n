@@ -123,9 +123,9 @@
 /* documents list contextual help items */
 <help-hide-for-now "不再提示">
 <help-ok-got-it "OK, 好的!">
-<help-orgswitch-title "切换Organisations">
-<help-orgswitch """
-  <p>点击来在不同的Organisations中切换, 或者创建一个新Organisation.</p>
+<help-settingsswitch-title "Access Your Settings">
+<help-settingsswitch """
+  <p>Click to access your personal settings, and to switch between, or create, Organizations.</p>
   <p>Organisations帮你在团队中分享Coggles笔记提高工作效率.</p>
 """>
 <help-createfolder "创建文件夹来与他人分享, 或者是用来对Coggle笔记分类.">

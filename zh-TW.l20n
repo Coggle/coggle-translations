@@ -123,9 +123,9 @@
 /* documents list contextual help items */
 <help-hide-for-now "Hide for now">
 <help-ok-got-it "OK, got it!">
-<help-orgswitch-title "Organization Switcher">
-<help-orgswitch """
-  <p>Click to switch between your Organizations, or create a new one.</p>
+<help-settingsswitch-title "Access Your Settings">
+<help-settingsswitch """
+  <p>Click to access your personal settings, and to switch between, or create, Organizations.</p>
   <p>Organizations let you control sharing of Coggles and work more effectively in larger teams.</p>
 """>
 <help-createfolder "Create folders to share with groups of people, or categorize Coggles.">
