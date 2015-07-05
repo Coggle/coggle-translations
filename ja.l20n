@@ -489,6 +489,14 @@
   <div>enterを押して下さい</div>
   <div>friend@example.com</div>
 """>
+<share-social """
+  <a title='サイトに貼る'> <img/> </a>
+  <a title='Facebookでシェア'> <img/> </a>
+  <a title='Twitterでシェア'> <img/> </a>
+""">
+<share-open "全ての人がこのダイアグラムを見ることができますか？">
+<share-open-detail "全ての人が見ることができますし、検索エンジンの対象にもなります。">
+<css--share-view-privatelinks-cogglelist-empty-before "プライベートリンクがありません">
 
 /* download dialog content */
 <download-pdf "PDFをダウンロード">
