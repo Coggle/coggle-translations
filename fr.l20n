@@ -84,20 +84,12 @@
   </a>
 """>
 
-<orgbanner """
-  Organisations sont un excellent moyen de garder votre travail organisé et sécurisé dans une grande équipe.
-  <a>En savoir plus,</a> ou envoyez un mail à <a>orgs@coggle.it</a>
-""">
-<orgbanner-editlinks """
-  Créer des <a>liens partageables</a> qui peuvent être édités sans se connecter — et bien plus — en souscrivant à un <a>forfait Organisation</a>.
-""">
-
 /* documents list contextual help items */
 <help-hide-for-now "Cacher pour l'instant">
 <help-ok-got-it "OK, j'ai compris!">
-<help-orgswitch-title "Changer d'organisation">
-<help-orgswitch """
-  <p>Appuyez pour changer d'organisations ou en créer une nouvelle.</p>
+<help-settingsswitch-title "Access Your Settings">
+<help-settingsswitch """
+  <p>Click to access your personal settings, and to switch between, or create, Organizations.</p>
   <p>Les organisations vous permet de contrôler le partage de vos Coggle et de travailler plus efficacement dans les grandes équipes.</p>
 """>
 <help-createfolder "Créer des dossiers à partager avec des groupes de personnes, ou pour ranger vos Coggles.">

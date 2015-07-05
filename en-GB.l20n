@@ -151,14 +151,6 @@
   </a>
 """>
 
-<orgbanner """
-  Organisations are a great way to keep your work organised and secure in a large
-  team. <a>Read more,</a> or email <a>orgs@coggle.it</a>
-""">
-<orgbanner-editlinks """
-  Create <a>shareable links</a> that can be edited without logging in — and lots more — by signing up for an <a>Organisation plan</a>.
-""">
-
 /* documents list placeholder content */
 <css--folder-anonymous-cogglelist-empty-before "Welcome to Coggle! – Diagrams you create will be listed here.">
 <css--folders-error-before "Loading folders failed, please reload the page to try again.">
@@ -168,9 +160,9 @@
 /* documents list contextual help items */
 <help-hide-for-now "Hide for now">
 <help-ok-got-it "OK, got it!">
-<help-orgswitch-title "Organisation Switcher">
-<help-orgswitch """
-  <p>Click to switch between your Organisations, or create a new one.</p>
+<help-settingsswitch-title "Access Your Settings">
+<help-settingsswitch """
+  <p>Click to access your personal settings, and to switch between, or create, Organisations.</p>
   <p>Organisations let you control sharing of Coggles and work more effectively in larger teams.</p>
 """>
 <help-createfolder "Create folders to share with groups of people, or categorise Coggles.">
@@ -375,7 +367,7 @@ Getting Started <a>hide</a><a>show</a>
 """>
 
 <orgs-signupnow """
-  <h2>Signup for an Organisation now: </h2>
+  <h2>Sign up for an Organisation now: </h2>
   <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
   <p>From £5 per member per month (about $8)</p>
 """>
