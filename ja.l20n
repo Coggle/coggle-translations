@@ -67,7 +67,7 @@
 
 /* new frontpage content */
 <index-tagline "複雑な情報を共有するシンプルなやり方">
-<index-signupnow "Sign up now">
+<index-signupnow "サインアップ">
 
 <index-use-notes """
   <div><img></div>
@@ -149,19 +149,12 @@
   </a>
 """>
 
-<orgbanner """
-  Coggle Organisationsは大きなチームで仕事を安全に整理する素晴らしい方法です。 <a>続きを読む</a>、メールで聞く <a>orgs@coggle.it</a>
-""">
-<orgbanner-editlinks """
-  ログインしなくても編集できる<a>共有リンク</a>を作りましょう。<a>Coggle Organisations</a>にサインアップして更にたくさんの機能を使いましょう。
-""">
-
 /* documents list contextual help items */
 <help-hide-for-now "今は隠す">
 <help-ok-got-it "OK, わかりました!">
-<help-orgswitch-title "Organisations スイッチ">
-<help-orgswitch """
-  <p>クリックすることでOrganizationを変更したり、新規作成することができます。</p>
+<help-settingsswitch-title "Access Your Settings">
+<help-settingsswitch """
+  <p>Click to access your personal settings, and to switch between, or create, Organizations.</p>
   <p>Organizationsを使うことで大きなチームでのCoggleの共有管理や効率的な作業ができるようになります。</p>
 """>
 <help-createfolder "フォルダを作ってグループでシェアしたり、Coggleをカテゴライズしましょう。">
@@ -360,7 +353,7 @@
 """>
 
 <orgs-signupnow """
-  <h2>Signup for an Organisation now: </h2>
+  <h2>Sign up for an Organisation now: </h2>
   <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
   <p>From £5 per member per month (about $8)</p>
 """>
@@ -496,6 +489,14 @@
   <div>enterを押して下さい</div>
   <div>friend@example.com</div>
 """>
+<share-social """
+  <a title='サイトに貼る'> <img/> </a>
+  <a title='Facebookでシェア'> <img/> </a>
+  <a title='Twitterでシェア'> <img/> </a>
+""">
+<share-open "全ての人がこのダイアグラムを見ることができますか？">
+<share-open-detail "全ての人が見ることができますし、検索エンジンの対象にもなります。">
+<css--share-view-privatelinks-cogglelist-empty-before "プライベートリンクがありません">
 
 /* download dialog content */
 <download-pdf "PDFをダウンロード">
