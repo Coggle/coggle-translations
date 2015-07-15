@@ -412,110 +412,109 @@ Empezando <a>ocultar</a><a>mostrar</a>
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
-<orgcreate-title "Create an Organisation">
+<orgcreate-title "Crear una organización ">
 <orgcreate-controlsharing """
   <img>
-  <h3>Control Sharing</h3>
-  <div>Make sure Coggles created by your organisation stay in your organisation.</div>
+  <h3>Controla el Compartir</h3>
+  <div>Asegurarte de que los Coggles creados en tu organización permanezcan en tu organización.div>
 """>
 <orgcreate-branding """
   <img>
-  <h3>Brand your Exports</h3>
-  <div>Have your logo appear as a watermark when diagrams are exported.</div>
+  <h3>Pon tu logo en tus trabajos</h3>
+  <div>Tu logo aparecerá en tus diagramas cuando estos son exportados.</div>
 """>
 <orgcreate-dashboard """
   <img>
-  <h3>Super-user Dashboard</h3>
-  <div>Administrator accounts get full control of all the diagrams in your organisation.</div>
+  <h3>Panel de Super-usuario</h3>
+  <div>Las cuentas de administrador obtienen control completo sobre todos los diagramas de la organización.</div>
 """>
-<orgcreate-gotqs "Got questions? Ask us! <a>orgs@coggle.it</a>">
-<orgcreate-choosename "Organisation Name">
+<orgcreate-gotqs "¿Tienes dudas? ¡Pregúntanos! <a>orgs@coggle.it</a>">
+<orgcreate-choosename "Nombre de la Organización">
 <orgcreate-nameinput """
-  <input placeholder="Choose Your Organisation Name">
-  <span>Pick something short and recognisable!</span>
+  <input placeholder="Escoge el nombre de tu Organización">
+  <span>¡Escoge algo corto y reconocible!</span>
 """>
-<orgcreate-billing "Billing">
-<orgcreate-pricing "Pricing is simple:<b> £5 per member per month</b>.  Unlimited everything.">
-<orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
-<orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
+<orgcreate-billing "Facturación">
+<orgcreate-pricing "El precio es simple: <b> £5 por miembro por mes</b>.  Todo ilimitado.">
+<orgcreate-paymentinfo "<p><a>Leer más</a> sobre el proceso de pagos.</p>">
+<orgcreate-weusestripe "Nosotros usamos <a>Stripe</a> para procesar tus pagos de forma segura.">
 <orgcreate-stripeinfo """
-  Stripe is certified to PCI level 1, and store your payment information using AES-256 encryption. You can read more about their security practices on Stripe's <a>security page</a>.
+  Stripe está certificado como PCI nivel 1, y guarda tu información de pago usando encriptado AES-256. Puedes leer más sobre sus prácticas de seguridad en la <a>pagina de suguridad</a> de Stripe.
 """>
-<orgcreate-create "<p>CREATE</p>">
-
+<orgcreate-create "<p>CREAR</p>">
 
 /* About Coggle (/about) */
 <about-hello """
-  <h1>Hello!</h1>
-  <p>Coggle is about redefining the way documents work: the way we share and store knowledge. It's a space for thoughts that works the way that people do — not in the rigid ways of computers.</p>
-  <p>It's free, and we promise it always will be, but we still take our responsibilities seriously. We promise to look after your data the best we know how, to keep backups, and to take security seriously.</p>
-  <p>Our mission is to change the way that people work and collaborate forever, to make you more productive, and to make it easier to share information with others, and to do it in a way that's beautiful, and a pleasure to use.</p>
+  <h1>¡Hola!</h1>
+  <p>Coggle está apunto de redefinir la forma en que los documentos funcionan: La forma en que compartimos y guardamos conociendo. Es un lugar para ideas que funcionan en misma forma que las personas lo hacen — no en las formas rígidas de las computadoras.</p>
+  <p>Es gratis, y prometemos que siempre lo será, pero todavía tomamos nuestras responsabilidades con seriedad. Nosotros prometemos velar por tus datos de la mejor manera que conocemos, mantener respaldos y tomar la seguridad seriamente. </p>
+  <p>Nuestra misión es cambiar la forma en que las personas trabajan y colaboran para siempre, para hacerlo más productivo, más sencillo de compartir información con otros y de una forma que es hermosa y placentera al usar.</p>
 """>
 
 <about-getintouch """
-  <h1>Get in Touch</h1>
-  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter </a>and if you prefer you can always send an email to <a>hello@coggle.it </a>— we love to chat!</p>
+  <h1>Ponte en contacto</h1>
+  <p>¿Tienes una pregunta? ¿Quieres contarnos como usas Coggle? O talvez ¿Quieres darnos alguna retroalimentación? Puedes encontrarnos en <a>facebook </a>y en <a>Twitter </a> o si prefieres siempre puedes enviarnos un email a <a>hello@coggle.it </a>— Amamos conversar!</p>
 """>
 
 <about-spreadtheword """
-  <h1>Spread the Word</h1>
-  <p>If you love Coggle, then help us break even more people free from the confines of lists, spreadsheets and conventional documents! You can share Coggle <a>on Twitter </a>or <a>on Facebook</a>, or you can even get a <a>Coggle tshirt</a>.</p>
+  <h1>Difunde tu experiencia</h1>
+  <p>SI amas Coggle, ¡Entonces ayúdanos a sacar a más personas de los confines de listas, hojas de cálculo y documentos convencionales! Puedes compartir Coggle <a>en Twitter </a>o <a>en Facebook</a>, o hasta puede conseguir tu <a>camisa Coggle</a>.</p>
 """>
 
 <about-press """
-  <h1>In the press?</h1>
-  <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
+  <h1>¿En la prensa?</h1>
+  <p>Entonces puedes revisar nuestro <a>kit de prensa </a>, o <a>ponte en contacto</a> para conocer más!</p>
 """>
 
 <about-company """
  <div>
-   <p>Registered in England and Wales. No. 9030487</p>
-   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
+   <p>Registrada en Inglaterra y Gales. No. 9030487</p>
+   <p>Oficina Registrada: William James House, Cowley Road, Cambridge CB4 0WX</p>
  </div>
 """>
 
 
 /* diagram tooltips */
-<context-dragclick "drag to move, click to edit">
-<context-dragclickfollow "drag to move, click to edit, {{ $followLinkKey }} + click to follow links">
+<context-dragclick "arrastra para mover, clic para editar ">
+<context-dragclickfollow " arrastra para mover, clic para editar, {{ $followLinkKey }} + clic para ir a los enlaces">
 
-<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
-<context-insert-branch "insert text: release [shift] to add branch instead">
-<context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
-<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
-<context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
-<context-hide-branch "click to collapse this branch">
-<context-show-branch "click to expand this branch">
+<context-remove-branch-alt "remover esta rama: por el contrario suelta [alt] para añadir una rama">
+<context-insert-branch "insertar texto: por el contrario suelta [shift] para añadir una rama">
+<context-squash-branch "reducir texto: por el contrario suelta {{ $squashKeys }} para añadir una rama">
+<context-remove-branch-ctrl "remover esta rama: usa [ctrl]+[shift] para remover solo este elemento">
+<context-add-branch "clic para añadir una rama: por el contrario mantén {{ $removeKey }} para remover">
+<context-hide-branch "clic para colapsar esta rama">
+<context-show-branch "clic para expandir esta rama">
 
 /* diagram not-found page */
-<nodiagram-title "Diagram not found!">
-<nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">
-<nodiagram-logged-in "You are currently logged in as <b>{{ $user.givenName }}</b>, with the email address <b>{{ $user.email }}</b>. If this diagram exists, this account does not have permission to access it.">
-<nodiagram-not-logged-in "<b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.">
-<nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
+<nodiagram-title "¡Diagrama no encontrado!">
+<nodiagram-invalid-link "Este link de diagrama es invalido o el acceso a él ha sido revocado.">
+<nodiagram-logged-in "Actualmente ingresaste como <b>{{ $user.givenName }}</b>, con el correo electrónico <b>{{ $user.email }}</b>. Si este diagrama existe, esta cuenta no tiene permisos para acceder a él.">
+<nodiagram-not-logged-in "<b>Actualmente no has iniciado sesión.</b>  Si el diagrama existe, podrías accesar el diagrama si ingresas a tu cuenta.">
+<nodiagram-may-need-access "Si alguien te dio el enlace a este diagrama, probablemente requiera darte permisos para verlo.">
 
 /* sharing dialog content */
-<share-newlink "New Link:">
+<share-newlink "Nuevo enlace:">
 <share-newlink-tip """
-  These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+  Este permite compartir tu diagrama con personas que no han iniciado sesión, pero se cuidadoso, esto permite que <strong>cualquiera</strong> con este enlace vea tu trabajo!
 """>
-<share-tag-user "user">
-<share-tag-embed "embed">
+<share-tag-user "usuario">
+<share-tag-embed "incrustado">
 <share-tag-writable "editable">
-<share-send-email "SEND">
+<share-send-email "ENVIAR">
 <share-email-hints """
-  <div>to invite, type an email</div>
-  <div>then hit enter</div>
-  <div>friend@example.com</div>
+  <div>para invitar, ingresa un correo electrónico</div>
+  <div>después presiona enter</div>
+  <div>amigo@ejemplo.com</div>
 """>
 <share-social """
-  <a title='Embed in a website'> <img/> </a>
-  <a title='Share on Facebook'> <img/> </a>
-  <a title='Share on Twitter'> <img/> </a>
+  <a title='Incrustado en un sitio web'> <img/> </a>
+  <a title='Compartir en Facebook'> <img/> </a>
+  <a title='Compartir en Twitter'> <img/> </a>
 """>
-<share-open "Can everyone view this diagram?">
-<share-open-detail "Open diagrams can be viewed by anyone and may be found by search engines">
-<css--share-view-privatelinks-cogglelist-empty-before "No private links yet!">
+<share-open "¿Puede cualquiera ver este diagrama? ">
+<share-open-detail "Diagramas Abiertos pueden ser vistos por cualquiera y podrían ser encontrados por motores de búsqueda">
+<css--share-view-privatelinks-cogglelist-empty-before "¡Sin links privados todavía!">
 
 /* download dialog content */
 <download-pdf "Download PDF">
