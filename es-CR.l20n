@@ -99,122 +99,122 @@
 """>
 
 /* sign-up page content */
-<signup-choose-plan "Choose your personal plan">
+<signup-choose-plan "Elige tu plan personal ">
 
 <signup-free-plan """
   <label>
     <input>
-    <b>Free!</b>
-    <span> active</span>
-    <p>Unlimited diagrams. Unlimited images. Unlimited downloads. All the Coggle goodness.</p>
+    <b>¡Gratis!</b>
+    <span> activo</span>
+    <p>Diagramas ilimitados. Imágenes ilimitadas. Descargas ilimitadas. Todo lo grandioso de Coggle. </p>
   </label>
 """>
 
 <signup-supporter-plan """
   <label>
     <input>
-    <b>Coggle Supporter</b> — <b>£5 per year</b>
-    <span> active</span>
-    <p>Early access to new features! Larger image uploads, cross links between items. <a>Read more</a>.</p>
+    <b>Patrocinador Coggle </b> — <b>£5 por año</b>
+    <span> activo</span>
+    <p>¡Acceso exclusivo a nuevas características! Subidas de imagines más grandes, Links cruzados entre elementos.  <a>Leer más</a>.</p>
   </label>
 """>
 
 <help-setup-org """
-    <input> Also help me to set up a <a>Coggle Organisation</a> for my team &mdash; <b>£5 per member per month</b>
+    <input> También ayúdame a configurar una <a>Organización Coggle </a> para mi equipo &mdash; <b>£5 por miembro por mes</b>
 """>
 
 <help-setup-org-description """
-    A Coggle Organisation allows you to separate your business data from personal accounts. They're best suited to businesses that need to manage permissions for a group of employees.
+    Una Organización Coggle permite separar los datos de su negocio y sus datos personales. Son ideales para negocios que requieren manejar permisos para un grupo de empleados.
 """>
 
 <billing-check-out-orgs """
-    <b>Using Coggle for business?</b> Check out <a>Coggle Organisations</a>
+    <b>¿Usando Coggle para su negocio? </b> Revisa las <a>Organizaciones Coggle</a>
 """>
 
-<signup-signup "SIGN UP">
-<signup-save "SAVE">
+<signup-signup "REGISTRARSE">
+<signup-save "Guardar">
 
 
 /* documents list content */
 <createcoggle """
-  <p title="Create a new Coggle.">CREATE</p>
+  <p title="Crear un nuevo Coggle.">CREAR</p>
 """>
 <createfolder """
   <img>
-  <p title="Create a new Folder.">ADD</p>
+  <p title="Añadir una nueva carpeta.">AÑADIR</p>
 """>
-<limitedaccess "You have limited access to  as you're not a member">
+<limitedaccess "Usted tiene acceso limitados ya que no es un miembro ">
 <link-drive """
   <a><img>
-    <span>Too many Coggles? Organise them in Google Drive</span>
+    <span>¿Muchos Coggle? Organízalos en Google Drive</span>
   </a>
 """>
 
 /* documents list placeholder content */
-<css--folder-anonymous-cogglelist-empty-before "Welcome to Coggle! – Diagrams you create will be listed here.">
-<css--folders-error-before "Loading folders failed, please reload the page to try again.">
-<css--folder-permission-admin-cogglelist-empty-before "Drag a Coggle here to move it to this folder.">
-<css--folder-error-cogglelist-empty-before "Uh-oh! Loading folder failed, refresh the page to try again.">
+<css--folder-anonymous-cogglelist-empty-before "!Beinbenido a Coggle! – Los diagramas que tú crees aparecerán aquí. ">
+<css--folders-error-before "La carga de carpetas fallo, por favor actualice la página e intente nuevamente. ">
+<css--folder-permission-admin-cogglelist-empty-before "Arrastra un Coggle para moverlo a esta carpeta.">
+<css--folder-error-cogglelist-empty-before "Ups! La carga de la carpeta fallo, actualiza la página para intentarlo nuevamente.">
 
 /* documents list contextual help items */
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
-<help-settingsswitch-title "Access Your Settings">
+<help-hide-for-now "Ocultar por ahora">
+<help-ok-got-it "!Esta bien, lo entendí!">
+<help-settingsswitch-title "Accesar a tus preferencias">
 <help-settingsswitch """
-  <p>Click to access your personal settings, and to switch between, or create, Organisations.</p>
-  <p>Organisations let you control sharing of Coggles and work more effectively in larger teams.</p>
+  <p>Presiona para accesar a tus preferencias personales y cambiar o crear Organizaciones.</p>
+  <p>Las Organizaciones le permiten controlar la forma en que se comparte los Coggles y trabajo de una manera más en efectiva en equipos grandes.</p>
 """>
-<help-createfolder "Create folders to share with groups of people, or categorise Coggles.">
-<help-filtercoggles-title "Filter Coggles">
+<help-createfolder "Crea carpetas para compartirlas con grupos de personas o categorizar los Coggles.">
+<help-filtercoggles-title "Filtrar los Coggles">
 <help-filtercoggles """
-  Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
+  Escribe para filtrar los Coggles y abrirlos rápidamente – presiona <b>[enter]</b> para abrir el primer Coggle de la lista.
 """>
-<help-profile-title "This is you!">
-<help-profile "Click your icon to view your user profile and settings.">
+<help-profile-title "¡Esto eres tú!">
+<help-profile "Presiona el icono para visualizar tu perfil de usuario y preferencias. ">
 
 
 /* diagram introductory tutorial */
-<guide-click-here "click here">
-<guide-or-here "or here">
-<guide-editanytext "you can edit any text">
-<guide-draganything "and drag any text to move it">
-<guide-clicktoadd "now click here to add child item">
-<guide-taptoaddmore "now tap to add more">
-<guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
-<guide-undo "you can use {{ $undoKey }} to undo any anything you do!">
-<guide-redo "and {{ $redoKey }} to re-do things again afterwards">
-<guide-donebasics "neat you've got the hang of the basics!">
+<guide-click-here "presiona aquí">
+<guide-or-here "o aquí">
+<guide-editanytext "puedes editar cualquier texto">
+<guide-draganything "y arrastrarlo para moverlo">
+<guide-clicktoadd "ahora presiona aquí para añadir un elemento hijo ">
+<guide-taptoaddmore "ahora tabula para añadir más">
+<guide-holdtoremove "... o sostén {{ $removeKey }} y presiona aquí para eliminarlo">
+<guide-undo "puedes usar {{ $undoKey }} para deshacer cualquier cosa que hagas!">
+<guide-redo "y {{ $redoKey }} para rehacer nuevamente">
+<guide-donebasics "¡ahora tienes una idea de los conceptos básicos!">
 
 /* diagram placeholder content */
-<css--desktop-holder-textlabel-roottextlabel-empty-not-active-after "Unnamed Coggle">
-<css--touch-holder-not-readonly-textlabel-empty-not-active-after "hold to edit">
-<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "click to edit">
-<css--holder-readonly-textlabel-empty-not-active-after "no text">
+<css--desktop-holder-textlabel-roottextlabel-empty-not-active-after "Coggle sin nombre">
+<css--touch-holder-not-readonly-textlabel-empty-not-active-after "sostén para editar">
+<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "presiona para editar">
+<css--holder-readonly-textlabel-empty-not-active-after "sin texto">
 
 /* diagram contextual help items */
-<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
-<help-sidebar "Click here to show or hide the help sidebar at any time.">
-<help-share-diagram "Click to invite people to edit or view this Coggle. We'll send them an email with a link to sign in and edit!">
-<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
-<help-toolbar-invite-title "Work With Others">
-<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
-<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-gohome "Presiona el logo de Coggle para regresar al inicio, donde tus documentos son automáticamente guardados. ">
+<help-sidebar "Presiona aquí para mostrar u ocultar la barra lateral en cualquier momento.">
+<help-share-diagram "Presiona para invitar personas a editar este Coggle. ¡Les enviaremos un correo electrónico con un enlace para registrarse y editar!">
+<help-multiline "Añade múltiples líneas de texto usando [ctrl] + [enter], o arrastrando el elemento de redimensionar antes de escribir.">
+<help-toolbar-invite-title "Trabaja con otros ">
+<help-toolbar-invite "Presiona para invitar personas a editar o ver este Coggle. Puedes controlar los permisos de las personas presionando su icono.">
+<help-toolbar-invitemulti-title "Invitar múltiples personas ">
 <help-toolbar-invitemulti """
-  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+  Para ahorrar tiempo, puedes invitar múltiples personas al mismo tiempo: escribe (o pega) coreos electrónicos separados por espacios, comas<b>,</b> o punto y coma<b>;</b>
 """>
-<help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
+<help-inactive-invite "¡Trabaja con tus amigos para darle vida a tus ideas! <br>Invítalos por correo electrónico aquí.">
 
 
 /* diagram sidebar content */
 <sidebar-getstarted """
-Getting Started <a>hide</a><a>show</a>
+Empezando <a>ocultar</a><a>mostrar</a>
 """>
-<guidestep-add "Add a new item">
-<guidestep-edit "Edit an item">
-<guidestep-move "Move an item ">
-<guidestep-remove "Remove an item">
-<guidestep-undo "Undo a change">
-<guidestep-redo "Redo a change">
+<guidestep-add "Añadir un nuevo elemento">
+<guidestep-edit "Editar un elemento">
+<guidestep-move "Mover un elemento">
+<guidestep-remove "Remover un elemento">
+<guidestep-undo "Deshacer un cambio">
+<guidestep-redo "Rehacer un cambio ">
 
 <controls[@os]
  removeKey[@os]: {
@@ -224,78 +224,78 @@ Getting Started <a>hide</a><a>show</a>
  }
 >
 
-<sidebar-controls "Controls">
+<sidebar-controls "Controles">
 <sidebar-addbranch """
-  <div>Add Branch:</div>
+  <div>Añadir Rama:</div>
   <div><span> click </span><div></div></div>
 """>
 <sidebar-removebranch """
-  <div>Remove Branch:</div>
+  <div>Remover Rama:</div>
   <div><div> {{ controls::removeKey }} </div> <span> + click </span> <div></div></div>
 """>
 <sidebar-insertbranch """
-  <div>Insert Branch:</div>
+  <div>Insertar Rama:</div>
   <div><div> shift </div> <span> + click </span> <div></div></div>
 """>
 <sidebar-movebranch """
-  <div> Move Branch: </div>
-  <div><div> drag anything! </div></div>
+  <div> Mover Rama: </div>
+  <div><div> arrastra cualquier cosa! </div></div>
 """>
 <sidebar-transplantbranch """
-  <div> Transplant Branch: </div>
-  <div><div> shift </div> <span> + drag </span> <div></div></div>
+  <div> Trasplantar Rama: </div>
+  <div><div> shift </div> <span> + arrastrar </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
-  <div> Change Colours: </div>
-  <div><span> click a branch </span></div>
+  <div> Cambiar Colores: </div>
+  <div><span> presiona una rama </span></div>
 """>
 <sidebar-addimages """
-  <div> Add <a>Images</a>: </div>
-  <div><div> drag and drop </div></div>
+  <div> Añadir <a>Imágenes</a>: </div>
+  <div><div> arrastra y suelta </div></div>
 """>
 <sidebar-zoom """
   <div> Zoom: </div>
-  <div><div> ctrl </div><span> + mousewheel </span></div>
+  <div><div> ctrl </div><span> + rueda del ratón </span></div>
 """>
-<sidebar-shortcuts "Shortcuts">
+<sidebar-shortcuts "Atajos">
 <sidebar-undo """
-  <div> Undo: </div>
+  <div> Deshacer: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
-  <div> Redo: </div>
+  <div> Rehacer: </div>
   <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-whentyping "When typing">
+<sidebar-whentyping "Al escribir">
 <sidebar-sc-newitem """
-  <div> New Item: </div>
+  <div> Nuevo Elemento: </div>
   <div><div> shift </div><span> + </span><div> return </div></div>
 """>
 <sidebar-sc-newchild """
-  <div> New Child Item: </div>
+  <div> Nuevo Elemento Hijo: </div>
   <div><div> tab </div></div>
 """>
 <sidebar-sc-parent """
-  <div> Jump to Parent: </div>
+  <div> Sanltar al Padre: </div>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
 <sidebar-sc-markdown """
-    <div>Format text: </div>
-    <div>use <a>Markdown</a></div>
+    <div>Dar Formato al texto: </div>
+    <div>usa <a>Markdown</a></div>
 """>
 <cogglefacts """
-  Coggle Fact <a>another!</a>
+  Hecho Coggle <a>¡otro!</a>
 """>
 <cogglefacts-more """
-  Read more...
+  Leer más...
 """>
 
 <sidebar-contact """
-  <h3>Contact Us!</h3>
-  <p>Need some help? Found a bug? Want to get in touch? Then email us at <a>hello@coggle.it</a></p>
-  <p>Stay up to date with Coggle announcements and tutorials with <a>Bloggle</a>, the Coggle blog.</p>
-  <p>More <a>about Coggle</a>. Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>. For <a>developers</a>.</p>
+  <h3>Contáctanos!</h3>
+  <p>¿Necesitas ayuda? ¿Encontraste algún error? ¿Quieres contactarnos? Entonces envíanos un correo electrónico a <a>hello@coggle.it</a></p>
+  <p>Mantente actualizado con los anuncios y tutoriales de Coggle en <a>Bloggle</a>, el blog de Coggle.</p>
+  <p> Mas <a>sobre Coggle</a>. Nuestra <a>política de privacidad </a>.</p>
+  <p>Para la <a>prensa</a>. Para <a>desarrolladores</a>.</p>
 """>
 
 /* Self-dialog & Supporter Signup */
