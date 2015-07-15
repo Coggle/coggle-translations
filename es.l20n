@@ -48,7 +48,7 @@
   <features-colours """
     <img>
     <h2>Obtén el color correcto</h2>
-    <p> ¿Eres un pensador visual? ¿Aprendes por distribución y color? Bueno, asegúrate de tener el color correcto para tus temas, solo presiona una rama para que se muestre la paleta de colores y selecciona el color que deseas.</p>
+    <p> ¿Eres un pensador visual? ¿Aprendes por distribución y color? Bueno, asegúrate de tener el color correcto para tus temas, solo haz clic en una rama para que se muestre la paleta de colores y selecciona el color que deseas.</p>
   """>
 
   <features-others """
@@ -161,7 +161,7 @@
 <help-ok-got-it "!Esta bien, lo entendí!">
 <help-settingsswitch-title "Accesar a tus preferencias">
 <help-settingsswitch """
-  <p>Presiona para accesar a tus preferencias personales y cambiar o crear Organizaciones.</p>
+  <p>Haz clic para accesar a tus preferencias personales y cambiar o crear Organizaciones.</p>
   <p>Las Organizaciones le permiten controlar la forma en que se comparte los Coggles y trabajo de una manera más en efectiva en equipos grandes.</p>
 """>
 <help-createfolder "Crea carpetas para compartirlas con grupos de personas o categorizar los Coggles.">
@@ -170,17 +170,17 @@
   Escribe para filtrar los Coggles y abrirlos rápidamente – presiona <b>[enter]</b> para abrir el primer Coggle de la lista.
 """>
 <help-profile-title "¡Esto eres tú!">
-<help-profile "Presiona el icono para visualizar tu perfil de usuario y preferencias. ">
+<help-profile "Clic el icono para visualizar tu perfil de usuario y preferencias. ">
 
 
 /* diagram introductory tutorial */
-<guide-click-here "presiona aquí">
+<guide-click-here "clic aquí">
 <guide-or-here "o aquí">
 <guide-editanytext "puedes editar cualquier texto">
 <guide-draganything "y arrastrarlo para moverlo">
-<guide-clicktoadd "ahora presiona aquí para añadir un elemento hijo ">
+<guide-clicktoadd "ahora clic aquí para añadir un elemento hijo ">
 <guide-taptoaddmore "ahora tabula para añadir más">
-<guide-holdtoremove "... o sostén {{ $removeKey }} y presiona aquí para eliminarlo">
+<guide-holdtoremove "... o sostén {{ $removeKey }} y clic aquí para eliminarlo">
 <guide-undo "puedes usar {{ $undoKey }} para deshacer cualquier cosa que hagas!">
 <guide-redo "y {{ $redoKey }} para rehacer nuevamente">
 <guide-donebasics "¡ahora tienes una idea de los conceptos básicos!">
@@ -188,16 +188,16 @@
 /* diagram placeholder content */
 <css--desktop-holder-textlabel-roottextlabel-empty-not-active-after "Coggle sin nombre">
 <css--touch-holder-not-readonly-textlabel-empty-not-active-after "sostén para editar">
-<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "presiona para editar">
+<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "clic para editar">
 <css--holder-readonly-textlabel-empty-not-active-after "sin texto">
 
 /* diagram contextual help items */
-<help-gohome "Presiona el logo de Coggle para regresar al inicio, donde tus documentos son automáticamente guardados. ">
-<help-sidebar "Presiona aquí para mostrar u ocultar la barra lateral en cualquier momento.">
-<help-share-diagram "Presiona para invitar personas a editar este Coggle. ¡Les enviaremos un correo electrónico con un enlace para registrarse y editar!">
+<help-gohome "Clic el logo de Coggle para regresar al inicio, donde tus documentos son automáticamente guardados. ">
+<help-sidebar "Clic aquí para mostrar u ocultar la barra lateral en cualquier momento.">
+<help-share-diagram "Clic para invitar personas a editar este Coggle. ¡Les enviaremos un correo electrónico con un enlace para registrarse y editar!">
 <help-multiline "Añade múltiples líneas de texto usando [ctrl] + [enter], o arrastrando el elemento de redimensionar antes de escribir.">
 <help-toolbar-invite-title "Trabaja con otros ">
-<help-toolbar-invite "Presiona para invitar personas a editar o ver este Coggle. Puedes controlar los permisos de las personas presionando su icono.">
+<help-toolbar-invite "Clic para invitar personas a editar o ver este Coggle. Puedes controlar los permisos de las personas solo haz clic en su icono.">
 <help-toolbar-invitemulti-title "Invitar múltiples personas ">
 <help-toolbar-invitemulti """
   Para ahorrar tiempo, puedes invitar múltiples personas al mismo tiempo: escribe (o pega) coreos electrónicos separados por espacios, comas<b>,</b> o punto y coma<b>;</b>
@@ -227,15 +227,15 @@ Empezando <a>ocultar</a><a>mostrar</a>
 <sidebar-controls "Controles">
 <sidebar-addbranch """
   <div>Añadir Rama:</div>
-  <div><span> click </span><div></div></div>
+  <div><span> clic </span><div></div></div>
 """>
 <sidebar-removebranch """
   <div>Remover Rama:</div>
-  <div><div> {{ controls::removeKey }} </div> <span> + click </span> <div></div></div>
+  <div><div> {{ controls::removeKey }} </div> <span> + clic </span> <div></div></div>
 """>
 <sidebar-insertbranch """
   <div>Insertar Rama:</div>
-  <div><div> shift </div> <span> + click </span> <div></div></div>
+  <div><div> shift </div> <span> + clic </span> <div></div></div>
 """>
 <sidebar-movebranch """
   <div> Mover Rama: </div>
@@ -247,7 +247,7 @@ Empezando <a>ocultar</a><a>mostrar</a>
 """>
 <sidebar-recolourbranch """
   <div> Cambiar Colores: </div>
-  <div><span> presiona una rama </span></div>
+  <div><span> haz clic en una rama </span></div>
 """>
 <sidebar-addimages """
   <div> Añadir <a>Imágenes</a>: </div>
@@ -299,116 +299,116 @@ Empezando <a>ocultar</a><a>mostrar</a>
 """>
 
 /* Self-dialog & Supporter Signup */
-<me-manage-account "Manage account">
-<me-unsupport-progress "Sorry you're leaving. Unsubscribing you now!">
-<me-as-orgmember "You're viewing Coggle as an <b>organisation member</b>.">
-<me-as-orgmember-youget "This means you get great features like:">
+<me-manage-account "Administrar cuenta">
+<me-unsupport-progress "Lamentamos que nos estas dejando. ¡Des inscribiéndote ahora! ">
+<me-as-orgmember "Estas viendo Coggle como un <b>miembro de la organización</b>.">
+<me-as-orgmember-youget "Esto significa que obtienes grandiosas características como: ">
 <me-unsupport """
-  <a>Stop</a> supporting Coggle <span> &mdash; are you sure? <a>I'm sure</a></span>
+  <a>Dejar de</a> apoyar a Coggle <span> &mdash; ¿Estás seguro? <a>Estoy seguro</a></span>
 """>
-<me-signedup "Great! You\'re signed up as a Coggle supporter.">
+<me-signedup "¡Genial! Te registraste como un patrocinador Coggle.">
 <me-support-cancelled """
-  <span>Hello &mdash; this is you!</span>
-  Your supporter subscription has been cancelled. <a>Sign up again</a>.
+  <span>Hola &mdash; ¡Este eres tú!</span>
+  Tu suscripción de patrocinador ha sido cancelada. <a>Registrarse nuevamente</a>.
 """>
-<me-support-signupnow "Sign me up now!">
+<me-support-signupnow "¡Registrarme ahora!">
 <me-support-weusestripe """
-  We use <a>stripe</a> to process payments securely: your card details never go through our servers.
+  Nosotros usamos <a>stripe</a> para procesar los pagos de forma segura: los datos de tu tarjeta nunca pasan por nuestros servidores.
 """>
 <me-support-benefits """
-  <span>Hello &mdash; this is you!</span>
-  Become a Coggle supporter for <b>£5 / year</b> and get early access to new features including:
+  <span>Hola &mdash; ¡Este eres tú!</span>
+  Conviértete en un patrocinador Coggle por <b>£5 / año</b> y recibe acceso anticipado a nuevas características incluyendo:
 """>
 
 <support-feature-bigimages """
   <img>
   <span>
-    <span>Upload large images to your Coggle. </span>
-    <span>Just drag and drop images from your desktop to add them, as a supporter you can add much bigger images!</span>
+    <span>Cargar imágenes más grandes a Coggle. </span>
+    <span>Solo arrastra y suelta imágenes desde tu escritorio. ¡Como patrocinador puedes añadir imágenes más grandes!</span>
   </span>
 """>
 
 <support-feature-xlinks """
   <img>
   <span>
-    <span>Easily create cross-links between items. </span>
-    <span>Use the drag-and-drop menu item to easily show dependencies between items in your Coggle!</span>
+    <span>Crea fácilmente enlaces cruzados entre elementos. </span>
+    <span>¡Usa el elemento en menú de arrastra y suelta para mostrar las dependencias entre elementos en tu Coggle!</span>
   </span>
 """>
 
 
 /* My Settings Page (/me) */
-<me-hi "Hi {{ $user.givenName }},">
+<me-hi "Hola {{ $user.givenName }},">
 <me-supporterpitch """
-  Coggle is free, and we think that <strong>great tools should be available for everyone</strong>.
-  But if you'd like to support the continued development of Coggle then you can by becoming a Coggle supporter - in return you'll get early access to great new features that we're trialling.
+  Coggle es gratis, nosotros pensamos que <strong>increíbles herramientas deben estar disponibles para todos</strong>.
+  Pero si quisieras apoyar el desarrollo continuo de Coggle, entonces puedes convertirte en un patrocinador Coggle – En agradecimiento tendrás acceso anticipado a nuevas e increíbles características que estamos probando.
 """>
-<me-communication "Communication!">
-<me-emailslist "These are the emails we have on record for you:">
-<me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
-<me-commspref "Here's what you've told us about your communication preferences:">
+<me-communication "¡Comunicación!">
+<me-emailslist "Estos son los correos electrónicos que tenemos guardados para ti: ">
+<me-emailstip "Nosotros solo enviaremos correos electrónicos a tu dirección principal. Sin embargo, puedes recibir invitaciones en cualquiera de los otros.">
+<me-commspref "Aquí esta lo que nos has dicho sobre tus preferencias de comunicaciones:">
 <me-comms-explain """
-  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
+  Alguna veces necesitamos enviar actualizaciones del servicio e información de nuevas características que serán enviadas a tu dirección <strong> principal </strong>. Nunca enviaremos spam o publicidad de nosotros o algun tercero (Tampoco nos agradan esas cosas).
 """>
-<me-talktome "Talk to me: ">
-<me-diagram-notifications "Diagram notifications: ">
+<me-talktome "Habla conmigo: ">
+<me-diagram-notifications "Notificaciones de diagrama: ">
 
-<slider-yes "YES">
+<slider-yes "SI">
 <slider-no "NO">
 
 
 /* Organisations Landing Page (/organisations) */
 <orgs-pitch-2 """
-  <h2>Coggle Organisations</h2>
-  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
-  <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>£5 per member per month</b>.<br><b>Unlimited everything</b>.</p>
+  <h2>Organizaciones Coggle</h2>
+  <p>Cuando la información es critica para tu equipo necesitas herramientas mas poderosas y mayor control sobre tus datos. Por eso creamos las <a>Organizaciones Coggle</a>.</p>
+  <p>Cada Organización Coggle contiene características diseñadas para manejar grandes grupos de personas, donde los miembros vienen y van, y la información sensible necesita ser protegida.</p>
+  <p>Los costos son simples, <b>£5 por miembro por mes</b>.<br><b>Todo ilimitado</b>.</p>
 """>
 
 <orgs-signupnow """
-  <h2>Sign up for an Organisation now: </h2>
-  <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
-  <p>From £5 per member per month (about $8)</p>
+  <h2>Regístrate para una Organización Coggle ahora: </h2>
+  <a><div><p>CREAR</p><p>ORGANIZACIÓN</p></div></a>
+  <p>Desde £5 por miembro por mes (aproximadamente $8)</p>
 """>
 
 <orgs-feature-in-one-place """
   <img>
-  <h2>Everything in One Place</h2>
-  <p>All your organisations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.</p>
+  <h2>Todo en un solo lugar </h2>
+  <p>Todos los diagramas de la organización en el mismo lugar. Mantén el trabajo de tus equipos seguro, en un solo lugar fácil de administrar – Entonces sabes exactamente dónde buscar.</p>
 """>
 
 <orgs-feature-control-sharing """
   <img>
-  <h2>Control Sharing</h2>
-  <p>You can make sure that Coggles created in your organisation stay in your organisation. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.</p>
+  <h2>Controla el Compartir</h2>
+  <p>Puedes asegurarte de que los Coggles creados en tu organización permanezcan en tu organización. Esto protege el material sensible contra exposición accidental si el correo electrónico equivocado es invitado al documento.</p>
 """>
 
 <orgs-feature-manage-users """
   <img>
-  <h2>Safely Manage Users</h2>
-  <p>Remove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active.</p>
+  <h2>Manejo de usuarios seguro </h2>
+  <p>Remueve los usuarios de tu organización sin perder el trabajo que ellos han realizado. Usa el panel de administración para ver los diagramas creados por miembros de tu organización anteriores y actuales, eliminados o activos.</p>
 """>
 
 <orgs-feature-export """
   <img>
-  <h2>Bulk Export</h2>
-  <p>Organisation admins can download all of the organisations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind. </p>
+  <h2>Exporta en masa</h2>
+  <p>Los administradores de la organización pueden descargar todos los Coggles de la organización en un archivo en formato JSON legible por máquina, con un solo haz clic. Genial para cumplir con la normativa o simplemente para que tú mente esté tranquila. </p>
 """>
 
 <orgs-feature-branding """
   <img>
-  <h2>Show your Brand</h2>
-  <p>Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.</p>
+  <h2>Muestra tu marca</h2>
+  <p>Crea diagramas profesionales y limpios que muestren tú logo y expórtalos en formato PDF o PNG. Genial para compartir diagramas con clientes o asociados en tu compañía.</p>
 """>
 
 <orgs-feature-editable-links """
   <img>
-  <h2>Editable Private Links</h2>
-  <p>Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.</p>
+  <h2>Links privados editables </h2>
+  <p>Crea links privados para compartir con colaboradores fuera de tu organización, permitiéndoles editar el diagrama sin necesidad de iniciar sesión.</p>
 """>
 
 <orgs-feature-supporter """
-  In addition, all members of your organisation will get the Coggle <a>Supporter</a> features.
+  Además, todos los miembros de tu organización obtendrán las características de <a>patrocinador</a> Coggle.
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
