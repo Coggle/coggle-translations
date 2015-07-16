@@ -517,40 +517,39 @@ Empezando <a>ocultar</a><a>mostrar</a>
 <css--share-view-privatelinks-cogglelist-empty-before "¡Sin links privados todavía!">
 
 /* download dialog content */
-<download-pdf "Download PDF">
-<download-png "Download Image">
-<download-mm ".mm File">
-<download-txt "Plain-Text Outline">
-<download-advanced "Advanced Types">
-<download-failed "File generation failed.">
+<download-pdf "Descargar PDF">
+<download-png "Descargar Imagen">
+<download-mm "Archivo .mm">
+<download-txt "Esquema de testo plano">
+<download-advanced "Tipos Avanzados ">
+<download-failed "La generación del archivo fallo.">
 
 /* access control slider content */
-<access-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-author "Author<br/><span>Allow creating and editing documents</span>">
+<access-readonly "Solo leer<br/><span>Únicamente permite visualizarlo</span>">
+<access-readclone "Leer y crear copias <br/><span>También permite descargarlo y copiarlo</span>">
+<access-author "Autor<br/><span>Permite crear y editar documentos</span>">
 
-<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
-<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
+<access-folder-readonly "Solo leer<br/><span>Únicamente permite visualizarlo</span>">
+<access-folder-readclone "Leer y crear copias <br/><span>También permite descargarlo y copiarlo</span>">
+<access-folder-author "Autor<br/><span>Permite crear y editar documentos</span>">
+<access-folder-admin "Administrador<br/><span>Añadir y eliminar personas y documentos</span>">
 
-<access-remove "Remove {{ $user.givenName }}">
+<access-remove "Remover {{ $user.givenName }}">
 
 /* Notification Messages */
 <notice-history """
-You are viewing previous versions of this Coggle! close the history viewer to return to the current version.
+¡Estás viendo versiones previas de este Coggle! Cierra el historial para regresar a la versión actual.
 """>
 <notice-disconnected """
-Connection lost: changes made now may not be saved. You could try to <a>reconnect now</a>, or <a>reload the page</a>.
+Conexión perdida: los cambios realizados podrían no ser guardados. Puedes tratar <a>reconectar ahora</a>, o <a>recarga la página</a>.
 """>
 
 /* Image drag-drop messages */
 <imgupload-was-resized """
-  <p>Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!</p>
-  <a>Coggle Supporters</a> can upload much larger images, and get early access to great new features, too: <a>read more</a>
+  <p>Tu imagen fue redimensionada para calzar en {{ $maxWidth }} &times; {{ $maxHeight }}, de esta forma podemos guardar tu imagen gratis por siempre! </p>
+  <a>Patrocinadores Coggle</a> pueden subir imágenes mucho más grandes y obtener acceso anticipado a nuevas características también: <a>leer más</a>
 """>
-<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
-
+<imgupload-slow-down "¡Whoa, cálmate! Trata cargando un archivo a la vez.">
 
 /* Coggle Facts */
 <fact-math """
