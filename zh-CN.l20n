@@ -189,6 +189,8 @@
  }
 >
 
+<sidebar-contextmenu "Context Menu">
+<sidebar-clickformenu "Right click an item or the background to access a menu.">
 <sidebar-controls "控制">
 <sidebar-addbranch """
   <div>添加分支:</div>
@@ -254,6 +256,12 @@
 <cogglefacts-more """
   更多...
 """>
+<sidebar-markdown "Markdown">
+<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
+<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
+<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
+<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
+<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
 <sidebar-contact """
   <h3>联系我们!</h3>

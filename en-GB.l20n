@@ -226,7 +226,8 @@ Getting Started <a>hide</a><a>show</a>
    linux: "ctrl"
  }
 >
-
+<sidebar-contextmenu "Context Menu">
+<sidebar-clickformenu "Right click an item or the background to access a menu.">
 <sidebar-controls "Controls">
 <sidebar-addbranch """
   <div>Add Branch:</div>
@@ -292,6 +293,12 @@ Getting Started <a>hide</a><a>show</a>
 <cogglefacts-more """
   Read more...
 """>
+<sidebar-markdown "Markdown">
+<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
+<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
+<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
+<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
+<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
 <sidebar-contact """
   <h3>Contact Us!</h3>

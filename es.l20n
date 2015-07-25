@@ -226,6 +226,8 @@ Empezando <a>ocultar</a><a>mostrar</a>
  }
 >
 
+<sidebar-contextmenu "Context Menu">
+<sidebar-clickformenu "Right click an item or the background to access a menu.">
 <sidebar-controls "Controles">
 <sidebar-addbranch """
   <div>Añadir Rama:</div>
@@ -291,6 +293,12 @@ Empezando <a>ocultar</a><a>mostrar</a>
 <cogglefacts-more """
   Leer más...
 """>
+<sidebar-markdown "Markdown">
+<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
+<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
+<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
+<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
+<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
 <sidebar-contact """
   <h3>Contáctanos!</h3>
