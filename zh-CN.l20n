@@ -56,13 +56,15 @@
   Coggle有很多很棒的功能, <a>马上试一下</a>, 免费! 点击<a>我们的博客</a> 来查看更多内容.
 """>
 
-<footer-index """
-  <p><a>关于Coggle</a>.</p>
-  <a><img alt="facebook上点个赞"></a>
-  <a><img alt="关注我们的twitter"></a>
-  <p>购买 <a>Coggle 周边产品</a>!</p><br>
-  <p>我们的 <a>隐私声明</a>.</p>
-  <p><a>媒体素材</a>.</p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
 
 /* new frontpage content */
@@ -91,11 +93,11 @@
   以上仅仅是Coggle的拿手项目, – <a>马上开始</a> 来尝试你自己的用法!
 """>
 
-<index-helpteam-orgs """
+<index-helpteam-orgs-usd """
   <a><img></a>
   <h2>加强团队沟通? 你需要<a>Coggle Organisations</a>.</h2>
   <p>给你的团队找一个即可以头脑风暴, 又能记事儿和记录灵感的小角落. Coggle Organisations拥有数据管理,工作流程整合的所有特性. 阅读更多<a>here</a>.</p>
-  <a>现在注册<div>每用户£5每月起</div></a>
+  <a>现在注册<div>每用户$8每月起</div></a>
 """>
 
 
@@ -187,6 +189,8 @@
  }
 >
 
+<sidebar-contextmenu "Context Menu">
+<sidebar-clickformenu "Right click an item or the background to access a menu.">
 <sidebar-controls "控制">
 <sidebar-addbranch """
   <div>添加分支:</div>
@@ -252,6 +256,12 @@
 <cogglefacts-more """
   更多...
 """>
+<sidebar-markdown "Markdown">
+<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
+<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
+<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
+<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
+<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
 <sidebar-contact """
   <h3>联系我们!</h3>
@@ -278,35 +288,12 @@
 <me-support-weusestripe """
   We use <a>stripe</a> to process payments securely: your card details never go through our servers.
 """>
-<me-support-benefits """
-  <span>Hello &mdash; this is you!</span>
-  Become a Coggle supporter for <b>£5 / year</b> and get early access to new features including:
-""">
-
-<support-feature-bigimages """
-  <img>
-  <span>
-    <span>Upload large images to your Coggle. </span>
-    <span>Just drag and drop images from your desktop to add them, as a supporter you can add much bigger images!</span>
-  </span>
-""">
-
-<support-feature-xlinks """
-  <img>
-  <span>
-    <span>Easily create cross-links between items. </span>
-    <span>Use the drag-and-drop menu item to easily show dependencies between items in your Coggle!</span>
-  </span>
-""">
 
 
 /* My Settings Page (/me) */
 <me-hi "你好 {{ $user.givenName }},">
-<me-supporterpitch """
-  Coggle is free, and we think that <strong>great tools should be available for everyone</strong>.
-  But if you'd like to support the continued development of Coggle then you can by becoming a Coggle supporter - in return you'll get early access to great new features that we're trialling.
-""">
-<me-communication "Communication!">
+<me-communication-title "Communication">
+<me-emails-title "Email Addresses">
 <me-emailslist "These are the emails we have on record for you:">
 <me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
 <me-commspref "Here's what you've told us about your communication preferences:">
@@ -321,17 +308,15 @@
 
 
 /* Organisations Landing Page (/organisations) */
-<orgs-pitch-2 """
+<orgs-pitch-2-usd """
   <h2>Coggle Organisations</h2>
   <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
   <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>£5 per user per month</b>.<br><b>Unlimited everything</b>.</p>
+  <p>Pricing is simple, <b>$8 per user per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
-<orgs-signupnow """
-  <h2>Sign up for an Organisation now: </h2>
-  <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
-  <p>From £5 per user per month (about $8)</p>
+<orgs-signup-usd """
+  <a>CREATE ORGANISATION<div>From $8 per member per month</div></a>
 """>
 
 <orgs-feature-in-one-place """
@@ -370,8 +355,8 @@
   <p>Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.</p>
 """>
 
-<orgs-feature-supporter """
-  In addition, all members of your organisation will get the Coggle <a>Supporter</a> features.
+<orgs-feature-awesome """
+  In addition, all members of your organisation will get the Coggle <a>Awesome</a> features.
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
@@ -398,7 +383,20 @@
   <span>Pick something short and recognisable!</span>
 """>
 <orgcreate-billing "Billing">
-<orgcreate-pricing "Pricing is simple:<b> £5 per user per month</b>.  Unlimited everything.">
+<orgcreate-standard """
+  <label>
+    <input>
+    <b>Standard</b> — <b>$8 per member per month</b>
+    <div>unlimited everything, add your own branding, advanced user management</div>
+  </label>
+""">
+<orgcreate-enterprise """
+  <label>
+    <input>
+    <b>Enterprise</b> — <b>$55 per member per month</b>
+    <div>everything above plus we'll remove the Coggle branding from your diagrams.</div>
+  </label>
+""">
 <orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
 <orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
 <orgcreate-stripeinfo """
@@ -499,9 +497,9 @@
 """>
 
 /* Image drag-drop messages */
-<imgupload-was-resized """
-  <p>图片已经被缩放至适合于{{ $maxWidth }} &times; {{ $maxHeight }}, 以让我们可以永久的保存你的图片!</p>
-  <a>Coggle Supporters</a> 可以上传大尺寸图片, 并且也可以更早获取最新的功能: <a>了解更多</a>
+<imgupload-was-resized-2 """
+  图片已经被缩放至适合于{{ $maxWidth }} &times; {{ $maxHeight }}, 以让我们可以永久的保存你的图片!
+  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
 """>
 <imgupload-slow-down "别着急, 同时只能上传一张图片.">
 
@@ -515,9 +513,6 @@ Did you know that you can collaborate in real-time with others? You can! Use the
 """>
 <fact-share """
 Did you know that you can edit a Coggle at the same time as someone else? You can! Use the (+) button in the top right to invite others.
-""">
-<fact-chat """
-Did you know that you can chat with everyone else editing the Coggle at the same time? You can! Look for the chat icon in the top right.
 """>
 <fact-font """
 Did you know you can use a fixed-width code font in Coggles? You can!<p>Just use `backticks` around the text, it also stops other special syntax from being interpreted.
@@ -620,15 +615,6 @@ Did you know you can select which branch to edit using keyboard shortcuts? You c
 """>
 <fact-task-lists """
 Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
-""">
-<fact-supporter-1 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you get early access to great new features.
-""">
-<fact-supporter-2 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you can show your support for Coggle, and get some neat perks!
-""">
-<fact-supporter-3 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you get great perks including creating cross-links, and you show your support for Coggle!
 """>
 <fact-api-1 """
 Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.

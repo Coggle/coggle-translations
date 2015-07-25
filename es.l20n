@@ -1,0 +1,675 @@
+/* login widget content */
+
+<login-signup-button """
+  <p>REGISTRARSE </p><p>USANDO GOOGLE</p>
+""">
+<login-tagline "¡Es gratis y fácil! ¿Ya te registraste? <a>Ingresar</a>.">
+<logout "Salir">
+
+/* front page content */
+
+<index-description """
+  <h1>Libera tu creatividad </h1>
+  <p>Crea hermosas notas rápido y fácil. Compártelas con tus amigos y colegas para mejorar tus ideas con su colaboración. ¡Todo esto gratis!</p>
+  <p><a><span><b>¡Empieza hoy! </b></span></a><a><span> O conoce más.</span></a></p>
+""">
+
+<testimonial-jenn """
+  <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
+  <p>Jenn, usuario de Coggle</p>
+""">
+
+<features-collaborate """
+  <img>
+  <h2>Involucra a todos</h2>
+  <p>Normalmente trabajamos mejor en equipos, los equipos operan de manera más eficiente cuando estos pueden colaborar libremente. Coggle permite que invites tus amigos y colegas a trabajar, al mismo tiempo, en tus diagramas. </p>
+""">
+
+<features-images """
+  <img>
+  <h2>Completa la imagen</h2>
+  <p>Una imagen vale más que mil palabras. Coggle permite arrastrar y soltar imágenes directamente desde tu escritorio hasta tus diagramas. ¡Así de simple! </p>
+  <p>Lo mejor de todo, no hay límite en la cantidad de imágenes que puedes agregar.</p>
+""">
+
+<features-history """
+  <img>
+  <h2>Regresa en el tiempo</h2>
+
+  <p>¿Realizaste cambios en un documento y un tiempo después  decides que no te agradan? Con Coggle eso no es un problema. ¡Simplemente ingresa al historial para encontrar la versión correcta y realiza una copia a partir de ese punto!</p>
+  """>
+
+  <features-blame """
+    <img>
+    <h2>Sigue los cambios realizados</h2>
+    <p>¿Alguna vez te preguntaste quien realizo algún cambio en el documento compartido? ¡Con Coggle tú puedes revisar el historial quien realizo el cambio y cuando lo hizo! Solo ingresa al modo de historial de diagrama para averiguarlo. </p>
+  """>
+
+  <features-colours """
+    <img>
+    <h2>Obtén el color correcto</h2>
+    <p> ¿Eres un pensador visual? ¿Aprendes por distribución y color? Bueno, asegúrate de tener el color correcto para tus temas, solo haz clic en una rama para que se muestre la paleta de colores y selecciona el color que deseas.</p>
+  """>
+
+  <features-others """
+    Coggle tiene muchas otras características geniales. Entonces, <a>pruébalo ahora</a>. ¡Es gratis! Visita el <a>blog</a> para aprender más.
+  """>
+
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
+""">
+
+/* new frontpage content */
+<index-tagline "Una forma sencilla de compartir información compleja.">
+<index-signupnow "Regístrate ahora">
+<index-login "¿Y te registraste? Ingresa aquí.">
+
+<index-use-notes """
+  <div><img></div>
+  <h2>Toma notas</h2>
+  <p>Abre Coggle en una reunión, durante la revisión o en cualquier momento de inspiración para crear hermosas y estructuradas notas. </p>
+""">
+
+<index-use-brainstorm """
+  <div><img></div>
+  <h2>Lluvia de ideas</h2>
+  <p>Para empezar una idea, inicia con Coggle y mírala crecer en un plan listo para volar, con una distribución simple y listo para ser compartido.</p>
+""">
+
+<index-use-share """
+  <div><img></div>
+  <h2>Comparte la iniformacion</h2>
+  <p>Desarrolla tu tema en un Coggle, incluye todos los detalles y compártelo con tu equipo, tus compañeros o el mundo! </p>
+""">
+
+<index-use-other """
+  Estas son solo algunas cosas para las cuales Coggle es útil – <a>empezar</a> ahora y encuéntrale un uso!
+""">
+
+<index-helpteam-orgs-usd """
+  <a><img></a>
+  <h2>Ayuda tu equipo a comunicarse con las <a>Organizaciones Coggle</a>.</h2>
+  <p>Dale a tu equipo un espacio compartido para las lluvias de ideas, toma de notas  y documentar sus ideas. Las Organizaciones Coggle poseen todas las características que usted requiere para controlar sus datos e integrarlos con si flujo de trabajo. Conoce más <a>aquí</a>.</p>
+  <a>Regístrate ahora <div>desde $8 por miembro por mes</div></a>
+""">
+
+/* sign-up page content */
+<signup-choose-plan "Elige tu plan personal ">
+
+<signup-free-plan """
+  <label>
+    <input>
+    <b>¡Gratis!</b>
+    <span> activo</span>
+    <p>Diagramas ilimitados. Imágenes ilimitadas. Descargas ilimitadas. Todo lo grandioso de Coggle. </p>
+  </label>
+""">
+
+<signup-awesome-plan """
+    <label>
+      <input>
+      <b>Coggle Awesome</b> — <b>$5 per month</b>
+      <span> active</span>
+      <p>Unlimited private diagrams to control access to your work, bigger image uploads, <a>read more...</a></p>
+    </label>
+""">
+
+<help-setup-org """
+    <input> También ayúdame a configurar una <a>Organización Coggle </a> para mi equipo &mdash; <b>$8 por miembro por mes</b>
+""">
+
+<help-setup-org-description """
+    Una Organización Coggle permite separar los datos de su negocio y sus datos personales. Son ideales para negocios que requieren manejar permisos para un grupo de empleados.
+""">
+
+<billing-check-out-orgs """
+    <b>¿Usando Coggle para su negocio? </b> Revisa las <a>Organizaciones Coggle</a>
+""">
+
+<signup-signup "REGISTRARSE">
+<signup-save "Guardar">
+
+
+/* documents list content */
+<createcoggle """
+  <p title="Crear un nuevo Coggle.">CREAR</p>
+""">
+<createfolder """
+  <img>
+  <p title="Añadir una nueva carpeta.">AÑADIR</p>
+""">
+<limitedaccess "Usted tiene acceso limitados ya que no es un miembro ">
+<link-drive """
+  <a><img>
+    <span>¿Muchos Coggle? Organízalos en Google Drive</span>
+  </a>
+""">
+
+/* documents list placeholder content */
+<css--folder-anonymous-cogglelist-empty-before "!Beinbenido a Coggle! – Los diagramas que tú crees aparecerán aquí. ">
+<css--folders-error-before "La carga de carpetas fallo, por favor actualice la página e intente nuevamente. ">
+<css--folder-permission-admin-cogglelist-empty-before "Arrastra un Coggle para moverlo a esta carpeta.">
+<css--folder-error-cogglelist-empty-before "Ups! La carga de la carpeta fallo, actualiza la página para intentarlo nuevamente.">
+
+/* documents list contextual help items */
+<help-hide-for-now "Ocultar por ahora">
+<help-ok-got-it "!Esta bien, lo entendí!">
+<help-settingsswitch-title "Accesar a tus preferencias">
+<help-settingsswitch """
+  <p>Haz clic para accesar a tus preferencias personales y cambiar o crear Organizaciones.</p>
+  <p>Las Organizaciones le permiten controlar la forma en que se comparte los Coggles y trabajo de una manera más en efectiva en equipos grandes.</p>
+""">
+<help-createfolder "Crea carpetas para compartirlas con grupos de personas o categorizar los Coggles.">
+<help-filtercoggles-title "Filtrar los Coggles">
+<help-filtercoggles """
+  Escribe para filtrar los Coggles y abrirlos rápidamente – presiona <b>[enter]</b> para abrir el primer Coggle de la lista.
+""">
+<help-profile-title "¡Esto eres tú!">
+<help-profile "Clic el icono para visualizar tu perfil de usuario y preferencias. ">
+
+
+/* diagram introductory tutorial */
+<guide-click-here "clic aquí">
+<guide-or-here "o aquí">
+<guide-editanytext "puedes editar cualquier texto">
+<guide-draganything "y arrastrarlo para moverlo">
+<guide-clicktoadd "ahora clic aquí para añadir un elemento hijo ">
+<guide-taptoaddmore "ahora tabula para añadir más">
+<guide-holdtoremove "... o sostén {{ $removeKey }} y clic aquí para eliminarlo">
+<guide-undo "puedes usar {{ $undoKey }} para deshacer cualquier cosa que hagas!">
+<guide-redo "y {{ $redoKey }} para rehacer nuevamente">
+<guide-donebasics "¡ahora tienes una idea de los conceptos básicos!">
+
+/* diagram placeholder content */
+<css--desktop-holder-textlabel-roottextlabel-empty-not-active-after "Coggle sin nombre">
+<css--touch-holder-not-readonly-textlabel-empty-not-active-after "sostén para editar">
+<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "clic para editar">
+<css--holder-readonly-textlabel-empty-not-active-after "sin texto">
+
+/* diagram contextual help items */
+<help-gohome "Clic el logo de Coggle para regresar al inicio, donde tus documentos son automáticamente guardados. ">
+<help-sidebar "Clic aquí para mostrar u ocultar la barra lateral en cualquier momento.">
+<help-share-diagram "Clic para invitar personas a editar este Coggle. ¡Les enviaremos un correo electrónico con un enlace para registrarse y editar!">
+<help-multiline "Añade múltiples líneas de texto usando [ctrl] + [enter], o arrastrando el elemento de redimensionar antes de escribir.">
+<help-toolbar-invite-title "Trabaja con otros ">
+<help-toolbar-invite "Clic para invitar personas a editar o ver este Coggle. Puedes controlar los permisos de las personas solo haz clic en su icono.">
+<help-toolbar-invitemulti-title "Invitar múltiples personas ">
+<help-toolbar-invitemulti """
+  Para ahorrar tiempo, puedes invitar múltiples personas al mismo tiempo: escribe (o pega) coreos electrónicos separados por espacios, comas<b>,</b> o punto y coma<b>;</b>
+""">
+<help-inactive-invite "¡Trabaja con tus amigos para darle vida a tus ideas! <br>Invítalos por correo electrónico aquí.">
+
+
+/* diagram sidebar content */
+<sidebar-getstarted """
+Empezando <a>ocultar</a><a>mostrar</a>
+""">
+<guidestep-add "Añadir un nuevo elemento">
+<guidestep-edit "Editar un elemento">
+<guidestep-move "Mover un elemento">
+<guidestep-remove "Remover un elemento">
+<guidestep-undo "Deshacer un cambio">
+<guidestep-redo "Rehacer un cambio ">
+
+<controls[@os]
+ removeKey[@os]: {
+  *win: "ctrl",
+   mac: "alt",
+   linux: "ctrl"
+ }
+>
+
+<sidebar-contextmenu "Context Menu">
+<sidebar-clickformenu "Right click an item or the background to access a menu.">
+<sidebar-controls "Controles">
+<sidebar-addbranch """
+  <div>Añadir Rama:</div>
+  <div><span> clic </span><div></div></div>
+""">
+<sidebar-removebranch """
+  <div>Remover Rama:</div>
+  <div><div> {{ controls::removeKey }} </div> <span> + clic </span> <div></div></div>
+""">
+<sidebar-insertbranch """
+  <div>Insertar Rama:</div>
+  <div><div> shift </div> <span> + clic </span> <div></div></div>
+""">
+<sidebar-movebranch """
+  <div> Mover Rama: </div>
+  <div><div> arrastra cualquier cosa! </div></div>
+""">
+<sidebar-transplantbranch """
+  <div> Trasplantar Rama: </div>
+  <div><div> shift </div> <span> + arrastrar </span> <div></div></div>
+""">
+<sidebar-recolourbranch """
+  <div> Cambiar Colores: </div>
+  <div><span> haz clic en una rama </span></div>
+""">
+<sidebar-addimages """
+  <div> Añadir <a>Imágenes</a>: </div>
+  <div><div> arrastra y suelta </div></div>
+""">
+<sidebar-zoom """
+  <div> Zoom: </div>
+  <div><div> ctrl </div><span> + rueda del ratón </span></div>
+""">
+<sidebar-shortcuts "Atajos">
+<sidebar-undo """
+  <div> Deshacer: </div>
+  <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
+""">
+<sidebar-redo """
+  <div> Rehacer: </div>
+  <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
+""">
+<sidebar-whentyping "Al escribir">
+<sidebar-sc-newitem """
+  <div> Nuevo Elemento: </div>
+  <div><div> shift </div><span> + </span><div> return </div></div>
+""">
+<sidebar-sc-newchild """
+  <div> Nuevo Elemento Hijo: </div>
+  <div><div> tab </div></div>
+""">
+<sidebar-sc-parent """
+  <div> Sanltar al Padre: </div>
+  <div><div> shift </div><span> + </span><div> tab </div></div>
+""">
+<sidebar-sc-markdown """
+    <div>Dar Formato al texto: </div>
+    <div>usa <a>Markdown</a></div>
+""">
+<cogglefacts """
+  Hecho Coggle <a>¡otro!</a>
+""">
+<cogglefacts-more """
+  Leer más...
+""">
+<sidebar-markdown "Markdown">
+<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
+<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
+<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
+<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
+<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
+
+<sidebar-contact """
+  <h3>Contáctanos!</h3>
+  <p>¿Necesitas ayuda? ¿Encontraste algún error? ¿Quieres contactarnos? Entonces envíanos un correo electrónico a <a>hello@coggle.it</a></p>
+  <p>Mantente actualizado con los anuncios y tutoriales de Coggle en <a>Bloggle</a>, el blog de Coggle.</p>
+  <p> Mas <a>sobre Coggle</a>. Nuestra <a>política de privacidad </a>.</p>
+  <p>Para la <a>prensa</a>. Para <a>desarrolladores</a>.</p>
+""">
+
+/* Self-dialog & Supporter Signup */
+<me-manage-account "Administrar cuenta">
+<me-unsupport-progress "Lamentamos que nos estas dejando. ¡Des inscribiéndote ahora! ">
+<me-as-orgmember "Estas viendo Coggle como un <b>miembro de la organización</b>.">
+<me-as-orgmember-youget "Esto significa que obtienes grandiosas características como: ">
+<me-unsupport """
+  <a>Dejar de</a> apoyar a Coggle <span> &mdash; ¿Estás seguro? <a>Estoy seguro</a></span>
+""">
+<me-signedup "¡Genial! Te registraste como un patrocinador Coggle.">
+<me-support-cancelled """
+  <span>Hola &mdash; ¡Este eres tú!</span>
+  Tu suscripción de patrocinador ha sido cancelada. <a>Registrarse nuevamente</a>.
+""">
+<me-support-signupnow "¡Registrarme ahora!">
+<me-support-weusestripe """
+  Nosotros usamos <a>stripe</a> para procesar los pagos de forma segura: los datos de tu tarjeta nunca pasan por nuestros servidores.
+""">
+
+
+/* My Settings Page (/me) */
+<me-hi "Hola {{ $user.givenName }},">
+<me-communication-title "Comunicación">
+<me-emails-title "Email Addresses">
+<me-emailslist "Estos son los correos electrónicos que tenemos guardados para ti: ">
+<me-emailstip "Nosotros solo enviaremos correos electrónicos a tu dirección principal. Sin embargo, puedes recibir invitaciones en cualquiera de los otros.">
+<me-commspref "Aquí esta lo que nos has dicho sobre tus preferencias de comunicaciones:">
+<me-comms-explain """
+  Alguna veces necesitamos enviar actualizaciones del servicio e información de nuevas características que serán enviadas a tu dirección <strong> principal </strong>. Nunca enviaremos spam o publicidad de nosotros o algun tercero (Tampoco nos agradan esas cosas).
+""">
+<me-talktome "Habla conmigo: ">
+<me-diagram-notifications "Notificaciones de diagrama: ">
+
+<slider-yes "SI">
+<slider-no "NO">
+
+
+/* Organisations Landing Page (/organisations) */
+<orgs-pitch-2-usd """
+  <h2>Organizaciones Coggle</h2>
+  <p>Cuando la información es critica para tu equipo necesitas herramientas mas poderosas y mayor control sobre tus datos. Por eso creamos las <a>Organizaciones Coggle</a>.</p>
+  <p>Cada Organización Coggle contiene características diseñadas para manejar grandes grupos de personas, donde los miembros vienen y van, y la información sensible necesita ser protegida.</p>
+  <p>Los costos son simples, <b>$8 por miembro por mes</b>.<br><b>Todo ilimitado</b>.</p>
+""">
+
+<orgs-signup-usd """
+  <a>CREATE ORGANIZATION<div>From $8 per member per month</div></a>
+""">
+
+<orgs-feature-in-one-place """
+  <img>
+  <h2>Todo en un solo lugar </h2>
+  <p>Todos los diagramas de la organización en el mismo lugar. Mantén el trabajo de tus equipos seguro, en un solo lugar fácil de administrar – Entonces sabes exactamente dónde buscar.</p>
+""">
+
+<orgs-feature-control-sharing """
+  <img>
+  <h2>Controla el Compartir</h2>
+  <p>Puedes asegurarte de que los Coggles creados en tu organización permanezcan en tu organización. Esto protege el material sensible contra exposición accidental si el correo electrónico equivocado es invitado al documento.</p>
+""">
+
+<orgs-feature-manage-users """
+  <img>
+  <h2>Manejo de usuarios seguro </h2>
+  <p>Remueve los usuarios de tu organización sin perder el trabajo que ellos han realizado. Usa el panel de administración para ver los diagramas creados por miembros de tu organización anteriores y actuales, eliminados o activos.</p>
+""">
+
+<orgs-feature-export """
+  <img>
+  <h2>Exporta en masa</h2>
+  <p>Los administradores de la organización pueden descargar todos los Coggles de la organización en un archivo en formato JSON legible por máquina, con un solo haz clic. Genial para cumplir con la normativa o simplemente para que tú mente esté tranquila. </p>
+""">
+
+<orgs-feature-branding """
+  <img>
+  <h2>Muestra tu marca</h2>
+  <p>Crea diagramas profesionales y limpios que muestren tú logo y expórtalos en formato PDF o PNG. Genial para compartir diagramas con clientes o asociados en tu compañía.</p>
+""">
+
+<orgs-feature-editable-links """
+  <img>
+  <h2>Links privados editables </h2>
+  <p>Crea links privados para compartir con colaboradores fuera de tu organización, permitiéndoles editar el diagrama sin necesidad de iniciar sesión.</p>
+""">
+
+<orgs-feature-awesome """
+  Además, todos los miembros de tu organización obtendrán las características de Coggle <a>Awesome</a>.
+""">
+
+/* Organisations Sign-Up Page (/organisations/new) */
+<orgcreate-title "Crear una organización ">
+<orgcreate-controlsharing """
+  <img>
+  <h3>Controla el Compartir</h3>
+  <div>Asegurarte de que los Coggles creados en tu organización permanezcan en tu organización.div>
+""">
+<orgcreate-branding """
+  <img>
+  <h3>Pon tu logo en tus trabajos</h3>
+  <div>Tu logo aparecerá en tus diagramas cuando estos son exportados.</div>
+""">
+<orgcreate-dashboard """
+  <img>
+  <h3>Panel de Super-usuario</h3>
+  <div>Las cuentas de administrador obtienen control completo sobre todos los diagramas de la organización.</div>
+""">
+<orgcreate-gotqs "¿Tienes dudas? ¡Pregúntanos! <a>orgs@coggle.it</a>">
+<orgcreate-choosename "Nombre de la Organización">
+<orgcreate-nameinput """
+  <input placeholder="Escoge el nombre de tu Organización">
+  <span>¡Escoge algo corto y reconocible!</span>
+""">
+<orgcreate-billing "Facturación">
+<orgcreate-standard """
+  <label>
+    <input>
+    <b>Standard</b> — <b>$8 per member per month</b>
+    <div>unlimited everything, add your own branding, advanced user management</div>
+  </label>
+""">
+<orgcreate-enterprise """
+  <label>
+    <input>
+    <b>Enterprise</b> — <b>$55 per member per month</b>
+    <div>everything above plus we'll remove the Coggle branding from your diagrams.</div>
+  </label>
+""">
+<orgcreate-paymentinfo "<p><a>Leer más</a> sobre el proceso de pagos.</p>">
+<orgcreate-weusestripe "Nosotros usamos <a>Stripe</a> para procesar tus pagos de forma segura.">
+<orgcreate-stripeinfo """
+  Stripe está certificado como PCI nivel 1, y guarda tu información de pago usando encriptado AES-256. Puedes leer más sobre sus prácticas de seguridad en la <a>pagina de suguridad</a> de Stripe.
+""">
+<orgcreate-create "<p>CREAR</p>">
+
+/* About Coggle (/about) */
+<about-hello """
+  <h1>¡Hola!</h1>
+  <p>Coggle está apunto de redefinir la forma en que los documentos funcionan: La forma en que compartimos y guardamos conociendo. Es un lugar para ideas que funcionan en misma forma que las personas lo hacen — no en las formas rígidas de las computadoras.</p>
+  <p>Es gratis, y prometemos que siempre lo será, pero todavía tomamos nuestras responsabilidades con seriedad. Nosotros prometemos velar por tus datos de la mejor manera que conocemos, mantener respaldos y tomar la seguridad seriamente. </p>
+  <p>Nuestra misión es cambiar la forma en que las personas trabajan y colaboran para siempre, para hacerlo más productivo, más sencillo de compartir información con otros y de una forma que es hermosa y placentera al usar.</p>
+""">
+
+<about-getintouch """
+  <h1>Ponte en contacto</h1>
+  <p>¿Tienes una pregunta? ¿Quieres contarnos como usas Coggle? O talvez ¿Quieres darnos alguna retroalimentación? Puedes encontrarnos en <a>facebook </a>y en <a>Twitter </a> o si prefieres siempre puedes enviarnos un email a <a>hello@coggle.it </a>— Amamos conversar!</p>
+""">
+
+<about-spreadtheword """
+  <h1>Difunde tu experiencia</h1>
+  <p>SI amas Coggle, ¡Entonces ayúdanos a sacar a más personas de los confines de listas, hojas de cálculo y documentos convencionales! Puedes compartir Coggle <a>en Twitter </a>o <a>en Facebook</a>, o hasta puede conseguir tu <a>camisa Coggle</a>.</p>
+""">
+
+<about-press """
+  <h1>¿En la prensa?</h1>
+  <p>Entonces puedes revisar nuestro <a>kit de prensa </a>, o <a>ponte en contacto</a> para conocer más!</p>
+""">
+
+<about-company """
+ <div>
+   <p>Registrada en Inglaterra y Gales. No. 9030487</p>
+   <p>Oficina Registrada: William James House, Cowley Road, Cambridge CB4 0WX</p>
+ </div>
+""">
+
+
+/* diagram tooltips */
+<context-dragclick "arrastra para mover, clic para editar ">
+<context-dragclickfollow " arrastra para mover, clic para editar, {{ $followLinkKey }} + clic para ir a los enlaces">
+
+<context-remove-branch-alt "remover esta rama: por el contrario suelta [alt] para añadir una rama">
+<context-insert-branch "insertar texto: por el contrario suelta [shift] para añadir una rama">
+<context-squash-branch "reducir texto: por el contrario suelta {{ $squashKeys }} para añadir una rama">
+<context-remove-branch-ctrl "remover esta rama: usa [ctrl]+[shift] para remover solo este elemento">
+<context-add-branch "clic para añadir una rama: por el contrario mantén {{ $removeKey }} para remover">
+<context-hide-branch "clic para colapsar esta rama">
+<context-show-branch "clic para expandir esta rama">
+
+/* diagram not-found page */
+<nodiagram-title "¡Diagrama no encontrado!">
+<nodiagram-invalid-link "Este link de diagrama es invalido o el acceso a él ha sido revocado.">
+<nodiagram-logged-in "Actualmente ingresaste como <b>{{ $user.givenName }}</b>, con el correo electrónico <b>{{ $user.email }}</b>. Si este diagrama existe, esta cuenta no tiene permisos para acceder a él.">
+<nodiagram-not-logged-in "<b>Actualmente no has iniciado sesión.</b>  Si el diagrama existe, podrías accesar el diagrama si ingresas a tu cuenta.">
+<nodiagram-may-need-access "Si alguien te dio el enlace a este diagrama, probablemente requiera darte permisos para verlo.">
+
+/* sharing dialog content */
+<share-newlink "Nuevo enlace:">
+<share-newlink-tip """
+  Este permite compartir tu diagrama con personas que no han iniciado sesión, pero se cuidadoso, esto permite que <strong>cualquiera</strong> con este enlace vea tu trabajo!
+""">
+<share-tag-user "usuario">
+<share-tag-embed "incrustado">
+<share-tag-writable "editable">
+<share-send-email "ENVIAR">
+<share-email-hints """
+  <div>para invitar, ingresa un correo electrónico</div>
+  <div>después presiona enter</div>
+  <div>amigo@ejemplo.com</div>
+""">
+<share-social """
+  <a title='Incrustado en un sitio web'> <img/> </a>
+  <a title='Compartir en Facebook'> <img/> </a>
+  <a title='Compartir en Twitter'> <img/> </a>
+""">
+<share-open "¿Puede cualquiera ver este diagrama? ">
+<share-open-detail "Diagramas Abiertos pueden ser vistos por cualquiera y podrían ser encontrados por motores de búsqueda">
+<css--share-view-privatelinks-cogglelist-empty-before "¡Sin links privados todavía!">
+
+/* download dialog content */
+<download-pdf "Descargar PDF">
+<download-png "Descargar Imagen">
+<download-mm "Archivo .mm">
+<download-txt "Esquema de testo plano">
+<download-advanced "Tipos Avanzados ">
+<download-failed "La generación del archivo fallo.">
+
+/* access control slider content */
+<access-readonly "Solo leer<br/><span>Únicamente permite visualizarlo</span>">
+<access-readclone "Leer y crear copias <br/><span>También permite descargarlo y copiarlo</span>">
+<access-author "Autor<br/><span>Permite crear y editar documentos</span>">
+
+<access-folder-readonly "Solo leer<br/><span>Únicamente permite visualizarlo</span>">
+<access-folder-readclone "Leer y crear copias <br/><span>También permite descargarlo y copiarlo</span>">
+<access-folder-author "Autor<br/><span>Permite crear y editar documentos</span>">
+<access-folder-admin "Administrador<br/><span>Añadir y eliminar personas y documentos</span>">
+
+<access-remove "Remover {{ $user.givenName }}">
+
+/* Notification Messages */
+<notice-history """
+¡Estás viendo versiones previas de este Coggle! Cierra el historial para regresar a la versión actual.
+""">
+<notice-disconnected """
+Conexión perdida: los cambios realizados podrían no ser guardados. Puedes tratar <a>reconectar ahora</a>, o <a>recarga la página</a>.
+""">
+
+/* Image drag-drop messages */
+<imgupload-was-resized-2 """
+  Tu imagen fue redimensionada para calzar en {{ $maxWidth }} &times; {{ $maxHeight }}, de esta forma podemos guardar tu imagen gratis por siempre! 
+  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
+""">
+<imgupload-slow-down "¡Whoa, cálmate! Trata cargando un archivo a la vez.">
+
+/* Coggle Facts */
+<fact-math """
+¿Sabías que puedes escribir matemáticas en los Coggles? (¡Así es, geeky!) ¡Usa \\\\( LaTeX aquí \\\\) para probarlo!
+""">
+<fact-collaborate """
+¿Sabías que puedes colaborar con otros en tiempo real? ¡Si puedes! Usa el botón  (+) en la parte superior derecha.
+""">
+<fact-share """
+¿Sabías que puedes editar un Coggle al mismo tiempo que otra persona? ¡Si puedes! Usa el botón  (+) en la parte superior derecha para invitar a otros.
+""">
+<fact-font """
+¿Sabías que puedes usar código fuente de ancho fijo en los Coggles? ¡Si puedes!  <p>Solo usa `acentos` alrededor del texto, también previene que caracteres especiales sean interpretados.
+""">
+<fact-bold """
+¿Sabías que puedes usar **texto en negrita** en los Coggles?<p>Solo usa **doble asterisco** donde quieres el énfasis!
+""">
+<fact-italic """
+¿Sabías que puedes usar *texto itálico* en los Coggles?<p> Solo usa  *asteriscos* donde quieres el énfasis!
+""">
+<fact-links """
+¿Sabías que puedes poner enlaces en los Coggles? ¡Así es! <p>Funcionan de la siguiente manera:<br>[descripción](http://ejemplo.com)
+""">
+<fact-download """
+¿Sabías que puedes descargar un Coggle como PDF o Imagen? ¡Tú puedes! Busca el botón de descarga en la parte superior derecha.
+""">
+<fact-markdown """
+¿Sabías que Coggle usa <a>sintaxis markdown </a>? ¡Así es! <p>Prueba los enlaces como este: &lt;http://ejemplo.com&gt;
+""">
+<fact-latex """
+¿Sabías que Coggle soporta formulas LaTeX? ¡Así es! <p>Usa \\\\( LaTeX aquí \\\\) para probarlo! Revisa <a>este link </a> para información de la sintaxis.
+""">
+<fact-move """
+¿Quieres ese elemento en un lugar diferente del Coggle? ¡No hay problema! Mantén shift mientras arrastras el botón (+) para añadirlo en otro lugar.
+""">
+<fact-fontsize """
+¿Texto muy grande? ¿Muy pequeño? ¡Puedes ampliarlo!<br> usa [ctrl] [+] / [ctrl] [-]
+""">
+<fact-zoomin """
+¿Sabías que hacer zoom para una vista más grande? ¡Si puedes!<br> usa [ctrl] [+], o clic derecho y arrastra el icono de zoom!
+""">
+<fact-zoomout """
+¿Sabias que puede alejarte para ver la imagen completa? ¡Si puedes!<br> usa [ctrl] [-],o clic derecho y arrastra el icono de zoom!
+""">
+<fact-markdown2 """
+¿Sabías que el <a>Markdown</a> es increíble? ¡Si lo es y Coggle lo soporta!
+""">
+<fact-pdf """
+¡Puedes descargar tu Coggle como PDF! Busca el botón de descarga en la parte superior derecha de la pantalla.
+""">
+<fact-png """
+¡Puedes descargar tu Coggle como Imagen! Busca el botón de descarga en la parte superior derecha de la pantalla.
+""">
+<fact-latex2 """
+¿Sabías que Coggle soporta LaTeX para matemáticas? ¡Así es!<p>Usa \\\\( \\LaTeX aquí \\\\) para probarlo! Aquí hay <a>una guía de sintaxis</a>.
+""">
+<fact-history """
+¿Sabías que puedes ver el historial de quien cambio que y cuando en tu Coggle?  ¡Así es! Haz clic en el icono de reloj en la parte superior derecha.
+""">
+<fact-images """
+¿Sabías que puedes poner imágenes en tu Coggle? ¡Así es!<p> Solo arrastra y suelta una imagen desde tu computadora al lugar donde la quieres.
+""">
+<fact-images2 """
+¿Sabías que puedes pones imágenes en los Coggles? ¡Así es!<p>Arrastra y suelta una imagen desde tu computadora a donde la quieres. Una versión reducida de la imagen será cargada y almacenada!
+""">
+<fact-plaintext-in """
+¿Sabías que puedes arrastras y soltar archivos de texto plano en Coggle para importarlos? ¡Así es!<p>Si el archivo tiene indentación, Coggle incluso añadirá estructura al texto importado.
+""">
+<fact-freemind-in """
+¿Sabías que puedes arrastrar y soltar archivos Freemind .mm en Coggle para importarlos? ¡Si puedes!
+""">
+<fact-link-drag """
+¿Sabías que puedes arrastrar una URL desde tu barra de direcciones a Coggle para crear un enlace a ese sitio? ¡Si puedes!
+""">
+<fact-text-size """
+¿Sabías que puedes cambiar la fuente? ¡Si puede!<p>Usa #, ##, o ### al inicio de la línea para hacer el texto más grande.
+""">
+<fact-text-size2 """
+¿Sabías que puedes cambiar la fuente? ¡Así es!<p>Arrastra la esquina del área de edición de texto hacia arriba o abajo para cambiar el tamaño del texto.
+""">
+<fact-text-size3 """
+¿Sabías que puedes cambiar el tamaño del texto? ¡Si puedes!<p>Arrastra la esquina del área de edición de texto.
+""">
+<fact-md-reference """
+¿Sabías que puedes usar Markdown en los Coggles para añadir enlaces, imágenes y más? ¡Si puedes!<p>Aquí está la <a>referencia completa</a>.
+""">
+<fact-multiline-keys """
+¿Sabías que puedes separar el texto en múltiples líneas? ¡Así es! Mantén [ctrl] mientras presionas [return] para insertar una nueva línea. También puedes arrastrar la esquina del campo de edición y después usa [return] normalmente.
+""">
+<fact-multiline-drag """
+¿Sabías que puedes separar el texto en múltiples líneas? ¡Así es! Arrastra la esquina del campo de edición, después [return] insertara una nueva línea en vez de guardar tus cambios. También puedes mantener [ctrl] mientras presionas [return] para insertar una nueva línea mientras escribes.
+""">
+<fact-multiline-wrap """
+¿Sabías que puedes separar el texto en múltiples líneas? ¡Así es! Arrastra la esquina del campo de edición izquierda /derecha para dividir el texto en múltiples líneas.
+""">
+<fact-resize-images """
+¿Sabías que puedes redimensionar imágenes? ¡Así es! Arrastra una imagen a tu Coggle de cualquier parte de internet (si tienes permiso para usarlo) y después arrastra la esquina inferior derecha de la imagen para redimensionarla.
+""">
+<fact-image-size """
+¿Sabías que soportamos la extensión de Markdown para especificar el tamaño de la imagen? ¡Así lo hacemos! Especifica una imagen de 200 por 100 pixeles así: ![descripción de imagen](http://url.a.imagen "Titulo opcional" 200x100)
+""">
+<fact-bold-kbshort """
+¿Sabías que puedes utilizar atajos de teclado para añadir **texto en negrita** en los Coggles? ¡Si puedes! Solo presiona [ctrl]+[b] (o [cmd]+[b] en macs) con el texto que deseas en negrita seleccionado.
+""">
+<fact-shortcuts-1 """
+¿Sabías que puedes editar tu Coggle utilizando únicamente atajos de teclado? Si puedes, asi:<p>[tab] para añadir un nodo hijo<br>[shift]+[tab] para desplazarse al padre<br>[shift]+[return] para añadir un hermano
+""">
+<fact-shortcuts-2 """
+¿Sabías que puedes seleccionar una rama utilizando atajos de teclado? ¡Si puedes!<p>Usa [alt]+[shift]+flechas para desplazarse entre ramas.
+""">
+<fact-task-lists """
+¿Sabías que puedes usar <a>Markdown</a> para añadir listas de chequeo a los Coggles? Si puedes, este es un ejemplo:<p>- [ ] checkbox no marcado<br>- [X] checkbox marcado</p><p>Hacer clic sobre un checkbox también cambia el markdown.
+""">
+<fact-api-1 """
+¿Sabías que tenemos un API? ¡Si tenemos! Los programas la pueden usarla para crear, examinar y manipular Coggles automáticamente.
+""">
+<fact-organisation """
+¿Usas Coggle en tu negocio? Puedes crear una Organización Coggle para administrar los Coggles de tu compañía.
+""">
+<fact-organisation2 """
+¿Sabías que las Organizaciones Coggle pueden poner su logo en sus Coggles? ¡Si pueden!
+""">
+<fact-organisation3 """
+¿Sabías que puedes crear una Organización Coggle para organizar tus colegas de negocio? ¡Si puedes!
+""">

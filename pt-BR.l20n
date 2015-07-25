@@ -56,16 +56,16 @@
   Coggle tem uma infinidade de outros grandes recursos, então <a>experimente-o agora</a>, é gratuito! Visite o <a>blog</a> para ler mais.
 """>
 
-<footer-index """
-  <p>Mais <a>sobre o Coggle</a>.</p>
-  <a><img alt="curta nossa fanpage no facebook"></a>
-  <a><img alt="siga-nos no twitter"></a>
-  <p>Obtenha <a>material sobre o Coggle</a>!</p><br>
-  <p>Nossa <a>política de privacidade</a>.</p>
-  <p>Canal para a <a>imprensa</a>.</p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
-
-
 
 /* documents list content */
 <createcoggle """
@@ -145,6 +145,8 @@ Começando <a>ocultar</a><a>mostrar</a>
  }
 >
 
+<sidebar-contextmenu "Context Menu">
+<sidebar-clickformenu "Right click an item or the background to access a menu.">
 <sidebar-controls "Controles">
 <sidebar-addbranch """
   <div>Adicionar um Ramo:</div>
@@ -210,6 +212,12 @@ Começando <a>ocultar</a><a>mostrar</a>
 <cogglefacts-more """
   Leia mais...
 """>
+<sidebar-markdown "Markdown">
+<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
+<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
+<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
+<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
+<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
 <sidebar-contact """
   <h3>Entre em contato!</h3>
@@ -236,35 +244,12 @@ Começando <a>ocultar</a><a>mostrar</a>
 <me-support-weusestripe """
   Utilizamos <a>stripe</a> para processar os pagamentos com segurança: seus detalhes do cartão nunca vão para nossos servidores.
 """>
-<me-support-benefits """
-  <span>Olá &mdash; este é você!</span>
-  Torne-se um mantenedor do Coggle por <b>£5 / ano</b> (aproximadamente $8) e obtenha acesso antecipado a novos recursos incluindo:
-""">
-
-<support-feature-bigimages """
-  <img>
-  <span>
-    <span>Envie grandes imagens para seu Coggle. </span>
-    <span>Apenas arraste e solte imagens de sua área de trabalho para adicioná-las, como mantenedor você pode adicionar imagens bem maiores!</span>
-  </span>
-""">
-
-<support-feature-xlinks """
-  <img>
-  <span>
-    <span>Crie facilmente ligações cruzadas entre itens. </span>
-    <span>Use o item de menu arrastar-e-soltar para mostrar facilmente dependências entre os itens em seu Coggle!</span>
-  </span>
-""">
 
 
 /* My Settings Page (/me) */
 <me-hi "Olá {{ $user.givenName }},">
-<me-supporterpitch """
-  Coggle é gratuito, e pensamos que <strong>grandes ferramentas devem estar disponíveis para todos</strong>.
-  Mas se você gostaria de apoiar o desenvolvimento contínuo de coggle então você pode se tornar um apoiador do Coggle - em troca você vai ter acesso antecipado a novos recursos em fase de experimentação.
-""">
-<me-communication "Communicação!">
+<me-communication-title "Communicação">
+<me-emails-title "Email Addresses">
 <me-emailslist "Estes são os e-mails que nós temos no registro para você:">
 <me-emailstip "Nós só vamos enviar e-mail para o seu endereço principal, mas você pode receber convites de qualquer um dos outros.">
 <me-commspref "Aqui está o que você nos contou sobre suas preferências de comunicação:">
@@ -278,17 +263,16 @@ Começando <a>ocultar</a><a>mostrar</a>
 <slider-no "NÃO">
 
 
-/* Organizations Landing Page (/organizations) */
-<orgs-pitch-2 """
+/* Organizations Landing Page (/organisations) */
+<orgs-pitch-2-usd """
   <h2>Organizações Coggle</h2>
   <p>Quando coggle é fundamental para a sua equipe, você precisa de ferramentas mais poderosas, e mais controle sobre seus dados. É por isso que nós construímos <a>coggle Organizações</a>.</p>
   <p>Cada Organização Coggle vem com recursos projetados para o gerenciamento de grandes grupos de pessoas, onde os membros vêm e vão, e informações confidenciais precisa ser protegido.</p>
-  <p>O preço é simples, <b>£5 por usuário por mês</b> (aproximadamente $8).<br><b>Tudo ilimitado</b>.</p>
+  <p>O preço é simples, <b>$8 por usuário por mês</b>.<br><b>Tudo ilimitado</b>.</p>
 """>
 
-<orgs-signupnow """
-  <h2>Inscreva-se em uma organização agora: </h2>
-  <a><div><p>CRIAR</p><p>ORGANIZAÇÃO</p></div></a>
+<orgs-signup-usd """
+  <a>CREATE ORGANIZATION<div>From $8 per member per month</div></a>
 """>
 
 <orgs-feature-in-one-place """
@@ -327,8 +311,8 @@ Começando <a>ocultar</a><a>mostrar</a>
   <p>Criar um link privado para compartilhar com colaboradores externos da sua organização, o que lhes permite editar um diagrama sem fazer login.</p>
 """>
 
-<orgs-feature-supporter """
-  Além disso, todos os membros de sua organização terão recursos de <a>Mantenedor</a>.
+<orgs-feature-awesome """
+  In addition, all members of your organisation will get the Coggle <a>Awesome</a> features.
 """>
 
 
@@ -356,7 +340,20 @@ Começando <a>ocultar</a><a>mostrar</a>
   <span>Escolha algo pequeno e reconhecível!</span>
 """>
 <orgcreate-billing "Faturamento">
-<orgcreate-pricing "O preço é simples:<b> £5 por usuário por mês</b> (aproximadamente $8).  Tudo ilimitado.">
+<orgcreate-standard """
+  <label>
+    <input>
+    <b>Standard</b> — <b>$8 por usuário por mês</b>
+    <div>tudo ilimitado, add your own branding, advanced user management</div>
+  </label>
+""">
+<orgcreate-enterprise """
+  <label>
+    <input>
+    <b>Enterprise</b> — <b>$55 por usuário por mês</b>
+    <div>everything above plus we'll remove the Coggle branding from your diagrams.</div>
+  </label>
+""">
 <orgcreate-paymentinfo "<p><a>Leia mais</a> sobre como processamos nossos pagamentos.</p>">
 <orgcreate-weusestripe "Nós usamos <a>Stripe</a> para processar os pagamanteos de forma segura.">
 <orgcreate-stripeinfo """
@@ -432,9 +429,9 @@ Começando <a>ocultar</a><a>mostrar</a>
 
 
 /* Image drag-drop messages */
-<imgupload-was-resized """
-  <p>Sua imagem foi redimensionada para caber em {{ $maxWidth }} &times; {{ $maxHeight }}, assim é que podemos guardar sua imagem gratuitamente, para sempre!</p>
-  <a>Mantenedores do Coggle</a> podem enviar imagens em maiores, e ter acesso prévio aos novos recursos, também: <a>leia mais</a>
+<imgupload-was-resized-2 """
+  Sua imagem foi redimensionada para caber em {{ $maxWidth }} &times; {{ $maxHeight }}, assim é que podemos guardar sua imagem gratuitamente, para sempre!
+  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
 """>
 <imgupload-slow-down "Opa, vai devagar! Tente carregar um arquivo de cada vez.">
 
@@ -448,9 +445,6 @@ Você sabia que pode-se colaborar em tempo real com outros? Você pode! Olhe par
 """>
 <fact-share """
 Você sabia que pode-se editar um Coggle ao mesmo tempo que outro qualquer? Você pode! Procure o botão compartilhar no topo à direita.
-""">
-<fact-chat """
-Você sabia que pode-se bater papo com todos editando o Coggle ao mesmo tempo? Você pode! Procure o ícone de bate-papo no topo à direita.
 """>
 <fact-font """
 Você sabia que pode-se usar fonte de largura fixa nos Coggles? Você pode!<p>Apenas use `crases` ao redor do texto, isso também interrompe outra sintaxe especial de ser interpretada.
@@ -553,15 +547,6 @@ Você sabia que pode-se escolher qual ramo editar usando atalhos do teclado? Voc
 """>
 <fact-task-lists """
 Você sabia que pode-se <a>Markdown</a> para adicionar 'checklists' aos Coggles? Você pode, aqui há um exemplo:<p>- [ ] caixa não checada- [X] caixa checada</p><p>Clicando na 'checkbox' automaticamente muda o markdown, também.
-""">
-<fact-supporter-1 """
-Você sabia que você pode-se tornar um Mantenedor do Coggle? Você pode! Por  £5/ano você obtém acesso prévio a grandes novidades.
-""">
-<fact-supporter-2 """
-Você sabia que você pode-se tornar um Mantenedor do Coggle? Você pode! Por £5/anor você pode mostrar seu apoio ao Coggle, e obter algumas vantagens!.
-""">
-<fact-supporter-3 """
-Você sabia que você pode-se tornar um Mantenedor do Coggle? Você pode! Por £5/ano você tem grandes vantagens, incluindo a criação de ligações cruzadas, e você mostra o seu apoio ao Coggle!
 """>
 <fact-api-1 """
 Você sabia que temos uma API? Nós temos! Programas podem usá-la para criar, examinar e manipular Coggles automaticamente.
