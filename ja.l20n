@@ -308,7 +308,8 @@
 
 /* My Settings Page (/me) */
 <me-hi "こんにちは {{ $user.givenName }},">
-<me-communication "コミュニケーション！">
+<me-communication-title "コミュニケーション">
+<me-emails-title "Email Addresses">
 <me-emailslist "私たちが記録しているemailアドレスです:">
 <me-emailstip "私たちはprimaryのemailアドレスにのみ連絡しますが、Coggleのお誘いは他のemailアドレスでも受け取ることができます。">
 <me-commspref "こちらは、あなたのコミュニケーション設定です:">

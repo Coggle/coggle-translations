@@ -276,7 +276,8 @@ Getting Started <a>hide</a><a>show</a>
 
 /* My Settings Page (/me) */
 <me-hi "Hi {{ $user.givenName }},">
-<me-communication "Communication!">
+<me-communication-title "Communication">
+<me-emails-title "Email Addresses">
 <me-emailslist "These are the emails we have on record for you:">
 <me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
 <me-commspref "Here's what you've told us about your communication preferences:">

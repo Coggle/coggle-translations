@@ -321,7 +321,8 @@ Empezando <a>ocultar</a><a>mostrar</a>
 
 /* My Settings Page (/me) */
 <me-hi "Hola {{ $user.givenName }},">
-<me-communication "¡Comunicación!">
+<me-communication-title "Comunicación">
+<me-emails-title "Email Addresses">
 <me-emailslist "Estos son los correos electrónicos que tenemos guardados para ti: ">
 <me-emailstip "Nosotros solo enviaremos correos electrónicos a tu dirección principal. Sin embargo, puedes recibir invitaciones en cualquiera de los otros.">
 <me-commspref "Aquí esta lo que nos has dicho sobre tus preferencias de comunicaciones:">

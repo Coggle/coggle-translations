@@ -241,7 +241,8 @@ Pour commencer <a>cacher</a><a>montrer</a>
 
 /* My Settings Page (/me) */
 <me-hi "Bonjour {{ $user.givenName }},">
-<me-communication "Communication!">
+<me-communication-title "Communication">
+<me-emails-title "Email Addresses">
 <me-emailslist "Ceci sont les mails que nous avons de vous:">
 <me-emailstip "Nous vous enverrons des mails qu'à votre adresse principale, toutefois, vous pouvez recevoir des invitations de chacun des mails.">
 <me-commspref "Voici ce que vous nous avez demandé concernant vos préférences de communications:">

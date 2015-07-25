@@ -284,7 +284,8 @@
 
 /* My Settings Page (/me) */
 <me-hi "你好 {{ $user.givenName }},">
-<me-communication "Communication!">
+<me-communication-title "Communication">
+<me-emails-title "Email Addresses">
 <me-emailslist "These are the emails we have on record for you:">
 <me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
 <me-commspref "Here's what you've told us about your communication preferences:">
