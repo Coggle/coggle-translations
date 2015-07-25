@@ -11,6 +11,11 @@ We use [l20n](http://l20n.org) for our translations, so for a guide to the
 syntax of our l20n files you can read the [l20n
 tutorial](http://l20n.org/learn/). We use some html in our translations, 
 
+## Found a problem?
+
+If you've found a problem with an existing translation, please open a [new
+issue](https://github.com/Coggle/coggle-translations/issues) to report it!
+
 ## Contributing Improvements
 
 We accept pull-requests to the `master` branch, which we'll then test and merge
