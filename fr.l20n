@@ -58,16 +58,16 @@
   Visitez le <a>blog</a> pour en savoir plus.
 """>
 
-<footer-index """
-  <p>En savoir plus <a>à propos de Coggle</a>.</p>
-  <a><img alt="likez-nous sur Facebook"></a>
-  <a><img alt="suivez-nous sur Twitter"></a>
-  <p>Obtenez des <a>trucs Coggle</a>!</p><br>
-  <p>Notre <a>politique de confidentialité</a>.</p>
-  <p>Pour la <a>presse</a>.</p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
-
-
 
 /* documents list content */
 <createcoggle """

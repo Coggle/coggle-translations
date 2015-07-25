@@ -55,14 +55,16 @@
     Coggle tiene muchas otras características geniales. Entonces, <a>pruébalo ahora</a>. ¡Es gratis! Visita el <a>blog</a> para aprender más.
   """>
 
-  <footer-index """
-    <p>Mas <a>sobre Coggle</a>.</p>
-    <a><img alt="danos like en facebook"></a>
-    <a><img alt="síguenos en twitter"></a>
-    <p>¡Obtén <a>objetos Coggle</a>!</p><br>
-    <p>Nuestra <a>política de privacidad</a>.</p>
-    <p>Para la <a>prensa</a>.</p>
-  """>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
+""">
 
 /* new frontpage content */
 <index-tagline "Una forma sencilla de compartir información compleja.">

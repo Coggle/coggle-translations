@@ -56,13 +56,15 @@
   Coggle включает в себя множество других великолепных функций, поэтому <a>попробуйте его сейчас</a>, он бесплатный! Зайдите на <a>блог</a> чтобы прочитать больше.
 """>
 
-<footer-index """
-  <p>Больше <a>про Coggle</a>.</p>
-  <a><img alt="ставьте лайки на facebook"></a>
-  <a><img alt="подписывайтесь на нас в twitter"></a>
-  <p>Get <a>Coggle stuff</a>!</p><br>
-  <p>Наша <a>политика приватности</a>.</p>
-  <p>Для <a>прессы</a>.</p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
 
 /* new frontpage content */

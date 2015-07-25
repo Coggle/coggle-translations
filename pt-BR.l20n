@@ -56,16 +56,16 @@
   Coggle tem uma infinidade de outros grandes recursos, então <a>experimente-o agora</a>, é gratuito! Visite o <a>blog</a> para ler mais.
 """>
 
-<footer-index """
-  <p>Mais <a>sobre o Coggle</a>.</p>
-  <a><img alt="curta nossa fanpage no facebook"></a>
-  <a><img alt="siga-nos no twitter"></a>
-  <p>Obtenha <a>material sobre o Coggle</a>!</p><br>
-  <p>Nossa <a>política de privacidade</a>.</p>
-  <p>Canal para a <a>imprensa</a>.</p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
-
-
 
 /* documents list content */
 <createcoggle """

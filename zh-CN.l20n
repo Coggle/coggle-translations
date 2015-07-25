@@ -56,13 +56,15 @@
   Coggle有很多很棒的功能, <a>马上试一下</a>, 免费! 点击<a>我们的博客</a> 来查看更多内容.
 """>
 
-<footer-index """
-  <p><a>关于Coggle</a>.</p>
-  <a><img alt="facebook上点个赞"></a>
-  <a><img alt="关注我们的twitter"></a>
-  <p>购买 <a>Coggle 周边产品</a>!</p><br>
-  <p>我们的 <a>隐私声明</a>.</p>
-  <p><a>媒体素材</a>.</p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
 
 /* new frontpage content */

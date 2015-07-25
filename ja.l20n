@@ -56,13 +56,15 @@
   Coggleにはほかにもたくさんの機能があります。さぁ、<a>試してみましょう</a>。 無料です！ <a>ブログ</a> を開いて続きを見てみましょう。
 """>
 
-<footer-index """
-  <p>Coggleのことを<a>もっと知る</a></p>
-  <a><img alt="FacebookでLikeする"></a>
-  <a><img alt="Twitterでフォローする"></a>
-  <p><a>Coggle グッズ</a>をゲット!</p><br>
-  <p>私たちの<a>プライバシー・ポリシー</a></p>
-  <p><a>プレスの方へ</a></p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
 
 /* new frontpage content */

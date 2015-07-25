@@ -56,13 +56,15 @@
   Coggle har massor av andra bra funktioner, så <a>prova nu</a>, det är gratis! Besök <a>bloggen</a> för att läsa mer.
 """>
 
-<footer-index """
-  <p>Mer <a>om Coggle</a>.</p>
-  <a><img alt="gilla oss på facebook"></a>
-  <a><img alt="följ oss på twitter"></a>
-  <p>Skaffa <a>Coggle-saker</a>!</p><br>
-  <p>Vår <a>integritetspolicy</a>.</p>
-  <p>För <a>press &auml; media</a>.</p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
 
 /* new frontpage content */
