@@ -146,6 +146,8 @@ Pour commencer <a>cacher</a><a>montrer</a>
  }
 >
 
+<sidebar-contextmenu "Context Menu">
+<sidebar-clickformenu "Right click an item or the background to access a menu.">
 <sidebar-controls "Contrôles">
 <sidebar-addbranch """
   <div>Ajouter une branche:</div>
@@ -211,6 +213,12 @@ Pour commencer <a>cacher</a><a>montrer</a>
 <cogglefacts-more """
   En savoir plus...
 """>
+<sidebar-markdown "Markdown">
+<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
+<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
+<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
+<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
+<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
 <sidebar-contact """
   <h3>Nous contacter!</h3>
@@ -440,9 +448,6 @@ Saviez-vous que vous pouvez collaborer en temps-réel avec les autres? Essayez! 
 """>
 <fact-share """
 Savez-vous que vous pouvez modifier un Coggle en même temps que quelqu'un d'autre? Essayez! Pour ce faire, cherchez le bouton Partager en haut à droite.
-""">
-<fact-chat """
-Saviez-vous que vous pouvez discuter avec tout le monde qui modifie le Coggle en même temps? Essayez! Pour ce faire, cherchez l'icône de chat en haut à droite.
 """>
 <fact-font """
 Saviez-vous que vous pouvez utiliser un codage pour avoir une police à largeur fixée dans Coggle? Essayez!<p>Il vous suffit d'entourer votre texte de `accent grave`, cela arrête aussi toutes les autres syntaxes spéciales d'être interpretées!

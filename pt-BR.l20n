@@ -145,6 +145,8 @@ Começando <a>ocultar</a><a>mostrar</a>
  }
 >
 
+<sidebar-contextmenu "Context Menu">
+<sidebar-clickformenu "Right click an item or the background to access a menu.">
 <sidebar-controls "Controles">
 <sidebar-addbranch """
   <div>Adicionar um Ramo:</div>
@@ -210,6 +212,12 @@ Começando <a>ocultar</a><a>mostrar</a>
 <cogglefacts-more """
   Leia mais...
 """>
+<sidebar-markdown "Markdown">
+<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
+<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
+<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
+<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
+<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
 <sidebar-contact """
   <h3>Entre em contato!</h3>
@@ -437,9 +445,6 @@ Você sabia que pode-se colaborar em tempo real com outros? Você pode! Olhe par
 """>
 <fact-share """
 Você sabia que pode-se editar um Coggle ao mesmo tempo que outro qualquer? Você pode! Procure o botão compartilhar no topo à direita.
-""">
-<fact-chat """
-Você sabia que pode-se bater papo com todos editando o Coggle ao mesmo tempo? Você pode! Procure o ícone de bate-papo no topo à direita.
 """>
 <fact-font """
 Você sabia que pode-se usar fonte de largura fixa nos Coggles? Você pode!<p>Apenas use `crases` ao redor do texto, isso também interrompe outra sintaxe especial de ser interpretada.

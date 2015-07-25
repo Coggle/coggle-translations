@@ -213,6 +213,8 @@
  }
 >
 
+<sidebar-contextmenu "Context Menu">
+<sidebar-clickformenu "Right click an item or the background to access a menu.">
 <sidebar-controls "操作">
 <sidebar-addbranch """
   <div>ブランチを追加:</div>
@@ -278,6 +280,12 @@
 <cogglefacts-more """
   もっと読む...
 """>
+<sidebar-markdown "Markdown">
+<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
+<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
+<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
+<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
+<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
 <sidebar-contact """
   <h3>Contact Us!</h3>
@@ -533,9 +541,6 @@ Coggleで数式が書けるのを知っていましたか？（そう、ギー�
 """>
 <fact-share """
 他の人と同時に編集ができるのを知っていましたか？できるんです！画面右上の (+) ボタンからどうぞ。
-""">
-<fact-chat """
-Coggleを編集している他の人とチャットが出来るのを知っていましたか？できるんです！画面右上のチャットアイコンからどうぞ。
 """>
 <fact-font """
 Coggleで固定幅のコード・フォントが使えるのを知っていましたか？できるんです！<p>ただ、 `backticks` でテキストを囲むだけです。他の特別構文もキャンセルできます。
