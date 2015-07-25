@@ -561,9 +561,6 @@ Did you know that you can collaborate in real-time with others? You can! Use the
 <fact-share """
 Did you know that you can edit a Coggle at the same time as someone else? You can! Use the (+) button in the top right to invite others.
 """>
-<fact-chat """
-Did you know that you can chat with everyone else editing the Coggle at the same time? You can! Look for the chat icon in the top right.
-""">
 <fact-font """
 Did you know you can use a fixed-width code font in Coggles? You can!<p>Just use `backticks` around the text, it also stops other special syntax from being interpreted.
 """>

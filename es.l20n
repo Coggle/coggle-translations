@@ -559,9 +559,6 @@ Conexión perdida: los cambios realizados podrían no ser guardados. Puedes trat
 <fact-share """
 ¿Sabías que puedes editar un Coggle al mismo tiempo que otra persona? ¡Si puedes! Usa el botón  (+) en la parte superior derecha para invitar a otros.
 """>
-<fact-chat """
-¿Sabías que puedes chatear con los otros editando el Coggle al mismo tiempo? ¡Si puedes! Busca el icono de chat en la parte superior derecha.
-""">
 <fact-font """
 ¿Sabías que puedes usar código fuente de ancho fijo en los Coggles? ¡Si puedes!  <p>Solo usa `acentos` alrededor del texto, también previene que caracteres especiales sean interpretados.
 """>

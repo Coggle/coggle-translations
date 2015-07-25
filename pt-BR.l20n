@@ -446,9 +446,6 @@ Você sabia que pode-se colaborar em tempo real com outros? Você pode! Olhe par
 <fact-share """
 Você sabia que pode-se editar um Coggle ao mesmo tempo que outro qualquer? Você pode! Procure o botão compartilhar no topo à direita.
 """>
-<fact-chat """
-Você sabia que pode-se bater papo com todos editando o Coggle ao mesmo tempo? Você pode! Procure o ícone de bate-papo no topo à direita.
-""">
 <fact-font """
 Você sabia que pode-se usar fonte de largura fixa nos Coggles? Você pode!<p>Apenas use `crases` ao redor do texto, isso também interrompe outra sintaxe especial de ser interpretada.
 """>
