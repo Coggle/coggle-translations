@@ -56,13 +56,15 @@
   Coggle has loads of other great features, so <a>try it now</a>, it's free! Visit the <a>blog</a> to read more.
 """>
 
-<footer-index """
-  <p>More <a>about Coggle</a>.</p>
-  <a><img alt="like us on facebook"></a>
-  <a><img alt="follow us on twitter"></a>
-  <p>Get <a>Coggle stuff</a>!</p><br>
-  <p>Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>.</p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
 
 /* new frontpage content */
@@ -92,11 +94,11 @@
   These are just a few of the things Coggle is useful for – <a>get started</a> now and find your own use!
 """>
 
-<index-helpteam-orgs """
+<index-helpteam-orgs-usd """
   <a><img></a>
   <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
   <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From £5 per member per month</div></a>
+  <a>Sign up now<div>From $8 per member per month</div></a>
 """>
 
 /* sign-up page content */
@@ -111,17 +113,17 @@
   </label>
 """>
 
-<signup-supporter-plan """
-  <label>
-    <input>
-    <b>Coggle Supporter</b> — <b>£5 per year</b>
-    <span> active</span>
-    <p>Early access to new features! Larger image uploads, cross links between items. <a>Read more</a>.</p>
-  </label>
+<signup-awesome-plan """
+    <label>
+      <input>
+      <b>Coggle Awesome</b> — <b>$5 per month</b>
+      <span> active</span>
+      <p>Unlimited private diagrams to control access to your work, bigger image uploads, <a>read more...</a></p>
+    </label>
 """>
 
-<help-setup-org """
-    <input> Also help me to set up a <a>Coggle Organisation</a> for my team &mdash; <b>£5 per member per month</b>
+<help-setup-org-usd """
+    <input> Also help me to set up a <a>Coggle Organisation</a> for my team &mdash; <b>$8 per member per month</b>
 """>
 
 <help-setup-org-description """
@@ -316,35 +318,12 @@ Getting Started <a>hide</a><a>show</a>
 <me-support-weusestripe """
   We use <a>stripe</a> to process payments securely: your card details never go through our servers.
 """>
-<me-support-benefits """
-  <span>Hello &mdash; this is you!</span>
-  Become a Coggle supporter for <b>£5 / year</b> and get early access to new features including:
-""">
-
-<support-feature-bigimages """
-  <img>
-  <span>
-    <span>Upload large images to your Coggle. </span>
-    <span>Just drag and drop images from your desktop to add them, as a supporter you can add much bigger images!</span>
-  </span>
-""">
-
-<support-feature-xlinks """
-  <img>
-  <span>
-    <span>Easily create cross-links between items. </span>
-    <span>Use the drag-and-drop menu item to easily show dependencies between items in your Coggle!</span>
-  </span>
-""">
 
 
 /* My Settings Page (/me) */
 <me-hi "Hi {{ $user.givenName }},">
-<me-supporterpitch """
-  Coggle is free, and we think that <strong>great tools should be available for everyone</strong>.
-  But if you'd like to support the continued development of Coggle then you can by becoming a Coggle supporter - in return you'll get early access to great new features that we're trialling.
-""">
-<me-communication "Communication!">
+<me-communication-title "Communication">
+<me-emails-title "Email Addresses">
 <me-emailslist "These are the emails we have on record for you:">
 <me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
 <me-commspref "Here's what you've told us about your communication preferences:">
@@ -359,17 +338,15 @@ Getting Started <a>hide</a><a>show</a>
 
 
 /* Organisations Landing Page (/organisations) */
-<orgs-pitch-2 """
+<orgs-pitch-2-usd """
   <h2>Coggle Organisations</h2>
   <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
   <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>£5 per member per month</b>.<br><b>Unlimited everything</b>.</p>
+  <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
-<orgs-signupnow """
-  <h2>Sign up for an Organisation now: </h2>
-  <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
-  <p>From £5 per member per month (about $8)</p>
+<orgs-signup-usd """
+  <a>CREATE ORGANISATION<div>From $8 per member per month</div></a>
 """>
 
 <orgs-feature-in-one-place """
@@ -408,8 +385,8 @@ Getting Started <a>hide</a><a>show</a>
   <p>Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.</p>
 """>
 
-<orgs-feature-supporter """
-  In addition, all members of your organisation will get the Coggle <a>Supporter</a> features.
+<orgs-feature-awesome """
+  In addition, all members of your organisation will get the Coggle <a>Awesome</a> features.
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
@@ -436,7 +413,20 @@ Getting Started <a>hide</a><a>show</a>
   <span>Pick something short and recognisable!</span>
 """>
 <orgcreate-billing "Billing">
-<orgcreate-pricing "Pricing is simple:<b> £5 per member per month</b>.  Unlimited everything.">
+<orgcreate-standard """
+  <label>
+    <input>
+    <b>Standard</b> — <b>$8 per member per month</b>
+    <div>unlimited everything, add your own branding, advanced user management</div>
+  </label>
+""">
+<orgcreate-enterprise """
+  <label>
+    <input>
+    <b>Enterprise</b> — <b>$55 per member per month</b>
+    <div>everything above plus we'll remove the Coggle branding from your diagrams.</div>
+  </label>
+""">
 <orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
 <orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
 <orgcreate-stripeinfo """
@@ -547,9 +537,9 @@ Connection lost: changes made now may not be saved. You could try to <a>reconnec
 """>
 
 /* Image drag-drop messages */
-<imgupload-was-resized """
-  <p>Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!</p>
-  <a>Coggle Supporters</a> can upload much larger images, and get early access to great new features, too: <a>read more</a>
+<imgupload-was-resized-2 """
+  Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!
+  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
 """>
 <imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
 
@@ -668,15 +658,6 @@ Did you know you can select which branch to edit using keyboard shortcuts? You c
 """>
 <fact-task-lists """
 Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
-""">
-<fact-supporter-1 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you get early access to great new features.
-""">
-<fact-supporter-2 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you can show your support for Coggle, and get some neat perks!
-""">
-<fact-supporter-3 """
-Did you know you can become a Coggle Supporter? You can! For £5/year you get great perks including creating cross-links, and you show your support for Coggle!
 """>
 <fact-api-1 """
 Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.

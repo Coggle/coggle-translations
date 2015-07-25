@@ -55,14 +55,16 @@
     Coggle tiene muchas otras características geniales. Entonces, <a>pruébalo ahora</a>. ¡Es gratis! Visita el <a>blog</a> para aprender más.
   """>
 
-  <footer-index """
-    <p>Mas <a>sobre Coggle</a>.</p>
-    <a><img alt="danos like en facebook"></a>
-    <a><img alt="síguenos en twitter"></a>
-    <p>¡Obtén <a>objetos Coggle</a>!</p><br>
-    <p>Nuestra <a>política de privacidad</a>.</p>
-    <p>Para la <a>prensa</a>.</p>
-  """>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
+""">
 
 /* new frontpage content */
 <index-tagline "Una forma sencilla de compartir información compleja.">
@@ -91,11 +93,11 @@
   Estas son solo algunas cosas para las cuales Coggle es útil – <a>empezar</a> ahora y encuéntrale un uso!
 """>
 
-<index-helpteam-orgs """
+<index-helpteam-orgs-usd """
   <a><img></a>
   <h2>Ayuda tu equipo a comunicarse con las <a>Organizaciones Coggle</a>.</h2>
   <p>Dale a tu equipo un espacio compartido para las lluvias de ideas, toma de notas  y documentar sus ideas. Las Organizaciones Coggle poseen todas las características que usted requiere para controlar sus datos e integrarlos con si flujo de trabajo. Conoce más <a>aquí</a>.</p>
-  <a>Regístrate ahora <div>desde £5 por miembro por mes</div></a>
+  <a>Regístrate ahora <div>desde $8 por miembro por mes</div></a>
 """>
 
 /* sign-up page content */
@@ -110,17 +112,17 @@
   </label>
 """>
 
-<signup-supporter-plan """
-  <label>
-    <input>
-    <b>Patrocinador Coggle </b> — <b>£5 por año</b>
-    <span> activo</span>
-    <p>¡Acceso exclusivo a nuevas características! Subidas de imagines más grandes, Links cruzados entre elementos.  <a>Leer más</a>.</p>
-  </label>
+<signup-awesome-plan """
+    <label>
+      <input>
+      <b>Coggle Awesome</b> — <b>$5 per month</b>
+      <span> active</span>
+      <p>Unlimited private diagrams to control access to your work, bigger image uploads, <a>read more...</a></p>
+    </label>
 """>
 
 <help-setup-org """
-    <input> También ayúdame a configurar una <a>Organización Coggle </a> para mi equipo &mdash; <b>£5 por miembro por mes</b>
+    <input> También ayúdame a configurar una <a>Organización Coggle </a> para mi equipo &mdash; <b>$8 por miembro por mes</b>
 """>
 
 <help-setup-org-description """
@@ -315,35 +317,12 @@ Empezando <a>ocultar</a><a>mostrar</a>
 <me-support-weusestripe """
   Nosotros usamos <a>stripe</a> para procesar los pagos de forma segura: los datos de tu tarjeta nunca pasan por nuestros servidores.
 """>
-<me-support-benefits """
-  <span>Hola &mdash; ¡Este eres tú!</span>
-  Conviértete en un patrocinador Coggle por <b>£5 / año</b> y recibe acceso anticipado a nuevas características incluyendo:
-""">
-
-<support-feature-bigimages """
-  <img>
-  <span>
-    <span>Cargar imágenes más grandes a Coggle. </span>
-    <span>Solo arrastra y suelta imágenes desde tu escritorio. ¡Como patrocinador puedes añadir imágenes más grandes!</span>
-  </span>
-""">
-
-<support-feature-xlinks """
-  <img>
-  <span>
-    <span>Crea fácilmente enlaces cruzados entre elementos. </span>
-    <span>¡Usa el elemento en menú de arrastra y suelta para mostrar las dependencias entre elementos en tu Coggle!</span>
-  </span>
-""">
 
 
 /* My Settings Page (/me) */
 <me-hi "Hola {{ $user.givenName }},">
-<me-supporterpitch """
-  Coggle es gratis, nosotros pensamos que <strong>increíbles herramientas deben estar disponibles para todos</strong>.
-  Pero si quisieras apoyar el desarrollo continuo de Coggle, entonces puedes convertirte en un patrocinador Coggle – En agradecimiento tendrás acceso anticipado a nuevas e increíbles características que estamos probando.
-""">
-<me-communication "¡Comunicación!">
+<me-communication-title "Comunicación">
+<me-emails-title "Email Addresses">
 <me-emailslist "Estos son los correos electrónicos que tenemos guardados para ti: ">
 <me-emailstip "Nosotros solo enviaremos correos electrónicos a tu dirección principal. Sin embargo, puedes recibir invitaciones en cualquiera de los otros.">
 <me-commspref "Aquí esta lo que nos has dicho sobre tus preferencias de comunicaciones:">
@@ -358,17 +337,15 @@ Empezando <a>ocultar</a><a>mostrar</a>
 
 
 /* Organisations Landing Page (/organisations) */
-<orgs-pitch-2 """
+<orgs-pitch-2-usd """
   <h2>Organizaciones Coggle</h2>
   <p>Cuando la información es critica para tu equipo necesitas herramientas mas poderosas y mayor control sobre tus datos. Por eso creamos las <a>Organizaciones Coggle</a>.</p>
   <p>Cada Organización Coggle contiene características diseñadas para manejar grandes grupos de personas, donde los miembros vienen y van, y la información sensible necesita ser protegida.</p>
-  <p>Los costos son simples, <b>£5 por miembro por mes</b>.<br><b>Todo ilimitado</b>.</p>
+  <p>Los costos son simples, <b>$8 por miembro por mes</b>.<br><b>Todo ilimitado</b>.</p>
 """>
 
-<orgs-signupnow """
-  <h2>Regístrate para una Organización Coggle ahora: </h2>
-  <a><div><p>CREAR</p><p>ORGANIZACIÓN</p></div></a>
-  <p>Desde £5 por miembro por mes (aproximadamente $8)</p>
+<orgs-signup-usd """
+  <a>CREATE ORGANIZATION<div>From $8 per member per month</div></a>
 """>
 
 <orgs-feature-in-one-place """
@@ -407,8 +384,8 @@ Empezando <a>ocultar</a><a>mostrar</a>
   <p>Crea links privados para compartir con colaboradores fuera de tu organización, permitiéndoles editar el diagrama sin necesidad de iniciar sesión.</p>
 """>
 
-<orgs-feature-supporter """
-  Además, todos los miembros de tu organización obtendrán las características de <a>patrocinador</a> Coggle.
+<orgs-feature-awesome """
+  Además, todos los miembros de tu organización obtendrán las características de Coggle <a>Awesome</a>.
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
@@ -435,7 +412,20 @@ Empezando <a>ocultar</a><a>mostrar</a>
   <span>¡Escoge algo corto y reconocible!</span>
 """>
 <orgcreate-billing "Facturación">
-<orgcreate-pricing "El precio es simple: <b> £5 por miembro por mes</b>.  Todo ilimitado.">
+<orgcreate-standard """
+  <label>
+    <input>
+    <b>Standard</b> — <b>$8 per member per month</b>
+    <div>unlimited everything, add your own branding, advanced user management</div>
+  </label>
+""">
+<orgcreate-enterprise """
+  <label>
+    <input>
+    <b>Enterprise</b> — <b>$55 per member per month</b>
+    <div>everything above plus we'll remove the Coggle branding from your diagrams.</div>
+  </label>
+""">
 <orgcreate-paymentinfo "<p><a>Leer más</a> sobre el proceso de pagos.</p>">
 <orgcreate-weusestripe "Nosotros usamos <a>Stripe</a> para procesar tus pagos de forma segura.">
 <orgcreate-stripeinfo """
@@ -545,9 +535,9 @@ Conexión perdida: los cambios realizados podrían no ser guardados. Puedes trat
 """>
 
 /* Image drag-drop messages */
-<imgupload-was-resized """
-  <p>Tu imagen fue redimensionada para calzar en {{ $maxWidth }} &times; {{ $maxHeight }}, de esta forma podemos guardar tu imagen gratis por siempre! </p>
-  <a>Patrocinadores Coggle</a> pueden subir imágenes mucho más grandes y obtener acceso anticipado a nuevas características también: <a>leer más</a>
+<imgupload-was-resized-2 """
+  Tu imagen fue redimensionada para calzar en {{ $maxWidth }} &times; {{ $maxHeight }}, de esta forma podemos guardar tu imagen gratis por siempre! 
+  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
 """>
 <imgupload-slow-down "¡Whoa, cálmate! Trata cargando un archivo a la vez.">
 
@@ -665,15 +655,6 @@ Conexión perdida: los cambios realizados podrían no ser guardados. Puedes trat
 """>
 <fact-task-lists """
 ¿Sabías que puedes usar <a>Markdown</a> para añadir listas de chequeo a los Coggles? Si puedes, este es un ejemplo:<p>- [ ] checkbox no marcado<br>- [X] checkbox marcado</p><p>Hacer clic sobre un checkbox también cambia el markdown.
-""">
-<fact-supporter-1 """
-¿Sabías que puedes convertirte en un Patrocinador Coggle? ¡Si puedes! Por £5/año obtienes acceso anticipado a características nuevas e increíbles.
-""">
-<fact-supporter-2 """
-¿Sabías que puedes convertirte en un Patrocinador Coggle? ¡Si puedes! Por £5/año puedes mostrar tu apoyo a Coggle y obtener algunas características increíbles!
-""">
-<fact-supporter-3 """
-¿Sabías que puedes convertirte en un Patrocinador Coggle? ¡Si puedes! Por £5/año obtienes beneficios como crear links cruzados y muestras tu apoyo por Coggle!
 """>
 <fact-api-1 """
 ¿Sabías que tenemos un API? ¡Si tenemos! Los programas la pueden usarla para crear, examinar y manipular Coggles automáticamente.

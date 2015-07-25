@@ -56,13 +56,15 @@
   Coggleにはほかにもたくさんの機能があります。さぁ、<a>試してみましょう</a>。 無料です！ <a>ブログ</a> を開いて続きを見てみましょう。
 """>
 
-<footer-index """
-  <p>Coggleのことを<a>もっと知る</a></p>
-  <a><img alt="FacebookでLikeする"></a>
-  <a><img alt="Twitterでフォローする"></a>
-  <p><a>Coggle グッズ</a>をゲット!</p><br>
-  <p>私たちの<a>プライバシー・ポリシー</a></p>
-  <p><a>プレスの方へ</a></p>
+<footer-2 """
+  <p>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+  </p>
 """>
 
 /* new frontpage content */
@@ -91,11 +93,11 @@
   これはCoggleができることの一部です。 – <a>はじめましょう！</a> そして、自分なりの使い方を見つけて下さい!
 """>
 
-<index-helpteam-orgs """
+<index-helpteam-orgs-usd """
   <a><img></a>
   <h2><a>Coggle Organisations</a>でよりよいチームのコミュニケーションを</h2>
   <p>ブレイン・ストーミングをしたり、ノートを取ったり、アイディアを記録したりする共用スペースをチームメンバーに提供しましょう。Coggle Organisationsはデータの管理やビジネス・ワークフローに統合するために必要なすべての機能を持っています。<a>続きを読む</a>。</p>
-  <a>サインアップ<div>1メンバー1月£5から</div></a>
+  <a>サインアップ<div>1メンバー1月$8から</div></a>
 """>
 
 /* sign-up page content */
@@ -110,17 +112,17 @@
   </label>
 """>
 
-<signup-supporter-plan """
-  <label>
-    <input>
-    <b>サポーター</b> — <b>年間 £5</b>
-    <span> 有効にする</span>
-    <p>新機能を早く体験できます！大きい画像もアップロードできます。アイテム間のクロスリンクを張ることができます。 <a>その他の機能はこちら</a>。</p>
-  </label>
+<signup-awesome-plan """
+    <label>
+      <input>
+      <b>Coggle Awesome</b> — <b>$5 per month</b>
+      <span> active</span>
+      <p>Unlimited private diagrams to control access to your work, bigger image uploads, <a>read more...</a></p>
+    </label>
 """>
 
-<help-setup-org """
-    <input> チームの為に <a>Coggle Organization</a> のセットアップをしたい &mdash; <b>1メンバー1月£5から</b>
+<help-setup-org-usd """
+    <input> チームの為に <a>Coggle Organization</a> のセットアップをしたい &mdash; <b>1メンバー1月$8から</b>
 """>
 
 <help-setup-org-description """
@@ -302,35 +304,12 @@
 <me-support-weusestripe """
   私たちは安全なお支払いを行っていただくために<a>stripe</a>を利用しています: あなたのカードの詳細情報は私たちのサーバには送られません。
 """>
-<me-support-benefits """
-  <span>こんにちは &mdash; これはあなたです！</span>
-  Coggleサポーターになって、新機能を優先的に使いましょう。<b>年間 £5</b>です:
-""">
-
-<support-feature-bigimages """
-  <img>
-  <span>
-    <span>大きな画像をCoggleにアップロードすることができます。 </span>
-    <span>画像をデスクトップからドラッグ・アンド・ドロップするだけで追加できます。サポーターになることで、もっと大きな画像を追加することができるようになります！</span>
-  </span>
-""">
-
-<support-feature-xlinks """
-  <img>
-  <span>
-    <span>簡単にアイテム間のクロス・リンクを張ることができます。</span>
-    <span>メニュー・アイテムをドラッグ・アンド・ドロップするだけで、簡単にアイテム間の依存関係を表示することができます！</span>
-  </span>
-""">
 
 
 /* My Settings Page (/me) */
 <me-hi "こんにちは {{ $user.givenName }},">
-<me-supporterpitch """
-  Coggleは無料です。私達は<strong>素晴らしいツールはすべての人に開かれているべきだ</strong>と考えています。
-  もし、あなたがCoggleの継続的な開発をサポートしたいと思われるなら、Coggleのサポーターになってください。代わりに、開発中の新しい機能に優先的にアクセスできるようになります。
-""">
-<me-communication "コミュニケーション！">
+<me-communication-title "コミュニケーション">
+<me-emails-title "Email Addresses">
 <me-emailslist "私たちが記録しているemailアドレスです:">
 <me-emailstip "私たちはprimaryのemailアドレスにのみ連絡しますが、Coggleのお誘いは他のemailアドレスでも受け取ることができます。">
 <me-commspref "こちらは、あなたのコミュニケーション設定です:">
@@ -345,17 +324,15 @@
 
 
 /* Organisations Landing Page (/organisations) */
-<orgs-pitch-2 """
+<orgs-pitch-2-usd """
   <h2>Coggle Organisations</h2>
   <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
   <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>£5 per member per month</b>.<br><b>Unlimited everything</b>.</p>
+  <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
-<orgs-signupnow """
-  <h2>Sign up for an Organisation now: </h2>
-  <a><div><p>CREATE</p><p>ORGANISATION</p></div></a>
-  <p>From £5 per member per month (about $8)</p>
+<orgs-signup-usd """
+  <a>CREATE ORGANISATION<div>From $8 per member per month</div></a>
 """>
 
 <orgs-feature-in-one-place """
@@ -394,8 +371,8 @@
   <p>Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.</p>
 """>
 
-<orgs-feature-supporter """
-  In addition, all members of your organisation will get the Coggle <a>Supporter</a> features.
+<orgs-feature-awesome """
+  In addition, all members of your organisation will get the Coggle <a>Awesome</a> features.
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
@@ -422,7 +399,20 @@
   <span>Pick something short and recognisable!</span>
 """>
 <orgcreate-billing "Billing">
-<orgcreate-pricing "Pricing is simple:<b> £5 per member per month</b>.  Unlimited everything.">
+<orgcreate-standard """
+  <label>
+    <input>
+    <b>Standard</b> — <b>$8 per member per month</b>
+    <div>unlimited everything, add your own branding, advanced user management</div>
+  </label>
+""">
+<orgcreate-enterprise """
+  <label>
+    <input>
+    <b>Enterprise</b> — <b>$55 per member per month</b>
+    <div>everything above plus we'll remove the Coggle branding from your diagrams.</div>
+  </label>
+""">
 <orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
 <orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
 <orgcreate-stripeinfo """
@@ -527,9 +517,9 @@
 """>
 
 /* Image drag-drop messages */
-<imgupload-was-resized """
-  <p>画像は、無料を維持するために{{ $maxWidth }} &times; {{ $maxHeight }}に収まるサイズに縮小されています。</p>
-  <a>Coggleサポーター</a>はもっと大きな画像をアップロードできます。また、新機能を優先的に使うことができます。 <a>続きを読む</a>
+<imgupload-was-resized-2 """
+  画像は、無料を維持するために{{ $maxWidth }} &times; {{ $maxHeight }}に収まるサイズに縮小されています。
+  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
 """>
 <imgupload-slow-down "あわわ、遅くなってる！一枚ずつ画像をアップロードしてみてください。">
 
@@ -648,15 +638,6 @@ Coggleには**太字**のショートカットがあることを知っていま�
 """>
 <fact-task-lists """
 CoggleにMarkdownでチェックリストを追加できることを知っていましたか？できるんです。やり方はこうです：<p>- [ ] 未チェックのチェックボックス<br>- [X] チェック済みのチェックボックス</p><p>チェックボックスをチェックするとMarkdownも書き換わります。
-""">
-<fact-supporter-1 """
-Coggleサポーターになれることを知っていましたか！なれるんです！1年間£5で、新機能を優先的に利用できるようになります。
-""">
-<fact-supporter-2 """
-Coggleサポーターになれることを知っていましたか！なれるんです！1年間£5で、サポートを表明することができます。素敵な特典もあります。
-""">
-<fact-supporter-3 """
-Coggleサポーターになれることを知っていましたか！なれるんです！1年間£5で、クロスリンクを含めたすばらしい特典があります。そして、Coggleへのサポートを表明できます！
 """>
 <fact-api-1 """
 CoggleにはAPIがあることをしっていましたか？あるんです！Coggleを新規作成したり、調査したり、操作したりをプログラムから自動で行うことができます。
