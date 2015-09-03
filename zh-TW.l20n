@@ -248,9 +248,7 @@ Getting Started <a>hide</a><a>show</a>
     <div>Format text: </div>
     <div>use <a>Markdown</a></div>
 """>
-<cogglefacts """
-  Coggle Fact <a>another!</a>
-""">
+<cogglefacts "another!">
 <cogglefacts-more """
   Read more...
 """>

@@ -274,9 +274,7 @@
     <div> フォーマット: </div>
     <div><a>Markdown</a></div>
 """>
-<cogglefacts """
-  Coggleができること <a>他を見る!</a>
-""">
+<cogglefacts "他を見る!">
 <cogglefacts-more """
   もっと読む...
 """>

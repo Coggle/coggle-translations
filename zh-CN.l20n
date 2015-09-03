@@ -250,9 +250,7 @@
     <div>调整文字格式: </div>
     <div>使用<a>Markdown格式说明</a></div>
 """>
-<cogglefacts """
-  Coggle 小提示 <a>下一个!</a>
-""">
+<cogglefacts "下一个!">
 <cogglefacts-more """
   更多...
 """>

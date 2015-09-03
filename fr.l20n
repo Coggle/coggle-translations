@@ -207,9 +207,7 @@ Pour commencer <a>cacher</a><a>montrer</a>
     <div>Format text: </div>
     <div>use <a>Markdown</a></div>
 """>
-<cogglefacts """
-  Faits Coggle <a>un autre!</a>
-""">
+<cogglefacts "un autre!">
 <cogglefacts-more """
   En savoir plus...
 """>
