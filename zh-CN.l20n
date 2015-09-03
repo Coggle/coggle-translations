@@ -489,12 +489,6 @@
 <access-remove "移除 {{ $user.givenName }}">
 
 /* Notification Messages */
-<notice-history """
-你正在浏览此Coggle笔记的历史归档! 关闭历史模式来回到当前版本.
-""">
-<notice-disconnected """
-连接断开: 从现在起的改动可能不会被保存. 你可以尝试<a>重连</a>, 或者<a>刷新本页面</a>.
-""">
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """

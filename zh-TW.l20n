@@ -485,12 +485,6 @@ Getting Started <a>hide</a><a>show</a>
 <access-remove "Remove {{ $user.givenName }}">
 
 /* Notification Messages */
-<notice-history """
-You are viewing previous versions of this Coggle! close the history viewer to return to the current version.
-""">
-<notice-disconnected """
-Connection lost: changes made now may not be saved. You could try to <a>reconnect now</a>, or <a>reload the page</a>.
-""">
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """

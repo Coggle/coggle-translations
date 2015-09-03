@@ -539,11 +539,17 @@ Getting Started <a>hide</a><a>show</a>
 <access-remove "Remove {{ $user.givenName }}">
 
 /* Notification Messages */
-<notice-history """
-You are viewing previous versions of this Coggle! close the history viewer to return to the current version.
+<readonly-warning """
+  You cannot edit this diagram. <div>If you need to edit it, ask the author to give you permission.</div>
 """>
-<notice-disconnected """
-Connection lost: changes made now may not be saved. You could try to <a>reconnect now</a>, or <a>reload the page</a>.
+<websocket-offline """
+  Changes may be slow due to network issues. <a>Help me fix this!</a>
+""">
+<disconnect-warning """
+  <b>Connection lost</b>: Changes may not be saved</div>
+""">
+<unrecoverable-warning """
+  There was an unrecoverable error, please reload the page. If you have information about what might have gone wrong, please email <a>contact@coggle.it</a>
 """>
 
 /* Image drag-drop messages */

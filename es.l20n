@@ -535,12 +535,7 @@ Empezando <a>ocultar</a><a>mostrar</a>
 <access-remove "Remover {{ $user.givenName }}">
 
 /* Notification Messages */
-<notice-history """
-¡Estás viendo versiones previas de este Coggle! Cierra el historial para regresar a la versión actual.
-""">
-<notice-disconnected """
-Conexión perdida: los cambios realizados podrían no ser guardados. Puedes tratar <a>reconectar ahora</a>, o <a>recarga la página</a>.
-""">
+
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """

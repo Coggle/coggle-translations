@@ -517,12 +517,6 @@
 <access-remove "{{ $user.givenName }}を外す">
 
 /* Notification Messages */
-<notice-history """
-古いバージョンのCoggleを見ています！現在のバージョンに戻るには、ヒストリー・ビューアを閉じます。
-""">
-<notice-disconnected """
-接続が切れました。変更は保存されていないかもしれません。<a>再接続を試みる</a>か、ページの<a>リロード</a>を試してみてください。
-""">
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
