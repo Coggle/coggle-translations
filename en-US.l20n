@@ -229,6 +229,7 @@ Getting Started <a>hide</a><a>show</a>
 
 <sidebar-contextmenu "Context Menu">
 <sidebar-clickformenu "Right click an item or the background to access a menu.">
+<sidebar-tapformenu "Tap an item or the background to access a menu.">
 <sidebar-controls "Controls">
 <sidebar-addbranch """
   <div>Add Branch:</div>
