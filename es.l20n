@@ -152,11 +152,10 @@
   </a>
 """>
 
-/* documents list placeholder content */
-<css--folder-anonymous-cogglelist-empty-before "!Beinbenido a Coggle! – Los diagramas que tú crees aparecerán aquí. ">
-<css--folders-error-before "La carga de carpetas fallo, por favor actualice la página e intente nuevamente. ">
-<css--folder-permission-admin-cogglelist-empty-before "Arrastra un Coggle para moverlo a esta carpeta.">
-<css--folder-error-cogglelist-empty-before "Ups! La carga de la carpeta fallo, actualiza la página para intentarlo nuevamente.">
+/* documents list messages */
+<doclist-loading-failed "Ups! La carga de la carpeta fallo, actualiza la página para intentarlo nuevamente.">
+<doclist-welcome "!Beinbenido a Coggle! – Los diagramas que tú crees aparecerán aquí.">
+<doclist-draghere "Arrastra un Coggle para moverlo a esta carpeta.">
 
 /* documents list contextual help items */
 <help-hide-for-now "Ocultar por ahora">

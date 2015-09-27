@@ -153,11 +153,11 @@
   </a>
 """>
 
-/* documents list placeholder content */
-<css--folder-anonymous-cogglelist-empty-before "Welcome to Coggle! – Diagrams you create will be listed here.">
-<css--folders-error-before "Loading folders failed, please reload the page to try again.">
-<css--folder-permission-admin-cogglelist-empty-before "Drag a Coggle here to move it to this folder.">
-<css--folder-error-cogglelist-empty-before "Uh-oh! Loading folder failed, refresh the page to try again.">
+/* documents list messages */
+<doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
+<doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
+<doclist-welcome "Welcome to Coggle! – Diagrams you create will be listed here.">
+<doclist-draghere "Drag a Coggle here to move it to this folder.">
 
 /* documents list contextual help items */
 <help-hide-for-now "Hide for now">

@@ -116,11 +116,11 @@
   </a>
 """>
 
-/* documents list placeholder content */
-<css--folder-anonymous-cogglelist-empty-before "欢迎使用Coggle! – 创建好的笔记将被列在这里.">
-<css--folders-error-before "文件夹加载失败, 请刷新页面重试.">
-<css--folder-permission-admin-cogglelist-empty-before "拖动Coggle笔记到这个文件夹.">
-<css--folder-error-cogglelist-empty-before "艾玛! 加载文件夹加载失败, 请刷新页面重试.">
+/* documents list messages */
+<doclist-loading-failed "艾玛! 加载文件夹加载失败, 请刷新页面重试.">
+<doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
+<doclist-welcome "欢迎使用Coggle! – 创建好的笔记将被列在这里.">
+<doclist-draghere "拖动Coggle笔记到这个文件夹.">
 
 /* documents list contextual help items */
 <help-hide-for-now "不再提示">
