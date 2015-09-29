@@ -58,12 +58,12 @@
 
 <footer-2 """
   <p>
-    <a>about</a>
+    <a>О нас</a>
     <a>facebook</a>
     <a>twitter</a>
-    <a>privacy</a>
-    <a>terms</a>
-    <a>press</a>
+    <a>Конфиденциальность</a>
+    <a>Условия использования</a>
+    <a>Пресса</a>
   </p>
 """>
 
