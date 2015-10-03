@@ -59,10 +59,10 @@
 <footer-2 """
   <p>
     <a>О нас</a>
-    <a>facebook</a>
-    <a>twitter</a>
+    <a>Facebook</a>
+    <a>Twitter</a>
     <a>Конфиденциальность</a>
-    <a>Условия использования</a>
+    <a>Правила</a>
     <a>Пресса</a>
   </p>
 """>
@@ -103,29 +103,29 @@
 
 /* documents list content */
 <createcoggle """
-  <p title="Create a new Coggle.">CREATE</p>
+  <p title="Создать новый Coggle.">Создать</p>
 """>
 <createfolder """
   <img>
-  <p title="Create a new Folder.">ADD</p>
+  <p title="Создать новую папку">+Папка</p>
 """>
-<limitedaccess "You have limited access to  as you're not a member">
+<limitedaccess "Вы имеете ограниченный доступ, так как вы не являетесь участником">
 <link-drive """
   <a><img>
-    <span>Too many Coggles? Organize them in Google Drive</span>
+    <span>Слишком много Coggles? Упорядочивайте из Google Диск</span>
   </a>
 """>
 
 /* documents list messages */
-<doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
-<doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
-<doclist-welcome "Welcome to Coggle! – Diagrams you create will be listed here.">
-<doclist-draghere "Drag a Coggle here to move it to this folder.">
+<doclist-loading-failed "Опаньки! Загрузка папки не удалась, обновите страницу, чтобы повторить попытку.">
+<doclist-discover-whatspossible "Хотите получить больше от Coggle? Узнайте <a>все возможности</a>.<div></div>">
+<doclist-welcome "Добро пожаловать в Coggle! – Схемы, которые вы создаете, будут перечислены здесь.">
+<doclist-draghere "Перетащите Coggle сюда, чтобы переместить его в эту папку.">
 
 /* documents list contextual help items */
 <help-hide-for-now "Hide for now">
 <help-ok-got-it "OK, got it!">
-<help-settingsswitch-title "Access Your Settings">
+<help-settingsswitch-title "Доступ к вашим настройкам">
 <help-settingsswitch """
   <p>Click to access your personal settings, and to switch between, or create, Organizations.</p>
   <p>Organizations let you control sharing of Coggles and work more effectively in larger teams.</p>
@@ -217,25 +217,25 @@ Getting Started <a>hide</a><a>show</a>
   <div><span> click a branch </span></div>
 """>
 <sidebar-addimages """
-  <div> Add <a>Images</a>: </div>
-  <div><div> drag and drop </div></div>
+  <div> Добавить <a>изображение</a>: </div>
+  <div><div> перетащить </div></div>
 """>
 <sidebar-zoom """
-  <div> Zoom: </div>
-  <div><div> ctrl </div><span> + mousewheel </span></div>
+  <div> Масштаб: </div>
+  <div><div> ctrl </div><span> + колесико мыши </span></div>
 """>
-<sidebar-shortcuts "Shortcuts">
+<sidebar-shortcuts "Ярлыки">
 <sidebar-undo """
-  <div> Undo: </div>
+  <div> Отменить: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
-  <div> Redo: </div>
+  <div> Вперёд: </div>
   <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-whentyping "When typing">
+<sidebar-whentyping "Во время набора текста">
 <sidebar-sc-newitem """
-  <div> New Item: </div>
+  <div> Новый элемент: </div>
   <div><div> shift </div><span> + </span><div> enter </div></div>
 """>
 <sidebar-sc-newchild """
@@ -247,7 +247,7 @@ Getting Started <a>hide</a><a>show</a>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
 <sidebar-sc-markdown """
-    <div>Format text: </div>
+    <div>Форматирование текста: </div>
     <div>use <a>Markdown</a></div>
 """>
 <cogglefacts "another!">
