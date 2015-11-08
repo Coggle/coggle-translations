@@ -122,6 +122,21 @@
     </label>
 """>
 
+<signup-awesome-yearly-plan """
+    <label>
+      <input>
+      <b>Coggle Awesome Yearly</b> — <b>$50 per year</b>
+      <span> active</span>
+      <p>All the <a>Awesome</a> benefits, less hassle, and save 16%</p>
+    </label>
+""">
+
+<signup-skip "Skip this step">
+
+<manage-plan-anytime """
+  You can manage your plan at any time on your <a>profile page</a>. Got questions? Drop us an email at <a>hello@coggle.it</a>.
+""">
+
 <help-setup-org-usd """
     <input> Also help me to set up a <a>Coggle Organisation</a> for my team &mdash; <b>$8 per member per month</b>
 """>
