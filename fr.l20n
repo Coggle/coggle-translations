@@ -91,7 +91,6 @@
 <help-settingsswitch """
   <p>Click to access your personal settings, and to switch between, or create, Organizations.</p>
   <p>Les organisations vous permet de contrôler le partage de vos Coggle et de travailler plus efficacement dans les grandes équipes.</p>
-  <p><b>Look out for more of these hints around Coggle!</b></p>
 """>
 <help-createfolder-title "Créer des Dossiers">
 <help-createfolder "Créer des dossiers à partager avec des groupes de personnes, ou pour ranger vos Coggles.">

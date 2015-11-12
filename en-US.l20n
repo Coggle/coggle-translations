@@ -181,7 +181,6 @@
 <help-settingsswitch """
   <p>Click to access your personal settings, and to switch between Organizations.</p>
   <p>Organizations let you control sharing of Coggles and work with larger teams.</p>
-  <p><b>Look out for more of these hints around Coggle!</b></p>
 """>
 <help-creatediagram-title "Create a New Diagram">
 <help-creatediagram """

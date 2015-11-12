@@ -130,7 +130,6 @@
 <help-settingsswitch """
   <p>Click to access your personal settings, and to switch between Organisations.</p>
   <p>Organisations let you control sharing of Coggles and work with larger teams.</p>
-  <p><b>Look out for more of these hints around Coggle!</b></p>
 """>
 <help-createfolder-title "Create a Folder">
 <help-createfolder "Create folders to share with groups of people, or categorize Coggles.">
