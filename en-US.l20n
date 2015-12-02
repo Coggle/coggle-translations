@@ -504,9 +504,13 @@ Getting Started <a>hide</a><a>show</a>
 <context-insert-branch "insert text: release [shift] to add branch instead">
 <context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
 <context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
+<context-root-add-branch "click to add branch">
 <context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
 <context-hide-branch "click to collapse this branch">
 <context-show-branch "click to expand this branch">
+<context-xlink-edit "click to edit label, hold {{ $removeKey }} to remove instead">
+<context-remove-xlink-alt "remove cross-link: release [alt] to edit instead">
+
 
 /* diagram not-found page */
 <nodiagram-title "Diagram not found!">
