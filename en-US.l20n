@@ -576,6 +576,8 @@ Getting Started <a>hide</a><a>show</a>
 <unrecoverable-warning """
   There was an unrecoverable error, please reload the page. If you have information about what might have gone wrong, please email <a>contact@coggle.it</a>
 """>
+<banner-undo-warning "Nothing more to undo!">
+<banner-redo-warning "Nothing more to redo!">
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
