@@ -66,6 +66,17 @@
     <a>press</a>
   </p>
 """>
+<footer-3 """
+  <p>
+    <a><img/> Google Drive</a>
+    <a>about</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+ </p>
+""">
 
 /* new frontpage content */
 <index-tagline "A clear way to share complex information.">
@@ -167,6 +178,17 @@
     <span>Too many Coggles? Organise them in Google Drive</span>
   </a>
 """>
+<doclist-create """
+    <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
+    <div><a>Create Diagram</a></div>
+""">
+<doclist-shared """
+  <b>Shared with you</b> – diagrams created by other people then shared with you will show up here.
+""">
+<help-searchcoggle-title "Search Coggle">
+<impersonatedaccess "You're viewing Coggle as an Organisation member. <a>Return to admin panel</a>">
+<create-diagram "<span>Create Diagram</span>">
+
 
 /* documents list messages */
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
