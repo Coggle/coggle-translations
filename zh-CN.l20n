@@ -117,9 +117,7 @@
 """>
 
 /* documents list messages */
-<doclist-loading-failed "艾玛! 加载文件夹加载失败, 请刷新页面重试.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
-<doclist-welcome "欢迎使用Coggle! – 创建好的笔记将被列在这里.">
 <doclist-draghere "拖动Coggle笔记到这个文件夹.">
 
 /* documents list contextual help items */

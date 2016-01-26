@@ -118,9 +118,7 @@
 """>
 
 /* documents list messages */
-<doclist-loading-failed "Опаньки! Загрузка папки не удалась, обновите страницу, чтобы повторить попытку.">
 <doclist-discover-whatspossible "Хотите получить больше от Coggle? Узнайте <a>все возможности</a>.<div></div>">
-<doclist-welcome "Добро пожаловать в Coggle! – Схемы, которые вы создаете, будут перечислены здесь.">
 <doclist-draghere "Перетащите Coggle сюда, чтобы переместить его в эту папку.">
 
 /* documents list contextual help items */

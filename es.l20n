@@ -153,8 +153,6 @@
 """>
 
 /* documents list messages */
-<doclist-loading-failed "Ups! La carga de la carpeta fallo, actualiza la página para intentarlo nuevamente.">
-<doclist-welcome "!Beinbenido a Coggle! – Los diagramas que tú crees aparecerán aquí.">
 <doclist-draghere "Arrastra un Coggle para moverlo a esta carpeta.">
 
 /* documents list contextual help items */

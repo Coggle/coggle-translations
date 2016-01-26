@@ -174,15 +174,14 @@
 <doclist-shared """
   <b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.
 """>
+<doclist-folder-empty """
+  <b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.
+""">
 <help-searchcoggle-title "Search Coggle">
 <impersonatedaccess "You're viewing Coggle as an Organization member. <a>Return to admin panel</a>">
 <create-diagram "<span>Create Diagram</span>">
 
-
-/* documents list placeholder content */
-<doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
-<doclist-welcome "Welcome to Coggle! – Diagrams you create will be listed here.">
 <doclist-draghere "Drag a Coggle here to move it to this folder.">
 
 /* documents list contextual help items */

@@ -117,9 +117,7 @@
 """>
 
 /* documents list messages */
-<doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
-<doclist-welcome "Welcome to Coggle! – Diagrams you create will be listed here.">
 <doclist-draghere "Drag a Coggle here to move it to this folder.">
 
 /* documents list contextual help items */
