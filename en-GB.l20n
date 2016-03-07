@@ -455,25 +455,18 @@
 <markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
 <markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
-<sidebar-contact """
-  <h3>Contact Us!</h3>
-  <p>Need some help? Found a bug? Want to get in touch? Then email us at <a>hello@coggle.it</a></p>
-  <p>Stay up to date with Coggle announcements and tutorials with <a>Bloggle</a>, the Coggle blog.</p>
-  <p>More <a>about Coggle</a>. Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>. For <a>developers</a>.</p>
-""">
-
 
 /* Organisations Landing Page (/organisations) */
-<orgs-pitch-2-usd """
+<orgs-pitch-3 """
   <h2>Coggle Organisations</h2>
-  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
   <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
-<orgs-signup-usd """
-  <a>CREATE ORGANISATION<div>From $8 per member per month</div></a>
+<orgs-signup "<a>CREATE ORGANISATION</a>">
+
+<orgs-subpitch """
+  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
+  <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
 <orgs-feature-in-one-place """

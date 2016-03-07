@@ -223,7 +223,7 @@
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <link-drive """
   <a><img>
-    <span>Too many Coggles? Organise them in Google Drive</span>
+    <span>Too many Coggles? Organize them in Google Drive</span>
   </a>
 """>
 <doclist-create """
@@ -236,12 +236,12 @@
 <doclist-folder-empty """
   <b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.
 """>
-<impersonatedaccess "You're viewing Coggle as an Organisation member. <a>Return to admin panel</a>">
+<impersonatedaccess "You're viewing Coggle as an Organization member. <a>Return to admin panel</a>">
 
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
 
-<tooltip-createorg title:"Create an Organisation">
+<tooltip-createorg title:"Create an Organization">
 <tooltip-invite-folder title:"Add people to this folder by email">
 <tooltip-invite title:"Invite people to join this Coggle.">
 <tooltip-private-icon title:"Diagram is private">
@@ -268,8 +268,8 @@
 <help-createfolder-title "Create a Folder">
 <help-createfolder "Create folders to share with groups of people, or categorise Coggles.">
 
-<help-orgs-switch-title "Switch Between Organisations">
-<help-orgs-switch "<p>Click to switch between Organisations.</p><p>Organisations let you control sharing of Coggles and work with larger teams.</p>">
+<help-orgs-switch-title "Switch Between Organizations">
+<help-orgs-switch "<p>Click to switch between Organizations.</p><p>Organizations let you control sharing of Coggles and work with larger teams.</p>">
 
 
 /* Settings page content */
@@ -280,7 +280,7 @@
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when they
- * create an Organisation, they are "create"ing an organisation, or when they
+ * create an Organization, they are "create"ing an organization, or when they
  * change the billing details they are "updating" them.
  */
 <settingsSubmitButton {
@@ -469,25 +469,18 @@
 <markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
 <markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
-<sidebar-contact """
-  <h3>Contact Us!</h3>
-  <p>Need some help? Found a bug? Want to get in touch? Then email us at <a>hello@coggle.it</a></p>
-  <p>Stay up to date with Coggle announcements and tutorials with <a>Bloggle</a>, the Coggle blog.</p>
-  <p>More <a>about Coggle</a>. Our <a>privacy policy</a>.</p>
-  <p>For the <a>press</a>. For <a>developers</a>.</p>
-""">
-
 
 /* Organizations Landing Page (/organizations) */
-<orgs-pitch-2-usd """
+<orgs-pitch-3 """
   <h2>Coggle Organizations</h2>
-  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organizations</a>.</p>
   <p>Each Coggle Organization comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
-<orgs-signup-usd """
-  <a>CREATE ORGANIZATION<div>From $8 per member per month</div></a>
+<orgs-signup "<a>CREATE ORGANISATION</a>">
+
+<orgs-subpitch """
+  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organizations</a>.</p>
+  <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
 <orgs-feature-in-one-place """
