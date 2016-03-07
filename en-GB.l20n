@@ -323,7 +323,7 @@
   </div>
 """>
 <billing-choose-country "Choose country">
-
+<billing-weusestripe "We use <a>Stripe</a> to process payments securely: Your card details never go through our servers.">
 
 <me-communication-title "Communication">
 <me-emails-title "Email Addresses">
@@ -510,51 +510,79 @@
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
-/* !!! TODO: remove all this (except -nameinput which is still used
-<orgcreate-title "Create an Organisation">
-<orgcreate-controlsharing """
-  <img>
-  <h3>Control Sharing</h3>
-  <div>Make sure Coggles created by your organisation stay in your organisation.</div>
-""">
-<orgcreate-branding """
-  <img>
-  <h3>Brand your Exports</h3>
-  <div>Have your logo appear as a watermark when diagrams are exported.</div>
-""">
-<orgcreate-dashboard """
-  <img>
-  <h3>Super-user Dashboard</h3>
-  <div>Administrator accounts get full control of all the diagrams in your organisation.</div>
-""">
-<orgcreate-gotqs "Got questions? Ask us! <a>orgs@coggle.it</a>">
-<orgcreate-choosename "Organisation Name">
+<orgcreate-title2 "Create a <a>Coggle Organisation</a>">
 <orgcreate-nameinput """
   <input placeholder="Choose Your Organisation Name">
   <span>Pick something short and recognisable!</span>
 """>
-<orgcreate-billing "Billing">
-<orgcreate-standard """
-  <label>
-    <input>
-    <b>Standard</b> — <b>$8 per member per month</b>
-    <div>unlimited everything, add your own branding, advanced user management</div>
-  </label>
+
+<faq-orgs-whatare """
+  <div>What are Coggle Organisations?</div>
+  <div><p>Coggle Organisations create a separation between your personal
+  diagrams and those owned by your company. By separating what's personal from
+  what's professional you gain greater control over your businesses data that's
+  stored in Coggle, including when and how it's shared by your
+  employees.</p></div>
 """>
-<orgcreate-enterprise """
-  <label>
-    <input>
-    <b>Enterprise</b> — <b>$55 per member per month</b>
-    <div>everything above plus we'll remove the Coggle branding from your diagrams.</div>
-  </label>
+
+<faq-orgs-whofor """
+  <div>Who are Coggle Organisations for?</div>
+  <div>
+    <p>Coggle Organisations have been designed for teams that require
+      greater control over the data they enter into Coggle, or need to keep
+      personal data separate. They're being successfully used by private
+      companies, public bodies, schools and universities to help groups
+      collaborate securely.</p> 
+    <p>Any group that need more control over sharing of diagrams, whether for
+      regulatory or internal policy compliance will find Coggle Organisations
+      useful.</p>
+  </div>
 """>
-<orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
-<orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
-<orgcreate-stripeinfo """
-  Stripe is certified to PCI level 1, and store your payment information using AES-256 encryption. You can read more about their security practices on Stripe's <a>security page</a>.
+
+<faq-orgs-features """
+  <div>What are the main features of a Coggle Organisation?</div>
+  <div>
+    <p><b>Administrators dashboard</b>: complete control over diagrams created
+      by members of your organisation, including restoration of deleted diagrams.
+    </p>
+    <p><b>Data control</b>: choose to limit sharing of data to within your
+      organisation only.</p>
+    <p><b>Bulk export</b>: export all diagrams in your organisation for backup
+      or regulatory purposes.</p>
+    <p><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
+      one place, and revoke subscriptions when members come and go from your
+      organsiation. </p>
+  </div>
 """>
-<orgcreate-create "<p>CREATE</p>">
-*/
+
+<faq-orgs-awesome """
+  <div>How do Coggle Organisations relate to Coggle Awesome?</div>
+  <div>
+    <p>Coggle Organisations are a great way to centralise billing and license
+      management for multiple Coggle Awesome subscriptions.</p>
+    <p>Every user in your Organisation will automatically get Coggle Awesome
+      when they're working on diagrams in your organisation workspace. This means
+      all the great features including private diagrams, presentation mode,
+      extended colour palette and high resolution image uploads.</p>
+  </div>
+""">
+
+<faq-orgs-billing """
+  <div>How does billing work for Coggle Organisations?</div>
+  <div>Coggle Organisations are charged at $8 per member per month. You can add
+  and remove members at any time from the dashboard for your
+  organisation.</div>
+""">
+
+<faq-orgs-edu """
+  <div>Are there any education pricing options?</div>
+  <div>Yes! Contact us at education@coggle.it to find out more.</div>
+""">
+
+<faq-orgs-more """
+  <div>I've still got some questions...</div>
+  <div>Ask us! Send us an email to orgs@coggle.it and we'll be happy to help :)</div>
+""">
 
 /* About Coggle (/about) */
 <about-hello """
