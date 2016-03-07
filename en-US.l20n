@@ -599,16 +599,25 @@
 """>
 
 /* About Coggle (/about) */
-<about-hello """
+<about-hello2 """
   <h1>Hello!</h1>
-  <p>Coggle is about redefining the way documents work: the way we share and store knowledge. It's a space for thoughts that works the way that people do — not in the rigid ways of computers.</p>
-  <p>It's free, and we promise it always will be, but we still take our responsibilities seriously. We promise to look after your data the best we know how, to keep backups, and to take security seriously.</p>
-  <p>Our mission is to change the way that people work and collaborate forever, to make you more productive, and to make it easier to share information with others, and to do it in a way that's beautiful, and a pleasure to use.</p>
+  <p> <b>Coggle gives you a clear way to share and understand complex information.
+  It's a collaborative mapping tool that simplifies complex things &mdash; it's
+  a shared workspace to help your team work more effectively together.</b> </p>
+  <p>It's free, and we promise it always will be, but we still promise to look
+  after your data the best we know how, to keep backups, and to take security
+  seriously.</p>
+  <p>Our mission is to change the way that people work and collaborate forever,
+  to make you more productive, to make it easier to share information with
+  others, and to do it in a way that's beautiful, and a pleasure to use.</p>
 """>
 
 <about-getintouch """
   <h1>Get in Touch</h1>
-  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter </a>and if you prefer you can always send an email to <a>hello@coggle.it </a>— we love to chat!</p>
+  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just
+  give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter
+  </a>and if you prefer you can always send an email to <a>hello@coggle.it
+  </a>— we love to chat!</p>
 """>
 
 <about-spreadtheword """
