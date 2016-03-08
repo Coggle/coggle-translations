@@ -1,14 +1,48 @@
-/* login widget content */
+/* Coggle translations for French */
 
-<login-signup-button """
-  <p>S'INSCRIRE</p><p>UTILISER SON COMPTE GOOGLE</p>
+/* For help with syntax, see http://l20n.org/learn/ or email
+ * translations@coggle.it
+ */
+
+/* frontpage content (https://coggle.it/home), except for the plans section
+ * which is described below
+ */
+<index-tagline "A clear way to share complex information.">
+<index-signupnow "Sign Up Now">
+<index-login "Already signed up? Log in here.">
+
+<index-unleash "Unleash your creativity">
+<index-blurb "Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!">
+<index-viewgallery "Or, take a look at the <a>Coggle Gallery</a>">
+
+<index-use-notes """
+  <div><img></div>
+  <h2>Take Notes</h2>
+  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
 """>
-<login-tagline "C'est gratuit et simple! Déjà inscrit? <a>se connecter</a>.">
-<logout "Se déconnecter">
+    
+<index-use-brainstorm """
+  <div><img></div>
+  <h2>Brainstorm</h2>
+  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+""">
 
+<index-use-share """
+  <div><img></div>
+  <h2>Share Information</h2>
+  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+""">
+    
+<index-use-other """
+  These are just a few of the things Coggle is useful for – <a>get started</a> now and find your own use!
+""">
 
-
-/* front page content */
+<index-helpteam-orgs-usd """
+  <a><img></a>
+  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
+  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
+  <a>Sign up now<div>From $8 per member per month</div></a>
+""">
 
 <index-description """
   <h1>Lâchez votre créativité</h1>
@@ -17,8 +51,7 @@
 """>
 
 <testimonial-jenn """
-  <p>"Je ne peux penser que d'un seul mot pour décrire ma joie avec ça...
-  supercalifragilisticexpialidocious!"</p>
+  <p>"Je ne peux penser que d'un seul mot pour décrire ma joie avec ça... supercalifragilisticexpialidocious!"</p>
   <p>Jenn, utilisateur de Coggle</p>
 """>
 
@@ -58,9 +91,92 @@
   Visitez le <a>blog</a> pour en savoir plus.
 """>
 
-<footer-2 """
+
+/* Plans selection translations (https://coggle.it/plans, when logged in, and
+ * also on the homepage)
+ */
+<plans-title-freeforever "Coggle is free to use, and always will be. Create unlimited public diagrams and share them for free.">
+
+<plans-free-title "Free">
+<plans-free-price "Free forever">
+<feature-realtime "<b>Real-time</b> collaboration">
+<feature-diagrams "<b>Unlimited</b> public diagrams">
+<feature-images "<b>Unlimited</b> image uploads">
+<feature-changes "<b>Full</b> change history">
+<feature-markdown "<b>Markdown</b> support">
+<feature-downloads "<b>PDF & Image</b> download">
+<feature-exports "Export as <b>.mm and text</b>">
+<feature-chat "Comments & Chat">
+<feature-embed "Embeddable diagrams">
+<feature-private "<b>Private diagrams</b>">
+<feature-rearrange "<b>Auto-arrange branches</b>">
+<feature-folders "<b>Shared folders</b>">
+<feature-presentation "Presentation mode">
+<feature-bigimages "<b>High-res image</b> uploads">
+<feature-extendedcolours "More colours">
+<feature-bulkexport "<b>Bulk export</b>">
+<feature-adminpanel "<b>User & data</b> management">
+<feature-branding "Branded diagrams">
+<plans-free-getstarted "Get Started">
+
+<plans-awesome-title "Awesome">
+<plans-awesome-price "$5 / month">
+<feature-realtime "<b>Real-time</b> collaboration">
+<feature-diagrams "<b>Unlimited</b> public diagrams">
+<feature-images "<b>Unlimited</b> image uploads">
+<feature-changes "<b>Full</b> change history">
+<feature-markdown "<b>Markdown</b> support">
+<feature-downloads "<b>PDF & Image</b> download">
+<feature-exports "Export as <b>.mm and text</b>">
+<feature-chat "Comments & Chat">
+<feature-embed "Embeddable diagrams">
+<feature-private "<b>Private diagrams</b>">
+<feature-rearrange "<b>Auto-arrange branches</b>">
+<feature-folders "<b>Shared folders</b>">
+<feature-presentation "Presentation mode">
+<feature-bigimages "<b>High-res image</b> uploads">
+<feature-extendedcolours "More colours">
+<feature-bulkexport "<b>Bulk export</b>">
+<feature-adminpanel "<b>User & data</b> management">
+<feature-branding "Branded diagrams">
+<plans-findoutmore "Find out more">
+
+<plans-org-title "Organisation">
+<plans-org-price "$8 / member / month">
+<feature-realtime "<b>Real-time</b> collaboration">
+<feature-diagrams "<b>Unlimited</b> public diagrams">
+<feature-images "<b>Unlimited</b> image uploads">
+<feature-changes "<b>Full</b> change history">
+<feature-markdown "<b>Markdown</b> support">
+<feature-downloads "<b>PDF & Image</b> download">
+<feature-exports "Export as <b>.mm and text</b>">
+<feature-chat "Comments & Chat">
+<feature-embed "Embeddable diagrams">
+<feature-private "<b>Private diagrams</b>">
+<feature-rearrange "<b>Auto-arrange branches</b>">
+<feature-folders "<b>Shared folders</b>">
+<feature-presentation "Presentation mode">
+<feature-bigimages "<b>High-res image</b> uploads">
+<feature-extendedcolours "More colours">
+<feature-bulkexport "<b>Bulk export</b>">
+<feature-adminpanel "<b>User & data</b> management">
+<feature-branding "Branded diagrams">
+
+<plans-select "Select">
+<continue-free "Continue on <b>Free</b> plan">
+<current-plan "Your current plan">
+<cancel-subscription "Cancel Subscription">
+<awesome-signup-monthly "Sign up <span>$5</span> per month">
+<awesome-signup-yearly "Sign up <span>$50</span> per year">
+<yearly-discount "Pay yearly and get 2 months free!">
+<yearly-discount-percent "Pay yearly and save over 15%">
+<switch-yearly "Upgrade to Yearly">
+
+
+<footer-homepage """
   <p>
     <a>about</a>
+    <a>contact</a>
     <a>facebook</a>
     <a>twitter</a>
     <a>privacy</a>
@@ -68,77 +184,287 @@
     <a>press</a>
   </p>
 """>
+<footer-doclist """
+  <p>
+    <a><img/> Google Drive</a>
+    <a>about</a>
+    <a>contact</a>
+    <a>facebook</a>
+    <a>twitter</a>
+    <a>privacy</a>
+    <a>terms</a>
+    <a>press</a>
+ </p>
+""">
 
-/* documents list content */
-<createcoggle """
-  <p title="Créer un nouveau Coggle.">CRÉER</p>
-""">
-<createfolder """
-  <img>
-  <p title="Créer un nouveau dossier.">AJOUTER</p>
-""">
+
+/* logged-in homepage content (documents list): https://coggle.it when logged in 
+*/
+<create-diagram "<span>Create Diagram</span>">
+<search-diagrams placeholder:"Search your diagrams.">
+<view-gallery "Gallery">
+<create-folder "Create Folder">
+<created-by-you value:"Created By You">
+<shared-with-you value:"Shared With You">
+<folder-title placeholder:"Enter a folder name">
+<folder-areyousure "are you sure? <span>I&#39;m sure</span>">
+<logout "Se déconnecter">
+<settings "Settings">
+<return-to-diagrams "Return to your diagrams">
+
 <limitedaccess "Vous avez un accès limité à  comme vous n'êtes pas un membre.">
 <link-drive """
   <a><img>
     <span>Beaucoup trop de Coggle? Organisez-les dans Google Drive</span>
   </a>
 """>
+<doclist-create """
+    <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
+    <div><a>Create Diagram</a></div>
+""">
+<doclist-shared """
+  <b>Shared With You</b> – diagrams created by other people then shared with you are in this folder. 
+""">
+<doclist-folder-empty """
+  <b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.
+""">
+<impersonatedaccess "You're viewing Coggle as an Organisation member. <a>Return to admin panel</a>">
+
+<doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
+<doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
+
+<tooltip-createorg title:"Create an Organisation">
+<tooltip-invite-folder title:"Add people to this folder by email">
+<tooltip-invite title:"Invite people to join this Coggle.">
+<tooltip-private-icon title:"Diagram is private">
+<tooltip-unsubscribe title:"Unsubscribe from notifications">
+<tooltip-subscribe title:"Subscribe to notifications">
+<tooltip-duplicate title:"Create a copy">
+<tooltip-remove title:"Remove diagram">
+<tooltip-restore title:"Restore diagram">
 
 /* documents list contextual help items */
+<help-searchcoggle-title "Search Coggle">
+<help-searchcoggle "Type to find your documents &mdash; quickly search for any word in a diagram!">
 <help-hide-for-now "Cacher pour l'instant">
 <help-ok-got-it "OK, j'ai compris!">
-<help-settingsswitch-title "Access Your Settings">
-<help-settingsswitch """
-  <p>Click to access your personal settings, and to switch between, or create, Organizations.</p>
-  <p>Les organisations vous permet de contrôler le partage de vos Coggle et de travailler plus efficacement dans les grandes équipes.</p>
+<help-creatediagram-title "Create a New Diagram">
+<help-creatediagram """
+  <p>Create a new Coggle Diagram to get started.</p>
+  <p>Diagrams you create will be saved here on your homepage.</p>
+  <p><b>Look out for more of these hints around Coggle!</b></p>
 """>
+
 <help-createfolder-title "Créer des Dossiers">
 <help-createfolder "Créer des dossiers à partager avec des groupes de personnes, ou pour ranger vos Coggles.">
-<help-filtercoggles-title "Filtrer les Coggles">
-<help-filtercoggles """
-  Tapez quelque chose pour filtrer vos Coggle et les ouvrir rapidement - pressez <b>[entrer]</b> pour ouvrir le premier Coggle dans la liste filtrée.
+
+<help-orgs-switch-title "Switch Between Organisations">
+<help-orgs-switch "<p>Click to switch between Organisations.</p><p>Organisations let you control sharing of Coggles and work with larger teams.</p>">
+
+
+/* Settings page content */
+<settings-plans-title "Plans">
+<settings-billing-title "Billing & Invoices">
+<settings-recommend-title "Recommend">
+<settings-emails-title "Communication">
+
+/* The button to save billing details changes its text in different contexts:
+ * when a user signs up to awesome they are "purchasing" a subscription, when they
+ * create an Organisation, they are "create"ing an organisation, or when they
+ * change the billing details they are "updating" them.
+ */
+<settingsSubmitButton {
+  purchase: "purchase",
+   *submit: "submit",
+    update: "update",
+    create: "créer",
+}>
+
+<settings-billing-on-file """
+  <div>The card we have on file for you ends in <b>{{ $cardEndsIn }}</b>, it expires on <b>{{ $cardExpires }}</b>.</div>
+  <div>The billing zipcode we have for you is <b>{{ $addressZip }}</b>.</div>
+  <div><a class='edit'>Change my details</a></div>
+  <div><div>{{ settingsSubmitButton[$submit] }}</div></div>
 """>
-<help-profile-title "C'est vous!">
-<help-profile "Appuyez sur l'icône pour visualiser votre profil et vos paramètres.">
+<billing-ok-button "{{ settingsSubmitButton[$submit] }}">
+<billing-charge-description """
+    We'll charge you
+    <span>{{ $product.price }}</span>
+    <span>{{ $product.period }}</span>
+""">
+<billing-remove-card "Remove my card details">
+
+<billing-form """
+  <div>
+    <label>Card number</label>
+    <input>
+  </div>
+  <div>
+    <label>Expiry date</label>
+    <input> <input> <input placeholder="MM/YYYY" title="Expiry date">
+  </div>
+  <div>
+    <label>Security code</label>
+    <input title="The last 3 digits of the code in your cards signature panel.">
+  </div>
+  <div>
+    <label>Name on card</label>
+    <input placeholder="Name on card">
+  </div>
+  <div>
+    <label>Billing address</label>
+    <input placeholder="Address Line 1">
+    <inputplaceholder="Address Line 2">
+  </div>
+  <div>
+    <input placeholder="City">
+  </div>
+  <div>
+    <input placeholder="Post Code">
+  </div>
+""">
+<billing-choose-country "Choose country">
+<billing-weusestripe "We use <a>Stripe</a> to process payments securely: Your card details never go through our servers.">
+
+<me-communication-title "Communication">
+<me-emails-title "Email Addresses">
+<me-emailslist "These are the emails we have on record for you:">
+<me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
+<me-commspref "Here's what you've told us about your communication preferences:">
+<me-comms-explain """
+  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
+""">
+<me-talktome "Talk to me: ">
+<me-diagram-notifications "Diagram notifications: ">
+
+<slider-yes "OUI">
+<slider-no "NON">
 
 
-/* diagram introductory tutorial */
+/* Diagram content */
 <guide-click-here "appuyez ici">
 <guide-or-here "ou bien là">
-<guide-editanytext "vous pouvez éditer n'importe quel texte">
-<guide-draganything "et glisser n'importe quoi pour le déplacer">
-<guide-clicktoadd "maintenant appuyez ici pour créer un enfant">
-<guide-taptoaddmore "maintenant tapotez pour en ajouter plus">
-<guide-holdtoremove "... ou restez appuyé sur {{ $removeKey }} et appuyez ici pour le supprimer sinon">
-<guide-undo "vous pouvez utiliser {{ $undoKey }} pour défaire tous ce que vous avez fait!">
-<guide-redo "et {{ $redoKey }} pour re-faire toutes les choses encore dans l'autre sens">
-<guide-donebasics "parfait, vous avez les bases!">
 
+<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
+<help-add-node "Use the (+) buttons to add branches.">
+<help-edit-node "<p>Click any item to edit the text.</p><p>Change the text size by dragging the corner of the editing area.</p>">
+<help-move-node "Drag any text to move it.">
+<help-node-menu "Right click to access the menu. Here you can add, remove, copy, and arrange branches.">
 
-/* diagram contextual help items */
-<help-gohome "Appuyez sur le logo de Coggle pour revenir à la page d'accueil, vos documents sont automatiquement sauvegardés.">
-<help-sidebar "Appuyez ici pour cacher ou montrer le menu latéral à tout moment.">
-<help-share-diagram "Appuyez ici pour inviter des personnes à modifier ou consulter ce Coggle. Nous leur enverrons un mail avec un lien pour s'inscrire et modifier!">
-<help-multiline "Ajouter plusieurs lignes de texte avec [ctrl] + [entrer], ou en redimensionnant la case avant d'écrire.">
-<help-toolbar-invite-title "Travaillez avec les autres">
-<help-toolbar-invite "Appuyez pour inviter des personnes à consulter ou modifier ce Coggle. Vous pouvez contrôler les permissions des personnes en appuyant sur leur icône.">
-<help-toolbar-invitemulti-title "Inviter plusieurs personnes">
+<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
+<help-toolbar-invite-title "Work With Others">
+<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
+<help-toolbar-invitemulti-title "Invite Multiple People">
 <help-toolbar-invitemulti """
-Pour gagner du temps, vous pouvez inviter plusieurs personnes en une fois: écrivez (ou collez) les adresses mails séparés par un espace, une virgule<b>,</b> ou bien des point-virgules<b>;</b>
+  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+""">
+<help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
+
+<banner-open-getawesome """
+    This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> Get <a>Awesome</a> to make it private.
 """>
 
+<messages-title "Messages">
+<messages-search placeholder:"Search">
+<messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
+<messages-start "You've reached the start!">
+<messages-upgrade "Need more than 2 weeks history? Find out about upgrading to <a>Awesome</a> to get the full history.">
 
-/* diagram sidebar content */
-<sidebar-getstarted """
-Pour commencer <a>cacher</a><a>montrer</a>
+<diagram-toolbar-history title:"View and copy previous versions.">
+<diagram-toolbar-messages title:"Comments and chat.">
+<diagram-toolbar-present title:"Present this Coggle.">
+<diagram-toolbar-share title:"Share this Coggle.">
+<diagram-toolbar-download title:"Download this Coggle.">
+<diagram-toolbar-copy title:"Create a copy of this Coggle.">
+
+
+
+/* diagram tooltips */
+<context-dragclick "faire glisser pour déplacer, puis appuyer pour modifier">
+<context-dragclickfollow "faire glisser pour déplacer, appuyez pour modifier, {{ $followLinkKey }} + appuyez pour suivre les liens">
+
+<context-remove-branch-alt "supprimer cette branche: relâchez [alt] pour ajouter une branche">
+<context-insert-branch "insérer du texte: relâchez [shift] pour ajouter une branche">
+<context-squash-branch "écraser la branche: relâchez {{ $squashKeys }} pour ajouter une branche">
+<context-remove-branch-ctrl "supprimer cette branche: utilisez [ctrl]+[shift] pour supprimer uniquement cet élément">
+<context-root-add-branch "click to add branch">
+<context-add-branch "appuyer pour ajouter une nouvelle branche: tenez la touche {{ $removeKey }} appuyée pour supprimer">
+<context-hide-branch "click to collapse this branch">
+<context-show-branch "click to expand this branch">
+<context-xlink-edit "click to edit label: hold {{ $removeKey }} to remove instead">
+<context-remove-xlink-alt "remove cross-link: release [alt] to edit instead">
+
+
+/* sharing dialog content */
+<share-newlink "Nouveau lien:">
+<share-newlink-tip """
+  Ceci vous permet de partager votre diagramme avec tous les gens qui ne sont pas connectés, mais soyez prudent, <strong>quiconque</strong> qui possède le lien peut voir votre travail!
 """>
-<guidestep-add "Ajouter un élement">
-<guidestep-edit "Éditer un élement">
-<guidestep-move "Déplacer un élement ">
-<guidestep-remove "Supprimer un élement">
-<guidestep-undo "Défaire un changement">
-<guidestep-redo "Refaire un changement">
+<share-tag-user "utilisateur">
+<share-tag-embed "intégrer">
+<share-tag-writable "modifiable">
+<share-send-email "ENVOYER">
+<share-email-hints """
+  <div>pour inviter quelqu'un</div>
+  <div>écrivez un mail</div>
+  <div>et ensuite tapez entrer</div>
+  <div>ami@exemple.fr</div>
+""">
+<share-social """
+  <a title='Embed in a website'> <img/> </a>
+  <a title='Share on Facebook'> <img/> </a>
+  <a title='Share on Twitter'> <img/> </a>
+""">
+<share-open "Can everyone view this diagram?">
+<share-open-detail "Open diagrams can be viewed by anyone and may be found by search engines">
 
+/* download dialog content */
+<download-pdf "Téléchargez le PDF">
+<download-png "Téléchargez une image (PNG)">
+<download-mm "Un fichier .mm">
+<download-txt "Aperçu du texte brute">
+<download-advanced "Types avancées">
+<download-failed "La génération du fichier a échoué.">
+
+/* access control slider content */
+<access-readonly "Read only<br/><span>Only allow them to view</span>">
+<access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
+<access-author "Author<br/><span>Allow creating and editing documents</span>">
+
+<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
+<access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
+<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
+<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
+
+<access-remove "Remove {{ $user.givenName }}">
+
+/* Notification Messages */
+<readonly-warning """
+  You cannot edit this diagram. <div>If you need to edit it, ask the author to give you permission.</div>
+""">
+<websocket-offline """
+  Changes may be slow due to network issues. <a>Help me fix this!</a>
+""">
+<disconnect-warning """
+  <b>Connection lost</b>: Changes may not be saved</div>
+""">
+<unrecoverable-warning """
+  There was an unrecoverable error, please reload the page. If you have information about what might have gone wrong, please email <a>contact@coggle.it</a>
+""">
+<banner-undo-warning "Nothing more to undo!">
+<banner-redo-warning "Nothing more to redo!">
+
+
+/* Image drag-drop messages */
+<imgupload-was-resized-2 """
+  Votre image a été redimensionné pour s'accorder à une dimension de {{ $maxWidth }} &times; {{ $maxHeight }}, comme ça, on peut stocker votre image gratuitement pour toujours!
+  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
+""">
+<imgupload-slow-down "Whoa, moins vite! Essayez de téléverser un fichier à la fois.">
+
+/* shortcut help content (in the messages panel on the right-hand side of a
+ * diagram)
+ */
 <controls[@os] 
  removeKey[@os]: {
   *win: "ctrl",
@@ -146,9 +472,9 @@ Pour commencer <a>cacher</a><a>montrer</a>
    linux: "ctrl"
  }
 >
-
 <sidebar-contextmenu "Context Menu">
 <sidebar-clickformenu "Right click an item or the background to access a menu.">
+<sidebar-tapformenu "Tap an item or the background to access a menu.">
 <sidebar-controls "Contrôles">
 <sidebar-addbranch """
   <div>Ajouter une branche:</div>
@@ -219,60 +545,24 @@ Pour commencer <a>cacher</a><a>montrer</a>
 <markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
 <markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
-<sidebar-contact """
-  <h3>Nous contacter!</h3>
-  <p>Besoin d'aide? Vous avez trouvé un bug? Vous voulez entrer en contact? Alors envoyez-nous un mail à <a>hello@coggle.it</a></p>
-  <p>Restez à jour avec les annonces et tutoriels Coggle avec <a>Bloggle</a>, le blog de Coggle.</p>
-  <p>En savoir plus <a>à propos de Coggle</a>. Notre <a>politique de confidentialité</a>.</p>
-  <p>Pour la <a>presse</a>. Pour les <a>développeurs</a>.</p>
-""">
-
-/* Self-dialog & Supporter Signup */
-<me-manage-account "Gérer son compte">
-<me-unsupport-progress "Désolé que vous partez. On vous désabonne maintenant!">
-<me-as-orgmember "Vous êtes sur Coggle en tant que <b>membre d'organisation</b>.">
-<me-as-orgmember-youget "Ça veut dire que vous avez des fonctionnalités géniales comme:">
-<me-unsupport """
-  <a>Arrêter</a> de supporter Coggle <span> &mdash; êtes-vous sûr? <a>Je suis sûr</a></span>
-""">
-<me-signedup "Génial! Vous êtes maintenant un supporteur de Coggle.">
-<me-support-cancelled """
-  <span>Bonjour &mdash; c'est vous!</span>
-  Votre souscription en tant que supporteur a bien été annulée. <a>Souscrire encore</a>.
-""">
-<me-support-signupnow "Souscrire maintenant!">
-<me-support-weusestripe """
-  Nous utilisons <a>stripe</a> afin de traiter vos paiements de manière sécurisé: ainsi, vos informations de carte bancaires ne passent jamais par nos serveurs.
-""">
-
-
-/* My Settings Page (/me) */
-<me-hi "Bonjour {{ $user.givenName }},">
-<me-communication-title "Communication">
-<me-emails-title "Email Addresses">
-<me-emailslist "Ceci sont les mails que nous avons de vous:">
-<me-emailstip "Nous vous enverrons des mails qu'à votre adresse principale, toutefois, vous pouvez recevoir des invitations de chacun des mails.">
-<me-commspref "Voici ce que vous nous avez demandé concernant vos préférences de communications:">
-<me-comms-explain """
-  Parfois nous avons besoin d'envoyer des notices de services, ou des informations concernant des nouvelles fonctionnalités que nous vous envoyons à votre adresse <strong> principale </strong>. Nous vous enverrons jamais de spam ou de publicité de nous ou d'une tierce personne (nous détestons recevoir ce genre de truc aussi).
-""">
-<me-talktome "Me parler: ">
-<me-diagram-notifications "Notifications sur les diagrammes: ">
-
-<slider-yes "OUI">
-<slider-no "NON">
-
+/* diagram not-found page */
+<nodiagram-title "Diagram not found!">
+<nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">
+<nodiagram-logged-in "You are currently logged in as <b>{{ $user.givenName }}</b>, with the email address <b>{{ $user.email }}</b>. If this diagram exists, this account does not have permission to access it.">
+<nodiagram-not-logged-in "<b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.">
+<nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
 
 /* Organizations Landing Page (/organisations) */
-<orgs-pitch-2-usd """
+<orgs-pitch-3 """
   <h2>Coggle pour les organisations</h2>
-  <p>Quand l'information est critique pour votre équipe, vous avez besoin d'outils plus puissants et plus de contrôle sur vos données. C'est pourquoi nous avons créé <a>Coggle pour les organisations</a>.</p>
   <p>Chaque organisation Coggle est muni de fonctionnalités designés pour gérer de grands groupes de personnes, où les membres circulent, et les informations sensibles ont besoin d'être protégées.</p>
-  <p>Le prix est simple, <b>$8 par utilisateur par mois</b> (environ 7€).<br><b>Tout est illimité</b>.</p>
 """>
 
-<orgs-signup-usd """
-  <a>CRÉER ORGANISATION<div>A partir de $8 par utilisateur par mois (environ 7€)</div></a>
+<orgs-signup "<a>CRÉER ORGANISATION</a>">
+
+<orgs-subpitch """
+  <p>Quand l'information est critique pour votre équipe, vous avez besoin d'outils plus puissants et plus de contrôle sur vos données. C'est pourquoi nous avons créé <a>Coggle pour les organisations</a>.</p>
+  <p>Le prix est simple, <b>$8 par utilisateur par mois</b> (environ 7€).<br><b>Tout est illimité</b>.</p>
 """>
 
 <orgs-feature-in-one-place """
@@ -317,67 +607,110 @@ Pour commencer <a>cacher</a><a>montrer</a>
 
 
 /* Organizations Sign-Up Page (/organizations/new) */
-<orgcreate-title "Créer une organisation">
-<orgcreate-controlsharing """
-  <img>
-  <h3>Contrôlez le partage</h3>
-  <div>Soyez sûr que les Coggles créés par votre organisation restent dans votre organisation.</div>
-""">
-<orgcreate-branding """
-  <img>
-  <h3>Marquez vos exports</h3>
-  <div>Faites apparaître votre logo comme filigrane quand les diagrammes sont exportés.</div>
-""">
-<orgcreate-dashboard """
-  <img>
-  <h3>Tableau de bord super-utilisateur</h3>
-  <div>Les comptes administrateurs ont un contrôle total de tous les diagrammes dans leur organisation.</div>
-""">
-<orgcreate-gotqs "Questions? Posez-les nous! <a>orgs@coggle.it</a>">
-<orgcreate-choosename "Nom de l'organisation">
+<orgcreate-title2 "Créer une <a>organisation</a>">
 <orgcreate-nameinput """
   <input placeholder="Choississez le nom de votre organisation">
   <span>Prenez quelque chose de simple et reconnaissable!</span>
 """>
-<orgcreate-billing "Facturation">
-<orgcreate-standard """
-  <label>
-    <input>
-    <b>Standard</b> — <b>$8 par utilisateur par mois</b> (environ 50€)
-    <div>unlimited everything, add your own branding, advanced user management</div>
-  </label>
-""">
-<orgcreate-enterprise """
-  <label>
-    <input>
-    <b>Enterprise</b> — <b>$55 par utilisateur par mois</b> (environ 7€)
-    <div>everything above plus we'll remove the Coggle branding from your diagrams.</div>
-  </label>
-""">
-<orgcreate-paymentinfo "<p><a>En savoir plus</a> sur comment nous traitons les paiements.</p>">
-<orgcreate-weusestripe "Nous utilisons <a>Stripe</a> pour traiter les paiements de manière sécurisée.">
-<orgcreate-stripeinfo """
-    Stripe est certifié PCI niveau 1, et stocke vos informations de paiement en utilisant un chiffrement AES-256. Vous pouvez en savoir plus sur leur pratiques de sécurité sur <a>la page sécurité</a> de Stripe.
-""">
-<orgcreate-create "<p>CRÉER</p>">
 
+<faq-orgs-whatare """
+  <div>What are Coggle Organisations?</div>
+  <div><p>Coggle Organisations create a separation between your personal
+  diagrams and those owned by your company. By separating what's personal from
+  what's professional you gain greater control over your businesses data that's
+  stored in Coggle, including when and how it's shared by your
+  employees.</p></div>
+""">
+
+<faq-orgs-whofor """
+  <div>Who are Coggle Organisations for?</div>
+  <div>
+    <p>Coggle Organisations have been designed for teams that require
+      greater control over the data they enter into Coggle, or need to keep
+      personal data separate. They're being successfully used by private
+      companies, public bodies, schools and universities to help groups
+      collaborate securely.</p> 
+    <p>Any group that need more control over sharing of diagrams, whether for
+      regulatory or internal policy compliance will find Coggle Organisations
+      useful.</p>
+  </div>
+""">
+
+<faq-orgs-features """
+  <div>What are the main features of a Coggle Organisation?</div>
+  <div>
+    <p><b>Administrators dashboard</b>: complete control over diagrams created
+      by members of your organisation, including restoration of deleted diagrams.
+    </p>
+    <p><b>Data control</b>: choose to limit sharing of data to within your
+      organisation only.</p>
+    <p><b>Bulk export</b>: export all diagrams in your organisation for backup
+      or regulatory purposes.</p>
+    <p><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
+      one place, and revoke subscriptions when members come and go from your
+      organsiation. </p>
+  </div>
+""">
+
+<faq-orgs-awesome """
+  <div>How do Coggle Organisations relate to Coggle Awesome?</div>
+  <div>
+    <p>Coggle Organisations are a great way to centralise billing and license
+      management for multiple Coggle Awesome subscriptions.</p>
+    <p>Every user in your Organisation will automatically get Coggle Awesome
+      when they're working on diagrams in your organisation workspace. This means
+      all the great features including private diagrams, presentation mode,
+      extended colour palette and high resolution image uploads.</p>
+  </div>
+""">
+
+<faq-orgs-billing """
+  <div>How does billing work for Coggle Organisations?</div>
+  <div>Coggle Organisations are charged at $8 per member per month. You can add
+  and remove members at any time from the dashboard for your
+  organisation.</div>
+""">
+
+<faq-orgs-edu """
+  <div>Are there any education pricing options?</div>
+  <div>Yes! Contact us at education@coggle.it to find out more.</div>
+""">
+
+<faq-orgs-more """
+  <div>I've still got some questions...</div>
+  <div>Ask us! Send us an email to orgs@coggle.it and we'll be happy to help :)</div>
+""">
 
 /* About Coggle (/about) */
 <about-hello """
   <h1>Bonjour!</h1>
-  <p>Coggle est un moyen afin de redéfinir le fonctionnement des documents: La façon dont nous partageons et nos stockons nos connaissances. C'est un espace pour exprimer des pensées comme les gens le feraient - non pas par les moyens inflexibles des ordinateurs.</p>
-  <p>C'est gratuit, et nous promettons que nous le serons toujours, mais nous prenons quand même nos responsabilités au sérieux. Nous promettons de s'occuper de vos données du mieux que nous savons le faire, de garder des sauvegardes, et de prendre la sécurité au sérieux.</p>
-  <p>Notre mission est de changer la manière dont les personnes travaillent et collaborent pour toujours, de vous rendre plus productif, et de faire en sorte qu'il soit plus simple de partager des informations avec les autres, et de le faire d'une manière qui est belle et qui en fait un plaisir à utiliser.</p>
+  <p><b>Coggle gives you a clear way to share and understand complex information.
+  It's a collaborative document that simplifies complex things and 
+  a shared workspace to help your team work more effectively together.</b></p>
+  <p>C'est gratuit, et nous promettons que nous le serons toujours, mais nous
+  prenons quand même nos responsabilités au sérieux. Nous promettons de
+  s'occuper de vos données du mieux que nous savons le faire, de garder des
+  sauvegardes, et de prendre la sécurité au sérieux.</p>
+  <p>Notre mission est de changer la manière dont les personnes travaillent et
+  collaborent pour toujours, de vous rendre plus productif, et de faire en
+  sorte qu'il soit plus simple de partager des informations avec les autres, et
+  de le faire d'une manière qui est belle et qui en fait un plaisir à
+  utiliser.</p>
 """>
 
 <about-getintouch """
   <h1>Rentrer en contact</h1>
-  <p>Vous avez une question? Vous voulez nous dire comment vous utiliser Coggle? Ou peut-être juste nous donner votre avis? Vous pouvez nous retrouver sur <a>facebook </a>et sur <a>Twitter </a>et si vous le préferez vous pouvez nous envoyer un mail à <a>hello@coggle.it </a>— nous adorons discuter!</p>
+  <p>Vous avez une question? Vous voulez nous dire comment vous utiliser
+  Coggle? Ou peut-être juste nous donner votre avis? Vous pouvez nous retrouver
+  sur <a>facebook </a>et sur <a>Twitter </a>et si vous le préferez vous pouvez
+  nous envoyer un mail à <a>hello@coggle.it </a>— nous adorons discuter!</p>
 """>
 
 <about-spreadtheword """
   <h1>Passez le mot</h1>
-  <p>Si vous aimez Coggle, alors aidez-nous à libérer les gens des limites des listes, tableurs et autres documents conventionnels! Vous pouvez partager Coggle <a>sur Twitter </a>ou <a>sur Facebook</a>, ou vous pouvez carrément obtenir un <a>t-shirt Coggle</a>.</p>
+  <p>Si vous aimez Coggle, alors aidez-nous à libérer les gens des limites des
+  listes, tableurs et autres documents conventionnels! Vous pouvez partager
+  Coggle <a>sur Twitter </a>ou <a>sur Facebook</a>.</p>
 """>
 
 <about-press """
@@ -392,50 +725,6 @@ Pour commencer <a>cacher</a><a>montrer</a>
  </div>
 """>
 
-
-/* diagram tooltips */
-<context-dragclick "faire glisser pour déplacer, puis appuyer pour modifier">
-<context-dragclickfollow "faire glisser pour déplacer, appuyez pour modifier, {{ $followLinkKey }} + appuyez pour suivre les liens">
-
-<context-remove-branch-alt "supprimer cette branche: relâchez [alt] pour ajouter une branche">
-<context-insert-branch "insérer du texte: relâchez [shift] pour ajouter une branche">
-<context-squash-branch "écraser la branche: relâchez {{ $squashKeys }} pour ajouter une branche">
-<context-remove-branch-ctrl "supprimer cette branche: utilisez [ctrl]+[shift] pour supprimer uniquement cet élément">
-<context-add-branch "appuyer pour ajouter une nouvelle branche: tenez la touche {{ $removeKey }} appuyée pour supprimer">
-
-
-/* sharing dialog content */
-<share-newlink "Nouveau lien:">
-<share-newlink-tip """
-  Ceci vous permet de partager votre diagramme avec tous les gens qui ne sont pas connectés, mais soyez prudent, <strong>quiconque</strong> qui possède le lien peut voir votre travail!
-""">
-<share-tag-user "utilisateur">
-<share-tag-embed "intégrer">
-<share-tag-writable "modifiable">
-<share-embed "Intégrer ce Coggle dans un site web">
-<share-send-email "ENVOYER">
-<share-email-hints """
-  <div>pour inviter quelqu'un</div>
-  <div>écrivez un mail</div>
-  <div>et ensuite tapez entrer</div>
-  <div>ami@exemple.fr</div>
-""">
-
-/* download dialog content */
-<download-pdf "Téléchargez le PDF">
-<download-png "Téléchargez une image (PNG)">
-<download-mm "Un fichier .mm">
-<download-txt "Aperçu du texte brute">
-<download-advanced "Types avancées">
-<download-failed "La génération du fichier a échoué.">
-
-
-/* Image drag-drop messages */
-<imgupload-was-resized-2 """
-  Votre image a été redimensionné pour s'accorder à une dimension de {{ $maxWidth }} &times; {{ $maxHeight }}, comme ça, on peut stocker votre image gratuitement pour toujours!
-  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
-""">
-<imgupload-slow-down "Whoa, moins vite! Essayez de téléverser un fichier à la fois.">
 
 
 /* Coggle Facts */

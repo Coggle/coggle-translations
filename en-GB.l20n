@@ -376,7 +376,93 @@
 <diagram-toolbar-download title:"Download this Coggle.">
 <diagram-toolbar-copy title:"Create a copy of this Coggle.">
 
-/* shortcut help content */
+
+
+/* diagram tooltips */
+<context-dragclick "drag to move, click to edit">
+<context-dragclickfollow "drag to move, click to edit, {{ $followLinkKey }} + click to follow links">
+
+<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
+<context-insert-branch "insert text: release [shift] to add branch instead">
+<context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
+<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
+<context-root-add-branch "click to add branch">
+<context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
+<context-hide-branch "click to collapse this branch">
+<context-show-branch "click to expand this branch">
+<context-xlink-edit "click to edit label: hold {{ $removeKey }} to remove instead">
+<context-remove-xlink-alt "remove cross-link: release [alt] to edit instead">
+
+
+/* sharing dialog content */
+<share-newlink "New Link:">
+<share-newlink-tip """
+  These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+""">
+<share-tag-user "user">
+<share-tag-embed "embed">
+<share-tag-writable "editable">
+<share-send-email "SEND">
+<share-email-hints """
+  <div>to invite, type an email</div>
+  <div>then hit enter</div>
+  <div>friend@example.com</div>
+""">
+<share-social """
+  <a title='Embed in a website'> <img/> </a>
+  <a title='Share on Facebook'> <img/> </a>
+  <a title='Share on Twitter'> <img/> </a>
+""">
+<share-open "Can everyone view this diagram?">
+<share-open-detail "Open diagrams can be viewed by anyone and may be found by search engines">
+
+/* download dialog content */
+<download-pdf "Download PDF">
+<download-png "Download Image">
+<download-mm ".mm File">
+<download-txt "Plain-Text Outline">
+<download-advanced "Advanced Types">
+<download-failed "File generation failed.">
+
+/* access control slider content */
+<access-readonly "Read only<br/><span>Only allow them to view</span>">
+<access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
+<access-author "Author<br/><span>Allow creating and editing documents</span>">
+
+<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
+<access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
+<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
+<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
+
+<access-remove "Remove {{ $user.givenName }}">
+
+/* Notification Messages */
+<readonly-warning """
+  You cannot edit this diagram. <div>If you need to edit it, ask the author to give you permission.</div>
+""">
+<websocket-offline """
+  Changes may be slow due to network issues. <a>Help me fix this!</a>
+""">
+<disconnect-warning """
+  <b>Connection lost</b>: Changes may not be saved</div>
+""">
+<unrecoverable-warning """
+  There was an unrecoverable error, please reload the page. If you have information about what might have gone wrong, please email <a>contact@coggle.it</a>
+""">
+<banner-undo-warning "Nothing more to undo!">
+<banner-redo-warning "Nothing more to redo!">
+
+/* Image drag-drop messages */
+<imgupload-was-resized-2 """
+  Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!
+  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
+""">
+<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
+
+
+/* shortcut help content (in the messages panel on the right-hand side of a
+ * diagram)
+ */
 <controls[@os] 
  removeKey[@os]: {
   *win: "ctrl",
@@ -457,6 +543,12 @@
 <markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
 <markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
+/* diagram not-found page */
+<nodiagram-title "Diagram not found!">
+<nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">
+<nodiagram-logged-in "You are currently logged in as <b>{{ $user.givenName }}</b>, with the email address <b>{{ $user.email }}</b>. If this diagram exists, this account does not have permission to access it.">
+<nodiagram-not-logged-in "<b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.">
+<nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
 
 /* Organisations Landing Page (/organisations) */
 <orgs-pitch-3 """
@@ -590,7 +682,7 @@
 <about-hello2 """
   <h1>Hello!</h1>
   <p><b>Coggle gives you a clear way to share and understand complex information.
-  It's a collaborative mapping tool that simplifies complex things &mdash; it's
+  It's a collaborative document that simplifies complex things and
   a shared workspace to help your team work more effectively together.</b></p>
   <p>It's free, and we promise it always will be, but we still promise to look
   after your data the best we know how, to keep backups, and to take security
@@ -626,96 +718,6 @@
    <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
  </div>
 """>
-
-
-/* diagram tooltips */
-<context-dragclick "drag to move, click to edit">
-<context-dragclickfollow "drag to move, click to edit, {{ $followLinkKey }} + click to follow links">
-
-<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
-<context-insert-branch "insert text: release [shift] to add branch instead">
-<context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
-<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
-<context-root-add-branch "click to add branch">
-<context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
-<context-hide-branch "click to collapse this branch">
-<context-show-branch "click to expand this branch">
-<context-xlink-edit "click to edit label: hold {{ $removeKey }} to remove instead">
-<context-remove-xlink-alt "remove cross-link: release [alt] to edit instead">
-
-
-/* diagram not-found page */
-<nodiagram-title "Diagram not found!">
-<nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">
-<nodiagram-logged-in "You are currently logged in as <b>{{ $user.givenName }}</b>, with the email address <b>{{ $user.email }}</b>. If this diagram exists, this account does not have permission to access it.">
-<nodiagram-not-logged-in "<b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.">
-<nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
-
-/* sharing dialog content */
-<share-newlink "New Link:">
-<share-newlink-tip """
-  These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
-""">
-<share-tag-user "user">
-<share-tag-embed "embed">
-<share-tag-writable "editable">
-<share-send-email "SEND">
-<share-email-hints """
-  <div>to invite, type an email</div>
-  <div>then hit enter</div>
-  <div>friend@example.com</div>
-""">
-<share-social """
-  <a title='Embed in a website'> <img/> </a>
-  <a title='Share on Facebook'> <img/> </a>
-  <a title='Share on Twitter'> <img/> </a>
-""">
-<share-open "Can everyone view this diagram?">
-<share-open-detail "Open diagrams can be viewed by anyone and may be found by search engines">
-<css--share-view-privatelinks-cogglelist-empty-before "No private links yet!">
-
-/* download dialog content */
-<download-pdf "Download PDF">
-<download-png "Download Image">
-<download-mm ".mm File">
-<download-txt "Plain-Text Outline">
-<download-advanced "Advanced Types">
-<download-failed "File generation failed.">
-
-/* access control slider content */
-<access-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-author "Author<br/><span>Allow creating and editing documents</span>">
-
-<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
-<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
-
-<access-remove "Remove {{ $user.givenName }}">
-
-/* Notification Messages */
-<readonly-warning """
-  You cannot edit this diagram. <div>If you need to edit it, ask the author to give you permission.</div>
-""">
-<websocket-offline """
-  Changes may be slow due to network issues. <a>Help me fix this!</a>
-""">
-<disconnect-warning """
-  <b>Connection lost</b>: Changes may not be saved</div>
-""">
-<unrecoverable-warning """
-  There was an unrecoverable error, please reload the page. If you have information about what might have gone wrong, please email <a>contact@coggle.it</a>
-""">
-<banner-undo-warning "Nothing more to undo!">
-<banner-redo-warning "Nothing more to redo!">
-
-/* Image drag-drop messages */
-<imgupload-was-resized-2 """
-  Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!
-  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
-""">
-<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
 
 
 /* Coggle Facts */
