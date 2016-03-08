@@ -366,6 +366,8 @@
 <messages-title "Messages">
 <messages-search placeholder:"Search">
 <messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
+<messages-start "You've reached the start!">
+<messages-upgrade "Need more than 2 weeks history? Find out about upgrading to <a>Awesome</a> to get the full history.">
 
 <diagram-toolbar-history title:"View and copy previous versions.">
 <diagram-toolbar-messages title:"Comments and chat.">
