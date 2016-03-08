@@ -534,7 +534,7 @@
     <div>Format text: </div>
     <div>use <a>Markdown</a></div>
 """>
-<cogglefacts "un autre!">
+<another-fact "un autre!">
 <cogglefacts-more """
   En savoir plus...
 """>
