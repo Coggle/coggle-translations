@@ -362,6 +362,9 @@
 <banner-open-getawesome """
     This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> Get <a>Awesome</a> to make it private.
 """>
+<banner-open-awesome """
+    This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> You can make it private from the <a id="open-sharing">sharing dialog</a>.
+""">
 
 <messages-title "Messages">
 <messages-search placeholder:"Search">
