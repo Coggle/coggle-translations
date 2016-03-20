@@ -107,56 +107,20 @@
 <feature-exports "Export as <b>.mm and text</b>">
 <feature-chat "Comments & Chat">
 <feature-embed "Embeddable diagrams">
-<feature-private "<b>Private diagrams</b>">
-<feature-rearrange "<b>Auto-arrange branches</b>">
-<feature-folders "<b>Shared folders</b>">
-<feature-presentation "Presentation mode">
-<feature-bigimages "<b>High-res image</b> uploads">
-<feature-extendedcolours "More colours">
-<feature-bulkexport "<b>Bulk export</b>">
-<feature-adminpanel "<b>User & data</b> management">
-<feature-branding "Branded diagrams">
 <plans-free-getstarted "Get Started">
 
 <plans-awesome-title "Awesome">
 <plans-awesome-price "$5 / month">
-<feature-realtime "<b>Real-time</b> collaboration">
-<feature-diagrams "<b>Unlimited</b> public diagrams">
-<feature-images "<b>Unlimited</b> image uploads">
-<feature-changes "<b>Full</b> change history">
-<feature-markdown "<b>Markdown</b> support">
-<feature-downloads "<b>PDF & Image</b> download">
-<feature-exports "Export as <b>.mm and text</b>">
-<feature-chat "Comments & Chat">
-<feature-embed "Embeddable diagrams">
 <feature-private "<b>Private diagrams</b>">
 <feature-rearrange "<b>Auto-arrange branches</b>">
 <feature-folders "<b>Shared folders</b>">
 <feature-presentation "Presentation mode">
 <feature-bigimages "<b>High-res image</b> uploads">
 <feature-extendedcolours "More colours">
-<feature-bulkexport "<b>Bulk export</b>">
-<feature-adminpanel "<b>User & data</b> management">
-<feature-branding "Branded diagrams">
 <plans-findoutmore "Find out more">
 
 <plans-org-title "Organisation">
 <plans-org-price "$8 / member / month">
-<feature-realtime "<b>Real-time</b> collaboration">
-<feature-diagrams "<b>Unlimited</b> public diagrams">
-<feature-images "<b>Unlimited</b> image uploads">
-<feature-changes "<b>Full</b> change history">
-<feature-markdown "<b>Markdown</b> support">
-<feature-downloads "<b>PDF & Image</b> download">
-<feature-exports "Export as <b>.mm and text</b>">
-<feature-chat "Comments & Chat">
-<feature-embed "Embeddable diagrams">
-<feature-private "<b>Private diagrams</b>">
-<feature-rearrange "<b>Auto-arrange branches</b>">
-<feature-folders "<b>Shared folders</b>">
-<feature-presentation "Presentation mode">
-<feature-bigimages "<b>High-res image</b> uploads">
-<feature-extendedcolours "More colours">
 <feature-bulkexport "<b>Bulk export</b>">
 <feature-adminpanel "<b>User & data</b> management">
 <feature-branding "Branded diagrams">
@@ -313,7 +277,7 @@
   <div>
     <label>Billing address</label>
     <input placeholder="Address Line 1">
-    <inputplaceholder="Address Line 2">
+    <input placeholder="Address Line 2">
   </div>
   <div>
     <input placeholder="City">

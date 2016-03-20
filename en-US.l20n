@@ -90,17 +90,6 @@
   Coggle has loads of other great features, so <a>try it now</a>, it's free! Visit the <a>blog</a> to read more.
 """>
 
-<footer-2 """
-  <p>
-    <a>about</a>
-    <a>facebook</a>
-    <a>twitter</a>
-    <a>privacy</a>
-    <a>terms</a>
-    <a>press</a>
-  </p>
-""">
-
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
@@ -118,60 +107,25 @@
 <feature-exports "Export as <b>.mm and text</b>">
 <feature-chat "Comments & Chat">
 <feature-embed "Embeddable diagrams">
-<feature-private "<b>Private diagrams</b>">
-<feature-rearrange "<b>Auto-arrange branches</b>">
-<feature-folders "<b>Shared folders</b>">
-<feature-presentation "Presentation mode">
-<feature-bigimages "<b>High-res image</b> uploads">
-<feature-extendedcolours "More colors">
-<feature-bulkexport "<b>Bulk export</b>">
-<feature-adminpanel "<b>User & data</b> management">
-<feature-branding "Branded diagrams">
 <plans-free-getstarted "Get Started">
 
 <plans-awesome-title "Awesome">
 <plans-awesome-price "$5 / month">
-<feature-realtime "<b>Real-time</b> collaboration">
-<feature-diagrams "<b>Unlimited</b> public diagrams">
-<feature-images "<b>Unlimited</b> image uploads">
-<feature-changes "<b>Full</b> change history">
-<feature-markdown "<b>Markdown</b> support">
-<feature-downloads "<b>PDF & Image</b> download">
-<feature-exports "Export as <b>.mm and text</b>">
-<feature-chat "Comments & Chat">
-<feature-embed "Embeddable diagrams">
 <feature-private "<b>Private diagrams</b>">
 <feature-rearrange "<b>Auto-arrange branches</b>">
 <feature-folders "<b>Shared folders</b>">
 <feature-presentation "Presentation mode">
 <feature-bigimages "<b>High-res image</b> uploads">
 <feature-extendedcolours "More colors">
-<feature-bulkexport "<b>Bulk export</b>">
-<feature-adminpanel "<b>User & data</b> management">
-<feature-branding "Branded diagrams">
 <plans-findoutmore "Find out more">
 
 <plans-org-title "Organization">
 <plans-org-price "$8 / member / month">
-<feature-realtime "<b>Real-time</b> collaboration">
-<feature-diagrams "<b>Unlimited</b> public diagrams">
-<feature-images "<b>Unlimited</b> image uploads">
-<feature-changes "<b>Full</b> change history">
-<feature-markdown "<b>Markdown</b> support">
-<feature-downloads "<b>PDF & Image</b> download">
-<feature-exports "Export as <b>.mm and text</b>">
-<feature-chat "Comments & Chat">
-<feature-embed "Embeddable diagrams">
-<feature-private "<b>Private diagrams</b>">
-<feature-rearrange "<b>Auto-arrange branches</b>">
-<feature-folders "<b>Shared folders</b>">
-<feature-presentation "Presentation mode">
-<feature-bigimages "<b>High-res image</b> uploads">
-<feature-extendedcolours "More colours">
 <feature-bulkexport "<b>Bulk export</b>">
 <feature-adminpanel "<b>User & data</b> management">
 <feature-branding "Branded diagrams">
 
+<plans-select "Select">
 <continue-free "Continue on <b>Free</b> plan">
 <current-plan "Your current plan">
 <cancel-subscription "Cancel Subscription">
@@ -324,7 +278,7 @@
   <div>
     <label>Billing address</label>
     <input placeholder="Address Line 1">
-    <inputplaceholder="Address Line 2">
+    <input placeholder="Address Line 2">
   </div>
   <div>
     <input placeholder="City">
