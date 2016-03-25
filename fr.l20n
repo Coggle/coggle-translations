@@ -615,7 +615,7 @@
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
-<orgcreate-title2 "Create a <a>Coggle Organisation</a>">
+<orgcreate-title2 "Créer une <a>Coggle Organisation</a>">
 <orgcreate-nameinput """
   <input placeholder="Choisissez le nom de votre organisation">
   <span>Choisissez quelque chose de court et reconnaissable!</span>
