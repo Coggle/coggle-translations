@@ -174,6 +174,7 @@
 <logout "Logout">
 <settings "Settings">
 <return-to-diagrams "Return to your diagrams">
+<unnamed-diagram "Unnamed Diagram">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <link-drive """
@@ -315,7 +316,28 @@
 <guide-click-here "click here">
 <guide-or-here "or here">
 <click-to-edit "click to edit">
+<click-to-edit-title "Click to edit title">
+<tap-to-edit "tap to edit">
+<tap-to-edit-title "Tap to edit title">
 <unnamed-diagram "Unnamed Diagram">
+
+<add-branch "add branch">
+<add-to-discussion "add to discussion">
+<comment-on-this "comment on this">
+<auto-arrange "auto-arrange">
+<pick-colour "pick colour">
+<delete-branch "delete branch"> /* (remove and item *and* all of its children) */
+<remove-item "remove item">
+<copy-branch "copy branch">
+<show-children "show children">
+<hide-children "hide children">
+<drag-to-create-link "drag to create link">
+<drag-to-transplant-branch "drag to transplant branch">
+
+<undo "undo">
+<redo "redo">
+<paste-branch "paste branch">
+<zoom-page "zoom page">
 
 <help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
 <help-add-node "Use the (+) buttons to add branches.">
@@ -330,6 +352,8 @@
 <help-toolbar-invitemulti """
   To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
 """>
+<help-toolbar-inviteflow "Coggle works best with others - enter the email address of a friend or co-worker.">
+<help-toolbar-inviteflow-title "Enter a Co-worker's Email">
 <help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
 
 <banner-open-getawesome """
