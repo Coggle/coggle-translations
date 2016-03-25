@@ -522,6 +522,40 @@
 <nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
 
 
+/* Awesome Landing Page (/awesome) */
+<awesome-pitch """
+  <h2>Coggle Awesome</h2>
+  <p>Supercharge your thinking with Coggle Awesome. Add huge images, present your Coggles, and create private Coggles that won't be indexed by search engines.</p>
+""">
+
+<awesome-signup """
+  <a>SIGN UP NOW</a>
+  <div>$5 / MONTH</div>
+""">
+
+<awesome-feature-private """
+  <img>
+  <h2>Unlimited Private Coggles</h2>
+  <p>Create as many private Coggles as you like. If you do ever cancel your subscription they stay private, and you keep access.</p>
+""">
+
+<awesome-feature-present """
+  <img>
+  <h2>Distraction-Free Presentation</h2>
+  <p>Use Presentation Mode to present any Coggle in beautiful distraction-free full-screen mode. Collapse and expand branches as you tell your story.</p>
+""">
+
+<awesome-feature-bigimages """
+  <img>
+  <h2>Show Them the Big Picture</h2>
+  <p>Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.</p>
+""">
+
+<awesome-hint-orgs """
+  If you're using Coggle for work, check out <a>Coggle Organizations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
+""">
+
+
 /* Organizations Landing Page (/organizations) */
 <orgs-pitch-3 """
   <h2>Coggle Organizations</h2>
