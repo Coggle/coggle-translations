@@ -280,8 +280,9 @@
 }>
 
 <billingPeriod {
-   *permonth: "par mois",
-     peryear: "par an"
+           *permonth: "par mois",
+   permemberpermonth: "par membre et par mois",
+             peryear: "par an"
 }>
 
 <settings-billing-on-file """
