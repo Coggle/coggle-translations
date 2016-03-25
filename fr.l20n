@@ -276,7 +276,12 @@
   purchase: "acheter",
    *submit: "soumettre",
     update: "mettre à jour",
-    create: "créer",
+    create: "créer"
+}>
+
+<billingPeriod {
+   *permonth: "par mois",
+     peryear: "par an"
 }>
 
 <settings-billing-on-file """
@@ -289,7 +294,7 @@
 <billing-charge-description """
     Nous vous chargerons
     <span>{{ $product.price }}</span>
-    <span>{{ $product.period }}</span>
+    <span>{{ billingPeriod[$product.periodKey] }}</span>
 """>
 <billing-remove-card "Supprimer mes informations de carte">
 
