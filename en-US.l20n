@@ -305,6 +305,32 @@
 <slider-yes "YES">
 <slider-no "NO">
 
+<we-heart-you "We ♥ you.">
+<help-discover-coggle "Help the world discover Coggle and get free stuff!">
+<introduce-n-more-friends[$introduceCount] {
+        1: "Introduce <span>{{ $introduceCount }}</span> more friend to Coggle",
+    *many: "Introduce <span>{{ $introduceCount }}</span> more friends to Coggle",
+}>
+<introduced-n-friends[$introducedCount] {
+        1: "You've introduced <span>{{ $introducedCount }}</span> person to Coggle",
+    *many: "You've introduced <span>{{ $introducedCount }}</span> people to Coggle",
+}>
+
+<share-your-link """
+  <p>Share your special link however you like</p>
+  <p>
+    <a>Facebook</a>, 
+    <a> Twitter</a>, 
+    or <a>email</a> will all work well!
+  </p>
+  <input/>
+""">
+
+<claim-free-month """
+  <p>Claim your free month of Coggle Awesome!</p>
+  <div>Redeem Now</div>
+""">
+
 /* Gallery Content (/gallery) */
 <gallery-title "The Coggle Gallery">
 <gallery-blurb "A hand-picked collection of the best diagrams made with Coggle!">
