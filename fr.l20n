@@ -333,6 +333,7 @@
 
 <me-communication-title "Communication">
 <me-emails-title "Adresses e-mail">
+<me-emails-primary "(principale)">
 <me-emailslist "Ce sont les adresses e-mails que nous avons enregistrées pour vous:">
 <me-emailstip "Nous n'utiliserons que votre adresse principale, mais vous pouvez recevoir des invitations sur n'importe laquelle des autres.">
 <me-commspref "Voici ce que vous nous avez indiqué à propos de vos préférences de communication:">
@@ -377,7 +378,7 @@
 
 <messages-title "Messages">
 <messages-search placeholder:"Recherche">
-<messages-entry placeholder:"Entrez un message. Utilisez @ pour mentionner des personnes. Appuyez sur [entrée] pour envoyer.">
+<messages-entry placeholder:"Entrez un message. Utilisez @ pour mentionner des personnes. Appuyez sur [entrée] pour envoyer." rows:"3">
 <messages-start "Vous avez atteint le début!">
 <messages-upgrade "Besoin de plus de deux semaines d'historique ? Pensez à mettre à niveau vers la formule <a>Awesome</a> pour obtenir l'historique complet.">
 

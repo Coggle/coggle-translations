@@ -292,6 +292,7 @@
 
 <me-communication-title "Communication">
 <me-emails-title "Email Addresses">
+<me-emails-primary "(primary)">
 <me-emailslist "These are the emails we have on record for you:">
 <me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
 <me-commspref "Here's what you've told us about your communication preferences:">
