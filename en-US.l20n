@@ -291,6 +291,19 @@
 <billing-choose-country "Choose country">
 <billing-weusestripe "We use <a>Stripe</a> to process payments securely: Your card details never go through our servers.">
 
+<cancel-really """
+  <span>Really cancel your plan?</span>
+  <div>No way!</div>
+  <div>Yes, Cancel Subscription</div>
+""">
+
+<cancel-discount-available """
+  <span>Stay Awesome and get <b>30% off</b> your subscription for the next <b>3 months</b>!</span>
+  <div>Stay Awesome!</div>
+  <div'>Cancel Subscription</div>
+  <a class='back'>Back</a>
+""">
+
 <me-communication-title "Communication">
 <me-emails-title "Email Addresses">
 <me-emails-primary "(primary)">
