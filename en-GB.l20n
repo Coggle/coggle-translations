@@ -303,10 +303,18 @@
 <slider-yes "YES">
 <slider-no "NO">
 
+/* Gallery Content (/gallery) */
+<gallery-title "The Coggle Gallery">
+<gallery-blurb "A hand-picked collection of the best diagrams made with Coggle!">
+<gallery-folder-blurb """
+  <b>The Coggle Gallery</b> - A hand-picked collection of the best diagrams made with Coggle! <br/>
+  Follow us on <a>Twitter</a> or <a>Facebook</a> for regular updates.
+""">
 
 /* Diagram content */
 <guide-click-here "click here">
 <guide-or-here "or here">
+<click-to-edit "click to edit">
 
 <help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
 <help-add-node "Use the (+) buttons to add branches.">

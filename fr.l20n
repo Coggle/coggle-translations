@@ -344,10 +344,13 @@
 <slider-yes "OUI">
 <slider-no "NON">
 
+/* Gallery Content (/gallery) */
+<gallery-title "la Galerie Coggle">
 
 /* Diagram content */
 <guide-click-here "cliquez ici">
 <guide-or-here "ou ici">
+<click-to-edit "cliquer pour éditer">
 
 <help-gohome "Cliquez sur le logo Coggle pour retourner à la page d'accueil, où vos documents sont automatiquement sauvegardés.">
 <help-add-node "Utilisez les boutons (+) pour ajouter des branches.">
