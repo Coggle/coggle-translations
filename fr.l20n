@@ -118,7 +118,7 @@
 <feature-branding "Diagrammes de marque">
 <plans-free-getstarted "Commencez maintenant">
 
-<plans-awesome-title "Incroyable">
+<plans-awesome-title "Awesome">
 <plans-awesome-price "5$ / mois">
 <feature-realtime "Collaboration en <b>temps réel</b>">
 <feature-diagrams "Diagrammes publics <b>illimités</b>">
@@ -365,7 +365,7 @@
 <help-inactive-invite "Travaillez avec vos amis pour mener vos idées à bien !<br>Invitez-les par e-mail ici.">
 
 <banner-open-getawesome """
-    Ceci est un Coggle public — il pourrait apparaître dans la <a>Galerie Coggle.</a> Passez à la formule <a>Incroyable</a> pour le rendre privé.
+    Ceci est un Coggle public — il pourrait apparaître dans la <a>Galerie Coggle.</a> Passez à la formule <a>Awesome</a> pour le rendre privé.
 """>
 <banner-open-awesome """
     Ceci est un Coggle public — il pourrait apparaître dans la <a>Galerie Coggle.</a> Vous pouvez le rendre privé depuis la <a id="open-sharing">fenêtre de partage</a>.
@@ -375,7 +375,7 @@
 <messages-search placeholder:"Recherche">
 <messages-entry placeholder:"Entrez un message. Utilisez @ pour mentionner des personnes. Appuyez sur [entrée] pour envoyer.">
 <messages-start "Vous avez atteint le début!">
-<messages-upgrade "Besoin de plus de deux semaines d'historique ? Pensez à mettre à niveau vers la formule <a>Incroyable</a> pour obtenir l'historique complet.">
+<messages-upgrade "Besoin de plus de deux semaines d'historique ? Pensez à mettre à niveau vers la formule <a>Awesome</a> pour obtenir l'historique complet.">
 
 <diagram-toolbar-history title:"Voir et copier les versions précédentes.">
 <diagram-toolbar-messages title:"Commentaires et chat.">
@@ -463,7 +463,7 @@
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
   Votre image a été redimensionnée pour rentrer dans la limite de {{ $maxWidth }} &times; {{ $maxHeight }}, ainsi nous pourrons la stocker gratuitement, éternellement !
-  Vous pouvez souscrire à la formule <a>Coggle Incroyable</a> afin de charger des images bien plus grandes. <a>En apprendre plus</a>.
+  Vous pouvez souscrire à la formule <a>Coggle Awesome</a> afin de charger des images bien plus grandes. <a>En apprendre plus</a>.
 """>
 <imgupload-slow-down "Woah, ralentissez ! Essayez de charger vos fichiers un par un.">
 
@@ -608,7 +608,7 @@
 """>
 
 <orgs-feature-awesome """
-  De plus, tous les membres de votre organisation profiteront des fonctionnalités de la formule <a>Incroyable</a>.
+  De plus, tous les membres de votre organisation profiteront des fonctionnalités de la formule <a>Awesome</a>.
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
@@ -649,18 +649,18 @@
       membres de votre organisation uniquement.</p>
     <p><b>Exportation en masse</b>: exportez tous les diagrammes de votre organisation pour des besoins de sauvegarde
       ou des besoins régulatoires.</p>
-    <p><b>Paiement centralisé</b>: payez pour plusieurs abonnements Incroyables
+    <p><b>Paiement centralisé</b>: payez pour plusieurs abonnements Awesomes
       à un seul endroit, et révoquez les abonnements quand les membres quittent votre
       organisation. </p>
   </div>
 """>
 
 <faq-orgs-awesome """
-  <div>Comment Coggle Organisations est-il lié à Coggle Incroyable?</div>
+  <div>Comment Coggle Organisations est-il lié à Coggle Awesome?</div>
   <div>
     <p>Les Organisations Coggle sont un moyen parfait de centraliser le paiement et la gestion
-      des licences pour plusieurs abonnements Coggle Incroyable.</p>
-    <p>Chaque utilisateur dans votre organisation obtiendra automatiquement un accès Coggle Incroyable
+      des licences pour plusieurs abonnements Coggle Awesome.</p>
+    <p>Chaque utilisateur dans votre organisation obtiendra automatiquement un accès Coggle Awesome
       lorsqu'ils travailleront sur les diagrammes de l'espace de travail de votre organisation. Cela inclut
       toutes les fonctionnalités telles que les diagrammes privés, le mode présentation,
       un large choix de couleurs et le chargement d'images haute résolution.</p>
