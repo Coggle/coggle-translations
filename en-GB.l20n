@@ -15,6 +15,12 @@
 <index-blurb "Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!">
 <index-viewgallery "Or, take a look at the <a>Coggle Gallery</a>">
 
+<index-colab-mindmaps """
+ <h1>Collaborative Mind Maps</h1>
+ <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or update. Simply <a>log in</a> to start mind-mapping now!</p>
+ <p>Whether you're note-taking, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+""">
+
 <index-use-notes """
   <div><img></div>
   <h2>Take Notes</h2>
@@ -105,6 +111,7 @@
 <feature-markdown "<b>Markdown</b> support">
 <feature-downloads "<b>PDF & Image</b> download">
 <feature-exports "Export as <b>.mm and text</b>">
+<feature-imports "import <b>.mm and text</b>">
 <feature-chat "Comments & Chat">
 <feature-embed "Embeddable diagrams">
 <plans-free-getstarted "Get Started">
@@ -400,8 +407,37 @@
     This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> Get <a>Awesome</a> to make it private.
 """>
 <banner-open-awesome """
-    This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> You can make it private from the <a id="open-sharing">sharing dialog</a>.
+    This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> You can make it private from the <a>sharing dialog</a>.
 """>
+
+<me-as-awesome-orgmember """
+  <p>This is you &mdash; you\'re viewing Coggle as an <b>organisation member</b>.</p>
+  <p>This means you get all the great features from the <a>Coggle Awesome</a> plan too!</p>
+""">
+
+<awesome-promo-benefits """
+  <p><b>Private Diagrams ✓</b></p>
+  <p><b>Auto-arrange Branches ✓</b></p>
+  <p><b>Shared Folders ✓</b></p>
+  <p><b>Full Chat History ✓</b></p>
+  <p><b>Presentation Mode ✓</b></p>
+  <p><b>More colours ✓</b></p>
+  <a>Go Awesome!</a>
+  <p><a>Want Awesome for free?</a></p>
+""">
+
+<me-support-awesomethanks """
+  <p><b>Thanks for supporting Coggle!</b></p>
+  <p>For being an early Coggle supporter, you get all the benefits of the <a>Coggle Awesome</a> plan included in your subscription!</p>
+  <a>Manage your plan</a>
+""">
+
+<me-support-awesomethanks """
+  <p>This is you &mdash;<b>You\'re Awesome!</b></p>
+  <a>Manage your plan</a>
+""">
+
+
 
 <messages-title "Messages">
 <messages-search placeholder:"Search">

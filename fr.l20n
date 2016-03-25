@@ -373,7 +373,7 @@
     Ceci est un Coggle public — il pourrait apparaître dans la <a>Galerie Coggle.</a> Passez à la formule <a>Awesome</a> pour le rendre privé.
 """>
 <banner-open-awesome """
-    Ceci est un Coggle public — il pourrait apparaître dans la <a>Galerie Coggle.</a> Vous pouvez le rendre privé depuis la <a id="open-sharing">fenêtre de partage</a>.
+    Ceci est un Coggle public — il pourrait apparaître dans la <a>Galerie Coggle.</a> Vous pouvez le rendre privé depuis la <a>fenêtre de partage</a>.
 """>
 
 <messages-title "Messages">
