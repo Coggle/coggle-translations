@@ -15,6 +15,12 @@
 <index-blurb "Produisez de magnifiques notes, rapidement et simplement. Partagez-les avec vos amis et vos collègues afin d'améliorer collaborativement vos idées. Et tout cela gratuitement !">
 <index-viewgallery "Vous pouvez aussi regarder la <a>Galerie Coggle</a>">
 
+<index-colab-mindmaps """
+  <h1>Des Représentations Mentales Collaboratives</h1>
+  <p>Coggle est un outil en ligne pour créer et partager des représentations mentales. Tout se passe en ligne, donc il n'y a rien à télécharger et rien à mettre à jour. Il suffit de <a>se connecter</a> pour commencer maintenant !</p>
+  <p>Peu importe si vous prenez des notes, si vous faites du brainstorming, ou si vous faites quelque chose d'incroyablement créatif, Coggle vous facilite la tâche de visualiser vos idées. Vous pouvez partager avec autant d'amis ou de collègues que vous le souhaitez. Les modifications que vous apporterez apparaîtront automatiquement sur leur navigateur; peu importe où ils se trouvent dans le monde.</p>
+""">
+
 <index-use-notes """
   <div><img></div>
   <h2>Prenez des notes</h2>
@@ -105,58 +111,23 @@
 <feature-markdown "Supporte le <b>Markdown</b>">
 <feature-downloads "Téléchargement en format <b>PDF et image</b>">
 <feature-exports "Exporter en tant que <b>.mm et document texte</b>">
+<feature-imports "Importer <b>.mm et texte</b>">
 <feature-chat "Commentaires et Chat">
 <feature-embed "Diagrammes intégrables">
-<feature-private "<b>Diagrammes privés</b>">
-<feature-rearrange "<b>Auto-arrangement des branches</b>">
-<feature-folders "<b>Dossiers partagés</b>">
-<feature-presentation "Mode présentation">
-<feature-bigimages "Chargement d'<b>images haute résolution</b>">
-<feature-extendedcolours "Plus de couleurs">
-<feature-bulkexport "<b>Exportation en masse</b>">
-<feature-adminpanel "Gestion des <b>utilisateurs et des données</b>">
-<feature-branding "Diagrammes de marque">
 <plans-free-getstarted "Commencez maintenant">
 
 <plans-awesome-title "Awesome">
 <plans-awesome-price "5$ / mois">
-<feature-realtime "Collaboration en <b>temps réel</b>">
-<feature-diagrams "Diagrammes publics <b>illimités</b>">
-<feature-images "Nombre d'images <b>illimité</b>">
-<feature-changes "Historique des modifications <b>complet</b>">
-<feature-markdown "Supporte le <b>Markdown</b>">
-<feature-downloads "Téléchargement en format <b>PDF et image</b>">
-<feature-exports "Exporter en tant que <b>.mm et document texte</b>">
-<feature-chat "Commentaires et Chat">
-<feature-embed "Diagrammes intégrables">
 <feature-private "<b>Diagrammes privés</b>">
 <feature-rearrange "<b>Auto-arrangement des branches</b>">
 <feature-folders "<b>Dossiers partagés</b>">
 <feature-presentation "Mode présentation">
 <feature-bigimages "Chargement d'<b>images haute résolution</b>">
 <feature-extendedcolours "Plus de couleurs">
-<feature-bulkexport "<b>Exportation en masse</b>">
-<feature-adminpanel "Gestion des <b>utilisateurs et des données</b>">
-<feature-branding "Diagrammes de marque">
 <plans-findoutmore "En apprendre plus">
 
 <plans-org-title "Organisation">
 <plans-org-price "8$ / membre / mois">
-<feature-realtime "Collaboration en <b>temps réel</b>">
-<feature-diagrams "Diagrammes publics <b>illimités</b>">
-<feature-images "Nombre d'images <b>illimité</b>">
-<feature-changes "Historique des modifications <b>complet</b>">
-<feature-markdown "Supporte le <b>Markdown</b>">
-<feature-downloads "Téléchargement en format <b>PDF et image</b>">
-<feature-exports "Exporter en tant que <b>.mm et document texte</b>">
-<feature-chat "Commentaires et Chat">
-<feature-embed "Diagrammes intégrables">
-<feature-private "<b>Diagrammes privés</b>">
-<feature-rearrange "<b>Auto-arrangement des branches</b>">
-<feature-folders "<b>Dossiers partagés</b>">
-<feature-presentation "Mode présentation">
-<feature-bigimages "Chargement d'<b>images haute résolution</b>">
-<feature-extendedcolours "Plus de couleurs">
 <feature-bulkexport "<b>Exportation en masse</b>">
 <feature-adminpanel "Gestion des <b>utilisateurs et des données</b>">
 <feature-branding "Diagrammes de marque">
@@ -210,6 +181,8 @@
 <logout "Déconnexion">
 <settings "Paramètres">
 <return-to-diagrams "Retourner à vos diagrammes">
+<upgrade-to-awesome "Optez pour Awesome !">
+<want-awesome-for-free "Vous voulez Awesome gratuitement ?">
 
 <limitedaccess "Vous avez un accès limité à {{ $resourceName }} car vous n'en êtes pas membre">
 <link-drive """
@@ -331,6 +304,19 @@
 <billing-choose-country "Pays">
 <billing-weusestripe "Nous utilisons <a>Stripe</a> pour traiter vos payements de façon sécurisée: vos informations bancaires ne passeront jamais par nos serveurs.">
 
+<cancel-really """
+  <span>Voulez vous vraiment annuler votre souscription ?</span>
+  <div>Non !</div>
+  <div>Oui, annuler la souscription</div>
+""">
+
+<cancel-discount-available """
+  <span>Restez Awesome et obtenez <b>30% de réduction</b> sur votre abonnement sur vos <b>3 prochains mois</b> !</span>
+  <div>Restez Awesome!</div>
+  <div>Annuler l'abonnement</div>
+  <a class='back'>Retour</a>
+""">
+
 <me-communication-title "Communication">
 <me-emails-title "Adresses e-mail">
 <me-emails-primary "(principale)">
@@ -346,13 +332,66 @@
 <slider-yes "OUI">
 <slider-no "NON">
 
+<we-heart-you "Nous vous aimons.">
+<help-discover-coggle "Aidez le monde à découvrir Coggle et obtenez des avantages gratuitement !">
+<introduce-n-more-friends[$introduceCount] {
+        1: "Présentez Coggle à <span>{{ $introduceCount }}</span> ami supplémentaire",
+    *many: "Présentez Coggle à <span>{{ $introduceCount }}</span> amis supplémentaires",
+}>
+<introduced-n-friends[$introducedCount] {
+        1: "Vous avez présenté Coggle à <span>{{ $introducedCount }}</span> personne",
+    *many: "Vous avez présenté Coggle à <span>{{ $introducedCount }}</span> personnes",
+}>
+
+<share-your-link """
+  <p>Partagez votre lien spécial comme vous le souhaitez</p>
+  <p>
+    <a>Facebook</a>, 
+    <a> Twitter</a>, 
+    ou <a>e-mail</a> feront tous l'affaire !
+  </p>
+  <input/>
+""">
+
+<claim-free-month """
+  <p>Réclamez votre mois de Coggle Awesome gratuit !</p>
+  <div>Commencez maintenant</div>
+""">
+
 /* Gallery Content (/gallery) */
 <gallery-title "la Galerie Coggle">
+<gallery-blurb "Une sélection faite main des meilleurs diarammes faits avec Coggle !">
+<gallery-folder-blurb """
+  <b>la Galerie Coggle</b> - Une sélection faite main des meilleurs diarammes faits avec Coggle !<br/>
+  Partager sur <a>Twitter</a> ou sur <a>Facebook</a>.
+""">
 
 /* Diagram content */
 <guide-click-here "cliquez ici">
 <guide-or-here "ou ici">
 <click-to-edit "cliquer pour éditer">
+<click-to-edit-title "Cliquer pour modifier le titre">
+<tap-to-edit "toucher pour éditer">
+<tap-to-edit-title "Toucher pour modifier le titre">
+<unnamed-diagram "Diagramme Sans Nom">
+
+<add-branch "ajouter une branche">
+<add-to-discussion "ajouter à la discussion">
+<comment-on-this "commenter">
+<auto-arrange "auto-arranger">
+<pick-colour "choisir une couleur">
+<delete-branch "supprimer la branche"> /* (remove and item *and* all of its children) */
+<remove-item "suppprimer l'objet">
+<copy-branch "copier la branche">
+<show-children "montrer les enfants">
+<hide-children "cacher les enfants">
+<drag-to-create-link "faites glisser pour ajouter un lien">
+<drag-to-transplant-branch "faites glisser pour transplanter une branche">
+
+<undo "annuler">
+<redo "refaire">
+<paste-branch "coller la branche">
+<zoom-page "zoomer">
 
 <help-gohome "Cliquez sur le logo Coggle pour retourner à la page d'accueil, où vos documents sont automatiquement sauvegardés.">
 <help-add-node "Utilisez les boutons (+) pour ajouter des branches.">
@@ -367,6 +406,8 @@
 <help-toolbar-invitemulti """
   Pour gagner du temps, vous pouvez inviter plusieurs personnes d'un coup: rentrez (ou collez) leurs adresses e-mail séparées par des espaces, des virgules<b>,</b> ou des points-virgules<b>;</b>
 """>
+<help-toolbar-inviteflow "Coggle fonctionne mieux avec d'autres personnes - entrez l'adresse e-mail d'un ami ou d'un collègue.">
+<help-toolbar-inviteflow-title "Entrer l'adresse e-mail d'un collègue">
 <help-inactive-invite "Travaillez avec vos amis pour mener vos idées à bien !<br>Invitez-les par e-mail ici.">
 
 <banner-open-getawesome """
@@ -374,6 +415,33 @@
 """>
 <banner-open-awesome """
     Ceci est un Coggle public — il pourrait apparaître dans la <a>Galerie Coggle.</a> Vous pouvez le rendre privé depuis la <a>fenêtre de partage</a>.
+""">
+
+<me-as-awesome-orgmember """
+  <p>C'est vous &mdash; vous voyez Coggle en tant que <b>membre d'une organisation</b>.</p>
+  <p>Cela signifie que vous bénéficiez aussi de toutes les fonctionnalités de la formule<a>Coggle Awesome</a> !</p>
+""">
+
+<awesome-promo-benefits """
+  <p><b>Diagrammes Privés ✓</b></p>
+  <p><b>Auto-arrangement des Branches ✓</b></p>
+  <p><b>Dossiers Partagés ✓</b></p>
+  <p><b>Historique de Chat Complet ✓</b></p>
+  <p><b>Mode Presentation ✓</b></p>
+  <p><b>Plus de couleurs ✓</b></p>
+  <a>Optez pour Awesome !</a>
+  <p><a>Vous voulez Awesome gratuitement ?</a></p>
+""">
+
+<me-support-awesomethanks """
+  <p><b>Merci de supporter Coggle !</b></p>
+  <p>Comme vous êtes un des premiers à supporter Coggle, vous bénéficiez de tous les avantages de la formule <a>Coggle Awesome</a> dans votre abonnement !</p>
+  <a>Gérer votre souscription</a>
+""">
+
+<me-support-awesomethanks """
+  <p>C'est vous &mdash;<b>Vous êtes Awesome !</b></p>
+  <a>Gérer votre souscription</a>
 """>
 
 <messages-title "Messages">
@@ -563,6 +631,40 @@
 <nodiagram-not-logged-in "<b>Vous n'êtes actuellement pas connecté.</b>  Si ce diagramme existe, il se peut que vous y ayez accès en vous connectant à votre compte.">
 <nodiagram-may-need-access "Si quelqu'un vous a donné un lien vers ce diagramme, il se peut qu'ils doivent vous donner les permissions nécessaires pour le voir.">
 
+
+/* Awesome Landing Page (/awesome) */
+<awesome-pitch """
+  <h2>Coggle Awesome</h2>
+  <p>Dynamisez vos pensées avec Coggle Awesome. Ajouter d'énormes images, présentez vos Coggles, et ctéez des Coggles privés qui ne seront pas référencés par les moteurs de recherche.</p>
+""">
+
+<awesome-signup """
+  <a>S'INSCRIRE MAINTENANT</a>
+  <div>5$ / MOIS</div>
+""">
+
+<awesome-feature-private """
+  <img>
+  <h2>Coggles Privés Illimités</h2>
+  <p>Créez autant de Coggles privés que vous le souhaitez. Si jamais vous annulez votre abonnement, ils resteront privés et vous y garderez accès.</p>
+""">
+
+<awesome-feature-present """
+  <img>
+  <h2>Presentation Sans Distractions</h2>
+  <p>Utilisez le mode présentation pour présenter n'importe quel Coggle dans un mode présentation sans distractions en plein écran. Réduisez et développez vos branches à mesure qu'ils racontent votre histoire.</p>
+""">
+
+<awesome-feature-bigimages """
+  <img>
+  <h2>Montrez-Leur Le Tableau Complet</h2>
+  <p>Ajoutez d'énormes images à vos Coggles pour illustrer vos idées: il suffit de faire glisser une image depuis votre bureau vers un document.</p>
+""">
+
+<awesome-hint-orgs """
+  Si vous utilisez Coggle pour votre travail, regardez du côté de <a>Coggle Organisations</a>, qui propose touts les bénéfices de Coggle Awesome, avec des fonctionnalités d'adiministration optimisées pour le travail.
+""">
+
 /* Organisations Landing Page (/organisations) */
 <orgs-pitch-3 """
   <h2>Coggle Organisations</h2>
@@ -673,7 +775,6 @@
 """>
 
 <faq-orgs-billing """
-  <div>How does billing work for Coggle Organisations?</div>
   <div>Comment la facturation de Coggle Organisations fonctionne-t-elle ?</div>
   <div>Les Organisations Coggle sont facturées 8$ par membre et par mois. Vous pouvez ajouter
   et supprimer des membres n'importe quand depuis le panneau d'administration
@@ -681,7 +782,6 @@
 """>
 
 <faq-orgs-edu """
-  <div>Are there any education pricing options?</div>
   <div>Y-a-t-il des tarifs particuliers pour l'éducation ?</div>
   <div>Oui ! Contactez-nous à education@coggle.it pour en apprendre plus.</div>
 """>

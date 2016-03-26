@@ -16,9 +16,9 @@
 <index-viewgallery "Or, take a look at the <a>Coggle Gallery</a>">
 
 <index-colab-mindmaps """
- <h1>Collaborative Mind Maps</h1>
- <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or update. Simply <a>log in</a> to start mind-mapping now!</p>
- <p>Whether you're note-taking, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+  <h1>Collaborative Mind Maps</h1>
+  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or update. Simply <a>log in</a> to start mind-mapping now!</p>
+  <p>Whether you're note-taking, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
 """>
 
 <index-use-notes """
@@ -181,7 +181,8 @@
 <logout "Logout">
 <settings "Settings">
 <return-to-diagrams "Return to your diagrams">
-<unnamed-diagram "Unnamed Diagram">
+<upgrade-to-awesome "Upgrade to Awesome!">
+<want-awesome-for-free "Want Awesome for free?">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <link-drive """
@@ -306,7 +307,7 @@
 <cancel-discount-available """
   <span>Stay Awesome and get <b>30% off</b> your subscription for the next <b>3 months</b>!</span>
   <div>Stay Awesome!</div>
-  <div'>Cancel Subscription</div>
+  <div>Cancel Subscription</div>
   <a class='back'>Back</a>
 """>
 

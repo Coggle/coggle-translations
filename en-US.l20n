@@ -180,7 +180,8 @@
 <logout "Logout">
 <settings "Settings">
 <return-to-diagrams "Return to your diagrams">
-<unnamed-diagram "Unnamed Diagram">
+<upgrade-to-awesome "Upgrade to Awesome!">
+<want-awesome-for-free "Want Awesome for free?">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <link-drive """
@@ -307,7 +308,7 @@
 <cancel-discount-available """
   <span>Stay Awesome and get <b>30% off</b> your subscription for the next <b>3 months</b>!</span>
   <div>Stay Awesome!</div>
-  <div'>Cancel Subscription</div>
+  <div>Cancel Subscription</div>
   <a class='back'>Back</a>
 """>
 
