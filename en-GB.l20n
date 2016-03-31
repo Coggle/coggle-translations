@@ -957,3 +957,21 @@ Did you know Coggle Organisations can put their logo on their Coggles? They can!
 <fact-organisation3 """
 Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
 """>
+
+
+/* shared email content */
+<emWelcomeHappyCoggling "That's all for now. Happy Coggling!">
+<emUnsubscribe "Too many emails? Sorry about that, <a>unsubscribe now</a>.">
+<emSendReason """
+You have been sent this message because you signed up at <a>https://coggle.it</a><br> You can manage your communication preferences <a>here</a>.
+""">
+<emSignoffCoggleTeam "<b>The Coggle Team</b>">
+
+
+/* welcome email content */
+<emWelcomeCoggleFamily "Welcome to the Coggle family {{ $name }} &mdash; It's great to have you on board!">
+<emWelcomeCoggleDesign """
+We've designed Coggle with <b>simplicity</b> and <b>collaboration</b> at its heart. Share your ideas and knowledge with colleagues, classmates or friends to get the most out of Coggle.
+""">
+<emWelcomeCreateDiagram "CREATE A DIAGRAM NOW">
+
