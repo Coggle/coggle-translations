@@ -129,7 +129,7 @@
 <plans-awesome-price "$5 / 月">
 <feature-private "<b>私人圖表</b>">
 <feature-chathistory "歷史聊天記錄<b>完成</b>">
-<feature-rearrange "<b>自動排列的分支線條/b>">
+<feature-rearrange "<b>自動排列的分支線條</b>">
 <feature-folders "<b>共用的檔夾</b>">
 <feature-presentation "演示模式">
 <feature-bigimages "<b>高解析度圖像</b> 上傳">
@@ -139,7 +139,7 @@
 <plans-org-title "Organisation">
 <plans-org-price "$8 / 成員/ 月">
 <feature-bulkexport "<b>批量輸出</b>">
-<feature-adminpanel "<b>用戶& 數據/b> 管理">
+<feature-adminpanel "<b>用戶& 數據</b> 管理">
 <feature-branding "品牌圖表">
 
 <plans-select "選擇">
