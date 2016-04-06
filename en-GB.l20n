@@ -960,11 +960,13 @@ Did you know you can create a Coggle Organisation to organise your businesses Co
 
 
 /* shared email content */
+<emWhatIsCoggle "Coggle is a collaborative mind-mapping tool that helps you make sense of complex things. It's simple and free to use.">
 <emWelcomeHappyCoggling "That's all for now. Happy Coggling!">
 <emUnsubscribe "Too many emails? Sorry about that, <a>unsubscribe now</a>.">
 <emSendReason """
 You have been sent this message because you signed up at <a>https://coggle.it</a><br> You can manage your communication preferences <a>here</a>.
 """>
+<emBecauseInvited "You have been sent this message because you were invited to Coggle by an existing user.">
 <emSignoffCoggleTeam "<b>The Coggle Team</b>">
 
 
@@ -998,3 +1000,18 @@ Take a look at our <a>Awesome</a> plan to power up your Coggle with even more us
 """>
 <emFollowup2GoAwesome "GO AWESOME">
 
+
+/* diagram invites email content */
+<emInviteDiagramSubject "{{ $name }} added you a Coggle diagram">
+<emInviteDiagramDescription "{{ $from.name }} added you to a Coggle diagram: {{ $title }}">
+<emInviteDiagramView "VIEW">
+
+/* folder invites email content */
+<emInviteFolderSubject "{{ $name }} added you a Coggle folder">
+<emInviteFolderDescription "{{ $from.name }} added you to a Coggle folder: {{ $title }}">
+<emInviteFolderView "JOIN">
+
+/* organisation invites email content */
+<emInviteOrganisationSubject "{{ $name }} added you a Coggle Organisation">
+<emInviteOrganisationDescription "{{ $from.name }} added you to a Coggle Organisation: {{ $title }}">
+<emInviteOrganisationView "JOIN">
