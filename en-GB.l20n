@@ -119,6 +119,7 @@
 <plans-awesome-title "Awesome">
 <plans-awesome-price "$5 / month">
 <feature-private "<b>Private diagrams</b>">
+<feature-chathistory "<b>Full</b> chat history">
 <feature-rearrange "<b>Auto-arrange branches</b>">
 <feature-folders "<b>Shared folders</b>">
 <feature-presentation "Presentation mode">
