@@ -1002,16 +1002,25 @@ Take a look at our <a>Awesome</a> plan to power up your Coggle with even more us
 
 
 /* diagram invites email content */
-<emInviteDiagramSubject "{{ $name }} added you a Coggle diagram">
+<emInviteDiagramSubject "{{ $from.full_name }} added you a Coggle diagram">
 <emInviteDiagramDescription "{{ $from.name }} added you to a Coggle diagram: {{ $title }}">
 <emInviteDiagramView "VIEW">
 
 /* folder invites email content */
-<emInviteFolderSubject "{{ $name }} added you a Coggle folder">
+<emInviteFolderSubject "{{ $from.full_name }} added you a Coggle folder">
 <emInviteFolderDescription "{{ $from.name }} added you to a Coggle folder: {{ $title }}">
 <emInviteFolderView "JOIN">
 
 /* organisation invites email content */
-<emInviteOrganisationSubject "{{ $name }} added you a Coggle Organisation">
+<emInviteOrganisationSubject "{{ $from.full_name }} added you a Coggle Organisation">
 <emInviteOrganisationDescription "{{ $from.name }} added you to a Coggle Organisation: {{ $title }}">
 <emInviteOrganisationView "JOIN">
+
+
+/* summary email content */
+<emSummaryDescription "{{ $title }} has been updated">
+<emSummaryItemsAdded "ITEMS ADDED">
+<emSummaryItemsRemoved "ITEMS REMOVED">
+<emSummaryItemsChanged "ITEMS CHANGED">
+<emSummaryNewComments "And there are new comments.">
+<emSummaryView "REVIEW CHANGES">
