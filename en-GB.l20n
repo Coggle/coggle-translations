@@ -1024,3 +1024,9 @@ Take a look at our <a>Awesome</a> plan to power up your Coggle with even more us
 <emSummaryItemsChanged "ITEMS CHANGED">
 <emSummaryNewComments "And there are new comments.">
 <emSummaryView "REVIEW CHANGES">
+
+
+/* tag email content */
+<emTagSubject "{{ $from.name }} tagged you in {{ $title }}">
+<emTagDescription "<b>{{ $from.name }}</b> has tagged you in {{ $title }}">
+<emTagView "READ">
