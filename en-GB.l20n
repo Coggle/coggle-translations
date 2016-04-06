@@ -968,9 +968,32 @@ You have been sent this message because you signed up at <a>https://coggle.it</a
 
 
 /* welcome email content */
+<emWelcomeSubject "{{ $name }}, welcome to Coggle!">
 <emWelcomeCoggleFamily "Welcome to the Coggle family {{ $name }} &mdash; It's great to have you on board!">
 <emWelcomeCoggleDesign """
 We've designed Coggle with <b>simplicity</b> and <b>collaboration</b> at its heart. Share your ideas and knowledge with colleagues, classmates or friends to get the most out of Coggle.
 """>
 <emWelcomeCreateDiagram "CREATE A DIAGRAM NOW">
+
+
+/* welcome followup email content */
+<emFollowupSubject "{{ $name }}, how are you finding Coggle?">
+<emFollowupFindingCoggle "{{ $name }}, how are you finding Coggle?">
+<emFollowupTryInvite """
+Have you tried inviting a friend co-worker to your document?  Use the <b>sharing button</b> in the top right of any diagram to invite them. You'll see their changes instantly as they edit!
+""">
+<emFollowupInviteNow "INVITE SOMEONE NOW">
+
+
+/* welcome second followup email content */
+<emFollowup2Subject "Your final update!">
+<emFollowup2FirstWeek "How's your first week of Coggle been, {{ $name }}?">
+<emFollowup2ChangeFontSize """
+<b>Did you know you can change the font size?</b> Draw attention to important items in your documents by making them larger. Drag the corner of the text editing area to change the text size:
+""">
+<emFollowup2MoreFeatures "Want more features?">
+<emFollowup2AwesomePitch """
+Take a look at our <a>Awesome</a> plan to power up your Coggle with even more useful features!
+""">
+<emFollowup2GoAwesome "GO AWESOME">
 
