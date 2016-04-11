@@ -16,972 +16,922 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "清晰的方式來分享複雜的資訊.">
-<index-signupnow "現在就註冊">
-<index-login "已經註冊？在此登錄.">
+<index-tagline "一個明確的方式共享複雜的信息.">
+<index-signupnow "立即註冊">
+<index-login "已經註冊了？在這裡登錄.">
 
 <index-unleash "發揮你的創造力">
-<index-blurb "方便快捷地生成漂亮的筆記。並與朋友和同事分享以完善提升你的想法。所有免費 ">
-<index-viewgallery "或者, 看看 <a>Coggle 畫廊</a>">
+<index-blurb "製作精美的筆記，方便快捷。與朋友和同事分享他們，協同提升你的創意。所有這些都是免費!">
+<index-viewgallery "或者，看一看<a>Coggle 畫廊</a>">
 
 <index-colab-mindmaps """
-  <h1>協作式思維導圖</h1>
-  <p>Coggle 是一個線上的工具，用於創建和共用思維導圖。它在您的流覽器中線上工作 ︰無需下載或更新。現在只需<a>登錄</a>開始思維導圖 ！</p>
-  <p>無論你是記筆記，集思廣益，規劃，或做些極富創意的事，在Coggle的幫助下，使你的想法可視化是超級簡單的。只要你願意，即可與盡可能多的朋友或同事分享。無論他們身處何地，你所做的更改都將會瞬間呈現在他們螢幕上.</p>
+  <h1>協同思維導圖</h1>
+
+<p> Coggle是用於創建和共享思維導圖的在線工具。它在你的瀏覽器上在線工作：沒有什麼可以下載或更新。簡單地<a>登錄</a> 現在開始思維導圖!</p>
+  <p>無論你是做筆記、集思廣益、規劃、或做一些赫然創意，Coggle可視化你的想法，超級簡單。只要你喜歡，與盡可能多的朋友或同事分享。您所做的更改會立即顯示在他們的瀏覽器上，無論他們在世界哪裡.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
   <h2>做筆記</h2>
-  <p>在會議，修改期間或者任何靈感降臨之際，打開 Coggle來創作出漂亮的具有結構性的筆記.</p>
+  <p>在會議中、你修改期間或任何靈感閃現時打開Coggle, 創造美麗、有條理的筆記.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
-  <h2>頭腦風暴</h2>
-  <p>在開始有一個想法後，用coggle去澆灌它，看著它成長為一個完全成熟的計畫，然後清晰地羅列並準備好和他人共用.</p>
+  <h2>集思廣益</h2>
+  <p>從一個想法開始，用Coggle澆灌它，看著它成長為一個完全成熟的計劃，清楚地佈局，並準備分享.</p>
 """>
 
 <index-use-share """
   <div><img></div>
-  <h2>共用資訊</h2>
-  <p>把你的主題提煉成 Coggle模式，包括所有的細節並與您的團隊、 同學或與世界分享 !</p>
+  <h2>分享信息</h2>
+  <p>將你的主題，包括所有的細節，在Coggle中提煉，和你的團隊、同學或全世界分享!</p>
 """>
-    
 <index-use-other """
-  這些僅是Coggle用途的一部分 – <a>開始</a> 現在去找出你自己的用途!
+  這些只是Coggle大有裨益的少數幾件事情而已– <a>現在開始</a> 找到你自己的使用用途!
 """>
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>有助於你的團隊溝通，通過使用 <a>Coggle 組織</a>.</h2>
-  <p>給你的團隊共用的空間來集思廣益、記筆記並記錄他們的想法。Coggle 具有你所需要的全部功能來控制管理數據並集成業務流程.閱讀更多 <a>點擊這裏</a>.</p>
-  <a>現在註冊<div> 每名成員每月8美元</div></a>
+  <h2>幫助您的團隊溝通，使用<a> Coggle組織</a>.</h2>
+  <p>給你的團隊集思廣益的共享空間，記錄和記載他們的想法。 Coggle組織具有你所需要的所有功能，管理控制你的數據，並與您的業務流程整合。閱讀更多<a>here</a>.</p>
+  <a>立即註冊<div>從每位會員每月$ 8起</div></a>
 """>
 
 <index-description """
   <h1>發揮你的創造力</h1>
-  <p>方便快捷地生成漂亮的筆記。並與朋友及同事分享以完善提升你的想法。所有免費 ！</p>
-  <p><a><span><b>現在就開始! </b></span></a><a><span>或者，閱讀更多.</span></a></p>
+  <p>製作精美的筆記，方便快捷。與朋友和同事分享他們，協同提升你的創意。所有這些都是免費!</p>
+  <p><a><span><b>現在就開始! </b></span></a><a><span>或者閱讀更多.</span></a></p >
 """>
 
 <testimonial-jenn """
-  <p>"我只能用想到的一個詞來形容我使用這個軟體時的欣喜之情...太奇妙了!"</p>
+  <p>"我只能想到一個詞來形容我對它的滿意...... supercalifragilisticexpialidocious!"</p>
   <p>Jenn, Coggle 用戶</p>
 """>
 
 <features-collaborate """
   <img>
   <h2>讓每個人都參與進來</h2>
-  <p>通常情況下，團隊合作時我們的工作狀態是最好的，且在自由進行協作時團隊合作是最有效的。Coggle讓你邀請你的朋友及同事與你攜手共同完成你的圖表。</p>
+  <p>通常我們以團隊工作最出色，當團隊自由協作時最有效， Coggle讓您邀請您的朋友和同事在您的圖表裡同一時間與您攜手工作.</p>
 """>
 
 <features-images """
   <img>
   <h2>完成圖片</h2>
-  <p>一張圖片勝過千言萬語。Coggle 讓你從桌面拖拽圖像插入到圖表中。極為簡單！</p>
-  <p>最重要的是，對於你可以添加的圖像的數量是沒有限制的.</p>
+  <p>一張圖片勝過千言萬語。 Coggle讓你直接從桌面上拖放圖像到您的圖表。就那麼簡單!</p>
+  <p>最好的莫過於，你可以添加圖片的數量沒有限制.</p>
 """>
 
 <features-history """
   <img>
-  <h2>時光倒流</h2>
-  <p>已更改過的文檔，僅僅是在一天後，你就覺得不喜歡所做的編輯了？對於Coggle來說這不是一個問題。只需輸入歷史模式，找到正確的版本，並複製一下即可!</p>
+  <h2>回到從前</h2>
+  <p>你已經修改了文件，一天后回來決定你不喜歡所做的編輯？有了Coggle，這不是一個問題。只需進入歷史模式，找到合適的版本，並從該點做個副本!</p>
 """>
 
 <features-blame """
   <img>
-  <h2>跟蹤問責制</h2>
-  <p>是否曾好奇是誰更改了該共用檔？使用Coggle 你可以查看何人何時對該圖表作了怎樣的更改！只需輸入該圖表的歷史模式便可查明.</p>
+  <h2>跟踪問責</h2>
+  <p>有沒有想過是誰對那個共享文檔做了那些更改？有了Coggle，你可以看看你圖表的歷史，是誰和什麼時候做了那些更改！只要進入圖表歷史模式即可找出.</p>
 """>
 
 <features-colours """
   <img>
-  <h2>使用正確的顏色</h2>
-  <p>你是一個視覺思想家嗎？你是通過佈局和顏色來學習的嗎？那麼，請確保你的主題使用了正確的顏色。只需單擊一個分支以調用色輪然後選擇你想要的顏色即可.</p>
+  <h2>獲得正確的色彩</h2>
+  <p>你是一個視覺思考著嗎？你通過佈局和顏色學習嗎？好吧，確保你的主題獲得正確的顏色，只需點擊一個分支，彈出色輪，並選擇您想要的顏色.</p>
 """>
 
 <features-others """
-  Coggle 有很多其他重要的功能， 那麼 <a>現在體驗</a>, 免費喲! 訪問 <a>博客</a> 瞭解更多.
+  Coggle還有許多其他強大的功能，所以<a>現在就試試</a>, 它是免費的！訪問<a>博客</a> 閱讀更多.
 """>
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever "Coggle 是免費使用的，並將永久。創建無限制的的公共圖表並免費共用它們。">
+<plans-title-freeforever " Coggle是免費使用，而且將永遠是。創建無限的公共圖表，並免費分享他們.">
 
 <plans-free-title "免費">
-<plans-free-price "永久免費">
-<feature-realtime "<b>即時</b> 協作">
-<feature-diagrams "<b>無限制</b> 公共圖表">
-<feature-images "<b>無限制</b> 圖像上傳">
-<feature-changes "<b>充分</b> 更改歷史記錄">
-<feature-markdown "<b>Markdown</b> 支持">
-<feature-downloads "<b>PDF & Image</b> 下載">
-<feature-exports "輸出 as <b>.mm檔 and 文本</b>">
-<feature-imports "輸入 <b>.mm檔 and 文本</b>">
-<feature-chat "評論& 聊天">
-<feature-embed "嵌入圖表">
+<plans-free-price "永遠免費">
+<feature-realtime "<b>實時</b> 協作">
+<feature-diagrams "<b>無限的</b> 公共圖表">
+<feature-images "<b>無限的</b> 圖片上傳">
+<feature-changes "<b>完整的</b> 更改歷史記錄">
+<feature-markdown "<b>標記</b> 支持">
+<feature-downloads "<b>PDF和圖像</b> 下載">
+<feature-exports "作為導出<b>.mm 和文字</b>">
+<feature-imports "導入 <b>.mm 和文字</b>">
+<feature-chat "評論和聊天">
+<feature-embed "嵌入圖">
 <plans-free-getstarted "開始">
 
-<plans-awesome-title "Awesome">
-<plans-awesome-price "$5 / 月">
+<plans-awesome-title "真棒">
+<plans-awesome-price "$5 / 每月">
 <feature-private "<b>私人圖表</b>">
-<feature-chathistory "歷史聊天記錄<b>完成</b>">
-<feature-rearrange "<b>自動排列的分支線條</b>">
-<feature-folders "<b>共用的檔夾</b>">
-<feature-presentation "演示模式">
-<feature-bigimages "<b>高解析度圖像</b> 上傳">
-<feature-extendedcolours "更多的顏色">
-<plans-findoutmore "瞭解更多">
+<feature-chathistory "<b>全部</b> 聊天歷史">
+<feature-rearrange "<b>自動排列分支</b>">
+<feature-folders "<b>共享文件夾</b>">
+<feature-presentation " 演示模式 ">
+<feature-bigimages "<b>高分辨率圖像</b> 上傳">
+<feature-extendedcolours " 更多顏色 ">
+<plans-findoutmore "了解更多">
 
-<plans-org-title "Organisation">
-<plans-org-price "$8 / 成員/ 月">
-<feature-bulkexport "<b>批量輸出</b>">
-<feature-adminpanel "<b>用戶& 數據</b> 管理">
+<plans-org-title "組織">
+<plans-org-price "$8 / 會員/每月">
+<feature-bulkexport "<b>批量導出</b>">
+<feature-adminpanel "<b>用戶和數據</b> 管理">
 <feature-branding "品牌圖表">
 
 <plans-select "選擇">
-<continue-free "繼續 <b>免費</b> 計畫">
-<current-plan "你當前的計畫">
+<continue-free "繼續<b>免費</b> 計劃">
+<current-plan "您當前的計劃">
 <cancel-subscription "取消訂閱">
-<awesome-signup-monthly "註冊<span>$5</span> 每月">
+<awesome-signup-monthly "註冊 <span>$5</span> 每月">
 <awesome-signup-yearly "註冊 <span>$50</span> 每年">
-<yearly-discount "年付即可獲得2個月免費使用機會！">
-<yearly-discount-percent "年付即可節省15%以上的花費">
-<switch-yearly "升級到年付費">
-
+<yearly-discount "支付全年並獲2個月免費!">
+<yearly-discount-percent "支付全年節省超過15％">
+<switch-yearly "升級到每年">
 
 <footer-homepage """
   <p>
     <a>關於</a>
-    <a>聯繫方式</a>
-    <a>facebook</a>
-    <a>twitter</a>
+    <a>聯繫</a>
+    <a>臉書</a>
+    <a>推特</a>
     <a>隱私</a>
     <a>條款</a>
-    <a>新聞</a>
+    <a>新聞報導</a>
   </p>
 """>
-
 <footer-doclist """
   <p>
-    <a><img/> Google Drive</a>
-    <a>about</a>
-    <a>contact</a>
-    <a>facebook</a>
-    <a>twitter</a>
-    <a>privacy</a>
-    <a>terms</a>
-    <a>press</a>
+    <a><img/> 谷歌驅動器</a>
+    <a>關於</a>
+    <a>聯繫</a>
+    <a>臉書</a>
+    <a>推特</a>
+    <a>隱私</a>
+    <a>條款</a>
+    <a>新聞報導</a>
  </p>
 """>
 
 
-/* logged-in homepage content (documents list): https://coggle.it when logged in 
+/* logged-in homepage content (documents list): https://coggle.it when logged in
 */
-<create-diagram "<span>Create Diagram</span>">
-<search-diagrams placeholder:"Search your diagrams.">
-<view-gallery "Gallery">
-<create-folder "Create Folder">
-<created-by-you value:"Created By You">
-<shared-with-you value:"Shared With You">
-<folder-title placeholder:"Enter a folder name">
-<folder-areyousure "are you sure? <span>I&#39;m sure</span>">
-<logout "登出">
-<settings "Settings">
-<return-to-diagrams "Return to your diagrams">
-<upgrade-to-awesome "Upgrade to Awesome!">
-<want-awesome-for-free "Want Awesome for free?">
+<create-diagram "<span>創建圖表</span>">
+<search-diagrams placeholder:"搜索您的圖表.">
 
-<limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
+<view-gallery "畫廊">
+<create-folder "創建文件夾">
+<created-by-you value:"由您創建">
+<shared-with-you value:"與您分享">
+<folder-title placeholder:"輸入文件夾名稱">
+<folder-areyousure "你確定嗎? <span>我確定</span>">
+<logout "退出">
+<settings "設置">
+<return-to-diagrams "返回到您的圖表">
+<upgrade-to-awesome "升級到真棒!">
+<want-awesome-for-free "希望真棒免費嗎?">
+
+<limitedaccess "你有有限的訪問權限{{ $resourceName }} 因為你不是一個成員">
 <link-drive """
   <a><img>
-    <span>Too many Coggles? Organise them in Google Drive</span>
+    <span>太多Coggles？在谷歌驅動器整理他們</span>
   </a>
 """>
 <doclist-create """
-    <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
-    <div><a>Create Diagram</a></div>
+    <b>歡迎來到Coggle!</b> – 你創建的圖表將在這裡列出.
+    <div><a>創建圖表</a></div>
 """>
 <doclist-shared """
-  <b>Shared With You</b> – diagrams created by other people then shared with you are in this folder. 
+  <b>與您分享</b> – 由其他人創建的、然後與您共享的圖表在此文件夾.
 """>
 <doclist-folder-empty """
-  <b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.
+  <b>這是一個空文件夾!</b> – 在這裡創建一個新的圖表，或者將圖表拖放到文件夾中.
 """>
-<impersonatedaccess "You're viewing Coggle as an Organisation member. <a>Return to admin panel</a>">
 
-<doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
-<doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
+<impersonatedaccess "您正在作為一個組織查看Coggle. <a>返回到管理面板</a>">
 
-<tooltip-createorg title:"Create an Organisation">
-<tooltip-invite-folder title:"Add people to this folder by email">
-<tooltip-invite title:"Invite people to join this Coggle.">
-<tooltip-private-icon title:"Diagram is private">
-<tooltip-unsubscribe title:"Unsubscribe from notifications">
-<tooltip-subscribe title:"Subscribe to notifications">
-<tooltip-duplicate title:"Create a copy">
-<tooltip-remove title:"Remove diagram">
-<tooltip-restore title:"Restore diagram">
+<doclist-loading-failed "嗯，哦！加載文件夾失敗，刷新頁面，然後再試一次.">
+<doclist-discover-whatspossible "想從Coggle獲得更多嗎？ 發現<a>什麼是可能的</a>.<div></div>">
+
+<tooltip-createorg title:"創建一個組織">
+<tooltip-invite-folder title:" 通過電子郵件把人們加入這個文件夾">
+<tooltip-invite title:" 邀請人加入這個Coggle.">
+<tooltip-private-icon title:" 圖表是私人的">
+<tooltip-unsubscribe title:" 取消訂閱通知">
+<tooltip-subscribe title:" 訂閱通知">
+<tooltip-duplicate title:" 創建一個副本">
+<tooltip-remove title:" 刪除圖表">
+<tooltip-restore title:" 恢復圖表">
 
 /* documents list contextual help items */
-<help-searchcoggle-title "Search Coggle">
-<help-searchcoggle "Type to find your documents &mdash; quickly search for any word in a diagram!">
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
-<help-creatediagram-title "Create a New Diagram">
+<help-searchcoggle-title "搜索Coggle ">
+<help-searchcoggle "輸入要查找的文檔 “-”; 快速搜索圖中的任何一個字!">
+<help-hide-for-now "現在隱藏起來">
+<help-ok-got-it "好的，我知道了!">
+<help-creatediagram-title "創建一個新圖表">
 <help-creatediagram """
-  <p>Create a new Coggle Diagram to get started.</p>
-  <p>Diagrams you create will be saved here on your homepage.</p>
-  <p><b>Look out for more of these hints around Coggle!</b></p>
+  <p>創建一個新的Coggle圖表開始.</p>
+  <p>您創建的圖表將保存在您的主頁上.</p>
+  <p><b>尋找出更多這些圍繞Coggle的提示!</b></p>
 """>
 
-<help-createfolder-title "Create a Folder">
-<help-createfolder "Create folders to share with groups of people, or categorise Coggles.">
-
-<help-orgs-switch-title "Switch Between Organisations">
-<help-orgs-switch "<p>Click to switch between Organisations.</p><p>Organisations let you control sharing of Coggles and work with larger teams.</p>">
+<help-create folder-title "創建一個文件夾">
+<help-createfolder "創建文件夾與一群人分享,或把Coggles分類.">
+<help-orgs-switch-title "組織之間切換">
+<help-orgs-switch "<p>點擊在組織之間切換.</p><p>組織讓您控制Coggles的共享,並與更大規模的團隊合作.</p>">
 
 
 /* Settings page content */
-<settings-plans-title "Plans">
-<settings-billing-title "Billing & Invoices">
-<settings-recommend-title "Recommend">
-<settings-emails-title "Communication">
+<settings-plans-title "計劃">
+<settings-billing-title "帳單和發票">
+<settings-recommend-title "推薦">
+<settings-emails-title "通訊">
 
 /* The button to save billing details changes its text in different contexts:
- * when a user signs up to awesome they are "purchasing" a subscription, when they
- * create an Organisation, they are "create"ing an organisation, or when they
- * change the billing details they are "updating" them.
+ * when a user signs up to awesome they are "purchasing" a subscription, when
+ * they create an 組織, they are "create"ing an 組織, or when they change the
+ * billing details they are "updating" them.
  */
 <settingsSubmitButton {
-  purchase: "purchase",
-   *submit: "submit",
-    update: "update",
-    create: "create",
+    purchase: "購買",
+     *submit: "提交",
+      update: "更新",
+      create: "創建",
+}>
+<billingPeriod {
+          *permonth: "每月",
+  permemberpermonth: "每個成員每月",
+            peryear: "每年"
 }>
 
 <settings-billing-on-file """
-  <div>The card we have on file for you ends in <b>{{ $cardEndsIn }}</b>, it expires on <b>{{ $cardExpires }}</b>.</div>
-  <div>The billing zipcode we have for you is <b>{{ $addressZip }}</b>.</div>
-  <div><a class='edit'>Change my details</a></div>
+  <div>我們為您存檔的該卡結束<b>{{ $cardEndsIn }}</b>, 它到期<b>{{ $cardExpires }}</b>.</div>
+  <div>我們為您準備的賬單郵政編碼是<b>{{ $addressZip }}</b>.</div>
+  <div><a class='edit'>更改我的詳細信息</a></div>
   <div><div>{{ settingsSubmitButton[$submit] }}</div></div>
 """>
 <billing-ok-button "{{ settingsSubmitButton[$submit] }}">
 <billing-charge-description """
-    We'll charge you
+    我們會向您收取
     <span>{{ $product.price }}</span>
-    <span>{{ $product.period }}</span>
+    <span>{{ billingPeriod[$product.periodKey] }}</span>
 """>
-<billing-remove-card "Remove my card details">
+<billing-remove-card "刪除我的信用卡資料">
 
 <billing-form """
   <div>
-    <label>Card number</label>
+    <label>卡號</label>
     <input>
   </div>
   <div>
-    <label>Expiry date</label>
+    <label>到期日</label>
     <input> <input> <input placeholder="MM/YYYY" title="Expiry date">
   </div>
   <div>
-    <label>Security code</label>
-    <input title="The last 3 digits of the code in your cards signature panel.">
+    <label>安全代碼</label>
+    <input title="你的卡簽名欄中的最後3位數字.">
   </div>
   <div>
-    <label>Name on card</label>
-    <input placeholder="Name on card">
+    <label>卡上的名字</label>
+    <input placeholder="卡上的名字">
   </div>
   <div>
-    <label>Billing address</label>
-    <input placeholder="Address Line 1">
-    <input placeholder="Address Line 2">
+    <label>帳單地址</label>
+    <input placeholder="地址欄1">
+    <input placeholder="地址欄2">
   </div>
   <div>
-    <input placeholder="City">
+    <input placeholder="城市">
   </div>
   <div>
-    <input placeholder="Post Code">
+    <input placeholder="郵政編碼">
   </div>
 """>
-<billing-choose-country "Choose country">
-<billing-weusestripe "We use <a>Stripe</a> to process payments securely: Your card details never go through our servers.">
+<billing-choose-country "選擇國家">
+<billing-weusestripe "我們使用<a>條紋</a> 安全地處理支付：您的卡的資料永遠不會通過我們的服務器.">
 
 <cancel-really """
-  <span>Really cancel your plan?</span>
-  <div>No way!</div>
-  <div>Yes, Cancel Subscription</div>
+  <span>真的要取消你的計劃嗎?</span>
+  <div>不可能!</div>
+  <div>是的, 取消訂閱</div>
 """>
-
 <cancel-discount-available """
-  <span>Stay Awesome and get <b>30% off</b> your subscription for the next <b>3 months</b>!</span>
-  <div>Stay Awesome!</div>
-  <div>Cancel Subscription</div>
-  <a class='back'>Back</a>
+  <span>保持真棒和得到<b> 30 %優惠 </b> 您的下一個訂閱<b>三個月b>!</span>
+  <div>保持真棒!</div>
+  <div>取消訂閱</div>
+  <a class='back'>返回</a>
 """>
 
-<me-communication-title "Communication">
-<me-emails-title "Email Addresses">
-<me-emails-primary "(primary)">
-<me-emailslist "These are the emails we have on record for you:">
-<me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
-<me-commspref "Here's what you've told us about your communication preferences:">
+<me-communication-title "通訊">
+<me-emails-title "電子郵件地址">
+<me-emails-primary "(主要的)">
+<me-emailslist "這些是我們為你記錄的郵件:">
+<me-emailstip "我們只發送給主要電子郵件的地址，但你其他任何地址可以收到邀請.">
+<me-commspref "下面是你告訴我們關於您的通訊偏好:">
 <me-comms-explain """
-  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
+  有時我們需要發送更新服務和新功能的信息，我們將發送給您的<strong> 主要的</strong> 郵件地址. 我們或任何第三方不會向您發送垃圾郵件或廣告（我們也厭惡受到那東西）.
 """>
-<me-talktome "Talk to me: ">
-<me-diagram-notifications "Diagram notifications: ">
+<me-talktome "跟我說話: ">
+<me-diagram-notifications "圖表通知: ">
 
-<slider-yes "YES">
-<slider-no "NO">
+<slider-yes "是的">
+<slider-no "不是">
 
-<we-heart-you "We ♥ you.">
-<help-discover-coggle "Help the world discover Coggle and get free stuff!">
+<we-heart-you "我愛你.">
+<help-discover-coggle "幫助世界發現Coggle並獲得免費的東西!">
 <introduce-n-more-friends[$introduceCount] {
-        1: "Introduce <span>{{ $introduceCount }}</span> more friend to Coggle",
-    *many: "Introduce <span>{{ $introduceCount }}</span> more friends to Coggle",
+        1: "介紹 <span>{{ $introduceCount }}</span> 更多的朋友給Coggle",
+    *many: "介紹<span>{{ $introduceCount }}</span> 更多的朋友給Coggle",
 }>
 <introduced-n-friends[$introducedCount] {
-        1: "You've introduced <span>{{ $introducedCount }}</span> person to Coggle",
-    *many: "You've introduced <span>{{ $introducedCount }}</span> people to Coggle",
+        1: "你已經介紹了<span>{{ $introducedCount }}</span> 個人給Coggle",
+    *many: "你已經介紹了<span>{{ $introducedCount }}</span> 個人給Coggle",
 }>
 
 <share-your-link """
-  <p>Share your special link however you like</p>
+  <p>分享你的特殊鏈接，你有多喜歡</p>
   <p>
-    <a>Facebook</a>, 
-    <a> Twitter</a>, 
-    or <a>email</a> will all work well!
+    <a>臉書</a>,
+    <a> 推特</a>,
+    or <a>電子郵件</a> 都能行得通!
   </p>
   <input/>
 """>
 
 <claim-free-month """
-  <p>Claim your free month of Coggle Awesome!</p>
-  <div>Redeem Now</div>
+  <p>認領你免費一個月的Coggle真棒!</p>
+  <div>現在兌換</div>
 """>
 
 /* Gallery Content (/gallery) */
-<gallery-title "The Coggle Gallery">
-<gallery-blurb "A hand-picked collection of the best diagrams made with Coggle!">
+<gallery-title "The Coggle 畫廊">
+<gallery-blurb "一手挑選最好的、用Coggle製作的圖表收集!">
+
 <gallery-folder-blurb """
-  <b>The Coggle Gallery</b> - A hand-picked collection of the best diagrams made with Coggle! <br/>
-  Follow us on <a>Twitter</a> or <a>Facebook</a> for regular updates.
+  <b>The Coggle 畫廊</b> - 一手挑選最好的、用Coggle製作的圖表收集! <br/>
+跟隨我們<a>推特</a> 或 <a>臉書</a> 定期更新.
 """>
 
 /* Diagram content */
-<guide-click-here "click here">
-<guide-or-here "or here">
-<click-to-edit "click to edit">
-<click-to-edit-title "Click to edit title">
-<tap-to-edit "tap to edit">
-<tap-to-edit-title "Tap to edit title">
-<unnamed-diagram "Unnamed Diagram">
+<guide-click-here "點擊這裡">
+<guide-or-here "或這裡">
+<click-to-edit "點擊編輯">
+<click-to-edit-title "點擊編輯標題">
+<tap-to-edit "點擊編輯">
+<tap-to-edit-title "點擊編輯標題">
+<unnamed-diagram "未命名圖表">
 
-<add-branch "add branch">
-<add-to-discussion "add to discussion">
-<comment-on-this "comment on this">
-<auto-arrange "auto-arrange">
-<pick-colour "pick colour">
-<delete-branch "delete branch"> /* (remove and item *and* all of its children) */
-<remove-item "remove item">
-<copy-branch "copy branch">
-<show-children "show children">
-<hide-children "hide children">
-<drag-to-create-link "drag to create link">
-<drag-to-transplant-branch "drag to transplant branch">
+<add-branch "添加分支">
+<add-to-discussion "加入討論">
+<comment-on-this "對此有何評論">
+<auto-arrange "自動排列">
+<pick-colour "挑顏色">
+<delete-branch "刪除分支"> /* (remove and item *and* all of its children) */
+<remove-item "刪除項目">
+<copy-branch "複製分支">
+<show-children "顯示子節點">
+<hide-children "隱藏子節點">
+<drag-to-create-link "拖動以創建鏈接">
+<drag-to-transplant-branch "拖移植分支">
 
-<undo "undo">
-<redo "redo">
-<paste-branch "paste branch">
-<zoom-page "zoom page">
+<undo "撤銷">
+<redo "重做">
+<paste-branch "粘貼分支">
+<zoom-page "縮放頁面">
 
-<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
-<help-add-node "Use the (+) buttons to add branches.">
-<help-edit-node "<p>Click any item to edit the text.</p><p>Change the text size by dragging the corner of the editing area.</p>">
-<help-move-node "Drag any text to move it.">
-<help-node-menu "Right click to access the menu. Here you can add, remove, copy, and arrange branches.">
+<help-gohome "點擊Coggle標誌回到主頁，在這裡你的文件會自動保存.">
+<help-add-node "使用（+）按鈕來添加分支.">
+<help-edit-node "<p>點擊任何項目編輯文字.</p><p>通過拖動編輯區的角落更改文字大小.</p>">
+<help-move-node "拖動任何文字來移動它.">
+<help-node-menu "右鍵點擊進入菜單。在這裡，您可以添加、刪除、複製、並安排分支機構.">
 
-<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
-<help-toolbar-invite-title "Work With Others">
-<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
-<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-multiline "使用[CTRL] + [進入]添加多行文字，或鍵入之前拖動調整大小握.">
+<help-toolbar-invite-title "與他人協作">
+<help-toolbar-invite "點擊邀請他人編輯或查看這個Coggle。您可以點擊其圖標控制人的權限.">
+<help-toolbar-invitemulti-title "邀請多人">
 <help-toolbar-invitemulti """
-  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+  為了節省時間，你可以一次邀請多個人：鍵入（或粘貼）用空格，逗號分隔的電子郵件地址<b>,</b> 或分號<b>;</b>
 """>
-<help-toolbar-inviteflow "Coggle works best with others - enter the email address of a friend or co-worker.">
-<help-toolbar-inviteflow-title "Enter a Co-worker's Email">
-<help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
+<help-toolbar-inviteflow "與他人一起工作Coggle效果最好- 輸入朋友或同事的電子郵件地址.">
+<help-toolbar-inviteflow-title "輸入一個同事的電子郵件">
+<help-inactive-invite "與朋友合作，幫助把你的想法賦予生命!<br>通過這裡的電子郵件邀請.">
 
 <banner-open-getawesome """
-    This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> Get <a>Awesome</a> to make it private.
+    這是一個開放的Coggle - 它可能會出現在<a>Coggle 畫廊.</a>獲得 <a>真棒</a> 把它變成私人的.
 """>
 <banner-open-awesome """
-    This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> You can make it private from the <a>sharing dialog</a>.
+        這是一個開放的Coggle - 它可能會出現在<a>Coggle 畫廊.</a> 你可以把它變成私人的，從<a>共享對話框</a>.
 """>
 
 <me-as-awesome-orgmember """
-  <p>This is you &mdash; you\'re viewing Coggle as an <b>organisation member</b>.</p>
-  <p>This means you get all the great features from the <a>Coggle Awesome</a> plan too!</p>
+  <p>這是您本人和 - 您正查看Coggle作為<b>組織成員</b>.</p>
+  <p>這意味著你得到所有的強大功能，也從<a>Coggle 真棒</a> 計劃裡!</p>
 """>
 
 <awesome-promo-benefits """
-  <p><b>Private Diagrams ✓</b></p>
-  <p><b>Auto-arrange Branches ✓</b></p>
-  <p><b>Shared Folders ✓</b></p>
-  <p><b>Full Chat History ✓</b></p>
-  <p><b>Presentation Mode ✓</b></p>
-  <p><b>More colours ✓</b></p>
-  <a>Go Awesome!</a>
-  <p><a>Want Awesome for free?</a></p>
+  <p><b>私人圖表 ✓</b></p>
+  <p><b>自動排列分支 ✓</b></p>
+  <p><b>共享文件夾 ✓</b></p>
+  <p><b>Full 聊天歷史 ✓</b></p>
+  <p><b>演示模式 ✓</b></p>
+  <p><b>更多顏色 ✓</b></p>
+  <a>選擇真棒!</a>
+  <p><a>希望真棒免費嗎?</a></p>
 """>
 
 <me-support-awesomethanks """
-  <p><b>Thanks for supporting Coggle!</b></p>
-  <p>For being an early Coggle supporter, you get all the benefits of the <a>Coggle Awesome</a> plan included in your subscription!</p>
-  <a>Manage your plan</a>
+  <p><b>感謝支持Coggle!</b></p>
+  <p>作為一個早期的Coggle支持者，你得到的所有好處<a>Coggle真棒</a> 包含在您的訂閱計劃裡!</p>
+
+  <a>管理你的計劃</a>
 """>
 
 <me-support-awesomethanks """
-  <p>This is you &mdash;<b>You\'re Awesome!</b></p>
-  <a>Manage your plan</a>
+  <p>這是您本人和 -;<b>你真棒!</b></p>
+  <a>管理你的計劃</a>
 """>
-
 
 
 <messages-title "Messages">
-<messages-search placeholder:"Search">
-<messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
-<messages-start "You've reached the start!">
-<messages-upgrade "Need more than 2 weeks history? Find out about upgrading to <a>Awesome</a> to get the full history.">
+<messages-search placeholder:" 搜索">
+<messages-entry placeholder:" 輸入消息。使用@標記人。按[Enter]發送.">
+<messages-start "你已經達到了啟動!">
+<messages-upgrade "需要2週以上的歷史？了解如何升級到<a>真棒</a> 要得到完整的歷史.">
 
-<diagram-toolbar-history title:"View and copy previous versions.">
-<diagram-toolbar-messages title:"Comments and chat.">
-<diagram-toolbar-present title:"Present this Coggle.">
-<diagram-toolbar-share title:"Share this Coggle.">
-<diagram-toolbar-download title:"Download this Coggle.">
-<diagram-toolbar-copy title:"Create a copy of this Coggle.">
-
-
+<diagram-toolbar-history title:" 查看和復制以前的版本.">
+<diagram-toolbar-messages title:" 評論和聊天.">
+<diagram-toolbar-present title:" 呈現此Coggle.">
+<diagram-toolbar-share title:" 分享此Coggle.">
+<diagram-toolbar-download title:" 下載此Coggle.">
+<diagram-toolbar-copy title:" 創建此Coggle副本.">
 
 /* diagram tooltips */
-<context-dragclick "drag to move, click to edit">
-<context-dragclickfollow "drag to move, click to edit, {{ $followLinkKey }} + click to follow links">
+<context-dragclick "拖動以移動, 點擊編輯">
+<context-dragclickfollow "拖動以移動, 點擊編輯, {{ $followLinkKey }} + 點擊跟踪鏈接">
 
-<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
-<context-insert-branch "insert text: release [shift] to add branch instead">
-<context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
-<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
-<context-root-add-branch "click to add branch">
-<context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
-<context-hide-branch "click to collapse this branch">
-<context-show-branch "click to expand this branch">
-<context-xlink-edit "click to edit label: hold {{ $removeKey }} to remove instead">
-<context-remove-xlink-alt "remove cross-link: release [alt] to edit instead">
+<context-remove-branch-alt "刪除此分支：相反地，放開[ALT]增加分支">
+<context-insert-branch "插入文字：相反地，放開[SHIFT]增加分支">
+<context-squash-branch "擠入文字：相反地，放開{{$ squashKeys}}增加分支">
+<context-remove-branch-ctrl "刪除此分支：使用[CTRL]+[SHIFT]只刪除此項目">
+<context-root-add-branch "點擊添加分支">
+<context-add-branch "點擊添加分支：相反地，按住{{$ removeKey}}刪除">
+<context-hide-branch "點擊折疊此分支">
+<context-show-branch "點擊展開該分支">
+<context-xlink-edit "點擊編輯標籤：相反地，按住{{$ removeKey}}刪除">
+<context-remove-xlink-alt "除去交聯：相反地，放開[ALT]以編輯">
 
 
 /* sharing dialog content */
-<share-newlink "New Link:">
+<share-newlink "新鏈接:">
 <share-newlink-tip """
-  These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+這些讓你與沒有登錄的人分享你的圖表，但要小心，他們讓<strong>任何有該鏈接的人</strong> 看到你的作品!
 """>
-<share-tag-user "user">
-<share-tag-embed "embed">
-<share-tag-writable "editable">
-<share-send-email "SEND">
+<share-tag-user "用戶">
+<share-tag-embed "嵌入">
+<share-tag-writable "編輯的">
+<share-send-email "發送">
 <share-email-hints """
-  <div>to invite, type an email</div>
-  <div>then hit enter</div>
+
+  <div>為了邀請，鍵入電子郵件</div>
+  <div>然後按下回車鍵</div>
   <div>friend@example.com</div>
 """>
 <share-social """
-  <a title='Embed in a website'> <img/> </a>
-  <a title='Share on Facebook'> <img/> </a>
-  <a title='Share on Twitter'> <img/> </a>
+  <a title=“嵌入在網站”> <img/> </a>
+  <a title='在臉書上分享'> <img/> </a>
+  <a title='在推特上分享'> <img/> </a>
 """>
-<share-open "Can everyone view this diagram?">
-<share-open-detail "Open diagrams can be viewed by anyone and may be found by search engines">
+<share-open "每個人都可以查看此圖嗎?">
+<share-open-detail "打開圖表可以被任何人看到，並且可以通過搜索引擎找到">
 
 /* download dialog content */
-<download-pdf "Download PDF">
-<download-png "Download Image">
-<download-mm ".mm File">
-<download-txt "Plain-Text Outline">
-<download-advanced "Advanced Types">
-<download-failed "File generation failed.">
+<download-pdf "下載PDF ">
+<download-png "下載圖片">
+<download-mm ".mm 文件">
+<download-txt "純文字綱要">
+<download-advanced "高級類型">
+<download-failed "文件生成失敗.">
 
 /* access control slider content */
-<access-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-author "Author<br/><span>Allow creating and editing documents</span>">
+<access-readonly "只能讀取<br/><span>只允許他們查看</span>">
+<access-readclone "讀取和創建副本<br/><span>還允許下載和復制</span>">
+<access-author "作者<br/><span>允許創建和編輯文檔</span>">
 
-<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
-<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
-
-<access-remove "Remove {{ $user.givenName }}">
+<access-folder-readonly "只能讀取<br/><span>只允許他們查看</span>">
+<access-folder-readclone "讀取和創建副本<br/><span>還允許下載和復制</span>">
+<access-folder-author "作者<br/><span>允許創建和編輯文檔</span>">
+<access-folder-admin "管理<br/><span>添加和刪除人及文件</span>">
+<access-remove "刪除{{ $user.givenName }}">
 
 /* Notification Messages */
 <readonly-warning """
-  You cannot edit this diagram. <div>If you need to edit it, ask the author to give you permission.</div>
+  您不能編輯此圖. <div>如果需要進行編輯，請作者給你權限.</div>
 """>
 <websocket-offline """
-  Changes may be slow due to network issues. <a>Help me fix this!</a>
+由於網絡問題修改可能緩慢. <a>幫我解決這個問題!</a>
 """>
 <disconnect-warning """
-  <b>Connection lost</b>: Changes may not be saved</div>
+  <b>失去連接</b>: 修改可能不會被保存</div>
 """>
 <unrecoverable-warning """
-  There was an unrecoverable error, please reload the page. If you have information about what might have gone wrong, please email <a>contact@coggle.it</a>
+  有不可恢復的錯誤，請重新加載頁面。如果您有關於什麼可能出錯的信息，請發送電子郵件至<a>contact@coggle.it</a>
 """>
-<banner-undo-warning "Nothing more to undo!">
-<banner-redo-warning "Nothing more to redo!">
+<banner-undo-warning "沒有更多的撤消!">
+<banner-redo-warning "沒有更多的重做!">
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
-  Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!
-  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
+您的圖像已經被調整了大小以適合{{$maxWidth}}乘以 {{$maxHeight}}，這樣我們就可以永遠免費存儲你的圖像了!
+  你可以註冊<a>Coggle真棒</a> 上傳更大的圖片. <a>閱讀更多</a>.
 """>
-<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
 
+<img upload-slow-down "哇,慢點!嘗試一次上傳一個文件.">
 
-/* shortcut help content (in the messages panel on the right-hand side of a
- * diagram)
- */
-<controls[@os] 
- removeKey[@os]: {
-  *win: "ctrl",
-   mac: "alt",
+/* shortcut help content (in the messages panel on the right-hand side of a * diagram) */
+<controls[@os] removeKey[@os]: {
+    *win: "ctrl",
+     mac: "alt",
    linux: "ctrl"
- }
->
-<sidebar-contextmenu "Context Menu">
-<sidebar-clickformenu "Right click an item or the background to access a menu.">
-<sidebar-tapformenu "Tap an item or the background to access a menu.">
-<sidebar-controls "Controls">
-<sidebar-addbranch """
-  <div>Add Branch:</div>
-  <div><span> click </span><div></div></div>
+}>
+
+<sidebar-contextmenu "上下文菜單">
+<sidebar-clickformenu "右鍵點擊一個項目或背景以訪問菜單.">
+<sidebar-tapformenu "點擊一個項目或背景以訪問菜單.">
+<sidebar-controls "控制">
+<sidebar-addbranch """ <div>添加分支:</div> <div><span> 點擊</span><div></div></div>
 """>
-<sidebar-removebranch """
-  <div>Remove Branch:</div>
-  <div><div> {{ controls::removeKey }} </div> <span> + click </span> <div></div></div>
+<sidebar-removebranch """ <div> 刪除分支:</div> <div><div> {{ controls::removeKey }} </div> <span> + 點擊</span> <div></div ></div>
 """>
 <sidebar-insertbranch """
-  <div>Insert Branch:</div>
-  <div><div> shift </div> <span> + click </span> <div></div></div>
+
+  <div>插入分支:</div>
+  <div><div> 轉移</div> <span> + 點擊</span> <div></div></div>
 """>
 <sidebar-movebranch """
-  <div> Move Branch: </div>
-  <div><div> drag anything! </div></div>
+  <div> 移動分支: </div>
+  <div><div> 拖動任何東西! </div></div>
 """>
 <sidebar-transplantbranch """
-  <div> Transplant Branch: </div>
-  <div><div> shift </div> <span> + drag </span> <div></div></div>
+  <div> 移植分支: </div>
+  <div><div> 轉移</div> <span> + 拖動 </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
-  <div> Change Colours: </div>
-  <div><span> click a branch </span></div>
+  <div> 更改顏色: </div>
+  <div><span> 點擊一個分支</span></div>
 """>
 <sidebar-addimages """
-  <div> Add <a>Images</a>: </div>
-  <div><div> drag and drop </div></div>
+  <div> 添加 <a>Images</a>: </div>
+  <div><div> 拖放</div></div>
 """>
 <sidebar-zoom """
-  <div> Zoom: </div>
-  <div><div> ctrl </div><span> + mousewheel </span></div>
+  <div> 放大: </div>
+  <div><div> ctrl </div><span> + 鼠標滾輪</span></div>
 """>
 <sidebar-shortcuts "Shortcuts">
 <sidebar-undo """
-  <div> Undo: </div>
+
+<div> 復原: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
-  <div> Redo: </div>
-  <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
+  <div> 重做: </div>
+  <div><div> ctrl </div> <span> + </span> <div> 轉移 </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-whentyping "When typing">
+<sidebar-whentyping "當輸入">
 <sidebar-sc-newitem """
-  <div> New Item: </div>
-  <div><div> shift </div><span> + </span><div> return </div></div>
+  <div> 新項目: </div>
+  <div><div> 轉移 </div><span> + </span><div>返回</div></div>
 """>
 <sidebar-sc-newchild """
-  <div> New Child Item: </div>
-  <div><div> tab </div></div>
+  <div> 新的子項: </div>
+  <div><div>標籤</div></div>
 """>
 <sidebar-sc-parent """
-  <div> Jump to Parent: </div>
-  <div><div> shift </div><span> + </span><div> tab </div></div>
+  <div> 跳轉到父: </div>
+  <div><div>轉移</div><span> + </span><div> 標籤</div></div>
 """>
 <sidebar-sc-markdown """
-    <div>Format text: </div>
-    <div>use <a>Markdown</a></div>
+    <div>使文字定格: </div>
+    <div>使用 <a>標記</a></div>
 """>
-<another-fact "another!">
+<another-fact "另一個!">
 <cogglefacts-more """
-  Read more...
+
+  閱讀更多...
 """>
-<sidebar-markdown "Markdown">
-<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
-<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
-<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
-<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
-<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
+<sidebar-markdown "標記">
+<markdown-bold "<code>**文字**</code> 讓文字<b>粗體</b>">
+<markdown-italic "<code>*斜體*</code> 讓文字<i>斜體</i>">
+<markdown-link "<code>[標題](example.com)</code> 創建一個<a>鏈接</a>">
+<markdown-checkbox "<code>- [X]</code> 創建一個<input/> 複選框">
+<markdown-code "<code>`文字`</code> 使用一個<code>固定寬度</code> 字形">
 
 /* diagram not-found page */
-<nodiagram-title "Diagram not found!">
-<nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">
-<nodiagram-logged-in "You are currently logged in as <b>{{ $user.givenName }}</b>, with the email address <b>{{ $user.email }}</b>. If this diagram exists, this account does not have permission to access it.">
-<nodiagram-not-logged-in "<b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.">
-<nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
+<nodiagram-title "未發現圖表!">
+<nodiagram-invalid-link "此圖的鏈接無效，或對它的訪問已經被撤銷.">
+<nodiagram-logged-in "您目前作為。。。登錄<b>{{ $user.givenName }}</b>, 用的電子郵件地址<b>{{ $user.email }}</b> . 如果此圖表存在，這個帳戶沒有權限訪問.">
+<nodiagram-not-logged-in "<b>您目前尚未登錄.</b> 如果此圖存在，您登錄到您的帳戶可以訪問這個圖表.">
+<nodiagram-may-need-access "如果有人給你一個鏈接到這個圖，他們可能還需要給你權限查看它.">
 
 
 /* Awesome Landing Page (/awesome) */
 <awesome-pitch """
-  <h2>Coggle Awesome</h2>
-  <p>Supercharge your thinking with Coggle Awesome. Add huge images, present your Coggles, and create private Coggles that won't be indexed by search engines.</p>
+  <h2>Coggle真棒</h2>
+  <p>用Coggle真棒給你的思維充電。添加巨大的圖像，顯示您的Coggles，創造不會被搜索引擎索引的私人Coggles.</p>
 """>
 
-<awesome-signup """
-  <a>SIGN UP NOW</a>
-  <div>$5 / MONTH</div>
+<awesome-sign up """ <a>立即註冊</a> <div>$5 / 月</dom>
 """>
-
-<awesome-feature-private """
-  <img>
-  <h2>Unlimited Private Coggles</h2>
-  <p>Create as many private Coggles as you like. If you do ever cancel your subscription they stay private, and you keep access.</p>
+<awesome-feature-private """ <img> <h2>無限的私人Coggles </h2> <p>創造你想要的盡可能多的私人Coggles。如果你萬一取消訂閱,他們仍保持私有,並且你保持訪問.</p>
 """>
-
-<awesome-feature-present """
-  <img>
-  <h2>Distraction-Free Presentation</h2>
-  <p>Use Presentation Mode to present any Coggle in beautiful distraction-free full-screen mode. Collapse and expand branches as you tell your story.</p>
+<awesome-feature-present """ <img> <h2>無分心演示</h2> <p>使用演示模式在漂亮、無分心、全屏模式上展示任何Coggle。當你講述自己的故事時折疊和展開分支.</p>
 """>
-
-<awesome-feature-bigimages """
-  <img>
-  <h2>Show Them the Big Picture</h2>
-  <p>Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.</p>
+<awesome-feature-bigimages """ <img> <h2>給他們展示大圖片</h2> <p>把龐大的圖像加到您的Coggles來說明你的想法:你只要把你的圖片從桌面上拖放到一個文件裡.</p>
 """>
-
 <awesome-hint-orgs """
-  If you're using Coggle for work, check out <a>Coggle Organisations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
+如果您使用Coggle工作,看看<a>Coggle 組織</a>, 連同所有的Coggle真棒好處,和商業友好的管理功能.
 """>
-
 
 /* Organisations Landing Page (/organisations) */
 <orgs-pitch-3 """
-  <h2>Coggle Organisations</h2>
-  <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
+  <h2>Coggle 組織s</h2>
+  <p>每個Coggle組織帶有管理大批人群的設計特點，會員來來去去，需要保護敏感信息.</p>
 """>
 
-<orgs-signup "<a>CREATE ORGANISATION</a>">
+<orgs-signup "<a>創建 組織</a>">
 
 <orgs-subpitch """
-  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
-  <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
+  <p>當信息對你的團隊至關重要，你需要更強大的工具，更能控制你的數據。這就是我們為什麼創建了<a>Coggle 組織</a>.</p>
+  <p>定價很簡單, <b>每個成員每個月$8 </b>.<br><b>一切無限使用</b>.</p>
 """>
 
 <orgs-feature-in-one-place """
   <img>
-  <h2>Everything in One Place</h2>
-  <p>All your organisations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.</p>
+  <h2>一切都在一個地方</h2>
+  <p>你組織所有的圖表都在一個地方。把你團隊的工作放置在一個易於管理的地方，保持它的安全 - 所以你知道在確切的地方查找.</p>
 """>
 
 <orgs-feature-control-sharing """
   <img>
-  <h2>Control Sharing</h2>
-  <p>You can make sure that Coggles created in your organisation stay in your organisation. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.</p>
+  <h2>共享控制</h2>
+  <p>你可以確保你創造的Coggles 組織留在你的組織。這可以保護敏感材料不被意外曝光，如果錯誤的電子郵件地址被邀請到一個文檔的話.</p>
 """>
 
 <orgs-feature-manage-users """
   <img>
-  <h2>Safely Manage Users</h2>
-  <p>Remove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active.</p>
+  <h2>安全地管理用戶</h2>
+  <p>從你組織刪除成員不會失去他們的工作。使用管理儀表板查看由你的組織成員創建的所有圖表，不論這些成員是過去和現在的，被刪除或現役的.</p>
 """>
 
 <orgs-feature-export """
   <img>
-  <h2>Bulk Export</h2>
-  <p>Organisation admins can download all of the organisations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind. </p>
+  <h2>批量導出</h2>
+  <p>組織管理員可以以機器可讀、可存檔的 JSON 格式，單一點擊下載所有的Coggles 組織。非常適合監管合規或內心的平靜. </p>
 """>
 
 <orgs-feature-branding """
   <img>
-  <h2>Show your Brand</h2>
-  <p>Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.</p>
+  <h2>展示你的品牌</h2>
+  <p>打造帶有您的標誌、專業清潔的圖表，以 PDF 或 PNG 格式導出。非常適合在你的公司中與客戶或同事分享圖表.</p>
 """>
 
 <orgs-feature-editable-links """
   <img>
-  <h2>Editable Private Links</h2>
-  <p>Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.</p>
+  <h2>可編輯的私人鏈接</h2>
+  <p>創建私人鏈接，與你的組織以外的合作者分享，允許他們不必登錄可以編輯圖表.</p>
 """>
 
 <orgs-feature-awesome """
-  In addition, all members of your organisation will get the Coggle <a>Awesome</a> features.
+此外，你組織所有成員將獲得Coggle <a>真棒</a> 特徵功能.
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
-<orgcreate-title2 "Create a <a>Coggle Organisation</a>">
+<orgcreate-title2 "創建一個 <a>Coggle 組織</a>">
 <orgcreate-nameinput """
-  <input placeholder="Choose Your Organisation Name">
-  <span>Pick something short and recognisable!</span>
+  <input placeholder="選擇你組織的名稱">
+  <span>挑一些短但易於識別的!</span>
 """>
 
 <faq-orgs-whatare """
-  <div>What are Coggle Organisations?</div>
-  <div><p>Coggle Organisations create a separation between your personal
-  diagrams and those owned by your company. By separating what's personal from
-  what's professional you gain greater control over your businesses data that's
-  stored in Coggle, including when and how it's shared by your
-  employees.</p></div>
+  <div>什麼是Coggle 組織?</div>
+  <div><p>Coggle 組織在你個人的圖表和那些你公司所屬的圖表之間形成一個分離。通過把個人的和職業的分離開來，你獲得對存儲在Coggle上的企業數據更大的控制，包括何時以及如何被你的員工共享.</p></div>
 """>
 
 <faq-orgs-whofor """
-  <div>Who are Coggle Organisations for?</div>
+  <div> Coggle組織是為誰的?</div>
   <div>
-    <p>Coggle Organisations have been designed for teams that require
-      greater control over the data they enter into Coggle, or need to keep
-      personal data separate. They're being successfully used by private
-      companies, public bodies, schools and universities to help groups
-      collaborate securely.</p> 
-    <p>Any group that need more control over sharing of diagrams, whether for
-      regulatory or internal policy compliance will find Coggle Organisations
-      useful.</p>
+    <p>Coggle 組織是為那些對輸入Coggle 的數據需要更大控制權的團隊或需要保持個人資料獨立而設計的。他們正在成功地被私人公司、公共機構、學校和大學用來幫助群體安全地合作.</p>
+    <p>任何需要對共享圖表有更多控制權的群體，無論是為監管或內部政策合規性，會發現 Coggle 組織有用處.</p>
   </div>
 """>
 
 <faq-orgs-features """
-  <div>What are the main features of a Coggle Organisation?</div>
+  <div>什麼是Coggle組織的主要特點?</div>
   <div>
-    <p><b>Administrators dashboard</b>: complete control over diagrams created
-      by members of your organisation, including restoration of deleted diagrams.
+    <p><b>儀表板管理員</b>: 完全控制你的組織成員創建的圖表，包括恢復已刪除的圖表.
     </p>
-    <p><b>Data control</b>: choose to limit sharing of data to within your
-      organisation only.</p>
-    <p><b>Bulk export</b>: export all diagrams in your organisation for backup
-      or regulatory purposes.</p>
-    <p><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
-      one place, and revoke subscriptions when members come and go from your
-      organsiation. </p>
+
+<p><b>數據控制</b>: 選擇限制只在您的組織中共享數據.</p>
+    <p><b>批量導出</b>: 為了進行備份或監管目的，導出你組織的所有圖表.</p>
+    <p><b>集中計費</b>: 在一個地方支付多個真棒訂閱，並且當你公司的成員進入或離開時取消訂閱. </p>
   </div>
 """>
 
 <faq-orgs-awesome """
-  <div>How do Coggle Organisations relate to Coggle Awesome?</div>
+  <div>Coggle 組織和Coggle真棒怎樣聯繫起來?</div>
   <div>
-    <p>Coggle Organisations are a great way to centralise billing and license
-      management for multiple Coggle Awesome subscriptions.</p>
-    <p>Every user in your Organisation will automatically get Coggle Awesome
-      when they're working on diagrams in your organisation workspace. This means
-      all the great features including private diagrams, presentation mode,
-      extended colour palette and high resolution image uploads.</p>
+    <p> Coggle組織是一種集中計費和對多個Coggle真棒訂閱許可證管理的好方法.</p>
+    <p>當你組織的每個用戶在你組織的工作空間圖上工作時，他們將自動獲得Coggle真棒。這意味著所有的強大功能，包括私人圖表、演示模式、擴展調色板和高分辨率圖片上傳.</p>
   </div>
 """>
 
 <faq-orgs-billing """
-  <div>How does billing work for Coggle Organisations?</div>
-  <div>Coggle Organisations are charged at $8 per member per month. You can add
-  and remove members at any time from the dashboard for your
-  organisation.</div>
+  <div> Coggle組織是怎樣計費的?</div>
+  <div> Coggle組織每位會員每月收費$ 8。您可以隨時從儀表板上為您的組織添加和刪除成員.</div>
 """>
 
 <faq-orgs-edu """
-  <div>Are there any education pricing options?</div>
-  <div>Yes! Contact us at education@coggle.it to find out more.</div>
+  <div>是否有任何教育定價選項?</div>
+  <div>是! 與我們聯繫：education@coggle.it 了解更多.</div>
 """>
 
 <faq-orgs-more """
-  <div>I've still got some questions...</div>
-  <div>Ask us! Send us an email to orgs@coggle.it and we'll be happy to help :)</div>
+  <div>我還有一些問題...</div>
+  <div>問我們！給我們發電子郵件至orgs@coggle.it 我們會很樂意提供幫助 :)</div>
 """>
 
 /* About Coggle (/about) */
 <about-hello2 """
-  <h1>Hello!</h1>
-  <p><b>Coggle gives you a clear way to share and understand complex information.
-  It's a collaborative document that simplifies complex things and
-  a shared workspace to help your team work more effectively together.</b></p>
-  <p>It's free, and we promise it always will be, but we still promise to look
-  after your data the best we know how, to keep backups, and to take security
-  seriously.</p>
-  <p>Our mission is to change the way that people work and collaborate forever,
-  to make you more productive, to make it easier to share information with
-  others, and to do it in a way that's beautiful, and a pleasure to use.</p>
+  <h1>你好!</h1>
+  <p><b>Coggle為您提供一種共享和理解複雜信息的清晰方式。這是一個簡化複雜事物的協作文件，和一個幫助您的團隊更有效地一起工作的共享工作區.</b></p>
+  <p>它是免費的，而且我們承諾，它永遠免費，但我們還答應用我們最多的知識照看你的數據、保持備份、並認真對待安全問題.</p>
+  <p>我們的使命是永遠改變人們工作和合作的方式、讓你更有效率、更容易地與他人分享信息，並且用一種漂亮的方式做到這一點，愉快地使用。 .</p>
 """>
 
 <about-getintouch """
-  <h1>Get in Touch</h1>
-  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just
-  give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter
-  </a>and if you prefer you can always send an email to <a>hello@coggle.it
-  </a>— we love to chat!</p>
+  <h1>保持聯繫</h1>
+  <p>有問題嗎？要告訴我們您使用Coggle得如何？或者，也許只是給我們一些建議嗎？你可以在<a>facebook </a>找到我們和在 <a>推特上
+  </a>如果你願意，你可以隨時發送電子郵件至<a>hello@coggle.it
+  </a>— 我們愛聊天!</p>
 """>
-
 <about-spreadtheword """
-  <h1>Spread the Word</h1>
-  <p>If you love Coggle, then help us break even more people free from the
-  confines of lists, spreadsheets and conventional documents! You can share
-  Coggle <a>on Twitter </a>or <a>on Facebook</a>.</p>
+  <h1>傳播這個消息</h1>
+  <p>如果你愛Coggle，你可以通過讓甚至更多的人擺脫清單、電子表格和傳統文檔的束縛來幫助我們！您可以<a>在推特 上</a>或者 <a>在臉書上</a>共享Coggle.</p>
 """>
 
 <about-press """
-  <h1>In the press?</h1>
-  <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
+  <h1>有新聞嗎?</h1>
+  <p>要不然看看我們的<a>新聞報導專欄</a>, 或者 <a>聯繫我們</a> 以了解更多!</p>
 """>
 
 <about-company """
  <div>
-   <p>Registered in England and Wales. No. 9030487</p>
-   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
+   <p>在英格蘭和威爾士註冊。註冊號 9030487</p>
+   <p>註冊辦公室：威廉·詹姆士大廈，考利路，劍橋，CB4 0WX </p>
  </div>
 """>
 
 
 /* Coggle Facts */
 <fact-math """
-Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
+你知道你可以在Coggles中寫數學嗎？ （是的，令人討厭！）用 \\\\( LaTeX 這裡 \\\\)嘗試一下!
 """>
 <fact-collaborate """
-Did you know that you can collaborate in real-time with others? You can! Use the (+) button in the top right.
+你知道你可以實時與他人合作嗎？您可以！使用右上方的（+）按鈕.
 """>
 <fact-share """
-Did you know that you can edit a Coggle at the same time as someone else? You can! Use the (+) button in the top right to invite others.
+你知道你可以同時與其他人編輯Coggle？您可以！使用右上方的（+）按鈕來邀請其他人.
 """>
 <fact-font """
-Did you know you can use a fixed-width code font in Coggles? You can!<p>Just use `backticks` around the text, it also stops other special syntax from being interpreted.
+你知道你可以在Coggles中使用固定寬度代碼字體？您可以!<p>只需在文字周圍使用‘倒引號’，同時它也會停止對其他特殊的語法做解釋.
 """>
 <fact-bold """
-Did you know you can use **bold text** in Coggles?<p>Just use **double asterisks** where you want the emphasis!
+你知道你可以在Coggles中使用**粗體文字**嗎?<p>只要在你想強調的地方使用**雙星號**!
 """>
 <fact-italic """
-Did you know you can use *italic text* in Coggles?<p>Just use *asterisks* where you want the emphasis!
+你知道你可以在Coggles中使用*斜體*嗎?<p>只要在您要強調的使用*星號*!
 """>
 <fact-links """
-Did you know you can put links in Coggles? You can!<p>They work like this:<br>[description](http://example.com)
+你知道你可以在Coggles中放入鏈接嗎? 您可以!<p>他們是這樣工作的:<br>[描述](http://example.com)
 """>
 <fact-download """
-Did you know that you can download your Coggle as a PDF or an image? You can! Look for the download button in the top right of the screen.
+你知道你可以以PDF或圖像方式下載你的Coggle嗎？您可以！在屏幕的右上方尋找下載按鈕.
 """>
 <fact-markdown """
-Did you know that Coggle uses <a>markdown syntax</a>? It does!<p>Try out links like this: &lt;http://example.com&gt;
+你知道Coggle使用<a>標記語法嗎</a>? 它確實是這樣!<p>嘗試像這樣的鏈接: &lt;http://example.com&gt;
 """>
 <fact-latex """
-Did you know Coggle supports LaTeX formulae? It does!<p>Use \\\\( LaTeX here \\\\) to try it out! Check out <a>this link</a> for syntax help.
+你知道Coggle支持LaTeX公式嗎？它確實是這樣!<p>使用 \\\\( LaTeX 這裡 \\\\) 嘗試一下！查看<a>這個鏈接</a> 尋找語法幫助.
 """>
 <fact-move """
-Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
+希望該項目放在Coggle的不同部分嗎？沒問題！按住shift鍵，同時拖動項目的（+）按鈕重新連接到其他地方.
 """>
 <fact-fontsize """
-Text too big? Too small? You can zoom!<br> use [ctrl] [+] / [ctrl] [-]
+文字太大了？太小了？您可以放大縮小!<br> 使用 [ctrl] [+] / [ctrl] [-]
 """>
 <fact-zoomin """
-Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+], or right click and drag the zoom icon!
+你知道你可以放大仔細看看嗎？您可以!<br> 使用 [ctrl] [+], 或右鍵單擊並拖動縮放圖標!
 """>
 <fact-zoomout """
-Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-], or right click and drag the zoom icon!
+你知道你可以縮小看大圖嗎？您可以!<br> 使用 [ctrl] [-], 或右鍵單擊並拖動縮放圖標!
 """>
 <fact-markdown2 """
-Did you know that <a>Markdown</a> is awesome? It is, and Coggle supports it!
+你知道<a>標記</a>很棒嗎? 確實是這樣，Coggle支持它!
 """>
 <fact-pdf """
-You can download your Coggle as a PDF! Look for the download button in the top right of the screen.
+您可以以PDF方式下載Coggle！在屏幕的右上方尋找下載按鈕.
 """>
 <fact-png """
-You can download your Coggle as an Image! Look for the download button in the top right of the screen.
+您可以以圖像方式下載Coggle！在屏幕的右上方尋找下載按鈕.
 """>
 <fact-latex2 """
-Did you know Coggle supports LaTeX for math? It does!<p>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a>a syntax guide</a>.
+你知道Coggle支持LaTeX數學嗎？它確實是這樣!<p>使用 \\\\( \\LaTeX 這裡 \\\\) 來試試吧t! 這是 <a>語法指南</a>.
 """>
 <fact-history """
-Did you know you can view the history of who changed what, when in your Coggle?  You can! Click the clock icon in the top right.
+你知道您可以查看是誰、什麼時候在你的Coggle中做更改的歷史嗎？您可以！點擊右上角的時鐘圖標.
 """>
 <fact-images """
-Did you know you can put images in your Coggle? You can!<p>Just drag and drop an image from your computer to wherever you want it.
+你知道你可以把圖像放到你的的Coggle中去嗎？您可以!<p>只需將圖像從您的計算機中拖放到你想要的地方.
 """>
 <fact-images2 """
-Did you know you can use images in Coggles? You can!<p>Drag and drop an image from your computer to wherever you want it. A mini version of the image is uploaded and saved!
+你知道你可以在Coggles上使用圖片嗎？您可以!<p>從你的計算機上拖動一個圖像到任何你想的地方。圖像的迷你版上傳並保存!
 """>
 <fact-plaintext-in """
-Did you know you can drag & drop plain text files onto Coggle to import them? You can!<p>If your file has indentation, Coggle will even add structure to the imported text.
+你知道你可以拖放純文字文件到Coggle上導入它們嗎？您可以!<p>如果你的文件有縮格，Coggle甚至會添加 結構到導入的文本中.
 """>
 <fact-freemind-in """
-Did you know you can drag & drop Freemind .mm files onto Coggle to import them? You can!
+你知道你可以拖放 Freemind .mm 文件到Coggle中導入它們嗎？您可以!
 """>
 <fact-link-drag """
-Did you know you can drag a URL from your address bar onto a Coggle to make a link to that site? You can!
-""">
+你知道你可以從你的地址欄中拖動URL到Coggle，做一個鏈接到該網站嗎？您可以！ """>
 <fact-text-size """
-Did you know you can change the font? You can!<p>Use #, ##, or ### at the start of a line to make the text bigger.
+你知道你可以改變字體嗎？您可以！ p>使用 #, ##, 或者 ### 從一行的開始，使文字變大.
 """>
 <fact-text-size2 """
-Did you know you can change the font? You can!<p>Drag the corner of the text editing area up or down to change the text size.
+你知道你可以改變字體嗎？您可以!<p>拖動文本編輯區的一角向上或向下來改變文字大小.
 """>
 <fact-text-size3 """
-Did you know you can change the text size? You can!<p>Drag the corner of the text editing area.
+你知道你可以改變文字大小嗎？您可以!<p>拖動文本編輯區的一個角落.
 """>
 <fact-md-reference """
-Did you know you can use Markdown in Coggles to add links, images and more? You can!<p>Here\'s the <a>complete reference</a>.
+你知道你可以使用標記在Coggles中添加鏈接、圖像和更多嗎？你可以!<p>這裡是 <a>完整的參考</a>.
 """>
 <fact-multiline-keys """
-Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
+你知道你可以撤散多行文字嗎？您可以！按下[Ctrl]鍵同時按下[返回]鍵插入新的一行。您也可以拖動編輯字段的一角，然後正常使用[返回]鍵.
 """>
 <fact-multiline-drag """
-Did you know you can break text over multiple lines? You can! Drag the corner of the edit field, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
+你知道你可以撤散多行文字嗎？您可以！拖動編輯字段的一角，然後按[返回]鍵將插入新的一行，而不是存儲你的編輯。您也可以在輸入的同時，按住[Ctrl]同時按下[返回]鍵插入新的一行.
 """>
 <fact-multiline-wrap """
-Did you know you can break text over multiple lines? You can! Drag the corner of the text editing area left/right to wrap text onto multiple lines.
+你知道你可以撤散多行文字嗎？您可以！左/右拖動文本編輯區的一角自動換行.
 """>
 <fact-resize-images """
-Did you know you can resize images? You can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
-""">
+你知道你可以調整圖像大小嗎？您可以！從互聯網上的任何地方（假定你有使用它的權限）把圖像拖放到你的Coggle，然後拖動圖像的右下角以調整其大小。 """>
 <fact-image-size """
-Did you know we support a Markdown extension to specify image size? We do! Specify a 200 by 100 pixel image like this: ![image description](http://url.to.image "optional title" 200x100)
+你知道我們支持一個標記延伸來指定圖像大小嗎？我們的確是！像這樣指定一個200 X 100像素的圖像: ![圖像描述](http://url.to.image "可選標題" 200x100)
 """>
 <fact-bold-kbshort """
-Did you know you can use keyboard shortcuts to add **bold text** in Coggles? You can! Just press [ctrl]+[b] (or [cmd]+[b] on macs) with the text you want bold selected.
+你知道你可以使用鍵盤快捷鍵在Coggles中添加**粗體文字**嗎？您可以！只需連同你選擇的要變成粗體的文字，按 [ctrl]+[b] (或 [cmd]+[b] 在 macs 上).
 """>
 <fact-shortcuts-1 """
-Did you know you can edit your Coggle using only the keyboard? You can, here\'s how:<p>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
+你知道你可以只用鍵盤編輯Coggle嗎？你可以，這裡教你如何做:<p>[tab] 添加一個子節點<br>[shift]+[tab] 移動到父<br>[shift]+[return] 加同級
 """>
 <fact-shortcuts-2 """
-Did you know you can select which branch to edit using keyboard shortcuts? You can!<p>Use [alt]+[shift]+arrow keys to move along branches.
+你知道你可以使用鍵盤快捷鍵來編輯你所選擇的哪個分支嗎？您可以!<p>使用 [alt]+[shift]+ 箭頭鍵沿著分支移動.
 """>
 <fact-task-lists """
-Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
+你知道你可以使用<a>標記</a> 把清單添加到Coggles嗎？您可以, 這裡是一個例子:<p>- [ ] 取消選中復選框<br>- [X] 選中復選框</p><p>點擊複選框也自動改變標記.
 """>
 <fact-api-1 """
-Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
+你知道我們有一個API嗎？我們的確有！程序可以用它來自動創建、檢查和操作Coggles.
 """>
 <fact-organisation """
-Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+要在商務中使用Coggle嗎？您可以創建一個Coggle組織來管理您公司的Coggles.
 """>
 <fact-organisation2 """
-Did you know Coggle Organisations can put their logo on their Coggles? They can!
+你知道Coggle組織可以把他們的標誌放在他們Coggles上嗎？他們能!
 """>
 <fact-organisation3 """
-Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
+Did you know you can create a Coggle 組織 to organise ​​your businesses Coggles? You can!
 """>
 
 
 /* shared email content */
-<emWelcomeHappyCoggling "That's all for now. Happy Coggling!">
-<emUnsubscribe "Too many emails? Sorry about that, <a>unsubscribe now</a>.">
+<emWelcomeHappyCoggling "到目前為止就這樣了。快樂Coggling!">
+<emUnsubscribe "太多的電子郵件？ 對於這點很抱歉, <a>現在就取消訂閱</a>.">
 <emSendReason """
-You have been sent this message because you signed up at <a>https://coggle.it</a><br> You can manage your communication preferences <a>here</a>.
+你受到該消息，因為你簽約了，<a>https://coggle.it</a><br> 您可以管理您的通信首選項 <a>在這裡</a>.
 """>
-<emSignoffCoggleTeam "<b>The Coggle Team</b>">
+<emSignoffCoggleTeam "<b>The Coggle 團隊</b>">
+
 
 
 /* welcome email content */
-<emWelcomeCoggleFamily "Welcome to the Coggle family {{ $name }} &mdash; It's great to have you on board!">
+<em Welcome Coggle Family "歡迎來到Coggle家庭{{ $name }} &mdash; 有你跟我們在一起真是太好了!">
 <emWelcomeCoggleDesign """
-We've designed Coggle with <b>simplicity</b> and <b>collaboration</b> at its heart. Share your ideas and knowledge with colleagues, classmates or friends to get the most out of Coggle.
+我們設計Coggle時把<b>簡單</b> 和<b>合作</b> 放在心中. 與您的同事、同學或朋友分享您的想法和知識,從Coggle中獲得最多.
 """>
-<emWelcomeCreateDiagram "CREATE A DIAGRAM NOW">
-
+<emWelcomeCreateDiagram "現在就創建一個圖表">
