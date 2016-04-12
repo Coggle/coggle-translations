@@ -28,7 +28,7 @@
   <h1>協同思維導圖</h1>
 
 <p> Coggle是用於創建和共享思維導圖的在線工具。它在你的瀏覽器上在線工作：沒有什麼可以下載或更新。簡單地<a>登錄</a> 現在開始思維導圖!</p>
-  <p>無論你是做筆記、集思廣益、規劃、或做一些赫然創意，Coggle可視化你的想法，超級簡單。只要你喜歡，與盡可能多的朋友或同事分享。您所做的更改會立即顯示在他們的瀏覽器上，無論他們在世界哪裡.</p>
+  <p>無論你是做筆記、集思廣益、規劃、或做一些赫然創意，Coggle可視化你的想法，超級簡單。只要你喜歡，與盡可能多的朋友或同事分享。你所做的更改會立即顯示在他們的瀏覽器上，無論他們在世界哪裡.</p>
 """>
 
 <index-use-notes """
@@ -54,8 +54,7 @@
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>幫助您的團隊溝通，使用<a> Coggle組織</a>.</h2>
-  <p>給你的團隊集思廣益的共享空間，記錄和記載他們的想法。 Coggle組織具有你所需要的所有功能，管理控制你的數據，並與您的業務流程整合。閱讀更多<a>here</a>.</p>
+  <h2>幫助你的團隊溝通，使用<a> Coggle組織</a>.</h2> <p>給你的團隊集思廣益的共享空間，記錄和記載他們的想法。 Coggle組織具有你所需要的所有功能，管理控制你的數據，並與你的業務流程整合。閱讀更多<a>here</a>.</p>
   <a>立即註冊<div>從每位會員每月$ 8起</div></a>
 """>
 
@@ -73,13 +72,13 @@
 <features-collaborate """
   <img>
   <h2>讓每個人都參與進來</h2>
-  <p>通常我們以團隊工作最出色，當團隊自由協作時最有效， Coggle讓您邀請您的朋友和同事在您的圖表裡同一時間與您攜手工作.</p>
+  <p>通常我們以團隊工作最出色，當團隊自由協作時最有效， Coggle讓你邀請你的朋友和同事在你的圖表裡同一時間與你攜手工作.</p>
 """>
 
 <features-images """
   <img>
   <h2>完成圖片</h2>
-  <p>一張圖片勝過千言萬語。 Coggle讓你直接從桌面上拖放圖像到您的圖表。就那麼簡單!</p>
+  <p>一張圖片勝過千言萬語。 Coggle讓你直接從桌面上拖放圖像到你的圖表。就那麼簡單!</p>
   <p>最好的莫過於，你可以添加圖片的數量沒有限制.</p>
 """>
 
@@ -98,7 +97,7 @@
 <features-colours """
   <img>
   <h2>獲得正確的色彩</h2>
-  <p>你是一個視覺思考著嗎？你通過佈局和顏色學習嗎？好吧，確保你的主題獲得正確的顏色，只需點擊一個分支，彈出色輪，並選擇您想要的顏色.</p>
+  <p>你是一個視覺思考著嗎？你通過佈局和顏色學習嗎？好吧，確保你的主題獲得正確的顏色，只需點擊一個分支，彈出色輪，並選擇你想要的顏色.</p>
 """>
 
 <features-others """
@@ -144,7 +143,7 @@
 
 <plans-select "選擇">
 <continue-free "繼續<b>免費</b> 計劃">
-<current-plan "您當前的計劃">
+<current-plan "你當前的計劃">
 <cancel-subscription "取消訂閱">
 <awesome-signup-monthly "註冊 <span>$5</span> 每月">
 <awesome-signup-yearly "註冊 <span>$50</span> 每年">
@@ -180,17 +179,17 @@
 /* logged-in homepage content (documents list): https://coggle.it when logged in
 */
 <create-diagram "<span>創建圖表</span>">
-<search-diagrams placeholder:"搜索您的圖表.">
+<search-diagrams placeholder:"搜索你的圖表.">
 
 <view-gallery "畫廊">
 <create-folder "創建文件夾">
-<created-by-you value:"由您創建">
-<shared-with-you value:"與您分享">
+<created-by-you value:"由你創建">
+<shared-with-you value:"與你分享">
 <folder-title placeholder:"輸入文件夾名稱">
 <folder-areyousure "你確定嗎? <span>我確定</span>">
 <logout "退出">
 <settings "設置">
-<return-to-diagrams "返回到您的圖表">
+<return-to-diagrams "返回到你的圖表">
 <upgrade-to-awesome "升級到真棒!">
 <want-awesome-for-free "希望真棒免費嗎?">
 
@@ -205,13 +204,13 @@
     <div><a>創建圖表</a></div>
 """>
 <doclist-shared """
-  <b>與您分享</b> – 由其他人創建的、然後與您共享的圖表在此文件夾.
+  <b>與你分享</b> – 由其他人創建的、然後與你共享的圖表在此文件夾.
 """>
 <doclist-folder-empty """
   <b>這是一個空文件夾!</b> – 在這裡創建一個新的圖表，或者將圖表拖放到文件夾中.
 """>
 
-<impersonatedaccess "您正在作為一個組織查看Coggle. <a>返回到管理面板</a>">
+<impersonatedaccess "你正在作為一個組織查看Coggle. <a>返回到管理面板</a>">
 
 <doclist-loading-failed "嗯，哦！加載文件夾失敗，刷新頁面，然後再試一次.">
 <doclist-discover-whatspossible "想從Coggle獲得更多嗎？ 發現<a>什麼是可能的</a>.<div></div>">
@@ -234,14 +233,14 @@
 <help-creatediagram-title "創建一個新圖表">
 <help-creatediagram """
   <p>創建一個新的Coggle圖表開始.</p>
-  <p>您創建的圖表將保存在您的主頁上.</p>
+  <p>你創建的圖表將保存在你的主頁上</p>
   <p><b>尋找出更多這些圍繞Coggle的提示!</b></p>
 """>
 
-<help-create folder-title "創建一個文件夾">
+<help-createfolder-title "創建一個文件夾">
 <help-createfolder "創建文件夾與一群人分享,或把Coggles分類.">
 <help-orgs-switch-title "組織之間切換">
-<help-orgs-switch "<p>點擊在組織之間切換.</p><p>組織讓您控制Coggles的共享,並與更大規模的團隊合作.</p>">
+<help-orgs-switch "<p>點擊在組織之間切換.</p><p>組織讓你控制Coggles的共享,並與更大規模的團隊合作.</p>">
 
 
 /* Settings page content */
@@ -268,14 +267,14 @@
 }>
 
 <settings-billing-on-file """
-  <div>我們為您存檔的該卡結束<b>{{ $cardEndsIn }}</b>, 它到期<b>{{ $cardExpires }}</b>.</div>
-  <div>我們為您準備的賬單郵政編碼是<b>{{ $addressZip }}</b>.</div>
+  <div>我們為你存檔的該卡結束<b>{{ $cardEndsIn }}</b>, 它到期<b>{{ $cardExpires }}</b>.</div>
+  <div>我們為你準備的賬單郵政編碼是<b>{{ $addressZip }}</b>.</div>
   <div><a class='edit'>更改我的詳細信息</a></div>
   <div><div>{{ settingsSubmitButton[$submit] }}</div></div>
 """>
 <billing-ok-button "{{ settingsSubmitButton[$submit] }}">
 <billing-charge-description """
-    我們會向您收取
+    我們會向你收取
     <span>{{ $product.price }}</span>
     <span>{{ billingPeriod[$product.periodKey] }}</span>
 """>
@@ -311,7 +310,7 @@
   </div>
 """>
 <billing-choose-country "選擇國家">
-<billing-weusestripe "我們使用<a>條紋</a> 安全地處理支付：您的卡的資料永遠不會通過我們的服務器.">
+<billing-weusestripe "我們使用<a>條紋</a> 安全地處理支付：你的卡的資料永遠不會通過我們的服務器.">
 
 <cancel-really """
   <span>真的要取消你的計劃嗎?</span>
@@ -319,7 +318,7 @@
   <div>是的, 取消訂閱</div>
 """>
 <cancel-discount-available """
-  <span>保持真棒和得到<b> 30 %優惠 </b> 您的下一個訂閱<b>三個月b>!</span>
+  <span>保持真棒和得到<b> 30 %優惠 </b> 你的下一個訂閱<b>三個月b>!</span>
   <div>保持真棒!</div>
   <div>取消訂閱</div>
   <a class='back'>返回</a>
@@ -330,9 +329,9 @@
 <me-emails-primary "(主要的)">
 <me-emailslist "這些是我們為你記錄的郵件:">
 <me-emailstip "我們只發送給主要電子郵件的地址，但你其他任何地址可以收到邀請.">
-<me-commspref "下面是你告訴我們關於您的通訊偏好:">
+<me-commspref "下面是你告訴我們關於你的通訊偏好:">
 <me-comms-explain """
-  有時我們需要發送更新服務和新功能的信息，我們將發送給您的<strong> 主要的</strong> 郵件地址. 我們或任何第三方不會向您發送垃圾郵件或廣告（我們也厭惡受到那東西）.
+  有時我們需要發送更新服務和新功能的信息，我們將發送給你的<strong> 主要的</strong> 郵件地址. 我們或任何第三方不會向你發送垃圾郵件或廣告（我們也厭惡受到那東西）.
 """>
 <me-talktome "跟我說話: ">
 <me-diagram-notifications "圖表通知: ">
@@ -367,11 +366,11 @@
 """>
 
 /* Gallery Content (/gallery) */
-<gallery-title "The Coggle 畫廊">
+<gallery-title "Coggle 畫廊">
 <gallery-blurb "一手挑選最好的、用Coggle製作的圖表收集!">
 
 <gallery-folder-blurb """
-  <b>The Coggle 畫廊</b> - 一手挑選最好的、用Coggle製作的圖表收集! <br/>
+  <b>Coggle 畫廊</b> - 一手挑選最好的、用Coggle製作的圖表收集! <br/>
 跟隨我們<a>推特</a> 或 <a>臉書</a> 定期更新.
 """>
 
@@ -406,11 +405,11 @@
 <help-add-node "使用（+）按鈕來添加分支.">
 <help-edit-node "<p>點擊任何項目編輯文字.</p><p>通過拖動編輯區的角落更改文字大小.</p>">
 <help-move-node "拖動任何文字來移動它.">
-<help-node-menu "右鍵點擊進入菜單。在這裡，您可以添加、刪除、複製、並安排分支機構.">
+<help-node-menu "右鍵點擊進入菜單。在這裡，你可以添加、刪除、複製、並安排分支機構.">
 
 <help-multiline "使用[CTRL] + [進入]添加多行文字，或鍵入之前拖動調整大小握.">
 <help-toolbar-invite-title "與他人協作">
-<help-toolbar-invite "點擊邀請他人編輯或查看這個Coggle。您可以點擊其圖標控制人的權限.">
+<help-toolbar-invite "點擊邀請他人編輯或查看這個Coggle。你可以點擊其圖標控制人的權限.">
 <help-toolbar-invitemulti-title "邀請多人">
 <help-toolbar-invitemulti """
   為了節省時間，你可以一次邀請多個人：鍵入（或粘貼）用空格，逗號分隔的電子郵件地址<b>,</b> 或分號<b>;</b>
@@ -427,7 +426,7 @@
 """>
 
 <me-as-awesome-orgmember """
-  <p>這是您本人和 - 您正查看Coggle作為<b>組織成員</b>.</p>
+  <p>這是你本人和 - 你正查看Coggle作為<b>組織成員</b>.</p>
   <p>這意味著你得到所有的強大功能，也從<a>Coggle 真棒</a> 計劃裡!</p>
 """>
 
@@ -435,7 +434,7 @@
   <p><b>私人圖表 ✓</b></p>
   <p><b>自動排列分支 ✓</b></p>
   <p><b>共享文件夾 ✓</b></p>
-  <p><b>Full 聊天歷史 ✓</b></p>
+  <p><b>全部 聊天歷史 ✓</b></p>
   <p><b>演示模式 ✓</b></p>
   <p><b>更多顏色 ✓</b></p>
   <a>選擇真棒!</a>
@@ -444,13 +443,13 @@
 
 <me-support-awesomethanks """
   <p><b>感謝支持Coggle!</b></p>
-  <p>作為一個早期的Coggle支持者，你得到的所有好處<a>Coggle真棒</a> 包含在您的訂閱計劃裡!</p>
+  <p>作為一個早期的Coggle支持者，你得到的所有好處<a>Coggle真棒</a> 包含在你的訂閱計劃裡!</p>
 
   <a>管理你的計劃</a>
 """>
 
 <me-support-awesomethanks """
-  <p>這是您本人和 -;<b>你真棒!</b></p>
+  <p>這是你本人和 -;<b>你真棒!</b></p>
   <a>管理你的計劃</a>
 """>
 
@@ -474,13 +473,13 @@
 
 <context-remove-branch-alt "刪除此分支：相反地，放開[ALT]增加分支">
 <context-insert-branch "插入文字：相反地，放開[SHIFT]增加分支">
-<context-squash-branch "擠入文字：相反地，放開{{$ squashKeys}}增加分支">
+<context-squash-branch "擠入文字：相反地，放開{{$squashKeys}}增加分支">
 <context-remove-branch-ctrl "刪除此分支：使用[CTRL]+[SHIFT]只刪除此項目">
 <context-root-add-branch "點擊添加分支">
-<context-add-branch "點擊添加分支：相反地，按住{{$ removeKey}}刪除">
+<context-add-branch "點擊添加分支：相反地，按住{{$removeKey}}刪除">
 <context-hide-branch "點擊折疊此分支">
 <context-show-branch "點擊展開該分支">
-<context-xlink-edit "點擊編輯標籤：相反地，按住{{$ removeKey}}刪除">
+<context-xlink-edit "點擊編輯標籤：相反地，按住{{$removeKey}}刪除">
 <context-remove-xlink-alt "除去交聯：相反地，放開[ALT]以編輯">
 
 
@@ -528,7 +527,7 @@
 
 /* Notification Messages */
 <readonly-warning """
-  您不能編輯此圖. <div>如果需要進行編輯，請作者給你權限.</div>
+  你不能編輯此圖. <div>如果需要進行編輯，請作者給你權限.</div>
 """>
 <websocket-offline """
 由於網絡問題修改可能緩慢. <a>幫我解決這個問題!</a>
@@ -537,18 +536,18 @@
   <b>失去連接</b>: 修改可能不會被保存</div>
 """>
 <unrecoverable-warning """
-  有不可恢復的錯誤，請重新加載頁面。如果您有關於什麼可能出錯的信息，請發送電子郵件至<a>contact@coggle.it</a>
+  有不可恢復的錯誤，請重新加載頁面。如果你有關於什麼可能出錯的信息，請發送電子郵件至<a>contact@coggle.it</a>
 """>
 <banner-undo-warning "沒有更多的撤消!">
 <banner-redo-warning "沒有更多的重做!">
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
-您的圖像已經被調整了大小以適合{{$maxWidth}}乘以 {{$maxHeight}}，這樣我們就可以永遠免費存儲你的圖像了!
+你的圖像已經被調整了大小以適合{{$maxWidth}}乘以 {{$maxHeight}}，這樣我們就可以永遠免費存儲你的圖像了!
   你可以註冊<a>Coggle真棒</a> 上傳更大的圖片. <a>閱讀更多</a>.
 """>
 
-<img upload-slow-down "哇,慢點!嘗試一次上傳一個文件.">
+<imgupload-slow-down "哇,慢點!嘗試一次上傳一個文件.">
 
 /* shortcut help content (in the messages panel on the right-hand side of a * diagram) */
 <controls[@os] removeKey[@os]: {
@@ -632,27 +631,42 @@
 /* diagram not-found page */
 <nodiagram-title "未發現圖表!">
 <nodiagram-invalid-link "此圖的鏈接無效，或對它的訪問已經被撤銷.">
-<nodiagram-logged-in "您目前作為。。。登錄<b>{{ $user.givenName }}</b>, 用的電子郵件地址<b>{{ $user.email }}</b> . 如果此圖表存在，這個帳戶沒有權限訪問.">
-<nodiagram-not-logged-in "<b>您目前尚未登錄.</b> 如果此圖存在，您登錄到您的帳戶可以訪問這個圖表.">
+<nodiagram-logged-in "你目前作為。。。登錄<b>{{ $user.givenName }}</b>, 用的電子郵件地址<b>{{ $user.email }}</b> . 如果此圖表存在，這個帳戶沒有權限訪問.">
+<nodiagram-not-logged-in "<b>你目前尚未登錄.</b> 如果此圖存在，你登錄到你的帳戶可以訪問這個圖表.">
 <nodiagram-may-need-access "如果有人給你一個鏈接到這個圖，他們可能還需要給你權限查看它.">
 
 
 /* Awesome Landing Page (/awesome) */
 <awesome-pitch """
   <h2>Coggle真棒</h2>
-  <p>用Coggle真棒給你的思維充電。添加巨大的圖像，顯示您的Coggles，創造不會被搜索引擎索引的私人Coggles.</p>
+  <p>用Coggle真棒給你的思維充電。添加巨大的圖像，顯示你的Coggles，創造不會被搜索引擎索引的私人Coggles.</p>
 """>
 
-<awesome-sign up """ <a>立即註冊</a> <div>$5 / 月</dom>
+<awesome-signup """
+  <a>立即註冊</a>
+  <div>$5 / 月</dom>
 """>
-<awesome-feature-private """ <img> <h2>無限的私人Coggles </h2> <p>創造你想要的盡可能多的私人Coggles。如果你萬一取消訂閱,他們仍保持私有,並且你保持訪問.</p>
+
+<awesome-feature-private """
+  <img>
+  <h2>無限的私人Coggles </h2>
+  <p>創造你想要的盡可能多的私人Coggles。如果你萬一取消訂閱,他們仍保持私有,並且你保持訪問.</p>
 """>
-<awesome-feature-present """ <img> <h2>無分心演示</h2> <p>使用演示模式在漂亮、無分心、全屏模式上展示任何Coggle。當你講述自己的故事時折疊和展開分支.</p>
+
+<awesome-feature-present """
+  <img>
+  <h2>無分心演示</h2>
+  <p>使用演示模式在漂亮、無分心、全屏模式上展示任何Coggle。當你講述自己的故事時折疊和展開分支.</p>
 """>
-<awesome-feature-bigimages """ <img> <h2>給他們展示大圖片</h2> <p>把龐大的圖像加到您的Coggles來說明你的想法:你只要把你的圖片從桌面上拖放到一個文件裡.</p>
+
+<awesome-feature-bigimages """
+  <img>
+  <h2>給他們展示大圖片</h2>
+  <p>把龐大的圖像加到你的Coggles來說明你的想法:你只要把你的圖片從桌面上拖放到一個文件裡.</p>
 """>
+
 <awesome-hint-orgs """
-如果您使用Coggle工作,看看<a>Coggle 組織</a>, 連同所有的Coggle真棒好處,和商業友好的管理功能.
+  如果你使用Coggle工作,看看<a>Coggle 組織</a>, 連同所有的Coggle真棒好處,和商業友好的管理功能.
 """>
 
 /* Organisations Landing Page (/organisations) */
@@ -695,7 +709,7 @@
 <orgs-feature-branding """
   <img>
   <h2>展示你的品牌</h2>
-  <p>打造帶有您的標誌、專業清潔的圖表，以 PDF 或 PNG 格式導出。非常適合在你的公司中與客戶或同事分享圖表.</p>
+  <p>打造帶有你的標誌、專業清潔的圖表，以 PDF 或 PNG 格式導出。非常適合在你的公司中與客戶或同事分享圖表.</p>
 """>
 
 <orgs-feature-editable-links """
@@ -734,7 +748,7 @@
     <p><b>儀表板管理員</b>: 完全控制你的組織成員創建的圖表，包括恢復已刪除的圖表.
     </p>
 
-<p><b>數據控制</b>: 選擇限制只在您的組織中共享數據.</p>
+<p><b>數據控制</b>: 選擇限制只在你的組織中共享數據.</p>
     <p><b>批量導出</b>: 為了進行備份或監管目的，導出你組織的所有圖表.</p>
     <p><b>集中計費</b>: 在一個地方支付多個真棒訂閱，並且當你公司的成員進入或離開時取消訂閱. </p>
   </div>
@@ -750,7 +764,7 @@
 
 <faq-orgs-billing """
   <div> Coggle組織是怎樣計費的?</div>
-  <div> Coggle組織每位會員每月收費$ 8。您可以隨時從儀表板上為您的組織添加和刪除成員.</div>
+  <div> Coggle組織每位會員每月收費$ 8。你可以隨時從儀表板上為你的組織添加和刪除成員.</div>
 """>
 
 <faq-orgs-edu """
@@ -766,20 +780,20 @@
 /* About Coggle (/about) */
 <about-hello2 """
   <h1>你好!</h1>
-  <p><b>Coggle為您提供一種共享和理解複雜信息的清晰方式。這是一個簡化複雜事物的協作文件，和一個幫助您的團隊更有效地一起工作的共享工作區.</b></p>
+  <p><b>Coggle為你提供一種共享和理解複雜信息的清晰方式。這是一個簡化複雜事物的協作文件，和一個幫助你的團隊更有效地一起工作的共享工作區.</b></p>
   <p>它是免費的，而且我們承諾，它永遠免費，但我們還答應用我們最多的知識照看你的數據、保持備份、並認真對待安全問題.</p>
   <p>我們的使命是永遠改變人們工作和合作的方式、讓你更有效率、更容易地與他人分享信息，並且用一種漂亮的方式做到這一點，愉快地使用。 .</p>
 """>
 
 <about-getintouch """
   <h1>保持聯繫</h1>
-  <p>有問題嗎？要告訴我們您使用Coggle得如何？或者，也許只是給我們一些建議嗎？你可以在<a>facebook </a>找到我們和在 <a>推特上
+  <p>有問題嗎？要告訴我們你使用Coggle得如何？或者，也許只是給我們一些建議嗎？你可以在<a>facebook </a>找到我們和在 <a>推特上
   </a>如果你願意，你可以隨時發送電子郵件至<a>hello@coggle.it
   </a>— 我們愛聊天!</p>
 """>
 <about-spreadtheword """
   <h1>傳播這個消息</h1>
-  <p>如果你愛Coggle，你可以通過讓甚至更多的人擺脫清單、電子表格和傳統文檔的束縛來幫助我們！您可以<a>在推特 上</a>或者 <a>在臉書上</a>共享Coggle.</p>
+  <p>如果你愛Coggle，你可以通過讓甚至更多的人擺脫清單、電子表格和傳統文檔的束縛來幫助我們！你可以<a>在推特 上</a>或者 <a>在臉書上</a>共享Coggle.</p>
 """>
 
 <about-press """
@@ -800,25 +814,25 @@
 你知道你可以在Coggles中寫數學嗎？ （是的，令人討厭！）用 \\\\( LaTeX 這裡 \\\\)嘗試一下!
 """>
 <fact-collaborate """
-你知道你可以實時與他人合作嗎？您可以！使用右上方的（+）按鈕.
+你知道你可以實時與他人合作嗎？你可以！使用右上方的（+）按鈕.
 """>
 <fact-share """
-你知道你可以同時與其他人編輯Coggle？您可以！使用右上方的（+）按鈕來邀請其他人.
+你知道你可以同時與其他人編輯Coggle？你可以！使用右上方的（+）按鈕來邀請其他人.
 """>
 <fact-font """
-你知道你可以在Coggles中使用固定寬度代碼字體？您可以!<p>只需在文字周圍使用‘倒引號’，同時它也會停止對其他特殊的語法做解釋.
+你知道你可以在Coggles中使用固定寬度代碼字體？你可以!<p>只需在文字周圍使用‘倒引號’，同時它也會停止對其他特殊的語法做解釋.
 """>
 <fact-bold """
 你知道你可以在Coggles中使用**粗體文字**嗎?<p>只要在你想強調的地方使用**雙星號**!
 """>
 <fact-italic """
-你知道你可以在Coggles中使用*斜體*嗎?<p>只要在您要強調的使用*星號*!
+你知道你可以在Coggles中使用*斜體*嗎?<p>只要在你要強調的使用*星號*!
 """>
 <fact-links """
-你知道你可以在Coggles中放入鏈接嗎? 您可以!<p>他們是這樣工作的:<br>[描述](http://example.com)
+你知道你可以在Coggles中放入鏈接嗎? 你可以!<p>他們是這樣工作的:<br>[描述](http://example.com)
 """>
 <fact-download """
-你知道你可以以PDF或圖像方式下載你的Coggle嗎？您可以！在屏幕的右上方尋找下載按鈕.
+你知道你可以以PDF或圖像方式下載你的Coggle嗎？你可以！在屏幕的右上方尋找下載按鈕.
 """>
 <fact-markdown """
 你知道Coggle使用<a>標記語法嗎</a>? 它確實是這樣!<p>嘗試像這樣的鏈接: &lt;http://example.com&gt;
@@ -830,92 +844,92 @@
 希望該項目放在Coggle的不同部分嗎？沒問題！按住shift鍵，同時拖動項目的（+）按鈕重新連接到其他地方.
 """>
 <fact-fontsize """
-文字太大了？太小了？您可以放大縮小!<br> 使用 [ctrl] [+] / [ctrl] [-]
+文字太大了？太小了？你可以放大縮小!<br> 使用 [ctrl] [+] / [ctrl] [-]
 """>
 <fact-zoomin """
-你知道你可以放大仔細看看嗎？您可以!<br> 使用 [ctrl] [+], 或右鍵單擊並拖動縮放圖標!
+你知道你可以放大仔細看看嗎？你可以!<br> 使用 [ctrl] [+], 或右鍵單擊並拖動縮放圖標!
 """>
 <fact-zoomout """
-你知道你可以縮小看大圖嗎？您可以!<br> 使用 [ctrl] [-], 或右鍵單擊並拖動縮放圖標!
+你知道你可以縮小看大圖嗎？你可以!<br> 使用 [ctrl] [-], 或右鍵單擊並拖動縮放圖標!
 """>
 <fact-markdown2 """
 你知道<a>標記</a>很棒嗎? 確實是這樣，Coggle支持它!
 """>
 <fact-pdf """
-您可以以PDF方式下載Coggle！在屏幕的右上方尋找下載按鈕.
+你可以以PDF方式下載Coggle！在屏幕的右上方尋找下載按鈕.
 """>
 <fact-png """
-您可以以圖像方式下載Coggle！在屏幕的右上方尋找下載按鈕.
+你可以以圖像方式下載Coggle！在屏幕的右上方尋找下載按鈕.
 """>
 <fact-latex2 """
 你知道Coggle支持LaTeX數學嗎？它確實是這樣!<p>使用 \\\\( \\LaTeX 這裡 \\\\) 來試試吧t! 這是 <a>語法指南</a>.
 """>
 <fact-history """
-你知道您可以查看是誰、什麼時候在你的Coggle中做更改的歷史嗎？您可以！點擊右上角的時鐘圖標.
+你知道你可以查看是誰、什麼時候在你的Coggle中做更改的歷史嗎？你可以！點擊右上角的時鐘圖標.
 """>
 <fact-images """
-你知道你可以把圖像放到你的的Coggle中去嗎？您可以!<p>只需將圖像從您的計算機中拖放到你想要的地方.
+你知道你可以把圖像放到你的的Coggle中去嗎？你可以!<p>只需將圖像從你的計算機中拖放到你想要的地方.
 """>
 <fact-images2 """
-你知道你可以在Coggles上使用圖片嗎？您可以!<p>從你的計算機上拖動一個圖像到任何你想的地方。圖像的迷你版上傳並保存!
+你知道你可以在Coggles上使用圖片嗎？你可以!<p>從你的計算機上拖動一個圖像到任何你想的地方。圖像的迷你版上傳並保存!
 """>
 <fact-plaintext-in """
-你知道你可以拖放純文字文件到Coggle上導入它們嗎？您可以!<p>如果你的文件有縮格，Coggle甚至會添加 結構到導入的文本中.
+你知道你可以拖放純文字文件到Coggle上導入它們嗎？你可以!<p>如果你的文件有縮格，Coggle甚至會添加 結構到導入的文本中.
 """>
 <fact-freemind-in """
-你知道你可以拖放 Freemind .mm 文件到Coggle中導入它們嗎？您可以!
+你知道你可以拖放 Freemind .mm 文件到Coggle中導入它們嗎？你可以!
 """>
 <fact-link-drag """
-你知道你可以從你的地址欄中拖動URL到Coggle，做一個鏈接到該網站嗎？您可以！ """>
+你知道你可以從你的地址欄中拖動URL到Coggle，做一個鏈接到該網站嗎？你可以！ """>
 <fact-text-size """
-你知道你可以改變字體嗎？您可以！ p>使用 #, ##, 或者 ### 從一行的開始，使文字變大.
+你知道你可以改變字體嗎？你可以！ p>使用 #, ##, 或者 ### 從一行的開始，使文字變大.
 """>
 <fact-text-size2 """
-你知道你可以改變字體嗎？您可以!<p>拖動文本編輯區的一角向上或向下來改變文字大小.
+你知道你可以改變字體嗎？你可以!<p>拖動文本編輯區的一角向上或向下來改變文字大小.
 """>
 <fact-text-size3 """
-你知道你可以改變文字大小嗎？您可以!<p>拖動文本編輯區的一個角落.
+你知道你可以改變文字大小嗎？你可以!<p>拖動文本編輯區的一個角落.
 """>
 <fact-md-reference """
 你知道你可以使用標記在Coggles中添加鏈接、圖像和更多嗎？你可以!<p>這裡是 <a>完整的參考</a>.
 """>
 <fact-multiline-keys """
-你知道你可以撤散多行文字嗎？您可以！按下[Ctrl]鍵同時按下[返回]鍵插入新的一行。您也可以拖動編輯字段的一角，然後正常使用[返回]鍵.
+你知道你可以撤散多行文字嗎？你可以！按下[Ctrl]鍵同時按下[返回]鍵插入新的一行。你也可以拖動編輯字段的一角，然後正常使用[返回]鍵.
 """>
 <fact-multiline-drag """
-你知道你可以撤散多行文字嗎？您可以！拖動編輯字段的一角，然後按[返回]鍵將插入新的一行，而不是存儲你的編輯。您也可以在輸入的同時，按住[Ctrl]同時按下[返回]鍵插入新的一行.
+你知道你可以撤散多行文字嗎？你可以！拖動編輯字段的一角，然後按[返回]鍵將插入新的一行，而不是存儲你的編輯。你也可以在輸入的同時，按住[Ctrl]同時按下[返回]鍵插入新的一行.
 """>
 <fact-multiline-wrap """
-你知道你可以撤散多行文字嗎？您可以！左/右拖動文本編輯區的一角自動換行.
+你知道你可以撤散多行文字嗎？你可以！左/右拖動文本編輯區的一角自動換行.
 """>
 <fact-resize-images """
-你知道你可以調整圖像大小嗎？您可以！從互聯網上的任何地方（假定你有使用它的權限）把圖像拖放到你的Coggle，然後拖動圖像的右下角以調整其大小。 """>
+你知道你可以調整圖像大小嗎？你可以！從互聯網上的任何地方（假定你有使用它的權限）把圖像拖放到你的Coggle，然後拖動圖像的右下角以調整其大小。 """>
 <fact-image-size """
 你知道我們支持一個標記延伸來指定圖像大小嗎？我們的確是！像這樣指定一個200 X 100像素的圖像: ![圖像描述](http://url.to.image "可選標題" 200x100)
 """>
 <fact-bold-kbshort """
-你知道你可以使用鍵盤快捷鍵在Coggles中添加**粗體文字**嗎？您可以！只需連同你選擇的要變成粗體的文字，按 [ctrl]+[b] (或 [cmd]+[b] 在 macs 上).
+你知道你可以使用鍵盤快捷鍵在Coggles中添加**粗體文字**嗎？你可以！只需連同你選擇的要變成粗體的文字，按 [ctrl]+[b] (或 [cmd]+[b] 在 macs 上).
 """>
 <fact-shortcuts-1 """
 你知道你可以只用鍵盤編輯Coggle嗎？你可以，這裡教你如何做:<p>[tab] 添加一個子節點<br>[shift]+[tab] 移動到父<br>[shift]+[return] 加同級
 """>
 <fact-shortcuts-2 """
-你知道你可以使用鍵盤快捷鍵來編輯你所選擇的哪個分支嗎？您可以!<p>使用 [alt]+[shift]+ 箭頭鍵沿著分支移動.
+你知道你可以使用鍵盤快捷鍵來編輯你所選擇的哪個分支嗎？你可以!<p>使用 [alt]+[shift]+ 箭頭鍵沿著分支移動.
 """>
 <fact-task-lists """
-你知道你可以使用<a>標記</a> 把清單添加到Coggles嗎？您可以, 這裡是一個例子:<p>- [ ] 取消選中復選框<br>- [X] 選中復選框</p><p>點擊複選框也自動改變標記.
+你知道你可以使用<a>標記</a> 把清單添加到Coggles嗎？你可以, 這裡是一個例子:<p>- [ ] 取消選中復選框<br>- [X] 選中復選框</p><p>點擊複選框也自動改變標記.
 """>
 <fact-api-1 """
 你知道我們有一個API嗎？我們的確有！程序可以用它來自動創建、檢查和操作Coggles.
 """>
 <fact-organisation """
-要在商務中使用Coggle嗎？您可以創建一個Coggle組織來管理您公司的Coggles.
+要在商務中使用Coggle嗎？你可以創建一個Coggle組織來管理你公司的Coggles.
 """>
 <fact-organisation2 """
 你知道Coggle組織可以把他們的標誌放在他們Coggles上嗎？他們能!
 """>
 <fact-organisation3 """
-Did you know you can create a Coggle 組織 to organise ​​your businesses Coggles? You can!
+你知道你可以創建一個Coggle組織來組織你的企業Coggles？ 你可以! 
 """>
 
 
@@ -923,15 +937,15 @@ Did you know you can create a Coggle 組織 to organise ​​your businesses Co
 <emWelcomeHappyCoggling "到目前為止就這樣了。快樂Coggling!">
 <emUnsubscribe "太多的電子郵件？ 對於這點很抱歉, <a>現在就取消訂閱</a>.">
 <emSendReason """
-你受到該消息，因為你簽約了，<a>https://coggle.it</a><br> 您可以管理您的通信首選項 <a>在這裡</a>.
+你受到該消息，因為你簽約了，<a>https://coggle.it</a><br> 你可以管理你的通信首選項 <a>在這裡</a>.
 """>
-<emSignoffCoggleTeam "<b>The Coggle 團隊</b>">
+<emSignoffCoggleTeam "<b>Coggle 團隊</b>">
 
 
 
 /* welcome email content */
-<em Welcome Coggle Family "歡迎來到Coggle家庭{{ $name }} &mdash; 有你跟我們在一起真是太好了!">
+<emWelcomeCoggleFamily "歡迎來到Coggle家庭{{ $name }} &mdash; 有你跟我們在一起真是太好了!">
 <emWelcomeCoggleDesign """
-我們設計Coggle時把<b>簡單</b> 和<b>合作</b> 放在心中. 與您的同事、同學或朋友分享您的想法和知識,從Coggle中獲得最多.
+我們設計Coggle時把<b>簡單</b> 和<b>合作</b> 放在心中. 與你的同事、同學或朋友分享你的想法和知識,從Coggle中獲得最多.
 """>
 <emWelcomeCreateDiagram "現在就創建一個圖表">
