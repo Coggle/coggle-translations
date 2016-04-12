@@ -254,6 +254,12 @@
     create: "create",
 }>
 
+<billingPeriod {
+           *permonth: "per month",
+   permemberpermonth: "par member per month",
+             peryear: "per year"
+}>
+
 <settings-billing-on-file """
   <div>The card we have on file for you ends in <b>{{ $cardEndsIn }}</b>, it expires on <b>{{ $cardExpires }}</b>.</div>
   <div>The billing zipcode we have for you is <b>{{ $addressZip }}</b>.</div>
@@ -264,7 +270,7 @@
 <billing-charge-description """
     We'll charge you
     <span>{{ $product.price }}</span>
-    <span>{{ $product.period }}</span>
+    <span>{{ billingPeriod[$product.periodKey] }}</span>
 """>
 <billing-remove-card "Remove my card details">
 
