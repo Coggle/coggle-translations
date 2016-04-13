@@ -931,21 +931,3 @@
 <fact-organisation3 """
 你知道你可以創建一個Coggle組織來組織你的企業Coggles？ 你可以! 
 """>
-
-
-/* shared email content */
-<emWelcomeHappyCoggling "到目前為止就這樣了。快樂Coggling!">
-<emUnsubscribe "太多的電子郵件？ 對於這點很抱歉, <a>現在就取消訂閱</a>.">
-<emSendReason """
-你受到該消息，因為你簽約了，<a>https://coggle.it</a><br> 你可以管理你的通信首選項 <a>在這裡</a>.
-""">
-<emSignoffCoggleTeam "<b>Coggle 團隊</b>">
-
-
-
-/* welcome email content */
-<emWelcomeCoggleFamily "歡迎來到Coggle家庭{{ $name }} &mdash; 有你跟我們在一起真是太好了!">
-<emWelcomeCoggleDesign """
-我們設計Coggle時把<b>簡單</b> 和<b>合作</b> 放在心中. 與你的同事、同學或朋友分享你的想法和知識,從Coggle中獲得最多.
-""">
-<emWelcomeCreateDiagram "現在就創建一個圖表">
