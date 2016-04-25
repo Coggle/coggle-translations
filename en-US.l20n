@@ -256,7 +256,7 @@
 
 <billingPeriod {
            *permonth: "per month",
-   permemberpermonth: "par member per month",
+   permemberpermonth: "per member per month",
              peryear: "per year"
 }>
 
