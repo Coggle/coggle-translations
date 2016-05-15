@@ -58,52 +58,20 @@
   <a>立即註冊<div>從每位會員每月$ 8起</div></a>
 """>
 
-<index-description """
-  <h1>發揮你的創造力</h1>
-  <p>製作精美的筆記，方便快捷。與朋友和同事分享他們，協同提升你的創意。所有這些都是免費!</p>
-  <p><a><span><b>現在就開始! </b></span></a><a><span>或者閱讀更多.</span></a></p >
-""">
+<features-collaborate-title "讓每個人都參與進來">
+<features-collaborate "通常我們以團隊工作最出色，當團隊自由協作時最有效， Coggle讓你邀請你的朋友和同事在你的圖表裡同一時間與你攜手工作.">
 
-<testimonial-jenn """
-  <p>"我只能想到一個詞來形容我對它的滿意...... supercalifragilisticexpialidocious!"</p>
-  <p>Jenn, Coggle 用戶</p>
-""">
+<features-images-title "完成圖片">
+<features-images "一張圖片勝過千言萬語。 Coggle讓你直接從桌面上拖放圖像到你的圖表。就那麼簡單! 最好的莫過於，你可以添加圖片的數量沒有限制.">
 
-<features-collaborate """
-  <img>
-  <h2>讓每個人都參與進來</h2>
-  <p>通常我們以團隊工作最出色，當團隊自由協作時最有效， Coggle讓你邀請你的朋友和同事在你的圖表裡同一時間與你攜手工作.</p>
-""">
+<features-history-title "回到從前">
+<features-history "你已經修改了文件，一天后回來決定你不喜歡所做的編輯？有了Coggle，這不是一個問題。只需進入歷史模式，找到合適的版本，並從該點做個副本!">
 
-<features-images """
-  <img>
-  <h2>完成圖片</h2>
-  <p>一張圖片勝過千言萬語。 Coggle讓你直接從桌面上拖放圖像到你的圖表。就那麼簡單!</p>
-  <p>最好的莫過於，你可以添加圖片的數量沒有限制.</p>
-""">
+<features-blame-title "跟踪問責">
+<features-blame "有沒有想過是誰對那個共享文檔做了那些更改？有了Coggle，你可以看看你圖表的歷史，是誰和什麼時候做了那些更改！只要進入圖表歷史模式即可找出.">
 
-<features-history """
-  <img>
-  <h2>回到從前</h2>
-  <p>你已經修改了文件，一天后回來決定你不喜歡所做的編輯？有了Coggle，這不是一個問題。只需進入歷史模式，找到合適的版本，並從該點做個副本!</p>
-""">
-
-<features-blame """
-  <img>
-  <h2>跟踪問責</h2>
-  <p>有沒有想過是誰對那個共享文檔做了那些更改？有了Coggle，你可以看看你圖表的歷史，是誰和什麼時候做了那些更改！只要進入圖表歷史模式即可找出.</p>
-""">
-
-<features-colours """
-  <img>
-  <h2>獲得正確的色彩</h2>
-  <p>你是一個視覺思考著嗎？你通過佈局和顏色學習嗎？好吧，確保你的主題獲得正確的顏色，只需點擊一個分支，彈出色輪，並選擇你想要的顏色.</p>
-""">
-
-<features-others """
-  Coggle還有許多其他強大的功能，所以<a>現在就試試</a>, 它是免費的！訪問<a>博客</a> 閱讀更多.
-""">
-
+<features-colours-title "獲得正確的色彩">
+<features-colours "你是一個視覺思考著嗎？你通過佈局和顏色學習嗎？好吧，確保你的主題獲得正確的顏色，只需點擊一個分支，彈出色輪，並選擇你想要的顏色.">
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
@@ -151,29 +119,14 @@
 <yearly-discount-percent "支付全年節省超過15％">
 <switch-yearly "升級到每年">
 
-<footer-homepage """
-  <p>
-    <a>關於</a>
-    <a>聯繫</a>
-    <a>臉書</a>
-    <a>推特</a>
-    <a>隱私</a>
-    <a>條款</a>
-    <a>新聞報導</a>
-  </p>
-""">
-<footer-doclist """
-  <p>
-    <a><img/> 谷歌驅動器</a>
-    <a>關於</a>
-    <a>聯繫</a>
-    <a>臉書</a>
-    <a>推特</a>
-    <a>隱私</a>
-    <a>條款</a>
-    <a>新聞報導</a>
- </p>
-""">
+<footer-about "關於">
+<footer-contact "聯繫">
+<footer-facebook "臉書">
+<footer-twitter "推特">
+<footer-privacy "隱私">
+<footer-terms "條款">
+<footer-press "新聞報導">
+<footer-gdrive "<img/> 谷歌驅動器">
 
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in
@@ -194,22 +147,12 @@
 <want-awesome-for-free "希望真棒免費嗎?">
 
 <limitedaccess "你有有限的訪問權限{{ $resourceName }} 因為你不是一個成員">
-<link-drive """
-  <a><img>
-    <span>太多Coggles？在谷歌驅動器整理他們</span>
-  </a>
-""">
 <doclist-create """
     <b>歡迎來到Coggle!</b> – 你創建的圖表將在這裡列出.
     <div><a>創建圖表</a></div>
 """>
-<doclist-shared """
-  <b>與你分享</b> – 由其他人創建的、然後與你共享的圖表在此文件夾.
-""">
-<doclist-folder-empty """
-  <b>這是一個空文件夾!</b> – 在這裡創建一個新的圖表，或者將圖表拖放到文件夾中.
-""">
-
+<doclist-shared "<b>與你分享</b> – 由其他人創建的、然後與你共享的圖表在此文件夾.">
+<doclist-folder-empty "<b>這是一個空文件夾!</b> – 在這裡創建一個新的圖表，或者將圖表拖放到文件夾中.">
 <impersonatedaccess "你正在作為一個組織查看Coggle. <a>返回到管理面板</a>">
 
 <doclist-loading-failed "嗯，哦！加載文件夾失敗，刷新頁面，然後再試一次.">
@@ -327,12 +270,7 @@
 <me-communication-title "通訊">
 <me-emails-title "電子郵件地址">
 <me-emails-primary "(主要的)">
-<me-emailslist "這些是我們為你記錄的郵件:">
 <me-emailstip "我們只發送給主要電子郵件的地址，但你其他任何地址可以收到邀請.">
-<me-commspref "下面是你告訴我們關於你的通訊偏好:">
-<me-comms-explain """
-  有時我們需要發送更新服務和新功能的信息，我們將發送給你的<strong> 主要的</strong> 郵件地址. 我們或任何第三方不會向你發送垃圾郵件或廣告（我們也厭惡受到那東西）.
-""">
 <me-talktome "跟我說話: ">
 <me-diagram-notifications "圖表通知: ">
 
@@ -430,16 +368,8 @@
   <p>這意味著你得到所有的強大功能，也從<a>Coggle 真棒</a> 計劃裡!</p>
 """>
 
-<awesome-promo-benefits """
-  <p><b>私人圖表 ✓</b></p>
-  <p><b>自動排列分支 ✓</b></p>
-  <p><b>共享文件夾 ✓</b></p>
-  <p><b>全部 聊天歷史 ✓</b></p>
-  <p><b>演示模式 ✓</b></p>
-  <p><b>更多顏色 ✓</b></p>
-  <a>選擇真棒!</a>
-  <p><a>希望真棒免費嗎?</a></p>
-""">
+<go-awesome "選擇真棒!">
+<free-awesome "希望真棒免費嗎?">
 
 <me-support-awesomethanks """
   <p><b>感謝支持Coggle!</b></p>
@@ -448,7 +378,7 @@
   <a>管理你的計劃</a>
 """>
 
-<me-support-awesomethanks """
+<me-awesomethanks """
   <p>這是你本人和 -;<b>你真棒!</b></p>
   <a>管理你的計劃</a>
 """>
@@ -466,21 +396,6 @@
 <diagram-toolbar-share title:" 分享此Coggle.">
 <diagram-toolbar-download title:" 下載此Coggle.">
 <diagram-toolbar-copy title:" 創建此Coggle副本.">
-
-/* diagram tooltips */
-<context-dragclick "拖動以移動, 點擊編輯">
-<context-dragclickfollow "拖動以移動, 點擊編輯, {{ $followLinkKey }} + 點擊跟踪鏈接">
-
-<context-remove-branch-alt "刪除此分支：相反地，放開[ALT]增加分支">
-<context-insert-branch "插入文字：相反地，放開[SHIFT]增加分支">
-<context-squash-branch "擠入文字：相反地，放開{{$squashKeys}}增加分支">
-<context-remove-branch-ctrl "刪除此分支：使用[CTRL]+[SHIFT]只刪除此項目">
-<context-root-add-branch "點擊添加分支">
-<context-add-branch "點擊添加分支：相反地，按住{{$removeKey}}刪除">
-<context-hide-branch "點擊折疊此分支">
-<context-show-branch "點擊展開該分支">
-<context-xlink-edit "點擊編輯標籤：相反地，按住{{$removeKey}}刪除">
-<context-remove-xlink-alt "除去交聯：相反地，放開[ALT]以編輯">
 
 
 /* sharing dialog content */
@@ -647,23 +562,14 @@
   <div>$5 / 月</dom>
 """>
 
-<awesome-feature-private """
-  <img>
-  <h2>無限的私人Coggles </h2>
-  <p>創造你想要的盡可能多的私人Coggles。如果你萬一取消訂閱,他們仍保持私有,並且你保持訪問.</p>
-""">
+<awesome-feature-private-title "無限的私人Coggles">
+<awesome-feature-private "創造你想要的盡可能多的私人Coggles。如果你萬一取消訂閱,他們仍保持私有,並且你保持訪問.">
 
-<awesome-feature-present """
-  <img>
-  <h2>無分心演示</h2>
-  <p>使用演示模式在漂亮、無分心、全屏模式上展示任何Coggle。當你講述自己的故事時折疊和展開分支.</p>
-""">
+<awesome-feature-present-title "無分心演示">
+<awesome-feature-present "使用演示模式在漂亮、無分心、全屏模式上展示任何Coggle。當你講述自己的故事時折疊和展開分支.">
 
-<awesome-feature-bigimages """
-  <img>
-  <h2>給他們展示大圖片</h2>
-  <p>把龐大的圖像加到你的Coggles來說明你的想法:你只要把你的圖片從桌面上拖放到一個文件裡.</p>
-""">
+<awesome-feature-bigimages-title "給他們展示大圖片">
+<awesome-feature-bigimages "把龐大的圖像加到你的Coggles來說明你的想法:你只要把你的圖片從桌面上拖放到一個文件裡.">
 
 <awesome-hint-orgs """
   如果你使用Coggle工作,看看<a>Coggle 組織</a>, 連同所有的Coggle真棒好處,和商業友好的管理功能.
@@ -682,41 +588,23 @@
   <p>定價很簡單, <b>每個成員每個月$8 </b>.<br><b>一切無限使用</b>.</p>
 """>
 
-<orgs-feature-in-one-place """
-  <img>
-  <h2>一切都在一個地方</h2>
-  <p>你組織所有的圖表都在一個地方。把你團隊的工作放置在一個易於管理的地方，保持它的安全 - 所以你知道在確切的地方查找.</p>
-""">
+<orgs-feature-in-one-place-title "一切都在一個地方">
+<orgs-feature-in-one-place "你組織所有的圖表都在一個地方。把你團隊的工作放置在一個易於管理的地方，保持它的安全 - 所以你知道在確切的地方查找.">
 
-<orgs-feature-control-sharing """
-  <img>
-  <h2>共享控制</h2>
-  <p>你可以確保你創造的Coggles 組織留在你的組織。這可以保護敏感材料不被意外曝光，如果錯誤的電子郵件地址被邀請到一個文檔的話.</p>
-""">
+<orgs-feature-control-sharing-title "共享控制">
+<orgs-feature-control-sharing "你可以確保你創造的Coggles 組織留在你的組織。這可以保護敏感材料不被意外曝光，如果錯誤的電子郵件地址被邀請到一個文檔的話.">
 
-<orgs-feature-manage-users """
-  <img>
-  <h2>安全地管理用戶</h2>
-  <p>從你組織刪除成員不會失去他們的工作。使用管理儀表板查看由你的組織成員創建的所有圖表，不論這些成員是過去和現在的，被刪除或現役的.</p>
-""">
+<orgs-feature-manage-users-title "安全地管理用戶">
+<orgs-feature-manage-users "從你組織刪除成員不會失去他們的工作。使用管理儀表板查看由你的組織成員創建的所有圖表，不論這些成員是過去和現在的，被刪除或現役的.">
 
-<orgs-feature-export """
-  <img>
-  <h2>批量導出</h2>
-  <p>組織管理員可以以機器可讀、可存檔的 JSON 格式，單一點擊下載所有的Coggles 組織。非常適合監管合規或內心的平靜. </p>
-""">
+<orgs-feature-export-title "批量導出">
+<orgs-feature-export "組織管理員可以以機器可讀、可存檔的 JSON 格式，單一點擊下載所有的Coggles 組織。非常適合監管合規或內心的平靜.">
 
-<orgs-feature-branding """
-  <img>
-  <h2>展示你的品牌</h2>
-  <p>打造帶有你的標誌、專業清潔的圖表，以 PDF 或 PNG 格式導出。非常適合在你的公司中與客戶或同事分享圖表.</p>
-""">
+<orgs-feature-branding-title "展示你的品牌">
+<orgs-feature-branding "打造帶有你的標誌、專業清潔的圖表，以 PDF 或 PNG 格式導出。非常適合在你的公司中與客戶或同事分享圖表.">
 
-<orgs-feature-editable-links """
-  <img>
-  <h2>可編輯的私人鏈接</h2>
-  <p>創建私人鏈接，與你的組織以外的合作者分享，允許他們不必登錄可以編輯圖表.</p>
-""">
+<orgs-feature-editable-links-title "可編輯的私人鏈接">
+<orgs-feature-editable-links "創建私人鏈接，與你的組織以外的合作者分享，允許他們不必登錄可以編輯圖表">
 
 <orgs-feature-awesome """
 此外，你組織所有成員將獲得Coggle <a>真棒</a> 特徵功能.

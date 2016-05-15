@@ -51,10 +51,10 @@ Take a look at our <a>Awesome</a> plan to power up your Coggle with even more us
 <emInviteFolderDescription "{{ $from.name }} added you to a Coggle folder: {{ $title }}">
 <emInviteFolderView "JOIN">
 
-/* organisation invites email content */
-<emInviteOrganisationSubject "{{ $from.full_name }} added you to the {{ $title }} Coggle Organisation">
+/* organization invites email content */
+<emInviteOrganisationSubject "{{ $from.full_name }} added you to the {{ $title }} Coggle Organization">
 <emInviteOrganisationDescription """
-  {{ $from.name }} added you to the <b>{{ $title }}</b> Coggle Organisation, click "JOIN" to accept this invitation, or read our <a>quick guide</a> to getting started.
+  {{ $from.name }} added you to the <b>{{ $title }}</b> Coggle Organization, click "JOIN" to accept this invitation, or read our <a>quick guide</a> to getting started.
 """>
 <emInviteOrganisationView "JOIN">
 
@@ -72,3 +72,4 @@ Take a look at our <a>Awesome</a> plan to power up your Coggle with even more us
 <emTagSubject "{{ $from.name }} tagged you in {{ $title }}">
 <emTagDescription "<b>{{ $from.name }}</b> has tagged you in {{ $title }}">
 <emTagView "READ">
+

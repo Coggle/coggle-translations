@@ -11,8 +11,12 @@
 <index-signupnow "Sign Up Now">
 <index-login "Already signed up? Log in here.">
 
+<index-nav-pricing "Pricing">
+<index-nav-features "Features">
+<index-nav-gallery "Gallery">
+
 <index-unleash "Unleash your creativity">
-<index-blurb "Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!">
+<index-blurb "Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively.">
 <index-viewgallery "Or, take a look at the <a>Coggle Gallery</a>">
 
 <index-colab-mindmaps """
@@ -50,51 +54,26 @@
   <a>Sign up now<div>From $8 per member per month</div></a>
 """>
 
-<index-description """
-  <h1>Unleash your creativity</h1>
-  <p>Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively. All for free!</p>
-  <p><a><span><b>Get started now! </b></span></a><a><span>Or, read more.</span></a></p>
-""">
+<features-collaborate-title "Get everyone involved">
+<features-collaborate "Invite your friends and colleagues to work with you, at the same time, on your diagrams.">
 
-<testimonial-jenn """
-  <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
-  <p>Jenn, Coggle User</p>
-""">
+<features-images-title "Complete the picture">
+<features-images "Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.">
 
-<features-collaborate """
-  <img>
-  <h2>Get everyone involved</h2>
-  <p>Often we work best in teams, and teams operate most effectively when they can collaborate freely. Coggle lets you invite your friends and colleagues to work with you, at the same time, on your diagrams.</p>
-""">
+<features-history-title "Go back in time">
+<features-history "Look through all the changes to a diagram and make a copy from any point to revert to a previous version.">
 
-<features-images """
-  <img>
-  <h2>Complete the picture</h2>
-  <p>A picture is worth a thousand words. Coggle lets you drag-and-drop images right from your desktop to your diagrams. Simple as that!</p>
-  <p>Best of all, there's no limit to the number of images you can add.</p>
-""">
+<features-blame-title "Track accountability">
+<features-blame "Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.">
 
-<features-history """
-  <img>
-  <h2>Go back in time</h2>
-  <p>Have you made changes to a document, only to come back a day later and decide you don't like the edits? With Coggle that's not a problem. Simply enter history mode to find the right version, and make a copy from that point!</p>
-""">
+<features-colours-title "Get the color right">
+<features-colours "Click on a branch to bring up the color wheel and select the color you want.">
 
-<features-blame """
-  <img>
-  <h2>Track accountability</h2>
-  <p>Ever wondered who made those changes to that shared document? Well with Coggle you can look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.</p>
-""">
+<features-notifications-title "Email Notifications">
+<features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
 
-<features-colours """
-  <img>
-  <h2>Get the color right</h2>
-  <p>Are you a visual thinker? Do you learn by layout and color? Well, make sure you get the right color for your topics, just click on a branch to bring up the color wheel and select the color you want.</p>
-""">
-
-<features-others """
-  Coggle has loads of other great features, so <a>try it now</a>, it's free! Visit the <a>blog</a> to read more.
-""">
+<features-chat-title "Comments and Chat">
+<features-chat "Add comments to nodes and chat with collaborators without leaving your diagram workspace.">
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
@@ -104,6 +83,7 @@
 
 <plans-free-title "Free">
 <plans-free-price "Free forever">
+<feature-free-private "<b>1</b> Private Diagram">
 <feature-realtime "<b>Real-time</b> collaboration">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
 <feature-images "<b>Unlimited</b> image uploads">
@@ -111,13 +91,14 @@
 <feature-markdown "<b>Markdown</b> support">
 <feature-downloads "<b>PDF & Image</b> download">
 <feature-exports "Export as <b>.mm and text</b>">
-<feature-imports "import <b>.mm and text</b>">
+<feature-imports "Import <b>.mm and text</b>">
 <feature-chat "Comments & Chat">
 <feature-embed "Embeddable diagrams">
 <plans-free-getstarted "Get Started">
 
 <plans-awesome-title "Awesome">
 <plans-awesome-price "$5 / month">
+<feature-unlimited-private "<b>Unlimited</b> Private Diagrams">
 <feature-private "<b>Private diagrams</b>">
 <feature-chathistory "<b>Full</b> chat history">
 <feature-rearrange "<b>Auto-arrange branches</b>">
@@ -143,35 +124,23 @@
 <yearly-discount-percent "Pay yearly and save over 15%">
 <switch-yearly "Upgrade to Yearly">
 
+<awesome-feature "Awesome Plan">
+<org-feature "Organisation Feature">
 
-<footer-homepage """
-  <p>
-    <a>about</a>
-    <a>contact</a>
-    <a>facebook</a>
-    <a>twitter</a>
-    <a>privacy</a>
-    <a>terms</a>
-    <a>press</a>
-  </p>
-""">
-<footer-doclist """
-  <p>
-    <a><img/> Google Drive</a>
-    <a>about</a>
-    <a>contact</a>
-    <a>facebook</a>
-    <a>twitter</a>
-    <a>privacy</a>
-    <a>terms</a>
-    <a>press</a>
- </p>
-""">
+<footer-about "about">
+<footer-contact "contact">
+<footer-facebook "facebook">
+<footer-twitter "twitter">
+<footer-privacy "privacy">
+<footer-terms "terms">
+<footer-press "press">
+<footer-gdrive "<img/> Google Drive">
+
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
 <create-diagram "<span>Create Diagram</span>">
-<search-diagrams placeholder:"Search your diagrams.">
+<search-diagrams placeholder:"Search your diagrams">
 <view-gallery "Gallery">
 <create-folder "Create Folder">
 <created-by-you value:"Created By You">
@@ -185,21 +154,12 @@
 <want-awesome-for-free "Want Awesome for free?">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
-<link-drive """
-  <a><img>
-    <span>Too many Coggles? Organize them in Google Drive</span>
-  </a>
-""">
 <doclist-create """
     <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
     <div><a>Create Diagram</a></div>
 """>
-<doclist-shared """
-  <b>Shared With You</b> – diagrams created by other people then shared with you are in this folder. 
-""">
-<doclist-folder-empty """
-  <b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.
-""">
+<doclist-shared "<b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.">
+<doclist-folder-empty "<b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.">
 <impersonatedaccess "You're viewing Coggle as an Organization member. <a>Return to admin panel</a>">
 
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
@@ -226,7 +186,6 @@
 <help-creatediagram """
   <p>Create a new Coggle Diagram to get started.</p>
   <p>Diagrams you create will be saved here on your homepage.</p>
-  <p><b>Look out for more of these hints around Coggle!</b></p>
 """>
 
 <help-createfolder-title "Create a Folder">
@@ -256,7 +215,7 @@
 
 <billingPeriod {
            *permonth: "per month",
-   permemberpermonth: "par member per month",
+   permemberpermonth: "per member per month",
              peryear: "per year"
 }>
 
@@ -322,12 +281,7 @@
 <me-communication-title "Communication">
 <me-emails-title "Email Addresses">
 <me-emails-primary "(primary)">
-<me-emailslist "These are the emails we have on record for you:">
 <me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
-<me-commspref "Here's what you've told us about your communication preferences:">
-<me-comms-explain """
-  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
-""">
 <me-talktome "Talk to me: ">
 <me-diagram-notifications "Diagram notifications: ">
 
@@ -421,16 +375,8 @@
   <p>This means you get all the great features from the <a>Coggle Awesome</a> plan too!</p>
 """>
 
-<awesome-promo-benefits """
-  <p><b>Private Diagrams ✓</b></p>
-  <p><b>Auto-arrange Branches ✓</b></p>
-  <p><b>Shared Folders ✓</b></p>
-  <p><b>Full Chat History ✓</b></p>
-  <p><b>Presentation Mode ✓</b></p>
-  <p><b>More colours ✓</b></p>
-  <a>Go Awesome!</a>
-  <p><a>Want Awesome for free?</a></p>
-""">
+<go-awesome "Go Awesome">
+<free-awesome "Want Awesome for free?">
 
 <me-support-awesomethanks """
   <p><b>Thanks for supporting Coggle!</b></p>
@@ -438,7 +384,7 @@
   <a>Manage your plan</a>
 """>
 
-<me-support-awesomethanks """
+<me-awesomethanks """
   <p>This is you &mdash;<b>You\'re Awesome!</b></p>
   <a>Manage your plan</a>
 """>
@@ -455,23 +401,6 @@
 <diagram-toolbar-share title:"Share this Coggle.">
 <diagram-toolbar-download title:"Download this Coggle.">
 <diagram-toolbar-copy title:"Create a copy of this Coggle.">
-
-
-
-/* diagram tooltips */
-<context-dragclick "drag to move, click to edit">
-<context-dragclickfollow "drag to move, click to edit, {{ $followLinkKey }} + click to follow links">
-
-<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
-<context-insert-branch "insert text: release [shift] to add branch instead">
-<context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
-<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
-<context-root-add-branch "click to add branch">
-<context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
-<context-hide-branch "click to collapse this branch">
-<context-show-branch "click to expand this branch">
-<context-xlink-edit "click to edit label, hold {{ $removeKey }} to remove instead">
-<context-remove-xlink-alt "remove cross-link: release [alt] to edit instead">
 
 
 /* sharing dialog content */
@@ -645,23 +574,25 @@
   <div>$5 / MONTH</div>
 """>
 
-<awesome-feature-private """
-  <img>
-  <h2>Unlimited Private Coggles</h2>
-  <p>Create as many private Coggles as you like. If you do ever cancel your subscription they stay private, and you keep access.</p>
-""">
+<awesome-feature-private-title "Unlimited Private Coggles">
+<awesome-feature-private "Create as many private Coggles as you like. If you do ever cancel your subscription they stay private, and you keep access.">
 
-<awesome-feature-present """
-  <img>
-  <h2>Distraction-Free Presentation</h2>
-  <p>Use Presentation Mode to present any Coggle in beautiful distraction-free full-screen mode. Collapse and expand branches as you tell your story.</p>
-""">
+<awesome-feature-present-title "Distraction-Free Presentation">
+<awesome-feature-present "Use Presentation Mode to present any Coggle in beautiful distraction-free full-screen mode. Collapse and expand branches as you tell your story.">
 
-<awesome-feature-bigimages """
-  <img>
-  <h2>Show Them the Big Picture</h2>
-  <p>Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.</p>
-""">
+<awesome-feature-bigimages-title "Show Them the Big Picture">
+<awesome-feature-bigimages "Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.">
+
+<awesome-feature-colours-title "More Colors">
+<awesome-feature-colours "Use all the colors provided in our color picker to help organize and differentiate your ideas.">
+
+<awesome-feature-autoarrange-title "Automatic Branch Layout">
+<awesome-feature-autoarrange "Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.">
+
+<awesome-feature-folders-title "Shared Folders">
+<awesome-feature-folders "Put your diagrams into folders to keep them organized and easily share them all with a group of collaborators.">
+
+
 
 <awesome-hint-orgs """
   If you're using Coggle for work, check out <a>Coggle Organizations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
@@ -681,41 +612,23 @@
   <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
 
-<orgs-feature-in-one-place """
-  <img>
-  <h2>Everything in One Place</h2>
-  <p>All your organizations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.</p>
-""">
+<orgs-feature-in-one-place-title "Everything in One Place">
+<orgs-feature-in-one-place "All your organizations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.">
 
-<orgs-feature-control-sharing """
-  <img>
-  <h2>Control Sharing</h2>
-  <p>You can make sure that Coggles created in your organization stay in your organization. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.</p>
-""">
+<orgs-feature-control-sharing-title "Control Sharing">
+<orgs-feature-control-sharing "You can make sure that Coggles created in your organization stay in your organization. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.">
 
-<orgs-feature-manage-users """
-  <img>
-  <h2>Safely Manage Users</h2>
-  <p>Remove members from your organization without losing the work they've done. Use the management dashboard to view all the diagrams created in your organization by members past and present, deleted or active.</p>
-""">
+<orgs-feature-manage-users-title "Safely Manage Users">
+<orgs-feature-manage-users "Safely Manage UsersRemove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organization by members past and present, deleted or active">
 
-<orgs-feature-export """
-  <img>
-  <h2>Bulk Export</h2>
-  <p>Organization admins can download all of the organizations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind. </p>
-""">
+<orgs-feature-export-title "Bulk Export">
+<orgs-feature-export "Organisation admins can download all of the organizations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind.">
 
-<orgs-feature-branding """
-  <img>
-  <h2>Show your Brand</h2>
-  <p>Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.</p>
-""">
+<orgs-feature-branding-title "Show your Brand">
+<orgs-feature-branding "Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.">
 
-<orgs-feature-editable-links """
-  <img>
-  <h2>Editable Private Links</h2>
-  <p>Create a private link to share with collaborators outside of your organization, allowing them to edit a diagram without logging in.</p>
-""">
+<orgs-feature-editable-links-title "Editable Private Links">
+<orgs-feature-editable-links "Create a private link to share with collaborators outside of your organization, allowing them to edit a diagram without logging in.">
 
 <orgs-feature-awesome """
   In addition, all members of your organization will get the Coggle <a>Awesome</a> features.
