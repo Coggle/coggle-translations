@@ -9,22 +9,22 @@
  */
 <index-tagline "Une façon claire de partager des informations complexes.">
 <index-signupnow "Inscrivez-vous maintenant">
-<index-login "Déjà inscrit? Connectez-vous.">
+<index-login "Déjà inscrit ? Connectez-vous.">
 
 <index-unleash "Déchaînez votre créativité">
 <index-blurb "Produisez de magnifiques notes, rapidement et simplement. Partagez-les avec vos amis et vos collègues afin d'améliorer collaborativement vos idées.">
 <index-viewgallery "Vous pouvez aussi regarder la <a>Galerie Coggle</a>">
 
 <index-colab-mindmaps """
-  <h1>Des Représentations Mentales Collaboratives</h1>
-  <p>Coggle est un outil en ligne pour créer et partager des représentations mentales. Tout se passe en ligne, donc il n'y a rien à télécharger et rien à mettre à jour. Il suffit de <a>se connecter</a> pour commencer maintenant !</p>
-  <p>Peu importe si vous prenez des notes, si vous faites du brainstorming, ou si vous faites quelque chose d'incroyablement créatif, Coggle vous facilite la tâche de visualiser vos idées. Vous pouvez partager avec autant d'amis ou de collègues que vous le souhaitez. Les modifications que vous apporterez apparaîtront automatiquement sur leur navigateur; peu importe où ils se trouvent dans le monde.</p>
+  <h1>Des représentations mentales collaboratives</h1>
+  <p>Coggle est un outil en ligne pour créer et partager des représentations mentales. Tout se passe en ligne, il n'y a donc rien à télécharger et rien à mettre à jour. Il suffit de <a>se connecter</a> pour commencer maintenant !</p>
+  <p>Peu importe si vous prenez des notes, si vous faites du brainstorming, ou si vous faites quelque chose d'incroyablement créatif, Coggle vous permet de visualiser vos idées plus facilement. Vous pouvez les partager avec autant d'amis ou de collègues que vous le souhaitez. Les modifications que vous apporterez apparaîtront automatiquement sur leur navigateur ; peu importe leur localisation.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
   <h2>Prenez des notes</h2>
-  <p>Ouvrez Coggle durant une réunion, vos révisions ou n'importe où votre inspiration vous prendra afin de créer de magnifiques notes structurées.</p>
+  <p>Ouvrez Coggle durant une réunion, vos révisions ou dès que votre inspiration vous prendra afin de créer de magnifiques notes structurées.</p>
 """>
     
 <index-use-brainstorm """
@@ -51,19 +51,19 @@
 """>
 
 <features-collaborate-title "Impliquez tout le monde">
-<features-collaborate "Nous travaillons souvent mieux en équipes, et les équipes opèrent plus efficacement lorsqu'elles peuvent collaborer librement. Coggle vous laisse inviter vos amis et vos collègues à travailler avec vous, en même temps, sur vos diagrammes.">
+<features-collaborate "Nous travaillons souvent mieux en équipe, et les équipes opèrent plus efficacement lorsqu'elles peuvent collaborer librement. Coggle vous laisse inviter vos amis et vos collègues à travailler avec vous, en même temps, sur vos diagrammes.">
 
 <features-images-title "Complétez le tableau">
-<features-images "Une image vaut mieux qu'un millier de mots. Coggle vous laisse déposer vos images directement de votre bureau vers vos diagrammes. C'est aussi simple que ça ! Le meilleur étant qu'il n'y a pas de limite au nombre d'images que vous pouvez ajouter.">
+<features-images "Une image vaut mieux qu'un millier de mots. Coggle vous laisse déposer vos images directement de votre bureau vers vos diagrammes. C'est aussi simple que ça ! Le gros plus étant qu'il n'y a pas de limite au nombre d'images que vous pouvez ajouter.">
 
 <features-history-title "Retournez dans le passé">
 <features-history "Vous avez modifié un document, seulement pour vous apercevoir un jour plus tard que vous n'aimez pas ces changements ? Avec Coggle, ce n'est pas un souci. Entrez simplement dans le mode historique afin de trouver la bonne version, et faites une copie partant de ce point !">
 
 <features-blame-title "Suivez les responsabilités">
-<features-blame "Vous-êtes vous déjà demandé qui avait réalisé ces modifications sur un document partagé ? Avec Coggle, vous pouvez regarder dans l'historique de vos diagrammes pour voir qui a changé ça, et quand ! Entrez juste dans le mode historique de votre diagramme pour trouver.">
+<features-blame "Vous-êtes vous déjà demandé qui avait réalisé ces modifications sur un document partagé ? Avec Coggle, vous pouvez regarder dans l'historique de vos diagrammes pour voir qui a changé ça, et quand ! Entrez juste dans le mode historique de votre diagramme pour le savoir.">
 
 <features-colours-title "Mettez-y des couleurs">
-<features-colours "Pensez-vous visuellement? Apprenez-vous par mise en page et par couleurs ? Dans ce cas, soyez certains de choisir la bonne couleur pour vos sujets. Il suffit de cliquer sur une branche pour faire apparaître la roue des couleurs et sélectionner la couleur de votre choix.">
+<features-colours "Pensez-vous visuellement ? Apprenez-vous par mise en page et par couleurs ? Dans ce cas, soyez certains de choisir la bonne couleur pour vos sujets. Un seul clic sur un bouton suffit pour faire apparaître la roue des couleurs et sélectionner la couleur de votre choix.">
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
@@ -79,16 +79,16 @@
 <feature-changes "Historique des modifications <b>complet</b>">
 <feature-markdown "Supporte le <b>Markdown</b>">
 <feature-downloads "Téléchargement en format <b>PDF et image</b>">
-<feature-exports "Exporter en tant que <b>.mm et document texte</b>">
-<feature-imports "Importer <b>.mm et texte</b>">
-<feature-chat "Commentaires et Chat">
+<feature-exports "Exportation en tant que <b>.mm et document texte</b>">
+<feature-imports "Importation en tant que <b>.mm et texte</b>">
+<feature-chat "Commentaires et chat">
 <feature-embed "Diagrammes intégrables">
 <plans-free-getstarted "Commencez maintenant">
 
 <plans-awesome-title "Awesome">
 <plans-awesome-price "5$ / mois">
 <feature-private "<b>Diagrammes privés</b>">
-<feature-chathistory "Historique de Chat <b>Complet</b>">
+<feature-chathistory "Historique de chat <b>complet</b>">
 <feature-rearrange "<b>Auto-arrangement des branches</b>">
 <feature-folders "<b>Dossiers partagés</b>">
 <feature-presentation "Mode présentation">
@@ -125,7 +125,7 @@
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
-<create-diagram "<span>Créer un Diagramme</span>">
+<create-diagram "<span>Créer un diagramme</span>">
 <search-diagrams placeholder:"Rechercher dans vos diagrammes.">
 <view-gallery "Galerie">
 <create-folder "Créer un dossier">
@@ -343,7 +343,7 @@
 <help-multiline "Ajouter plusieurs lignes de texte avec [ctrl] + [entrée], ou en faisant glisser le coin avant de taper votre texte.">
 <help-toolbar-invite-title "Travailler avec d'autres personnes">
 <help-toolbar-invite "Cliquez pour inviter des personnes à voir ou à éditer ce Coggle. Vous pouvez contrôler les permissions en cliquant sur leurs icônes.">
-<help-toolbar-invitemulti-title "Inviter Plusieurs Personnes">
+<help-toolbar-invitemulti-title "Inviter plusieurs personnes">
 <help-toolbar-invitemulti """
   Pour gagner du temps, vous pouvez inviter plusieurs personnes d'un coup: rentrez (ou collez) leurs adresses e-mail séparées par des espaces, des virgules<b>,</b> ou des points-virgules<b>;</b>
 """>
@@ -363,8 +363,8 @@
   <p>Cela signifie que vous bénéficiez aussi de toutes les fonctionnalités de la formule<a>Coggle Awesome</a> !</p>
 """>
 
-<go-awesome "Optez pour Awesome!">
-<free-awesome "Vous voulez Awesome gratuitement?">
+<go-awesome "Optez pour Awesome !">
+<free-awesome "Vous voulez Awesome gratuitement ?">
 
 <me-support-awesomethanks """
   <p><b>Merci de supporter Coggle !</b></p>
@@ -541,7 +541,7 @@
 <markdown-code "<code>`texte`</code> pour utiliser une police à <code>largeur fixe</code> (monospace)">
 
 /* diagram not-found page */
-<nodiagram-title "Diagramme introuvable!">
+<nodiagram-title "Diagramme introuvable !">
 <nodiagram-invalid-link "Ce lien de diagramme est invalide, ou son accès a été révoqué.">
 <nodiagram-logged-in "Vous êtes actuellement connecté en tant que <b>{{ $user.givenName }}</b>, avec l'adresse e-mail <b>{{ $user.email }}</b>. Si ce diagramme existe, ce compte n'a pas les permissions pour y accéder.">
 <nodiagram-not-logged-in "<b>Vous n'êtes actuellement pas connecté.</b>  Si ce diagramme existe, il se peut que vous y ayez accès en vous connectant à votre compte.">
@@ -559,14 +559,14 @@
   <div>5$ / MOIS</div>
 """>
 
-<awesome-feature-private-title "Coggles Privés Illimités">
+<awesome-feature-private-title "Coggles privés illimités">
 <awesome-feature-private "Créez autant de Coggles privés que vous le souhaitez. Si jamais vous annulez votre abonnement, ils resteront privés et vous y garderez accès.">
 
-<awesome-feature-present-title "Presentation Sans Distractions">
+<awesome-feature-present-title "Présentation sans distractions">
 <awesome-feature-present "Utilisez le mode présentation pour présenter n'importe quel Coggle dans un mode présentation sans distractions en plein écran. Réduisez et développez vos branches à mesure qu'ils racontent votre histoire.">
 
-<awesome-feature-bigimages-title "Montrez-Leur Le Tableau Complet">
-<awesome-feature-bigimages "Ajoutez d'énormes images à vos Coggles pour illustrer vos idées: il suffit de faire glisser une image depuis votre bureau vers un document.">
+<awesome-feature-bigimages-title "Montrez-leur le tableau complet">
+<awesome-feature-bigimages "Ajoutez d'énormes images à vos Coggles pour illustrer vos idées : il suffit de faire glisser une image depuis votre bureau vers un document.">
 
 <awesome-hint-orgs """
   Si vous utilisez Coggle pour votre travail, regardez du côté de <a>Coggle Organisations</a>, qui propose touts les bénéfices de Coggle Awesome, avec des fonctionnalités d'adiministration optimisées pour le travail.
@@ -615,7 +615,7 @@
 """>
 
 <faq-orgs-whatare """
-  <div>Qu'est-ce-que Coggle Organisations?</div>
+  <div>Qu'est-ce-que Coggle Organisations ?</div>
   <div><p>Coggle Organisations crée une séparation entre vos diagrammes personnels
   et ceux de votre entreprise. En séparant le personnel du professionnel,
   vous gagnez en capacité de contrôle sur les données de votre travail qui sont
@@ -748,7 +748,7 @@ Saviez-vous que vous pouviez insérer des liens dans vos Coggles ? C'est possibl
 Saviez vous que vous pouviez télécharger vos Coggles en tant que fichiers PDF ou Images ? C'est possible ! Regardez le bouton de téléchargement en haut à droite de votre écran.
 """>
 <fact-markdown """
-Saviez-vous que Coggle utilise la <a>syntaxe markdown</a>? <p>Essayez les liens comme ceci: &lt;http://example.com&gt;
+Saviez-vous que Coggle utilise la <a>syntaxe markdown</a>? <p>Essayez les liens comme ceci : &lt;http://example.com&gt;
 """>
 <fact-latex """
 Saviez-vous que Coggle supporte les formules LaTeX ?<p>Utilisez \\\\( LaTeX ici \\\\) pour essayer ! Regardez <a>ce lien</a> pour de l'aide concernant la syntaxe.
@@ -790,7 +790,7 @@ Saviez-vous que vous pouviez mettre des images dans vos Coggles ? C'est possible
 Saviez-vous que vous pouviez importer de simples documents texte dans Coggle en les faisant glisser ? C'est possible !<p>Si le fichier est indenté, Coggle structurera même le texte importé.
 """>
 <fact-freemind-in """
-Saviez-vous que vous pouviez importer des documents Freemind.mm en les faisant glisser? C'est possible !
+Saviez-vous que vous pouviez importer des documents Freemind.mm en les faisant glisser ? C'est possible !
 """>
 <fact-link-drag """
 Saviez-vous que vous pouviez faire glisser directement un lien de votre barre d'adresse vers un Coggle ? C'est possible !
