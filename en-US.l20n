@@ -83,7 +83,7 @@
 
 <plans-free-title "Free">
 <plans-free-price "Free forever">
-<feature-free-private "<b>1</b> Private Diagram">
+<feature-free-private "<b>1</b> private diagram">
 <feature-realtime "<b>Real-time</b> collaboration">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
 <feature-images "<b>Unlimited</b> image uploads">
@@ -98,7 +98,7 @@
 
 <plans-awesome-title "Awesome">
 <plans-awesome-price "$5 / month">
-<feature-unlimited-private "<b>Unlimited</b> Private Diagrams">
+<feature-unlimited-private "<b>Unlimited</b> private diagrams">
 <feature-private "<b>Private diagrams</b>">
 <feature-chathistory "<b>Full</b> chat history">
 <feature-rearrange "<b>Auto-arrange branches</b>">
