@@ -10,62 +10,20 @@
 
 /* front page content */
 
-<index-description """
-  <h1>展开你的想象力</h1>
-  <p>制作一张精美的笔记, 并分享给你的朋友或者同事一起协作吧!</p>
-  <p><a><span><b>马上开始! </b></span></a><a><span>或者, 再看看.</span></a></p>
-""">
+<features-collaborate-title "众人拾柴火焰高">
+<features-collaborate "你可以邀请你的朋友和同事和你一起制作笔记, 同时哦.">
 
-<testimonial-jenn """
-  <p>"一句话来形容Coggle... 太tm好用了!"</p>
-  <p>Jenn, Coggle 用户</p>
-""">
+<features-images-title "一幅图胜过千言万语">
+<features-images "你可以拖拽你桌面上的图片到笔记中, 非常简单! 而且图片数量不限.">
 
-<features-collaborate """
-  <img>
-  <h2>众人拾柴火焰高</h2>
-  <p>你可以邀请你的朋友和同事和你一起制作笔记, 同时哦.</p>
-""">
+<features-history-title "时光机器">
+<features-history "做了一些改动, 几天之后觉得不喜欢? 没关系, 在笔记的修改历史中选择一个你喜欢的时间点, 基于它制作一份拷贝!">
 
-<features-images """
-  <img>
-  <h2>一幅图胜过千言万语</h2>
-  <p>你可以拖拽你桌面上的图片到笔记中, 非常简单!</p>
-  <p>而且图片数量不限.</p>
-""">
+<features-blame-title "任务追踪">
+<features-blame "想看看是谁在你的共享笔记中做了什么改动? 只需要进入笔记的修改历史中查看所有的修改记录.">
 
-<features-history """
-  <img>
-  <h2>时光机器</h2>
-  <p>做了一些改动, 几天之后觉得不喜欢? 没关系, 在笔记的修改历史中选择一个你喜欢的时间点, 基于它制作一份拷贝!</p>
-""">
-
-<features-blame """
-  <img>
-  <h2>任务追踪</h2>
-  <p>想看看是谁在你的共享笔记中做了什么改动? 只需要进入笔记的修改历史中查看所有的修改记录.</p>
-""">
-
-<features-colours """
-  <img>
-  <h2>选择最精准的颜色</h2>
-  <p>外貌协会会员? 对颜色和布局非常挑剔? 没问题, 只需要点击连接线就可以在色彩圆环中选择你想要的颜色.</p>
-""">
-
-<features-others """
-  Coggle有很多很棒的功能, <a>马上试一下</a>, 免费! 点击<a>我们的博客</a> 来查看更多内容.
-""">
-
-<footer-2 """
-  <p>
-    <a>about</a>
-    <a>facebook</a>
-    <a>twitter</a>
-    <a>privacy</a>
-    <a>terms</a>
-    <a>press</a>
-  </p>
-""">
+<features-colours-title "选择最精准的颜色">
+<features-colours "外貌协会会员? 对颜色和布局非常挑剔? 没问题, 只需要点击连接线就可以在色彩圆环中选择你想要的颜色.">
 
 /* new frontpage content */
 <index-tagline "化繁复为简洁.">
@@ -110,11 +68,6 @@
   <p title="新建一个目录.">ADD</p>
 """>
 <limitedaccess "访问 受限, 非注册成员">
-<link-drive """
-  <a><img>
-    <span>有太多笔记? 去Google Drive里整理一下吧</span>
-  </a>
-""">
 
 /* documents list messages */
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
@@ -290,12 +243,7 @@
 <me-hi "你好 {{ $user.givenName }},">
 <me-communication-title "Communication">
 <me-emails-title "Email Addresses">
-<me-emailslist "These are the emails we have on record for you:">
 <me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
-<me-commspref "Here's what you've told us about your communication preferences:">
-<me-comms-explain """
-  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
-""">
 <me-talktome "Talk to me: ">
 <me-diagram-notifications "Diagram notifications: ">
 
@@ -313,42 +261,6 @@
 
 <orgs-signup-usd """
   <a>CREATE ORGANISATION<div>From $8 per member per month</div></a>
-""">
-
-<orgs-feature-in-one-place """
-  <img>
-  <h2>Everything in One Place</h2>
-  <p>All your organisations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.</p>
-""">
-
-<orgs-feature-control-sharing """
-  <img>
-  <h2>Control Sharing</h2>
-  <p>You can make sure that Coggles created in your organisation stay in your organisation. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.</p>
-""">
-
-<orgs-feature-manage-users """
-  <img>
-  <h2>Safely Manage Users</h2>
-  <p>Remove users from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by users past and present, deleted or active.</p>
-""">
-
-<orgs-feature-export """
-  <img>
-  <h2>Bulk Export</h2>
-  <p>Organisation admins can download all of the organisations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind. </p>
-""">
-
-<orgs-feature-branding """
-  <img>
-  <h2>Show your Brand</h2>
-  <p>Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.</p>
-""">
-
-<orgs-feature-editable-links """
-  <img>
-  <h2>Editable Private Links</h2>
-  <p>Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.</p>
 """>
 
 <orgs-feature-awesome """
@@ -431,16 +343,6 @@
  </div>
 """>
 
-
-/* diagram tooltips */
-<context-dragclick "drag to move, click to edit">
-<context-dragclickfollow "drag to move, click to edit, {{ $followLinkKey }} + click to follow links">
-
-<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
-<context-insert-branch "insert text: release [shift] to add branch instead">
-<context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
-<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
-<context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
 
 /* diagram not-found page */
 <nodiagram-title "Diagram not found!">

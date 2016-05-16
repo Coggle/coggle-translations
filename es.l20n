@@ -8,63 +8,20 @@
 
 /* front page content */
 
-<index-description """
-  <h1>Libera tu creatividad </h1>
-  <p>Crea hermosas notas rápido y fácil. Compártelas con tus amigos y colegas para mejorar tus ideas con su colaboración. ¡Todo esto gratis!</p>
-  <p><a><span><b>¡Empieza hoy! </b></span></a><a><span> O conoce más.</span></a></p>
-""">
+<features-collaborate-title "Involucra a todos">
+<features-collaborate "Normalmente trabajamos mejor en equipos, los equipos operan de manera más eficiente cuando estos pueden colaborar libremente. Coggle permite que invites tus amigos y colegas a trabajar, al mismo tiempo, en tus diagramas.">
 
-<testimonial-jenn """
-  <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
-  <p>Jenn, usuario de Coggle</p>
-""">
+<features-images-title "Completa la imagen">
+<features-images "Una imagen vale más que mil palabras. Coggle permite arrastrar y soltar imágenes directamente desde tu escritorio hasta tus diagramas. ¡Así de simple! Lo mejor de todo, no hay límite en la cantidad de imágenes que puedes agregar.">
 
-<features-collaborate """
-  <img>
-  <h2>Involucra a todos</h2>
-  <p>Normalmente trabajamos mejor en equipos, los equipos operan de manera más eficiente cuando estos pueden colaborar libremente. Coggle permite que invites tus amigos y colegas a trabajar, al mismo tiempo, en tus diagramas. </p>
-""">
+<features-history-title "Regresa en el tiempo">
+<features-history "¿Realizaste cambios en un documento y un tiempo después  decides que no te agradan? Con Coggle eso no es un problema. ¡Simplemente ingresa al historial para encontrar la versión correcta y realiza una copia a partir de ese punto!">
 
-<features-images """
-  <img>
-  <h2>Completa la imagen</h2>
-  <p>Una imagen vale más que mil palabras. Coggle permite arrastrar y soltar imágenes directamente desde tu escritorio hasta tus diagramas. ¡Así de simple! </p>
-  <p>Lo mejor de todo, no hay límite en la cantidad de imágenes que puedes agregar.</p>
-""">
+<features-blame-title "Sigue los cambios realizados">
+<features-blame "¿Alguna vez te preguntaste quien realizo algún cambio en el documento compartido? ¡Con Coggle tú puedes revisar el historial quien realizo el cambio y cuando lo hizo! Solo ingresa al modo de historial de diagrama para averiguarlo.">
 
-<features-history """
-  <img>
-  <h2>Regresa en el tiempo</h2>
-
-  <p>¿Realizaste cambios en un documento y un tiempo después  decides que no te agradan? Con Coggle eso no es un problema. ¡Simplemente ingresa al historial para encontrar la versión correcta y realiza una copia a partir de ese punto!</p>
-  """>
-
-  <features-blame """
-    <img>
-    <h2>Sigue los cambios realizados</h2>
-    <p>¿Alguna vez te preguntaste quien realizo algún cambio en el documento compartido? ¡Con Coggle tú puedes revisar el historial quien realizo el cambio y cuando lo hizo! Solo ingresa al modo de historial de diagrama para averiguarlo. </p>
-  """>
-
-  <features-colours """
-    <img>
-    <h2>Obtén el color correcto</h2>
-    <p> ¿Eres un pensador visual? ¿Aprendes por distribución y color? Bueno, asegúrate de tener el color correcto para tus temas, solo haz clic en una rama para que se muestre la paleta de colores y selecciona el color que deseas.</p>
-  """>
-
-  <features-others """
-    Coggle tiene muchas otras características geniales. Entonces, <a>pruébalo ahora</a>. ¡Es gratis! Visita el <a>blog</a> para aprender más.
-  """>
-
-<footer-2 """
-  <p>
-    <a>about</a>
-    <a>facebook</a>
-    <a>twitter</a>
-    <a>privacy</a>
-    <a>terms</a>
-    <a>press</a>
-  </p>
-""">
+<features-colours-title "Obtén el color correcto">
+<features-colours "¿Eres un pensador visual? ¿Aprendes por distribución y color? Bueno, asegúrate de tener el color correcto para tus temas, solo haz clic en una rama para que se muestre la paleta de colores y selecciona el color que deseas.">
 
 /* new frontpage content */
 <index-tagline "Una forma sencilla de compartir información compleja.">
@@ -146,11 +103,6 @@
   <p title="Añadir una nueva carpeta.">AÑADIR</p>
 """>
 <limitedaccess "Usted tiene acceso limitados ya que no es un miembro ">
-<link-drive """
-  <a><img>
-    <span>¿Muchos Coggle? Organízalos en Google Drive</span>
-  </a>
-""">
 
 /* documents list messages */
 <doclist-draghere "Arrastra un Coggle para moverlo a esta carpeta.">
@@ -326,12 +278,7 @@ Empezando <a>ocultar</a><a>mostrar</a>
 <me-hi "Hola {{ $user.givenName }},">
 <me-communication-title "Comunicación">
 <me-emails-title "Email Addresses">
-<me-emailslist "Estos son los correos electrónicos que tenemos guardados para ti: ">
 <me-emailstip "Nosotros solo enviaremos correos electrónicos a tu dirección principal. Sin embargo, puedes recibir invitaciones en cualquiera de los otros.">
-<me-commspref "Aquí esta lo que nos has dicho sobre tus preferencias de comunicaciones:">
-<me-comms-explain """
-  Alguna veces necesitamos enviar actualizaciones del servicio e información de nuevas características que serán enviadas a tu dirección <strong> principal </strong>. Nunca enviaremos spam o publicidad de nosotros o algun tercero (Tampoco nos agradan esas cosas).
-""">
 <me-talktome "Habla conmigo: ">
 <me-diagram-notifications "Notificaciones de diagrama: ">
 
@@ -351,41 +298,23 @@ Empezando <a>ocultar</a><a>mostrar</a>
   <a>CREATE ORGANIZATION<div>From $8 per member per month</div></a>
 """>
 
-<orgs-feature-in-one-place """
-  <img>
-  <h2>Todo en un solo lugar </h2>
-  <p>Todos los diagramas de la organización en el mismo lugar. Mantén el trabajo de tus equipos seguro, en un solo lugar fácil de administrar – Entonces sabes exactamente dónde buscar.</p>
-""">
+<orgs-feature-in-one-place-title "Todo en un solo lugar">
+<orgs-feature-in-one-place "Todos los diagramas de la organización en el mismo lugar. Mantén el trabajo de tus equipos seguro, en un solo lugar fácil de administrar – Entonces sabes exactamente dónde buscar.">
 
-<orgs-feature-control-sharing """
-  <img>
-  <h2>Controla el Compartir</h2>
-  <p>Puedes asegurarte de que los Coggles creados en tu organización permanezcan en tu organización. Esto protege el material sensible contra exposición accidental si el correo electrónico equivocado es invitado al documento.</p>
-""">
+<orgs-feature-control-sharing-title "Controla el Compartir">
+<orgs-feature-control-sharing "Puedes asegurarte de que los Coggles creados en tu organización permanezcan en tu organización. Esto protege el material sensible contra exposición accidental si el correo electrónico equivocado es invitado al documento.">
 
-<orgs-feature-manage-users """
-  <img>
-  <h2>Manejo de usuarios seguro </h2>
-  <p>Remueve los usuarios de tu organización sin perder el trabajo que ellos han realizado. Usa el panel de administración para ver los diagramas creados por miembros de tu organización anteriores y actuales, eliminados o activos.</p>
-""">
+<orgs-feature-manage-users-title "Manejo de usuarios seguro">
+<orgs-feature-manage-users "Remueve los usuarios de tu organización sin perder el trabajo que ellos han realizado. Usa el panel de administración para ver los diagramas creados por miembros de tu organización anteriores y actuales, eliminados o activos.">
 
-<orgs-feature-export """
-  <img>
-  <h2>Exporta en masa</h2>
-  <p>Los administradores de la organización pueden descargar todos los Coggles de la organización en un archivo en formato JSON legible por máquina, con un solo haz clic. Genial para cumplir con la normativa o simplemente para que tú mente esté tranquila. </p>
-""">
+<orgs-feature-export-title "Exporta en masa">
+<orgs-feature-export "Los administradores de la organización pueden descargar todos los Coggles de la organización en un archivo en formato JSON legible por máquina, con un solo haz clic. Genial para cumplir con la normativa o simplemente para que tú mente esté tranquila.">
 
-<orgs-feature-branding """
-  <img>
-  <h2>Muestra tu marca</h2>
-  <p>Crea diagramas profesionales y limpios que muestren tú logo y expórtalos en formato PDF o PNG. Genial para compartir diagramas con clientes o asociados en tu compañía.</p>
-""">
+<orgs-feature-branding-title "Muestra tu marca">
+<orgs-feature-branding "Crea diagramas profesionales y limpios que muestren tú logo y expórtalos en formato PDF o PNG. Genial para compartir diagramas con clientes o asociados en tu compañía.">
 
-<orgs-feature-editable-links """
-  <img>
-  <h2>Links privados editables </h2>
-  <p>Crea links privados para compartir con colaboradores fuera de tu organización, permitiéndoles editar el diagrama sin necesidad de iniciar sesión.</p>
-""">
+<orgs-feature-editable-links-title "Links privados editables">
+<orgs-feature-editable-links "Crea links privados para compartir con colaboradores fuera de tu organización, permitiéndoles editar el diagrama sin necesidad de iniciar sesión.">
 
 <orgs-feature-awesome """
   Además, todos los miembros de tu organización obtendrán las características de Coggle <a>Awesome</a>.
@@ -466,18 +395,6 @@ Empezando <a>ocultar</a><a>mostrar</a>
  </div>
 """>
 
-
-/* diagram tooltips */
-<context-dragclick "arrastra para mover, clic para editar ">
-<context-dragclickfollow " arrastra para mover, clic para editar, {{ $followLinkKey }} + clic para ir a los enlaces">
-
-<context-remove-branch-alt "remover esta rama: por el contrario suelta [alt] para añadir una rama">
-<context-insert-branch "insertar texto: por el contrario suelta [shift] para añadir una rama">
-<context-squash-branch "reducir texto: por el contrario suelta {{ $squashKeys }} para añadir una rama">
-<context-remove-branch-ctrl "remover esta rama: usa [ctrl]+[shift] para remover solo este elemento">
-<context-add-branch "clic para añadir una rama: por el contrario mantén {{ $removeKey }} para remover">
-<context-hide-branch "clic para colapsar esta rama">
-<context-show-branch "clic para expandir esta rama">
 
 /* diagram not-found page */
 <nodiagram-title "¡Diagrama no encontrado!">

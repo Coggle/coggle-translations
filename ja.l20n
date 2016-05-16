@@ -10,62 +10,21 @@
 
 /* front page content */
 
-<index-description """
-  <h1>創造性を解き放て</h1>
-  <p>素早く、簡単に、きれいなノートを作りましょう。アイディアをよりよくするために友達や同僚にシェアしましょう。すべて無料です！</p>
-  <p><a><span><b>さぁ、はじめましょう！ </b></span></a><a><span>もう少し読む。</span></a></p>
-""">
+<features-collaborate-title "みんなを巻き込もう">
+<features-collaborate "私達はチームで最高の仕事を成し遂げます。そして、自由に共同作業ができるとき、チームはとてもうまく働きます。Coggleを使えば、共同作業をするために友達や同僚を一度にあなたのダイアグラムに招待できます。">
 
-<testimonial-jenn """
-  <p>"Coggleを使って感じた幸せを表す言葉はこの言葉以外にないね... supercalifragilisticexpialidocious!"</p>
-  <p>Jenn, Coggleの利用者</p>
-""">
+<features-images-title "視覚に訴えよう">
+<features-images "イメージは1000の言葉以上の価値を持っています。Coggleではデスクトップ上のイメージをドラッグ・アンド・ドロップでダイアグラムに追加できます。とても簡単！</p>
+  <p>その上、追加できるイメージの数に上限はありません。">
 
-<features-collaborate """
-  <img>
-  <h2>みんなを巻き込もう</h2>
-  <p>私達はチームで最高の仕事を成し遂げます。そして、自由に共同作業ができるとき、チームはとてもうまく働きます。Coggleを使えば、共同作業をするために友達や同僚を一度にあなたのダイアグラムに招待できます。</p>
-""">
+<features-history-title "すぐに戻れる">
+<features-history "ドキュメントに加えた変更が、一日後に見なおした時によくなかったと思ったことはありますか？Coggleでは問題になりません。ヒストリー・モードにして戻りたい箇所まで戻って、そこからコピーを作ればよいのです！">
 
-<features-images """
-  <img>
-  <h2>視覚に訴えよう</h2>
-  <p>イメージは1000の言葉以上の価値を持っています。Coggleではデスクトップ上のイメージをドラッグ・アンド・ドロップでダイアグラムに追加できます。とても簡単！</p>
-  <p>その上、追加できるイメージの数に上限はありません。</p>
-""">
+<features-blame-title "誰が加えた変更かを知る">
+<features-blame "共有されたドキュメントに誰が変更を加えたか知りたいことはありませんか？Coggleではダイアグラムのヒストリーから誰がいつ変更を加えたかを知ることができます。ヒストリー・モードにして探すだけです。">
 
-<features-history """
-  <img>
-  <h2>すぐに戻れる</h2>
-  <p>ドキュメントに加えた変更が、一日後に見なおした時によくなかったと思ったことはありますか？Coggleでは問題になりません。ヒストリー・モードにして戻りたい箇所まで戻って、そこからコピーを作ればよいのです！</p>
-""">
-
-<features-blame """
-  <img>
-  <h2>誰が加えた変更かを知る</h2>
-  <p>共有されたドキュメントに誰が変更を加えたか知りたいことはありませんか？Coggleではダイアグラムのヒストリーから誰がいつ変更を加えたかを知ることができます。ヒストリー・モードにして探すだけです。</p>
-""">
-
-<features-colours """
-  <img>
-  <h2>色を使おう</h2>
-  <p>あなたはヴィジュアルでものを考える人ですか？あなたはレイアウトや色から学ぶ人ですか？トピックに最適な色を選びましょう。ブランチをクリックしてカラー・ホイールを表示させ、好きな色を選びましょう。</p>
-""">
-
-<features-others """
-  Coggleにはほかにもたくさんの機能があります。さぁ、<a>試してみましょう</a>。 無料です！ <a>ブログ</a> を開いて続きを見てみましょう。
-""">
-
-<footer-2 """
-  <p>
-    <a>about</a>
-    <a>facebook</a>
-    <a>twitter</a>
-    <a>privacy</a>
-    <a>terms</a>
-    <a>press</a>
-  </p>
-""">
+<features-colours-title "色を使おう">
+<features-colours "あなたはヴィジュアルでものを考える人ですか？あなたはレイアウトや色から学ぶ人ですか？トピックに最適な色を選びましょう。ブランチをクリックしてカラー・ホイールを表示させ、好きな色を選びましょう。">
 
 /* new frontpage content */
 <index-tagline "複雑な情報を共有するシンプルなやり方">
@@ -145,11 +104,6 @@
   <p title="フォルダの追加">追加</p>
 """>
 <limitedaccess "メンバー以外のアクセスは制限されています。">
-<link-drive """
-  <a><img>
-    <span>Coggleが増えすぎましたか？Google Driveで管理しましょう。</span>
-  </a>
-""">
 
 /* documents list contextual help items */
 <help-hide-for-now "今は隠す">
@@ -316,12 +270,7 @@
 <me-hi "こんにちは {{ $user.givenName }},">
 <me-communication-title "コミュニケーション">
 <me-emails-title "Email Addresses">
-<me-emailslist "私たちが記録しているemailアドレスです:">
 <me-emailstip "私たちはprimaryのemailアドレスにのみ連絡しますが、Coggleのお誘いは他のemailアドレスでも受け取ることができます。">
-<me-commspref "こちらは、あなたのコミュニケーション設定です:">
-<me-comms-explain """
-  ときどき、サービスのアップデートや新機能のお知らせを送ることがありますが、<strong>primary</strong>アドレスにのみ送信します。スパムや第三者の広告は送信しません（私たちもうその手のものを受け取るのは大嫌いです）。
-""">
 <me-talktome "Talk to me: ">
 <me-diagram-notifications "ダイアグラムの通知: ">
 
@@ -339,42 +288,6 @@
 
 <orgs-signup-usd """
   <a>CREATE ORGANISATION<div>From $8 per member per month</div></a>
-""">
-
-<orgs-feature-in-one-place """
-  <img>
-  <h2>Everything in One Place</h2>
-  <p>All your organisations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.</p>
-""">
-
-<orgs-feature-control-sharing """
-  <img>
-  <h2>Control Sharing</h2>
-  <p>You can make sure that Coggles created in your organisation stay in your organisation. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.</p>
-""">
-
-<orgs-feature-manage-users """
-  <img>
-  <h2>Safely Manage Users</h2>
-  <p>Remove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active.</p>
-""">
-
-<orgs-feature-export """
-  <img>
-  <h2>Bulk Export</h2>
-  <p>Organisation admins can download all of the organisations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind. </p>
-""">
-
-<orgs-feature-branding """
-  <img>
-  <h2>Show your Brand</h2>
-  <p>Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.</p>
-""">
-
-<orgs-feature-editable-links """
-  <img>
-  <h2>Editable Private Links</h2>
-  <p>Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.</p>
 """>
 
 <orgs-feature-awesome """
@@ -457,18 +370,6 @@
  </div>
 """>
 
-
-/* diagram tooltips */
-<context-dragclick "ドラッグして移動、クリックして編集">
-<context-dragclickfollow "ドラッグして移動、クリックして編集、{{ $followLinkKey }} + でリンクを開く">
-
-<context-remove-branch-alt "このブランチを削除する。[alt] を離してブランチを追加">
-<context-insert-branch "テキストを挿入。[shift] を離してブランチを追加">
-<context-squash-branch "テキストを取り除く。{{ $squashKeys }} を離してブランチを追加">
-<context-remove-branch-ctrl "ブランチを削除。[ctrl]+[shift] で、このアイテムのみ削除">
-<context-add-branch "クリックしてブランチを追加。{{ $removeKey }} を押して削除">
-<context-hide-branch "クリックしてブランチを畳む。">
-<context-show-branch "クリックしてブランチを広げる。">
 
 /* sharing dialog content */
 <share-newlink "リンクの新規作成:">

@@ -10,62 +10,20 @@
 
 /* front page content */
 
-<index-description """
-  <h1>Släpp loss din kreativitet</h1>
-  <p>Skapa vackra anteckningar, snabbt och enkelt. Dela dem med vänner och kollegor för att förbättra dina idéer tillsammans. Allt utan kostnad!</p>
-  <p><a><span><b>Kom igång nu! </b></span></a><a><span>Eller, läs mer.</span></a></p>
-""">
+<features-collaborate-title "Få alla inblandade">
+<features-collaborate "Ofta arbetar vi bäst i team, och team fungerar mest effektivt när de kan samarbeta fritt. Med Coggle kan du bjuda in dina vänner och kollegor att arbeta med dig, samtidigt, på dina diagram.">
 
-<testimonial-jenn """
-  <p>"I can only think of one word to describe my happiness with this... supercalifragilisticexpialidocious!"</p>
-  <p>Jenn, Coggle User</p>
-""">
+<features-images-title "Komplettera bilden">
+<features-images "En bild säger mer än tusen ord. Med Coggle kan du dra och släppa bilder direkt från skrivbordet till dina diagram. Så enkelt är det! Bäst av allt, det finns ingen gräns för hur många bilder du kan lägga till.">
 
-<features-collaborate """
-  <img>
-  <h2>Få alla inblandade</h2>
-  <p>Ofta arbetar vi bäst i team, och team fungerar mest effektivt när de kan samarbeta fritt. Med Coggle kan du bjuda in dina vänner och kollegor att arbeta med dig, samtidigt, på dina diagram.</p>
-""">
+<features-history-title "Gå bakåt i tiden">
+<features-history "Har du gjort ändringar i ett dokument, bara för att komma tillbaka en dag senare och upptäcka att du inte gillar ändringarna? Med Coggle det är inte ett problem. Gå bara in i historikläget för att hitta rätt version, och gör en kopia från den punkten!">
 
-<features-images """
-  <img>
-  <h2>Komplettera bilden</h2>
-  <p>En bild säger mer än tusen ord. Med Coggle kan du dra och släppa bilder direkt från skrivbordet till dina diagram. Så enkelt är det!</p>
-  <p>Bäst av allt, det finns ingen gräns för hur många bilder du kan lägga till.</p>
-""">
+<features-blame-title "Spåra förändringar">
+<features-blame "Har du någonsin undrat vem som gjort ändringar i ett delat dokument? Med Coggle du kan titta igenom historiken till ditt diagram för att se vem som ändrat vad och när! Gå bara in diagrammets historikläge för att få reda på det.">
 
-<features-history """
-  <img>
-  <h2>Gå bakåt i tiden</h2>
-  <p>Har du gjort ändringar i ett dokument, bara för att komma tillbaka en dag senare och upptäcka att du inte gillar ändringarna? Med Coggle det är inte ett problem. Gå bara in i historikläget för att hitta rätt version, och gör en kopia från den punkten!</p>
-""">
-
-<features-blame """
-  <img>
-  <h2>Spåra förändringar</h2>
-  <p>Har du någonsin undrat vem som gjort ändringar i ett delat dokument? Med Coggle du kan titta igenom historiken till ditt diagram för att se vem som ändrat vad och när! Gå bara in diagrammets historikläge för att få reda på det.</p>
-""">
-
-<features-colours """
-  <img>
-  <h2>Få till rätt färg</h2>
-  <p>Är du en visuell tänkare? Lär du dig med hjälp av layout och färg? Se till att du får rätt färg för dina ämnen, klicka bara på en gren för att få upp färghjulet och välj den färg du vill ha.</p>
-""">
-
-<features-others """
-  Coggle har massor av andra bra funktioner, så <a>prova nu</a>, det är gratis! Besök <a>bloggen</a> för att läsa mer.
-""">
-
-<footer-2 """
-  <p>
-    <a>about</a>
-    <a>facebook</a>
-    <a>twitter</a>
-    <a>privacy</a>
-    <a>terms</a>
-    <a>press</a>
-  </p>
-""">
+<features-colours-title "Få till rätt färg">
+<features-colours "Är du en visuell tänkare? Lär du dig med hjälp av layout och färg? Se till att du får rätt färg för dina ämnen, klicka bara på en gren för att få upp färghjulet och välj den färg du vill ha.">
 
 /* new frontpage content */
 <index-tagline "A clear way to share complex information.">
@@ -110,11 +68,6 @@
   <p title="Create a new Folder.">ADD</p>
 """>
 <limitedaccess "You have limited access to  as you're not a member">
-<link-drive """
-  <a><img>
-    <span>Too many Coggles? Organise them in Google Drive</span>
-  </a>
-""">
 
 /* documents list messages */
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
@@ -283,12 +236,7 @@ Getting Started <a>hide</a><a>show</a>
 <me-hi "Hi {{ $user.givenName }},">
 <me-communication-title "Communication">
 <me-emails-title "Email Addresses">
-<me-emailslist "These are the emails we have on record for you:">
 <me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
-<me-commspref "Here's what you've told us about your communication preferences:">
-<me-comms-explain """
-  Sometimes we need to send out service updates and new feature information which we'll send to your <strong> primary </strong> address. We won't send you spam or advertising from us or any third parties (we hate getting that stuff too).
-""">
 <me-talktome "Talk to me: ">
 <me-diagram-notifications "Diagram notifications: ">
 
@@ -308,45 +256,6 @@ Getting Started <a>hide</a><a>show</a>
   <a>CREATE ORGANISATION<div>From $8 per member per month</div></a>
 """>
 
-<orgs-feature-in-one-place """
-  <img>
-  <h2>Everything in One Place</h2>
-  <p>All your organisations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.</p>
-""">
-
-<orgs-feature-control-sharing """
-  <img>
-  <h2>Control Sharing</h2>
-  <p>You can make sure that Coggles created in your organisation stay in your organisation. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.</p>
-""">
-
-<orgs-feature-manage-users """
-  <img>
-  <h2>Safely Manage Users</h2>
-  <p>Remove users from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by users past and present, deleted or active.</p>
-""">
-
-<orgs-feature-export """
-  <img>
-  <h2>Bulk Export</h2>
-  <p>Organisation admins can download all of the organisations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind. </p>
-""">
-
-<orgs-feature-branding """
-  <img>
-  <h2>Show your Brand</h2>
-  <p>Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.</p>
-""">
-
-<orgs-feature-editable-links """
-  <img>
-  <h2>Editable Private Links</h2>
-  <p>Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.</p>
-""">
-
-<orgs-feature-awesome """
-  In addition, all members of your organisation will get the Coggle <a>Awesome</a> features.
-""">
 
 /* Organisations Sign-Up Page (/organisations/new) */
 <orgcreate-title "Create an Organisation">
@@ -424,16 +333,6 @@ Getting Started <a>hide</a><a>show</a>
  </div>
 """>
 
-
-/* diagram tooltips */
-<context-dragclick "drag to move, click to edit">
-<context-dragclickfollow "drag to move, click to edit, {{ $followLinkKey }} + click to follow links">
-
-<context-remove-branch-alt "remove this branch: release [alt] to add branch instead">
-<context-insert-branch "insert text: release [shift] to add branch instead">
-<context-squash-branch "squash text: release {{ $squashKeys }} to add branch instead">
-<context-remove-branch-ctrl "remove this branch: use [ctrl]+[shift] to remove only this item">
-<context-add-branch "click to add branch: hold {{ $removeKey }} to remove instead">
 
 /* diagram not-found page */
 <nodiagram-title "Diagram not found!">
