@@ -150,7 +150,7 @@
 <logout "Logout">
 <settings "Settings">
 <return-to-diagrams "Return to your diagrams">
-<upgrade-to-awesome "Upgrade to Awesome!">
+<upgrade-to-awesome "Upgrade to <b>Awesome</b>!">
 <want-awesome-for-free "Want Awesome for free?">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
@@ -426,7 +426,7 @@
   <a title='Share on Twitter'> <img/> </a>
 """>
 <share-open "Can everyone view this diagram?">
-<share-open-detail "Open diagrams can be viewed by anyone and may be found by search engines">
+<share-open-detail "Open diagrams can be viewed by anyone and may appear in our <a>Gallery</a>">
 
 /* download dialog content */
 <download-pdf "Download PDF">
