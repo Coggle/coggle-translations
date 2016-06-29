@@ -102,6 +102,7 @@
 <feature-private "<b>Private diagrams</b>">
 <feature-chathistory "<b>Full</b> chat history">
 <feature-rearrange "<b>Auto-arrange branches</b>">
+<feature-rejoin "<b>Join Branches</b>">
 <feature-folders "<b>Shared folders</b>">
 <feature-presentation "Presentation mode">
 <feature-bigimages "<b>High-res image</b> uploads">
