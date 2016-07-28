@@ -11,7 +11,7 @@ You have been sent this message because you signed up at <a>https://coggle.it</a
 
 
 /* welcome email content */
-<emWelcomeSubject "{{ $name }}, welcome to Coggle!">
+<emWelcomeSubject "{{ $name }}, Welcome to Coggle!">
 <emWelcomeCoggleFamily "Welcome to the Coggle family {{ $name }} &mdash; It's great to have you on board!">
 <emWelcomeCoggleDesign """
 We've designed Coggle with <b>simplicity</b> and <b>collaboration</b> at its heart. Share your ideas and knowledge with colleagues, classmates or friends to get the most out of Coggle.

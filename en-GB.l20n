@@ -83,7 +83,7 @@
 
 <plans-free-title "Free">
 <plans-free-price "Free forever">
-<feature-free-private "<b>1</b> Private Diagram">
+<feature-free-private "<b>1</b> private diagram">
 <feature-realtime "<b>Real-time</b> collaboration">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
 <feature-images "<b>Unlimited</b> image uploads">
@@ -98,10 +98,11 @@
 
 <plans-awesome-title "Awesome">
 <plans-awesome-price "$5 / month">
-<feature-unlimited-private "<b>Unlimited</b> Private Diagrams">
+<feature-unlimited-private "<b>Unlimited</b> private diagrams">
 <feature-private "<b>Private diagrams</b>">
 <feature-chathistory "<b>Full</b> chat history">
 <feature-rearrange "<b>Auto-arrange branches</b>">
+<feature-rejoin "<b>Join Branches</b>">
 <feature-folders "<b>Shared folders</b>">
 <feature-presentation "Presentation mode">
 <feature-bigimages "<b>High-res image</b> uploads">
@@ -150,8 +151,10 @@
 <logout "Logout">
 <settings "Settings">
 <return-to-diagrams "Return to your diagrams">
-<upgrade-to-awesome "Upgrade to Awesome!">
+<upgrade-to-awesome "Upgrade to <b>Awesome</b>!">
 <want-awesome-for-free "Want Awesome for free?">
+<personal-org "Personal <span>(<a>what is this?</a>)</span>">
+<help-search placeholder:"Help me to...">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <doclist-create """
@@ -426,7 +429,7 @@
   <a title='Share on Twitter'> <img/> </a>
 """>
 <share-open "Can everyone view this diagram?">
-<share-open-detail "Open diagrams can be viewed by anyone and may be found by search engines">
+<share-open-detail "Open diagrams can be viewed by anyone and may appear in our <a>Gallery</a>">
 
 /* download dialog content */
 <download-pdf "Download PDF">
@@ -574,8 +577,11 @@
   <div>$5 / MONTH</div>
 """>
 
-<awesome-feature-private-title "Unlimited Private Coggles">
-<awesome-feature-private "Create as many private Coggles as you like. If you do ever cancel your subscription they stay private, and you keep access.">
+<awesome-feature-private-title "Unlimited Private Diagrams">
+<awesome-feature-private "Create as many private diagrams as you like. If you do ever cancel your subscription they stay private, and you keep access.">
+
+<awesome-feature-joinloop-title "Create Loops and Join Branches">
+<awesome-feature-joinloop "Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.">
 
 <awesome-feature-present-title "Distraction-Free Presentation">
 <awesome-feature-present "Use Presentation Mode to present any Coggle in beautiful distraction-free full-screen mode. Collapse and expand branches as you tell your story.">
@@ -584,7 +590,7 @@
 <awesome-feature-bigimages "Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.">
 
 <awesome-feature-colours-title "More Colours">
-<awesome-feature-colours "Use all the colours provided in our colour picker to help organise and differentiate your ideas.">
+<awesome-feature-colours "Unlock a new range of vivid colours to help organise and highlight your ideas.">
 
 <awesome-feature-autoarrange-title "Automatic Branch Layout">
 <awesome-feature-autoarrange "Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.">
