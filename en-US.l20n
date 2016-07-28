@@ -16,13 +16,13 @@
 <index-nav-gallery "Gallery">
 
 <index-unleash "Unleash your creativity">
-<index-blurb "Produce beautiful notes, quickly and easily. Share them with friends and colleagues to enhance your ideas collaboratively.">
-<index-viewgallery "Or, take a look at the <a>Coggle Gallery</a>">
+<index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
+<index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
 
 <index-colab-mindmaps """
- <h1>Collaborative Mind Maps</h1>
- <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or update. Simply <a>log in</a> to start mind-mapping now!</p>
- <p>Whether you're note-taking, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+  <h1>Collaborative Mind Maps</h1>
+  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
+  <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
 """>
 
 <index-use-notes """
@@ -82,9 +82,11 @@
 <plans-title-freeforever "Coggle is free to use, and always will be. Create unlimited public diagrams and share them for free.">
 
 <plans-free-title "Free">
+<plans-free-description "Ideal for discovering Coggle and occasional use.">
 <plans-free-price "Free forever">
 <feature-free-private "<b>1</b> private diagram">
 <feature-realtime "<b>Real-time</b> collaboration">
+<feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
 <feature-images "<b>Unlimited</b> image uploads">
 <feature-changes "<b>Full</b> change history">
@@ -97,7 +99,9 @@
 <plans-free-getstarted "Get Started">
 
 <plans-awesome-title "Awesome">
+<plans-awesome-description "Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.">
 <plans-awesome-price "$5 / month">
+<feature-include-free "Everything in <b>Free</b>">
 <feature-unlimited-private "<b>Unlimited</b> private diagrams">
 <feature-private "<b>Private diagrams</b>">
 <feature-chathistory "<b>Full</b> chat history">
@@ -110,7 +114,10 @@
 <plans-findoutmore "Find out more">
 
 <plans-org-title "Organization">
+<plans-org-description "Ideal for <b>teams</b> that want to control access to their data and consolidate billing.">
 <plans-org-price "$8 / member / month">
+<feature-org-awesome "Everything from <b>Awesome</b>">
+<feature-org-billing "Consolidated billing">
 <feature-bulkexport "<b>Bulk export</b>">
 <feature-adminpanel "<b>User & data</b> management">
 <feature-branding "Branded diagrams">
