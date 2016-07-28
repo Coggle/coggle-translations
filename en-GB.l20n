@@ -209,6 +209,7 @@
 <settings-billing-title "Billing & Invoices">
 <settings-recommend-title "Recommend">
 <settings-emails-title "Communication">
+<settings-language-title "Language">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when they
@@ -296,6 +297,10 @@
 
 <slider-yes "YES">
 <slider-no "NO">
+
+<me-language-title "Choose Your Preferred Language">
+<me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
+<me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
 
 <we-heart-you "We ♥ you.">
 <help-discover-coggle "Help the world discover Coggle and get free stuff!">
