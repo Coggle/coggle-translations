@@ -117,6 +117,7 @@
 <plans-org-description "Ideal for <b>teams</b> that want to control access to their data and consolidate billing.">
 <plans-org-price "$8 / member / month">
 <feature-org-awesome "Everything from <b>Awesome</b>">
+<feature-org-separate "Separate Personal workspace">
 <feature-org-billing "Consolidated billing">
 <feature-bulkexport "<b>Bulk export</b>">
 <feature-adminpanel "<b>User & data</b> management">
