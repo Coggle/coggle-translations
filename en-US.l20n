@@ -163,8 +163,6 @@
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
 <help-search placeholder:"Help me to...">
 
-
-
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <doclist-create """
     <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
