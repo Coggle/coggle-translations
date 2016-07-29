@@ -184,7 +184,7 @@
 <tooltip-subscribe title:"Subscribe to notifications">
 <tooltip-duplicate title:"Create a copy">
 <tooltip-remove title:"Remove diagram">
-<tooltip-restore title:"Restore diagram" 
+<tooltip-restore title:"Restore diagram">
 
 /* documents list contextual help items */
 <help-searchcoggle-title "Search Coggle">
