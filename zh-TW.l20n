@@ -305,9 +305,9 @@
 
 /* Gallery Content (/gallery) */
 <gallery-title "Coggle 畫廊">
-<gallery-blurb "一手挑選最好的、用Coggle製作的圖表收集!">
+<gallery-blurb2 "一手挑選最好的、用Coggle製作的圖表收集!">
 
-<gallery-folder-blurb """
+<gallery-folder-blurb2 """
   <b>Coggle 畫廊</b> - 一手挑選最好的、用Coggle製作的圖表收集! <br/>
 跟隨我們<a>推特</a> 或 <a>臉書</a> 定期更新.
 """>

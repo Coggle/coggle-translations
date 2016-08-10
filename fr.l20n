@@ -301,8 +301,8 @@
 
 /* Gallery Content (/gallery) */
 <gallery-title "la Galerie Coggle">
-<gallery-blurb "Une sélection faite main des meilleurs diarammes faits avec Coggle !">
-<gallery-folder-blurb """
+<gallery-blurb2 "Une sélection faite main des meilleurs diarammes faits avec Coggle !">
+<gallery-folder-blurb2 """
   <b>la Galerie Coggle</b> - Une sélection faite main des meilleurs diarammes faits avec Coggle !<br/>
   Partager sur <a>Twitter</a> ou sur <a>Facebook</a>.
 """>

@@ -330,9 +330,9 @@
 
 /* Gallery Content (/gallery) */
 <gallery-title "The Coggle Gallery">
-<gallery-blurb "A hand-picked collection of the best diagrams made with Coggle!">
-<gallery-folder-blurb """
-  <b>The Coggle Gallery</b> - A hand-picked collection of the best diagrams made with Coggle! <br/>
+<gallery-blurb2 "A selection of the best diagrams made with Coggle!">
+<gallery-folder-blurb2 """
+  <b>The Coggle Gallery</b> - A selection of the best diagrams made with Coggle! <br/>
   Follow us on <a>Twitter</a> or <a>Facebook</a> for regular updates.
 """>
 
