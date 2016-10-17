@@ -91,25 +91,25 @@
   <p>Click to access your personal settings, and to switch between Organisations.</p>
   <p>Organisations let you control sharing of Coggles and work with larger teams.</p>
 """>
-<help-createfolder-title "Create a Folder">
+<help-createfolder-title "Создать папку">
 <help-createfolder "Create folders to share with groups of people, or categorize Coggles.">
 <help-filtercoggles-title "Filter Coggles">
 <help-filtercoggles """
   Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
 """>
-<help-profile-title "This is you!">
+<help-profile-title "Это Вы!">
 <help-profile "Click your icon to view your user profile and settings.">
 
 
 /* diagram introductory tutorial */
-<guide-click-here "click here">
-<guide-or-here "or here">
-<guide-editanytext "you can edit any text">
-<guide-draganything "and drag any text to move it">
-<guide-clicktoadd "now click here to add child item">
+<guide-click-here "нажмите здесь">
+<guide-or-here "или здесь">
+<guide-editanytext "Вы можете редактировать любой текст">
+<guide-draganything "и схватить любой текст что бы перемещать его">
+<guide-clicktoadd "теперь нажмите здесь, чтобы добавить дочерний элемент">
 <guide-taptoaddmore "now tap to add more">
 <guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
-<guide-undo "you can use {{ $undoKey }} to undo any anything you do!">
+<guide-undo "Вы можете использовать {{ $undoKey }} что бы отменить любые Ваши действия!">
 <guide-redo "and {{ $redoKey }} to re-do things again afterwards">
 <guide-donebasics "neat you've got the hang of the basics!">
 
@@ -136,10 +136,10 @@
 <sidebar-getstarted """
 Getting Started <a>hide</a><a>show</a>
 """>
-<guidestep-add "Add a new item">
+<guidestep-add "Добавить новый элемент">
 <guidestep-edit "Edit an item">
 <guidestep-move "Move an item ">
-<guidestep-remove "Remove an item">
+<guidestep-remove "Удалить элемент">
 <guidestep-undo "Undo a change">
 <guidestep-redo "Redo a change">
 
