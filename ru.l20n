@@ -26,7 +26,7 @@
 <features-colours "Вы мыслите графически? Вы запоминаете с помощью расположения и цвета? Что же, убедитесь, что вы выбрали правильные цвета для ваших тем, просто кликните на ветку чтобы вызвать цветовое колесо и выберите цвет, который хотите.">
 
 <footer-about "О нас">
-<footer-contact "contact">
+<footer-contact "Контакты">
 <footer-facebook "facebook">
 <footer-twitter "twitter">
 <footer-privacy "Конфиденциальность">
@@ -84,21 +84,21 @@
 <doclist-draghere "Перетащите Coggle сюда, чтобы переместить его в эту папку.">
 
 /* documents list contextual help items */
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
+<help-hide-for-now "Больше не показывать">
+<help-ok-got-it "Хорошо, понял!">
 <help-settingsswitch-title "Доступ к вашим настройкам">
 <help-settingsswitch """
-  <p>Click to access your personal settings, and to switch between Organisations.</p>
-  <p>Organisations let you control sharing of Coggles and work with larger teams.</p>
+  <p>Нажмите, чтобы получить доступ к персональным настройкам, а также для переключения между Организациями.</p>
+  <p>Организации позволяют контролировать обмен Coggles и работать с большими командами.</p>
 """>
 <help-createfolder-title "Создать папку">
-<help-createfolder "Create folders to share with groups of people, or categorize Coggles.">
+<help-createfolder "Создавайте папки для обмена с группами людей, или для категоризации Coggles.">
 <help-filtercoggles-title "Filter Coggles">
 <help-filtercoggles """
   Type to filter your Coggles and quickly open them – press <b>[enter]</b> to open the top Coggle in the filtered list.
 """>
 <help-profile-title "Это Вы!">
-<help-profile "Click your icon to view your user profile and settings.">
+<help-profile "Щелкните на иконку Вашего профиля для просмотра профиля пользователя и настроек.">
 
 
 /* diagram introductory tutorial */
@@ -107,17 +107,17 @@
 <guide-editanytext "Вы можете редактировать любой текст">
 <guide-draganything "и схватить любой текст что бы перемещать его">
 <guide-clicktoadd "теперь нажмите здесь, чтобы добавить дочерний элемент">
-<guide-taptoaddmore "now tap to add more">
+<guide-taptoaddmore "теперь нажмите, чтобы добавить еще">
 <guide-holdtoremove "... or hold {{ $removeKey }} and click here to delete instead">
 <guide-undo "Вы можете использовать {{ $undoKey }} что бы отменить любые Ваши действия!">
 <guide-redo "and {{ $redoKey }} to re-do things again afterwards">
 <guide-donebasics "neat you've got the hang of the basics!">
 
 /* diagram placeholder content */
-<css--desktop-holder-textlabel-roottextlabel-empty-not-active-after "Unnamed Coggle">
-<css--touch-holder-not-readonly-textlabel-empty-not-active-after "hold to edit">
-<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "click to edit">
-<css--holder-readonly-textlabel-empty-not-active-after "no text">
+<css--desktop-holder-textlabel-roottextlabel-empty-not-active-after "Безымянный Coggle">
+<css--touch-holder-not-readonly-textlabel-empty-not-active-after "удерживайте для редактирования">
+<css--desktop-holder-not-readonly-textlabel-empty-not-active-after "нажмите, чтобы изменить">
+<css--holder-readonly-textlabel-empty-not-active-after "нет текста">
 
 /* diagram contextual help items */
 <help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
@@ -137,11 +137,11 @@
 Getting Started <a>hide</a><a>show</a>
 """>
 <guidestep-add "Добавить новый элемент">
-<guidestep-edit "Edit an item">
-<guidestep-move "Move an item ">
+<guidestep-edit "Редактировать элемент">
+<guidestep-move "Переместить элемент">
 <guidestep-remove "Удалить элемент">
-<guidestep-undo "Undo a change">
-<guidestep-redo "Redo a change">
+<guidestep-undo "Отменить изменения">
+<guidestep-redo "Повторить изменения">
 
 <controls[@os] 
  removeKey[@os]: {
@@ -152,7 +152,7 @@ Getting Started <a>hide</a><a>show</a>
 >
 
 <sidebar-contextmenu "Context Menu">
-<sidebar-clickformenu "Right click an item or the background to access a menu.">
+<sidebar-clickformenu "Нажмите правую кнопку мыши на элементе или фоне для доступа к меню.">
 <sidebar-controls "Controls">
 <sidebar-addbranch """
   <div>Add Branch:</div>
@@ -251,15 +251,15 @@ Getting Started <a>hide</a><a>show</a>
 
 
 /* My Settings Page (/me) */
-<me-hi "Hi {{ $user.givenName }},">
-<me-communication-title "Communication">
-<me-emails-title "Email Addresses">
+<me-hi "Привет, {{ $user.givenName }},">
+<me-communication-title "Связь">
+<me-emails-title "Адрес электронной почты">
 <me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
 <me-talktome "Talk to me: ">
 <me-diagram-notifications "Diagram notifications: ">
 
-<slider-yes "YES">
-<slider-no "NO">
+<slider-yes "Да">
+<slider-no "Нет">
 
 
 /* Organizations Landing Page (/organisations) */
@@ -523,11 +523,11 @@ Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here
 Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
 """>
 <fact-organisation """
-Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+Используете Coggle в бизнесе? Вы можете создать Coggle организацию для управления Coggles вашей компании.
 """>
 <fact-organisation2 """
-Did you know Coggle Organisations can put their logo on their Coggles? They can!
+Знаете ли вы, что Coggle организации могут поместить свой логотип на свои Coggles? Они могут!
 """>
 <fact-organisation3 """
-Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
+Знаете ли Вы, что Вы можете создать Coggle организацию, чтобы организовать свой бизнес Coggles? Вы можете!
 """>
