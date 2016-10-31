@@ -26,7 +26,7 @@
 <features-colours "Вы мыслите графически? Вы запоминаете с помощью расположения и цвета? Что же, убедитесь, что вы выбрали правильные цвета для ваших тем, просто кликните на ветку чтобы вызвать цветовое колесо и выберите цвет, который хотите.">
 
 <footer-about "О нас">
-<footer-contact "contact">
+<footer-contact "Контакты">
 <footer-facebook "facebook">
 <footer-twitter "twitter">
 <footer-privacy "Конфиденциальность">
@@ -84,11 +84,11 @@
 <doclist-draghere "Перетащите Coggle сюда, чтобы переместить его в эту папку.">
 
 /* documents list contextual help items */
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
+<help-hide-for-now "Больше не показывать">
+<help-ok-got-it "Хорошо, понял!">
 <help-settingsswitch-title "Доступ к вашим настройкам">
 <help-settingsswitch """
-  <p>Click to access your personal settings, and to switch between Organisations.</p>
+  <p>Нажмите, чтобы получить доступ к персональным настройкам, а также для переключения между Организациями.</p>
   <p>Organisations let you control sharing of Coggles and work with larger teams.</p>
 """>
 <help-createfolder-title "Создать папку">
