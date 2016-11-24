@@ -304,21 +304,32 @@ Getting Started <a>hide</a><a>show</a>
 
 
 /* About Coggle (/about) */
-<about-hello """
+<about-hello2 """
   <h1>Hello!</h1>
-  <p>Coggle is about redefining the way documents work: the way we share and store knowledge. It's a space for thoughts that works the way that people do — not in the rigid ways of computers.</p>
-  <p>It's free, and we promise it always will be, but we still take our responsibilities seriously. We promise to look after your data the best we know how, to keep backups, and to take security seriously.</p>
-  <p>Our mission is to change the way that people work and collaborate forever, to make you more productive, and to make it easier to share information with others, and to do it in a way that's beautiful, and a pleasure to use.</p>
+  <p><b>Coggle gives you a clear way to share and understand complex information.
+  It's a collaborative document that simplifies complex things and 
+  a shared workspace to help your team work more effectively together.</b></p>
+  <p>It's free, and we promise it always will be, but we still promise to look
+  after your data the best we know how, to keep backups, and to take security
+  seriously.</p>
+  <p>Our mission is to change the way that people work and collaborate forever,
+  to make you more productive, to make it easier to share information with
+  others, and to do it in a way that's beautiful, and a pleasure to use.</p>
 """>
 
 <about-getintouch """
   <h1>Get in Touch</h1>
-  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter </a>and if you prefer you can always send an email to <a>hello@coggle.it </a>— we love to chat!</p>
+  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just
+  give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter
+  </a>and if you prefer you can always send an email to <a>hello@coggle.it
+  </a>— we love to chat!</p>
 """>
 
 <about-spreadtheword """
   <h1>Spread the Word</h1>
-  <p>If you love Coggle, then help us break even more people free from the confines of lists, spreadsheets and conventional documents! You can share Coggle <a>on Twitter </a>or <a>on Facebook</a>, or you can even get a <a>Coggle tshirt</a>.</p>
+  <p>If you love Coggle, then help us break even more people free from the
+  confines of lists, spreadsheets and conventional documents! You can share
+  Coggle <a>on Twitter </a>or <a>on Facebook</a>.</p>
 """>
 
 <about-press """

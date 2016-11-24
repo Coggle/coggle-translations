@@ -366,21 +366,32 @@ Empezando <a>ocultar</a><a>mostrar</a>
 <orgcreate-create "<p>CREAR</p>">
 
 /* About Coggle (/about) */
-<about-hello """
-  <h1>¡Hola!</h1>
-  <p>Coggle está apunto de redefinir la forma en que los documentos funcionan: La forma en que compartimos y guardamos conociendo. Es un lugar para ideas que funcionan en misma forma que las personas lo hacen — no en las formas rígidas de las computadoras.</p>
-  <p>Es gratis, y prometemos que siempre lo será, pero todavía tomamos nuestras responsabilidades con seriedad. Nosotros prometemos velar por tus datos de la mejor manera que conocemos, mantener respaldos y tomar la seguridad seriamente. </p>
-  <p>Nuestra misión es cambiar la forma en que las personas trabajan y colaboran para siempre, para hacerlo más productivo, más sencillo de compartir información con otros y de una forma que es hermosa y placentera al usar.</p>
+<about-hello2 """
+  <h1>Hello!</h1>
+  <p><b>Coggle gives you a clear way to share and understand complex information.
+  It's a collaborative document that simplifies complex things and 
+  a shared workspace to help your team work more effectively together.</b></p>
+  <p>It's free, and we promise it always will be, but we still promise to look
+  after your data the best we know how, to keep backups, and to take security
+  seriously.</p>
+  <p>Our mission is to change the way that people work and collaborate forever,
+  to make you more productive, to make it easier to share information with
+  others, and to do it in a way that's beautiful, and a pleasure to use.</p>
 """>
 
 <about-getintouch """
-  <h1>Ponte en contacto</h1>
-  <p>¿Tienes una pregunta? ¿Quieres contarnos como usas Coggle? O talvez ¿Quieres darnos alguna retroalimentación? Puedes encontrarnos en <a>facebook </a>y en <a>Twitter </a> o si prefieres siempre puedes enviarnos un email a <a>hello@coggle.it </a>— Amamos conversar!</p>
+  <h1>Get in Touch</h1>
+  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just
+  give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter
+  </a>and if you prefer you can always send an email to <a>hello@coggle.it
+  </a>— we love to chat!</p>
 """>
 
 <about-spreadtheword """
-  <h1>Difunde tu experiencia</h1>
-  <p>SI amas Coggle, ¡Entonces ayúdanos a sacar a más personas de los confines de listas, hojas de cálculo y documentos convencionales! Puedes compartir Coggle <a>en Twitter </a>o <a>en Facebook</a>, o hasta puede conseguir tu <a>camisa Coggle</a>.</p>
+  <h1>Spread the Word</h1>
+  <p>If you love Coggle, then help us break even more people free from the
+  confines of lists, spreadsheets and conventional documents! You can share
+  Coggle <a>on Twitter </a>or <a>on Facebook</a>.</p>
 """>
 
 <about-press """

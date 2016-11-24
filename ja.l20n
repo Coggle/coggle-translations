@@ -341,11 +341,17 @@
 
 
 /* About Coggle (/about) */
-<about-hello """
-  <h1>こんにちは！</h1>
-  <p>Coggleは私たちが知識を共有したり貯めておく手段としてのドキュメントのあり方を変えようとしています。コンピュータの融通のきかないやり方ではない方法を考える余地があります。</p>
-  <p>無料です。常に無料であることをお約束します。ただ、その責任をまじめに捉えています。私たちは知りうる限り最善の方法であなたのデータに責任を持ち、バックアップを取り、セキュリティを保ちます。</p>
-  <p>私たちのミッションは人々の働き方やコラボレーションのやり方を将来にわたって変えてゆくこと、もっと人々を生産的にすること、情報を共有しやすくすること、それを美しく楽しいやりかたで成し遂げることです。</p>
+<about-hello2 """
+  <h1>Hello!</h1>
+  <p><b>Coggle gives you a clear way to share and understand complex information.
+  It's a collaborative document that simplifies complex things and 
+  a shared workspace to help your team work more effectively together.</b></p>
+  <p>It's free, and we promise it always will be, but we still promise to look
+  after your data the best we know how, to keep backups, and to take security
+  seriously.</p>
+  <p>Our mission is to change the way that people work and collaborate forever,
+  to make you more productive, to make it easier to share information with
+  others, and to do it in a way that's beautiful, and a pleasure to use.</p>
 """>
 
 <about-getintouch """
