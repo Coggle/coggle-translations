@@ -81,7 +81,7 @@
  */
 <plans-title-freeforever "Coggle is free to use, and always will be. Create unlimited public diagrams and share them for free.">
 
-<plans-free-title "Free">
+<plans-free-forever-title "Free Forever">
 <plans-free-description "Ideal for discovering Coggle and occasional use.">
 <plans-free-price "Free forever">
 <feature-free-private "<b>1</b> private diagram">
@@ -129,9 +129,14 @@
 <cancel-subscription "Cancel Subscription">
 <awesome-signup-monthly "Sign up <span>$5 (US)</span> per month">
 <awesome-signup-yearly "Sign up <span>$50 (US)</span> per year">
+<awesome-upgrade-monthly "Upgrade (<b>$5</b> US / month)">
+<awesome-upgrade-yearly "Upgrade (<b>$50</b> US / year)">
+<product-purchase "PURCHASE">
 <yearly-discount "Pay yearly and get 2 months free!">
 <yearly-discount-percent "Pay yearly and save over 15%">
 <switch-yearly "Upgrade to Yearly">
+<manage-subscription "Manage Subscription">
+
 
 <awesome-feature "Awesome Plan">
 <org-feature "Organisation Feature">
@@ -230,17 +235,15 @@
              peryear: "per year"
 }>
 
-<settings-billing-on-file """
-  <div>The card we have on file for you ends in <b>{{ $cardEndsIn }}</b>, it expires on <b>{{ $cardExpires }}</b>.</div>
-  <div>The billing zipcode we have for you is <b>{{ $addressZip }}</b>.</div>
-  <div><a class='edit'>Change my details</a></div>
-  <div><div>{{ settingsSubmitButton[$submit] }}</div></div>
+<billing-on-file """
+  <p>The card we have on file for you ends in <b>{{ $cardEndsIn }}</b>, it expires on <b>{{ $cardExpires }}</b>.</p>
+  <p>The billing post code we have for you is <b>{{ $addressZip }}</b>. <a>Edit card details</a></p>
 """>
 <billing-ok-button "{{ settingsSubmitButton[$submit] }}">
 <billing-charge-description """
     We'll charge you
     <span>{{ $product.price }}</span>
-    <span>{{ billingPeriod[$product.periodKey] }}</span>
+    <span>(US) {{ billingPeriod[$product.periodKey] }}</span>
 """>
 <billing-remove-card "Remove my card details">
 
