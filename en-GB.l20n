@@ -566,6 +566,9 @@
   Read more...
 """>
 <sidebar-markdown "Markdown">
+<sidebar-bgmenu "<b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
+<sidebar-icons "Icons">
+<markdown-icons "Type <code>:</code> while editing or use the button along the top of the item editor.">
 <markdown-bold "<code>**text**</code> to make text <b>bold</b>">
 <markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
 <markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
