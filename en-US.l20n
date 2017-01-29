@@ -2,6 +2,15 @@
 
 /* For help with syntax, see http://l20n.org/learn/ or email
  * translations@coggle.it
+ *
+ * Each translation is made up of two parts:
+ *
+ * <translation-id "The html code that will be <b>displayed</b>">
+ *
+ * The translation-id should never be modified, and the html tags within the
+ * translated text such as <div>...</div>, <b>, <h1> etc shouldn't be modified
+ * either.
+ *
  */
 
 /* frontpage content (https://coggle.it/home), except for the plans section
@@ -88,6 +97,10 @@
 <feature-realtime "<b>Real-time</b> collaboration">
 <feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
+<feature-nprivate[$privateDiagrams.available] {
+       1: "1 private diagram",
+   *many: "{{ $privateDiagrams.available }} private diagrams"
+}>
 <feature-images "<b>Unlimited</b> image uploads">
 <feature-changes "<b>Full</b> change history">
 <feature-markdown "<b>Markdown</b> support">
@@ -137,6 +150,9 @@
 <switch-yearly "Upgrade to Yearly">
 <manage-subscription "Manage Subscription">
 
+<per-month "per month">
+<per-member-per-month "per member per month">
+
 <awesome-feature "Awesome Plan">
 <org-feature "Organisation Feature">
 
@@ -156,6 +172,7 @@
 <search-diagrams placeholder:"Search your diagrams">
 <view-gallery "Gallery">
 <create-folder "Create Folder">
+<shared-folders "Shared Folders">
 <created-by-you value:"Created By You">
 <shared-with-you value:"Shared With You">
 <folder-title placeholder:"Enter a folder name">
@@ -167,6 +184,16 @@
 <want-awesome-for-free "Want Awesome for free?">
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
 <help-search placeholder:"Help me to...">
+<my-settings "My Settings & Billing">
+<org-name-settings "{{ $orgName }} Settings">
+<org-settings title:"Manage Organization">
+<user-about "About Coggle">
+<user-contact "Contact Us">
+<user-privacy "Privacy Policy">
+<user-terms "Terms and Conditions">
+<user-link-drive "Link Google Drive">
+<diagrams-limited "<span> {{ $privateDiagrams.used }} of {{ $privateDiagrams.available }}</span> private diagrams used">
+<diagrams-unlimited "<span>Unlimited</span> private diagrams">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <doclist-create """
@@ -217,9 +244,9 @@
 <settings-language-title "Language">
 
 /* The button to save billing details changes its text in different contexts:
- * when a user signs up to awesome they are "purchasing" a subscription, when they
- * create an Organization, they are "create"ing an organization, or when they
- * change the billing details they are "updating" them.
+ * when a user signs up to awesome they are "purchasing" a subscription, when
+ * they create an Organization, they are "create"ing an organization, or when
+ * they change the billing details they are "updating" them.
  */
 <settingsSubmitButton {
   purchase: "purchase",
@@ -253,7 +280,7 @@
   </div>
   <div>
     <label>Expiry date</label>
-    <input> <input> <input placeholder="MM/YYYY" title="Expiry date">
+    <input> <input> <input placeholder="MM/YYYY" title="Expiry date"> /* the "Expiry date" part can be translated here */
   </div>
   <div>
     <label>Security code</label>
@@ -362,6 +389,11 @@
 <drag-to-create-link "drag to create link">
 <drag-to-transplant-branch "drag to transplant branch">
 
+<undo "undo">
+<redo "redo">
+<paste-branch "paste branch">
+<zoom-page "zoom page">
+
 <help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
 <help-add-node "Use the (+) buttons to add branches.">
 <help-edit-node "<p>Click any item to edit the text.</p><p>Change the text size by dragging the corner of the editing area.</p>">
@@ -386,7 +418,6 @@
     This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> You can make it private from the <a>sharing dialog</a>.
 """>
 
-
 <me-as-awesome-orgmember """
   <p>This is you &mdash; you\'re viewing Coggle as an <b>organisation member</b>.</p>
   <p>This means you get all the great features from the <a>Coggle Awesome</a> plan too!</p>
@@ -406,6 +437,8 @@
   <a>Manage your plan</a>
 """>
 
+
+
 <messages-title "Messages">
 <messages-search placeholder:"Search">
 <messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
@@ -418,7 +451,7 @@
 <diagram-toolbar-share title:"Share this Coggle.">
 <diagram-toolbar-download title:"Download this Coggle.">
 <diagram-toolbar-copy title:"Create a copy of this Coggle.">
-
+<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
 
 /* sharing dialog content */
 <share-newlink "New Link:">
@@ -484,8 +517,6 @@
   You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
 """>
 <imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
-
-
 
 
 /* shortcut help content (in the messages panel on the right-hand side of a
@@ -771,6 +802,7 @@
  </div>
 """>
 
+
 /* Coggle Facts */
 <fact-math """
 Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
@@ -827,7 +859,7 @@ You can download your Coggle as an Image! Look for the download button in the to
 Did you know Coggle supports LaTeX for math? It does!<p>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a>a syntax guide</a>.
 """>
 <fact-history """
-Did you know you can view the history of who changed what, when in your Coggle? You can! Click the history icon in the top right.
+Did you know you can view the history of who changed what, when in your Coggle? You can! Click the clock icon in the top right.
 """>
 <fact-images """
 Did you know you can put images in your Coggle? You can!<p>Just drag and drop an image from your computer to wherever you want it.

@@ -88,6 +88,10 @@
 <feature-realtime "<b>Real-time</b> collaboration">
 <feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
+<feature-nprivate[$privateDiagrams.available] {
+       1: "1 private diagram",
+   *many: "{{ $privateDiagrams.available }} private diagrams"
+}>
 <feature-images "<b>Unlimited</b> image uploads">
 <feature-changes "<b>Full</b> change history">
 <feature-markdown "<b>Markdown</b> support">
@@ -137,6 +141,9 @@
 <switch-yearly "Upgrade to Yearly">
 <manage-subscription "Manage Subscription">
 
+<per-month "per month">
+<per-member-per-month "per member per month">
+
 
 <awesome-feature "Awesome Plan">
 <org-feature "Organisation Feature">
@@ -157,6 +164,7 @@
 <search-diagrams placeholder:"Search your diagrams">
 <view-gallery "Gallery">
 <create-folder "Create Folder">
+<shared-folders "Shared Folders">
 <created-by-you value:"Created By You">
 <shared-with-you value:"Shared With You">
 <folder-title placeholder:"Enter a folder name">
@@ -168,6 +176,16 @@
 <want-awesome-for-free "Want Awesome for free?">
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
 <help-search placeholder:"Help me to...">
+<my-settings "My Settings & Billing">
+<org-name-settings "{{ $orgName }} Settings">
+<org-settings title:"Manage Organisation">
+<user-about "About Coggle">
+<user-contact "Contact Us">
+<user-privacy "Privacy Policy">
+<user-terms "Terms and Conditions">
+<user-link-drive "Link Google Drive">
+<diagrams-limited "<span> {{ $privateDiagrams.used }} of {{ $privateDiagrams.available }}</span> private diagrams used">
+<diagrams-unlimited "<span>Unlimited</span> private diagrams">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <doclist-create """
@@ -424,7 +442,7 @@
 <diagram-toolbar-share title:"Share this Coggle.">
 <diagram-toolbar-download title:"Download this Coggle.">
 <diagram-toolbar-copy title:"Create a copy of this Coggle.">
-
+<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
 
 /* sharing dialog content */
 <share-newlink "New Link:">

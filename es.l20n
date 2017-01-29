@@ -88,6 +88,10 @@ Estas son algunas de las aplicaciones de Coggle – <a>Empecemos</a> ¡Descubre 
 <feature-realtime "<b>Tiempo real</b> colaboración">
 <feature-emoji "Más de <b>1600</b> <a>Íconos bonitos</a>">
 <feature-diagrams "<b>ilimitado</b> diagramas públicos">
+<feature-nprivate[$privateDiagrams.available] {
+       1: "1 diagrama privado",
+   *many: "{{ $privateDiagrams.available }} diagramas privados"
+}>
 <feature-images "<b>ilimitado</b> subidas de imagen">
 <feature-changes "<b>lleno</b> cambia la historia">
 <feature-markdown "<b>reducción</b> apoyo">
@@ -137,6 +141,9 @@ Estas son algunas de las aplicaciones de Coggle – <a>Empecemos</a> ¡Descubre 
 <switch-yearly "Mejora al pago anual">
 <manage-subscription "Administra la suscripción">
 
+<per-month "al mes">
+<per-member-per-month "por miembro por mes">
+
 <awesome-feature "El plan Awesome">
 <org-feature "Condición de organización">
 
@@ -156,6 +163,7 @@ Estas son algunas de las aplicaciones de Coggle – <a>Empecemos</a> ¡Descubre 
 <search-diagrams placeholder:"Busca tus diagramas">
 <view-gallery "Galería">
 <create-folder "Crea carpetas">
+<shared-folders "Carpetas Compartidas">
 <created-by-you value:"Creado por ti">
 <shared-with-you value:"Compartido contigo">
 <folder-title placeholder:"Introduce un nombre para la carpeta">
@@ -167,6 +175,16 @@ Estas son algunas de las aplicaciones de Coggle – <a>Empecemos</a> ¡Descubre 
 <want-awesome-for-free "¿Quieres Awesome gratis?">
 <personal-org "Personal <span>(<a>¿qué es esto?</a>)</span>">
 <help-search placeholder:"Ayúdame...">
+<my-settings "Configuración y Facturación">
+<org-name-settings "Configuración de {{ $orgName }} ">
+<org-settings title:"Administrar una organización">
+<user-about "Sobre Coggle">
+<user-contact "Contáctenos">
+<user-privacy "Política de privacidad">
+<user-terms "Términos y Condiciones">
+<user-link-drive "Enlace a Google Drive">
+<diagrams-limited "<span> {{ $privateDiagrams.used }} de {{ $privateDiagrams.available }}</span> Diagramas privados utilizados">
+<diagrams-unlimited "Diagramas privados <span>Ilimitados</span>">
 
 <limitedaccess "Al no ser miembro {{ $resourceName }} tienes acceso limitado">
 <doclist-create """
@@ -423,7 +441,7 @@ Te cobraremos
 <diagram-toolbar-share title:"Comparte este Coggle.">
 <diagram-toolbar-download title:"Descarga este Coggle.">
 <diagram-toolbar-copy title:"Crea una copia de este Coggle.">
-
+<diagram-toolbar-public "Diagrama Público" title:"Podría aparecer en la Galería Coggle">
 
 /* Compartiendo contenido del diálogo */
 <share-newlink "Nuevo enlace:">
