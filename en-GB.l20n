@@ -315,8 +315,15 @@
   <span>Stay Awesome and get <b>30% off</b> your subscription for the next <b>3 months</b>!</span>
   <div>Stay Awesome!</div>
   <div>Cancel Subscription</div>
-  <a class='back'>Back</a>
+  <a>Back</a>
 """>
+
+<summary-free-plan "You don't have a subscription yet. <a>Upgrade now!</a></p>">
+<summary-active-plan "You're on the <code>{{ $planName }}</code> plan. <a>Cancel subscription</a> or <a href='/plans'>compare plans</a>.</p>">
+<summary-upgrade-yearly "Get two months free (<b>save 15%</b>) by paying annually. <a>Upgrade (<b>$50</b>)</a></p><p>Time remaining on your current plan will be automatically deducted from the cost of the upgrade.</p>">
+<summary-ending-plan "You're currently on the <code>{{ $planName }}</code> plan. It's <b>set to cancel</b> at the end of the current billing period. <a>Resubscribe</a></p>">
+<summary-overdue-plan "Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.</p>">
+
 
 <me-communication-title "Communication">
 <me-emails-title "Email Addresses">
