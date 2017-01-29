@@ -280,7 +280,7 @@
   </div>
   <div>
     <label>Expiry date</label>
-    <input> <input> <input placeholder="MM/YYYY" title="Expiry date"> /* the "Expiry date" part can be translated here */
+    <input> <input> <input placeholder="MM/YYYY" title="Expiry date">
   </div>
   <div>
     <label>Security code</label>
