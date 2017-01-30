@@ -612,6 +612,12 @@
 <markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
 <markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
+<button-bold title:"Make text bold">
+<button-italic title:"Make text italic">
+<button-link title:"Link to a website">
+<button-image title:"Upload an image">
+<button-emoji title:"Search for icons.">
+
 /* diagram not-found page */
 <nodiagram-title "Diagram not found!">
 <nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">

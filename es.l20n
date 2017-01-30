@@ -595,6 +595,12 @@ Te cobraremos
 <markdown-checkbox "<code>- [X]</code> para crear una <input/> casilla">
 <markdown-code "<code>`text`</code> para usar una <code>Anchura fija</code> fuente">
 
+<button-bold title:"Texto en negrita">
+<button-italic title:"Texto en cursiva">
+<button-link title:"Enlace a un sitio web">
+<button-image title:"Subir una imagen">
+<button-emoji title:"Búsqueda íconos">
+
 /* No se encontró la página del diagrama */
 <nodiagram-title "¡No se encontró el diagrama!">
 <nodiagram-invalid-link "El enlace para este diagrama es inválido o el acceso fue revocado.">
