@@ -253,6 +253,10 @@
              peryear: "per year"
 }>
 
+<billing-header """
+    <h3>Billing Details</h3>
+    <div>We think you'll love your Coggle subscription, if for any reason you're not completely satisfied, get in touch at <b>hello@coggle.it</b> and we'll make it right.</div>
+""">
 <billing-on-file """
   <p>The card we have on file for you ends in <b>{{ $cardEndsIn }}</b>, it expires on <b>{{ $cardExpires }}</b>.</p>
   <p>The billing post code we have for you is <b>{{ $addressZip }}</b>. <a>Edit card details</a></p>
