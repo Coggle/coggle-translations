@@ -221,8 +221,8 @@
 /* documents list contextual help items */
 <help-searchcoggle-title "Искать Coggle">
 <help-searchcoggle "Введите запрос, чтобы найти документы &mdash; легко ищите любое слово в диаграмме!">
-<help-hide-for-now "Закрыть на сейчас">
-<help-ok-got-it "OK, понятно!">
+<help-hide-for-now "Закрыть подсказку">
+<help-ok-got-it "Понятно!">
 <help-creatediagram-title "Создать новую диаграмму">
 <help-creatediagram """
   <p>Создайте новую Coggle диаграмму, чтобы начать пользование.</p>
@@ -418,7 +418,7 @@
 <help-toolbar-invitemulti """
   Чтобы сохранить время, вы можете приглашать несколько людей за раз: наберите (или вставьте) email адреса, разделяя их пробелами, запятыми<b>,</b> или точками с запятой <b>;</b>
 """>
-<help-toolbar-inviteflow "Coggle лушче работатет с другими - введите email адрес друга или сотрудника.">
+<help-toolbar-inviteflow "В Coggle лучше работать с другими - введите email адрес друга или сотрудника.">
 <help-toolbar-inviteflow-title "Введите email сотрудника">
 <help-inactive-invite "Работайте с друзьями, чтобы воплотить свои идеи в жизнь!<br>Пригласите по email здесь.">
 
@@ -452,8 +452,8 @@
 
 <messages-title "Сообщения">
 <messages-search placeholder:"Искать">
-<messages-entry placeholder:"Вставьте сообщение. Используйте @, чтоб отметить людей. Нажмите [enter], чтобы отправить.">
-<messages-start "Вы дошли до начала!">
+<messages-entry placeholder:"Вставьте сообщение. Используйте @, чтоб обратиться к человеку. Нажмите [enter], для отправки.">
+<messages-start "Больше сообщений нет!">
 <messages-upgrade "Нужно больше 2 недель истории? Переходите на <a>Awesome</a>, чтобы получить полную историю.">
 
 <diagram-toolbar-history title:"Посмотреть и скопировать предыдущие версии.">
@@ -602,12 +602,12 @@
     <div>Форматирование текста: </div>
     <div>используйте <a>Маркировку</a></div>
 """>
-<another-fact "другой!">
+<another-fact "Другой факт!">
 <cogglefacts-more """
   Узнать больше...
 """>
 <sidebar-markdown "Разметка">
-<sidebar-bgmenu "<b>Масштаб</b>, <b>отменить</b>, и <b>вставить скопированные объекты</b> нажатием правой кнопкой мыши на фон.">
+<sidebar-bgmenu "<b>Действия: масштабирование</b>, <b>отмена</b> и <b>вставка скопированных объекты</b> производится нажатием правой кнопкой мыши на фон.">
 <sidebar-icons "Иконки">
 <markdown-icons "Наберите <code>:</code>, когда редактируете или используйте кнопку наверху окна редактирования.">
 <markdown-bold "<code>**text**</code> сделать текст <b>жирным</b>">
