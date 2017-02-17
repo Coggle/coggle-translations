@@ -261,9 +261,13 @@
              peryear: "в год"
 }>
 
+<billing-header """
+    <h3>Billing Details</h3>
+    <div>Мы почти уверены, что вам понравится ваша подписка Coggle, но если вы по каким-либо причинам не удовлетворены, то свяжитесь с нами <b>hello@coggle.it</b> и мы постараемся это исправить.</div>
+""">
 <billing-on-file """
-  <p>The card we have on file for you ends in <b>{{ $cardEndsIn }}</b>, it expires on <b>{{ $cardExpires }}</b>.</p>
-  <p>The billing post code we have for you is <b>{{ $addressZip }}</b>. <a>Edit card details</a></p>
+  <p>Информация о вашей карте будет храниться у нас до <b>{{ $cardEndsIn }}</b>, оно истекает <b>{{ $cardExpires }}</b>.</p>
+  <p>Платежный почтовый код который есть у нас: <b>{{ $addressZip }}</b>. <a>Изменить данные карты</a></p>
 """>
 <billing-ok-button "{{ settingsSubmitButton[$submit] }}">
 <billing-charge-description """
@@ -287,11 +291,11 @@
     <input title="Последние три цифры с оборотной стороны карты.">
   </div>
   <div>
-    <label>Name on card</label>
+    <label>Имя на карте</label>
     <input placeholder="Имя на карте">
   </div>
   <div>
-    <label>Billing address</label>
+    <label>Платежный адрес</label>
     <input placeholder="Адрес линия 1">
     <input placeholder="Адрес линия 2">
   </div>
@@ -346,8 +350,8 @@
     *many: "Представьте еще <span>{{ $introduceCount }}</span> друзей Coggle",
 }>
 <introduced-n-friends[$introducedCount] {
-        1: "You've introduced <span>{{ $introducedCount }}</span> person to Coggle",
-    *many: "You've introduced <span>{{ $introducedCount }}</span> people to Coggle",
+        1: "Вы пригласили <span>{{ $introducedCount }}</span> человека в Coggle",
+    *many: "Вы пригласили <span>{{ $introducedCount }}</span> человек в Coggle",
 }>
 
 <share-your-link """
@@ -355,7 +359,7 @@
   <p>
     <a>Facebook</a>, 
     <a> Twitter</a>, 
-    or <a>email</a> все будет работать хорошоwill all work well!
+    or <a>email</a> все будет работать хорошо!
   </p>
   <input/>
 """>
@@ -708,10 +712,7 @@
 
 <faq-orgs-whatare """
   <div>Что такое Coggle Organisations?</div>
-  <div><p>Coggle Organisations отделяют ваши персональные диаграммы от принадлежащих компании. Благодаря этому вы получаете полный контроль за данными By separating what's personal from
-  what's professional you gain greater control over your businesses data that's
-  stored in Coggle, including when and how it's shared by your
-  employees.</p></div>
+  <div><p>Coggle Organisations отделяют ваши персональные диаграммы от принадлежащих компании. Благодаря этому вы получаете полный контроль за данными.</p></div>
 """>
 
 <faq-orgs-whofor """
