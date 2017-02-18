@@ -144,7 +144,6 @@
 <per-month "per month">
 <per-member-per-month "per member per month">
 
-
 <awesome-feature "Awesome Plan">
 <org-feature "Organisation Feature">
 
@@ -173,6 +172,8 @@
 <settings "Settings">
 <return-to-diagrams "Return to your diagrams">
 <upgrade-to-awesome "Upgrade to <b>Awesome</b>!">
+<awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<awesome-trial-after "Then you'll be moved onto the free plan">
 <want-awesome-for-free "Want Awesome for free?">
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
 <help-search placeholder:"Help me to...">

@@ -181,6 +181,8 @@
 <settings "設置">
 <return-to-diagrams "返回到你的圖表">
 <upgrade-to-awesome "升級為好棒棒會員！">
+<awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<awesome-trial-after "Then you'll be moved onto the free plan">
 <want-awesome-for-free "希望免費獲得好棒棒會員的資格嗎？">
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
 <help-search placeholder:"Help me to...">
