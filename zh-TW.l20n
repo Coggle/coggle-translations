@@ -16,19 +16,19 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "一個明確的方式共享複雜的信息.">
+<index-tagline "以清楚的方式分享複雜的訊息。">
 <index-signupnow "立即註冊">
-<index-login "已經註冊了？在這裡登錄.">
+<index-login "已經註冊了？在這裡登錄。">
 
 <index-unleash "發揮你的創造力">
-<index-blurb "製作精美的筆記，方便快捷。與朋友和同事分享他們，協同提升你的創意。所有這些都是免費!">
+<index-blurb "製作精美的筆記，方便快捷。與朋友和同事分享，協同提升你的創意。完全免費！">
 <index-viewgallery "或者，看一看<a>Coggle 畫廊</a>">
 
 <index-colab-mindmaps """
-  <h1>協同思維導圖</h1>
+  <h1>協作心智圖</h1>
 
-<p> Coggle是用於創建和共享思維導圖的在線工具。它在你的瀏覽器上在線工作：沒有什麼可以下載或更新。簡單地<a>登錄</a> 現在開始思維導圖!</p>
-  <p>無論你是做筆記、集思廣益、規劃、或做一些赫然創意，Coggle可視化你的想法，超級簡單。只要你喜歡，與盡可能多的朋友或同事分享。你所做的更改會立即顯示在他們的瀏覽器上，無論他們在世界哪裡.</p>
+<p>Coggle 是建立、共享心智圖的線上工具。打開瀏覽器就可以線上用，免下載、免更新。輕鬆<a>登錄</a>後就可以立即繪製心智圖！</p>
+  <p>無論是做筆記、集思廣益、規劃、或做一些偉大創意，Coggle 都可用來將想法視覺化呈現，超級簡單。你還可以跟超級多朋友或同事分享，無論他們在世界上的那個角落，所有更動都會立即顯示在他們的瀏覽器上。</p>
 """>
 
 <index-use-notes """
@@ -76,9 +76,9 @@
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever " Coggle是免費使用，而且將永遠是。創建無限的公共圖表，並免費分享他們.">
+<plans-title-freeforever "Coggle 永遠都能免費使用。繪製無限的公開圖表，並免費分享。">
 
-<plans-free-title "免費">
+<plans-free-title "免費會員">
 <plans-free-price "永遠免費">
 <feature-realtime "<b>實時</b> 協作">
 <feature-diagrams "<b>無限的</b> 公共圖表">
@@ -86,13 +86,13 @@
 <feature-changes "<b>完整的</b> 更改歷史記錄">
 <feature-markdown "<b>標記</b> 支持">
 <feature-downloads "<b>PDF和圖像</b> 下載">
-<feature-exports "作為導出<b>.mm 和文字</b>">
-<feature-imports "導入 <b>.mm 和文字</b>">
+<feature-exports "匯出 <b>.mm 和文字</b>">
+<feature-imports "匯入 <b>.mm 和文字</b>">
 <feature-chat "評論和聊天">
 <feature-embed "嵌入圖">
 <plans-free-getstarted "開始">
 
-<plans-awesome-title "真棒">
+<plans-awesome-title "好棒棒會員">
 <plans-awesome-price "$5 / 每月">
 <feature-private "<b>私人圖表</b>">
 <feature-chathistory "<b>全部</b> 聊天歷史">
@@ -104,14 +104,14 @@
 <plans-findoutmore "了解更多">
 
 <plans-org-title "組織">
-<plans-org-price "$8 / 會員/每月">
-<feature-bulkexport "<b>批量導出</b>">
+<plans-org-price "$8 / 每人每月">
+<feature-bulkexport "<b>批量匯出</b>">
 <feature-adminpanel "<b>用戶和數據</b> 管理">
 <feature-branding "品牌圖表">
 
 <plans-select "選擇">
-<continue-free "繼續<b>免費</b> 計劃">
-<current-plan "你當前的計劃">
+<continue-free "繼續<b>免費會員</b>方案">
+<current-plan "你當前的方案">
 <cancel-subscription "取消訂閱">
 <awesome-signup-monthly "註冊 <span>$5</span> 每月">
 <awesome-signup-yearly "註冊 <span>$50</span> 每年">
@@ -143,8 +143,8 @@
 <logout "退出">
 <settings "設置">
 <return-to-diagrams "返回到你的圖表">
-<upgrade-to-awesome "升級到真棒!">
-<want-awesome-for-free "希望真棒免費嗎?">
+<upgrade-to-awesome "升級為好棒棒會員！">
+<want-awesome-for-free "希望免費獲得好棒棒會員的資格嗎？">
 
 <limitedaccess "你有有限的訪問權限{{ $resourceName }} 因為你不是一個成員">
 <doclist-create """
@@ -253,16 +253,16 @@
   </div>
 """>
 <billing-choose-country "選擇國家">
-<billing-weusestripe "我們使用<a>條紋</a> 安全地處理支付：你的卡的資料永遠不會通過我們的服務器.">
+<billing-weusestripe "我們使用 <a>Stripe</a> 安全地處理支付：你的卡的資料永遠不會通過我們的服務器.">
 
 <cancel-really """
-  <span>真的要取消你的計劃嗎?</span>
+  <span>真的要取消你的會員方案嗎?</span>
   <div>不可能!</div>
   <div>是的, 取消訂閱</div>
 """>
 <cancel-discount-available """
-  <span>保持真棒和得到<b> 30 %優惠 </b> 你的下一個訂閱<b>三個月b>!</span>
-  <div>保持真棒!</div>
+  <span>繼續訂閱好棒棒會員方案，獲得<b>接下來三個月</b>的<b>七折優惠</b>！</span>
+  <div>保持好棒棒會員！</div>
   <div>取消訂閱</div>
   <a class='back'>返回</a>
 """>
@@ -277,7 +277,7 @@
 <slider-yes "是的">
 <slider-no "不是">
 
-<we-heart-you "我愛你.">
+<we-heart-you "我們愛你。">
 <help-discover-coggle "幫助世界發現Coggle並獲得免費的東西!">
 <introduce-n-more-friends[$introduceCount] {
         1: "介紹 <span>{{ $introduceCount }}</span> 更多的朋友給Coggle",
@@ -299,7 +299,7 @@
 """>
 
 <claim-free-month """
-  <p>認領你免費一個月的Coggle真棒!</p>
+  <p>認領一個月免費的 Coggle 好棒棒會員方案！</p>
   <div>現在兌換</div>
 """>
 
@@ -357,7 +357,7 @@
 <help-inactive-invite "與朋友合作，幫助把你的想法賦予生命!<br>通過這裡的電子郵件邀請.">
 
 <banner-open-getawesome """
-    這是一個開放的Coggle - 它可能會出現在<a>Coggle 畫廊.</a>獲得 <a>真棒</a> 把它變成私人的.
+    這是一個開放的Coggle - 它可能會出現在<a>Coggle 畫廊.</a>升級為<a>好棒棒會員</a> 把它變成私人的.
 """>
 <banner-open-awesome """
         這是一個開放的Coggle - 它可能會出現在<a>Coggle 畫廊.</a> 你可以把它變成私人的，從<a>共享對話框</a>.
@@ -365,22 +365,22 @@
 
 <me-as-awesome-orgmember """
   <p>這是你本人和 - 你正查看Coggle作為<b>組織成員</b>.</p>
-  <p>這意味著你得到所有的強大功能，也從<a>Coggle 真棒</a> 計劃裡!</p>
+  <p>這也代表你同時獲得 <a>Coggle 好棒棒會員</a>的所有強大功能！</p>
 """>
 
-<go-awesome "選擇真棒!">
-<free-awesome "希望真棒免費嗎?">
+<go-awesome "成為好棒棒會員！">
+<free-awesome "希望免費升級好棒棒會員嗎？">
 
 <me-support-awesomethanks """
-  <p><b>感謝支持Coggle!</b></p>
-  <p>作為一個早期的Coggle支持者，你得到的所有好處<a>Coggle真棒</a> 包含在你的訂閱計劃裡!</p>
+  <p><b>感謝支持 Coggle！</b></p>
+  <p>作為一個 Coggle 的早期支持者，你的訂閱方案將帶給你所有的 <a>Coggle 好棒棒會員</a>功能！</p>
 
-  <a>管理你的計劃</a>
+  <a>管理你的方案</a>
 """>
 
 <me-awesomethanks """
   <p>這是你本人和 -;<b>你真棒!</b></p>
-  <a>管理你的計劃</a>
+  <a>管理你的方案</a>
 """>
 
 
@@ -553,8 +553,8 @@
 
 /* Awesome Landing Page (/awesome) */
 <awesome-pitch """
-  <h2>Coggle真棒</h2>
-  <p>用Coggle真棒給你的思維充電。添加巨大的圖像，顯示你的Coggles，創造不會被搜索引擎索引的私人Coggles.</p>
+  <h2>Coggle 好棒棒會員</h2>
+  <p>成為 Coggle 好棒棒會員，給你的思維充電。添加巨大的圖像，顯示你的Coggles，創造不會被搜索引擎索引的私人Coggles.</p>
 """>
 
 <awesome-signup """
@@ -572,7 +572,7 @@
 <awesome-feature-bigimages "把龐大的圖像加到你的Coggles來說明你的想法:你只要把你的圖片從桌面上拖放到一個文件裡.">
 
 <awesome-hint-orgs """
-  如果你使用Coggle工作,看看<a>Coggle 組織</a>, 連同所有的Coggle真棒好處,和商業友好的管理功能.
+  如果你使用Coggle工作,看看<a>Coggle 組織</a>, 連同所有的Coggle好棒棒會員功能,和商業友好的管理功能.
 """>
 
 /* Organisations Landing Page (/organisations) */
@@ -607,7 +607,7 @@
 <orgs-feature-editable-links "創建私人鏈接，與你的組織以外的合作者分享，允許他們不必登錄可以編輯圖表">
 
 <orgs-feature-awesome """
-此外，你組織所有成員將獲得Coggle <a>真棒</a> 特徵功能.
+此外，你組織所有成員將獲得 <a>Coggle 好棒棒會員</a> 功能。
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
@@ -638,14 +638,14 @@
 
 <p><b>數據控制</b>: 選擇限制只在你的組織中共享數據.</p>
     <p><b>批量導出</b>: 為了進行備份或監管目的，導出你組織的所有圖表.</p>
-    <p><b>集中計費</b>: 在一個地方支付多個真棒訂閱，並且當你公司的成員進入或離開時取消訂閱. </p>
+    <p><b>集中計費</b>: 在一個地方支付多個好棒棒會員訂閱，並且當你公司的成員進入或離開時取消訂閱. </p>
   </div>
 """>
 
 <faq-orgs-awesome """
-  <div>Coggle 組織和Coggle真棒怎樣聯繫起來?</div>
+  <div>Coggle 組織和Coggle好棒棒會員怎樣聯繫起來?</div>
   <div>
-    <p> Coggle組織是一種集中計費和對多個Coggle真棒訂閱許可證管理的好方法.</p>
+    <p> Coggle組織是一種集中計費和對多個Coggle好棒棒會員訂閱許可證管理的好方法.</p>
     <p>當你組織的每個用戶在你組織的工作空間圖上工作時，他們將自動獲得Coggle真棒。這意味著所有的強大功能，包括私人圖表、演示模式、擴展調色板和高分辨率圖片上傳.</p>
   </div>
 """>
