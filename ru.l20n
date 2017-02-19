@@ -181,8 +181,8 @@
 <settings "Настройки">
 <return-to-diagrams "Вернуться к вашим диаграммам">
 <upgrade-to-awesome "Улучшить до <b>Awesome</b>!">
-<awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
-<awesome-trial-after "Then you'll be moved onto the free plan">
+<awesome-time-remaining "Статус Awesome закончится <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<awesome-trial-after "Затем у вас включится бесплатный план">
 <want-awesome-for-free "Хотите Awesome бесплатно?">
 <personal-org "Personal <span>(<a>что это?</a>)</span>">
 <help-search placeholder:"Помогите мне...">
