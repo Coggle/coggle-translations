@@ -16,7 +16,7 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "Простой путь делиться сложной информацией.">
+<index-tagline "Простой способ делиться сложной информацией.">
 <index-signupnow "Зарегистрироваться сейчас">
 <index-login "Уже зарегистрированы? <a>Войдите</a>.">
 
