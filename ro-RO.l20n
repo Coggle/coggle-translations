@@ -26,48 +26,48 @@
 
 <index-unleash "Da frâu liber creativității">
 <index-blurb "Crează notițe frumoase rapid și ușor. Împărtășește-le cu prietenii și colegii, lucraţi împreună la ideile tale.">
-<index-viewgallery "Ori aruncaţi o privire la <a>galeria Coggle</a> pentru inspiraţie.">
+<index-viewgallery "Ori aruncă o privire la <a>galeria Coggle</a> pentru inspiraţie.">
 
 <index-colab-mindmaps """
   <h1>Diagrame în colaborare</h1>
-  <p>Coggle - este un instrument online pentru a crea și distribuirea diagramelor de tip hărți mentale (mind-map). Rulează în browser-ul dvs.: Nu trebuie să descărcați sau să instalați nimic. <a>Conectează-te</a> pentru a începe să creezi hărți mentale acum!</p>
-  <p>Fie că întocmiţi notiţe, efectuaţi brainstorming, planificaţi, ori creaţi ceva uimitor - este foarte simplu să vizualizezi informațiile cu Coggle. Împarte ideile cu prietenii şi colegii. Modificările pe care le efectuați vor apărea instantaneu în browser-ul lor, oriunde s-ar afla în lume.</p>
+  <p>Coggle - este un instrument online pentru crearea și distribuirea diagramelor de tip hărți mentale (mind-map). Rulează în browser-ul dvs.: Nu trebuie să descărcați sau să instalați nimic. <a>Conectează-te</a> pentru a începe să creezi hărți mentale acum!</p>
+  <p>Fie că întocmeşti notiţe, efectuezi brainstorming, planifici, ori creezi ceva uimitor - este foarte simplu să vizualizezi informațiile cu Coggle. Împarte ideile cu prietenii şi colegii. Modificările pe care le efectuezi vor apărea instantaneu în browser-ul lor, oriunde s-ar afla în lume.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
   <h2>Întocmeşte notiţe</h2>
-  <p>Deschideți Coggle în timpul întâlnirilor când discutaţi ceva, sau atunci când vă vine inspirația pentru a crea note frumoase, structurate.</p>
+  <p>Deschide Coggle în timpul întâlnirilor când discuţi ceva, sau atunci când vă vine inspirația pentru a crea note frumoase, structurate.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
   <h2>Brainstorming</h2>
-  <p>Положите начало идее, наполните ее с Coggle и смотрите как она разрастается, превращаясь в полностью работоспособный план, просто выстроенный и готовый для реализации.</p>
+  <p>Începe cu o idee, dezvolt-o în Coggle şi urmăreşte cum se transformă într-un plan complet, bine structurat, gata pentru a fi împărtăţit cu ceilalţi.</p>
 """>
 
 <index-use-share """
   <div><img></div>
-  <h2>Делитесь информацией</h2>
-  <p>Занесите вашу тему в Coggle, включите все детали и поделитесь с командой, вашими одногруппниками или со всем миром!</p>
+  <h2>Distribuie informaţii</h2>
+  <p>Include subiectul tău cu toate detaliile în Coggle şi fă-l cunoscut echipei tale, colegilor ori pentru toată lumea!</p>
 """>
     
 <index-use-other """
-  Это всего лишь малая часть того, для чего может быть полезен Coggle – <a>начните</a> открывать его для себя!
+ Acestea sunt doar câteva lucruri în care îţi va fi util Coggle – <a>Începe acum</a> pentru a decoperi şi mai multe!
 """>
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Помогите вашей команде лучше взаимодействовать с <a>Coggle Organisations</a>.</h2>
-  <p>Дайте вашей команде общее пространство для мозгового штурма, создания заметок, документирования их идей. Coggle Organisations дают все, что вам нужно для контроля за данными и интеграцией в ваш рабочий поток. Узнать больше можно <a>здесь</a>.</p>
-  <a>Начните сейчас<div>От $8 за участника в месяц</div></a>
+  <h2>Ajută-ţi echipa să interacţioneze prin intermediul <a>Coggle Organisations</a>.</h2>
+  <p>Oferă echipei tale un spaţiu comun pentru brainstorming, crearea de notiţe, înregistrarea ideilor. Coggle Organisations vine cu toate caracteristicile necesare pentru organizarea informaţiilor şi integrarea în fluxul activităţilor. Află mai mult <a>aici</a>.</p>
+  <a>Începe acum<div>cu $8 lunar pentru un membru</div></a>
 """>
 
-<features-collaborate-title "Позвольте всем принять участие">
-<features-collaborate "Зачастую лучшую продуктивность мы показываем в командах, и команды действуют эффективнее, если они могут свободно сотрудничать. Coggle даёт вам возможность пригласить друзей и коллег к совместной и одновременной работе над вашими диаграммами.">
+<features-collaborate-title "Implică pe fiecare">
+<features-collaborate "Invită prietenii şi colegii să lucraţi împreună la aceleaşi diagrame.">
 
-<features-images-title "Завершите картину">
-<features-images "Картина лучше тысячи слов. Coggle позволяет вам перетаскивать изображения на диаграммы прямо с вашего рабочего стола. Так просто! И самое лучшее - никакого лимита на количество изображений, которые вы можете добавить.">
+<features-images-title "Completează imaginea">
+<features-images "Plasează imagini direct în diagrame de pe calculator. Nu există o limită a numărului de imagini pe care le puteţi adăuga.">
 
 <features-history-title "Путешествуйте назад во времени">
 <features-history "Делали ли вы когда-нибудь изменения в документе, чтобы чуть позже понять, что вам они совсем не нравятся? С Coggle это не проблема. Просто войдите в режим истории, чтобы найти нужную версию, и сделайте копию этой версии!">
