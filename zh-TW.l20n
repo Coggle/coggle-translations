@@ -103,7 +103,7 @@
 }>
 <feature-images "<b>無限的</b> 圖片上傳">
 <feature-changes "<b>完整的</b> 更改歷史記錄">
-<feature-markdown "<b>標記</b> 支持">
+<feature-markdown "<b>Markdown</b> 支持">
 <feature-downloads "<b>PDF和圖像</b> 下載">
 <feature-exports "匯出 <b>.mm 和文字</b>">
 <feature-imports "匯入 <b>.mm 和文字</b>">
@@ -185,7 +185,7 @@
 <awesome-trial-after "Then you'll be moved onto the free plan">
 <want-awesome-for-free "希望免費獲得好棒棒會員的資格嗎？">
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
-<help-search placeholder:"Help me to...">
+<help-search placeholder:"我想問...">
 <my-settings "My Settings & Billing">
 <org-name-settings "{{ $orgName }} Settings">
 <org-settings title:"Manage Organisation">
@@ -243,7 +243,7 @@
 <settings-billing-title "帳單和發票">
 <settings-recommend-title "推薦">
 <settings-emails-title "通訊">
-<settings-language-title "Language">
+<settings-language-title "語言設定">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
@@ -399,26 +399,26 @@
 <copy-branch "複製分支">
 <show-children "顯示子節點">
 <hide-children "隱藏子節點">
-<drag-to-create-link "拖動以創建鏈接">
+<drag-to-create-link "拖曳以創建鏈接">
 <drag-to-transplant-branch "拖移植分支">
 
-<undo "撤銷">
+<undo "還原">
 <redo "重做">
-<paste-branch "粘貼分支">
+<paste-branch "貼上分支">
 <zoom-page "縮放頁面">
 
 <help-gohome "點擊Coggle標誌回到主頁，在這裡你的文件會自動保存.">
 <help-add-node "使用（+）按鈕來添加分支.">
-<help-edit-node "<p>點擊任何項目編輯文字.</p><p>通過拖動編輯區的角落更改文字大小.</p>">
-<help-move-node "拖動任何文字來移動它.">
+<help-edit-node "<p>點擊任何項目編輯文字.</p><p>通過拖曳編輯區的角落更改文字大小.</p>">
+<help-move-node "拖曳任何文字來移動它.">
 <help-node-menu "右鍵點擊進入菜單。在這裡，你可以添加、刪除、複製、並安排分支機構.">
 
-<help-multiline "使用[CTRL] + [進入]添加多行文字，或鍵入之前拖動調整大小握.">
+<help-multiline "使用[CTRL] + [進入]添加多行文字，或鍵入之前拖曳調整大小握.">
 <help-toolbar-invite-title "與他人協作">
 <help-toolbar-invite "點擊邀請他人編輯或查看這個Coggle。你可以點擊其圖標控制人的權限.">
 <help-toolbar-invitemulti-title "邀請多人">
 <help-toolbar-invitemulti """
-  為了節省時間，你可以一次邀請多個人：鍵入（或粘貼）用空格，逗號分隔的電子郵件地址<b>,</b> 或分號<b>;</b>
+  為了節省時間，你可以一次邀請多個人：鍵入（或貼上）用空格，逗號分隔的電子郵件地址<b>,</b> 或分號<b>;</b>
 """>
 <help-toolbar-inviteflow "與他人一起工作Coggle效果最好- 輸入朋友或同事的電子郵件地址.">
 <help-toolbar-inviteflow-title "輸入一個同事的電子郵件">
@@ -521,7 +521,7 @@
 <unrecoverable-warning """
   有不可恢復的錯誤，請重新加載頁面。如果你有關於什麼可能出錯的信息，請發送電子郵件至<a>contact@coggle.it</a>
 """>
-<banner-undo-warning "沒有更多的撤消!">
+<banner-undo-warning "沒有更多的還原!">
 <banner-redo-warning "沒有更多的重做!">
 
 /* Image drag-drop messages */
@@ -547,75 +547,76 @@
 <sidebar-tapformenu "點擊一個項目或背景以訪問菜單.">
 <sidebar-controls "控制">
 <sidebar-addbranch """
-  <div>添加分支:</div>
+  <div>添加分支: </div>
   <div><span> 點擊</span><div></div></div>
 """>
 <sidebar-removebranch """
-  <div> 刪除分支:</div>
+  <div> 刪除分支: </div>
   <div><div> {{ controls::removeKey }} </div> <span> + 點擊</span> <div></div ></div>
 """>
 <sidebar-insertbranch """
-  <div>插入分支:</div>
-  <div><div> 轉移</div> <span> + 點擊</span> <div></div></div>
+  <div>插入分支: </div>
+  <div><div> shift</div> <span> + 點擊</span> <div></div></div>
 """>
 <sidebar-movebranch """
   <div> 移動分支: </div>
-  <div><div> 拖動任何東西! </div></div>
+  <div><div> 拖曳任何東西! </div></div>
 """>
 <sidebar-transplantbranch """
   <div> 移植分支: </div>
-  <div><div> 轉移</div> <span> + 拖動 </span> <div></div></div>
+  <div><div> shift</div> <span> + 拖曳 </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
   <div> 更改顏色: </div>
   <div><span> 點擊一個分支</span></div>
 """>
 <sidebar-addimages """
-  <div> 添加 <a>Images</a>: </div>
+  <div> 添加 <a>圖片</a>: </div>
   <div><div> 拖放</div></div>
 """>
 <sidebar-zoom """
   <div> 放大: </div>
-  <div><div> ctrl </div><span> + 鼠標滾輪</span></div>
+  <div><div> ctrl </div><span> + 滑鼠滾輪</span></div>
 """>
-<sidebar-shortcuts "Shortcuts">
+<sidebar-shortcuts "快捷鍵">
 <sidebar-undo """
-  <div> 復原: </div>
+  <div> 還原: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
   <div> 重做: </div>
-  <div><div> ctrl </div> <span> + </span> <div> 轉移 </div> <span> + </span> <div> Z </div> </div>
+  <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-whentyping "當輸入">
+<sidebar-whentyping "當正在輸入時">
 <sidebar-sc-newitem """
   <div> 新項目: </div>
-  <div><div> 轉移 </div><span> + </span><div>返回</div></div>
+  <div><div> shift </div><span> + </span><div>enter</div></div>
 """>
 <sidebar-sc-newchild """
   <div> 新的子項: </div>
-  <div><div>標籤</div></div>
+  <div><div>tab</div></div>
 """>
 <sidebar-sc-parent """
-  <div> 跳轉到父: </div>
-  <div><div>轉移</div><span> + </span><div> 標籤</div></div>
+  <div> 跳到上層: </div>
+    <div><div>shift</div><span> + </span><div> tab</div></div>
 """>
 <sidebar-sc-markdown """
-    <div>使文字定格: </div>
-    <div>使用 <a>標記</a></div>
+    <div>格式化文字: </div>
+    <div>使用 <a>Markdown</a> 語法</div>
 """>
 <another-fact "另一個!">
 <cogglefacts-more """
   閱讀更多...
 """>
-<sidebar-markdown "標記">
-<sidebar-bgmenu "<b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
-<sidebar-icons "Icons">
+<sidebar-markdown "Markdown">
+<sidebar-bgmenu "透過右鍵點擊背景來進行<b>縮放</b>、<b>還原</b>、及<b>貼上複製的項目</b>。">
+<sidebar-icons "圖示">
+<markdown-icons "當正在編輯時輸入 <code>:</code>，或使用項目編輯區上方的按鈕。">
 <markdown-icons "Type <code>:</code> while editing or use the button along the top of the item editor.">
 <markdown-bold "<code>**文字**</code> 讓文字<b>粗體</b>">
 <markdown-italic "<code>*斜體*</code> 讓文字<i>斜體</i>">
 <markdown-link "<code>[標題](example.com)</code> 創建一個<a>鏈接</a>">
-<markdown-checkbox "<code>- [X]</code> 創建一個<input/> 複選框">
+<markdown-checkbox "<code>- [X]</code> 建立一個 <input/> 核取方塊">
 <markdown-code "<code>`文字`</code> 使用一個<code>固定寬度</code> 字形">
 
 <button-bold title:"Make text bold">
@@ -848,25 +849,25 @@
 你知道你可以以PDF或圖像方式下載你的Coggle嗎？你可以！在屏幕的右上方尋找下載按鈕.
 """>
 <fact-markdown """
-你知道Coggle使用<a>標記語法嗎</a>? 它確實是這樣!<p>嘗試像這樣的鏈接: &lt;http://example.com&gt;
+你知道Coggle使用<a>Markdown語法嗎</a>? 它確實是這樣!<p>嘗試像這樣的鏈接: &lt;http://example.com&gt;
 """>
 <fact-latex """
 你知道Coggle支持LaTeX公式嗎？它確實是這樣!<p>使用 \\\\( LaTeX 這裡 \\\\) 嘗試一下！查看<a>這個鏈接</a> 尋找語法幫助.
 """>
 <fact-move """
-希望該項目放在Coggle的不同部分嗎？沒問題！按住shift鍵，同時拖動項目的（+）按鈕重新連接到其他地方.
+希望該項目放在Coggle的不同部分嗎？沒問題！按住shift鍵，同時拖曳項目的（+）按鈕重新連接到其他地方.
 """>
 <fact-fontsize """
 文字太大了？太小了？你可以放大縮小!<br> 使用 [ctrl] [+] / [ctrl] [-]
 """>
 <fact-zoomin """
-你知道你可以放大仔細看看嗎？你可以!<br> 使用 [ctrl] [+], 或右鍵單擊並拖動縮放圖標!
+你知道你可以放大仔細看看嗎？你可以!<br> 使用 [ctrl] [+], 或右鍵單擊並拖曳縮放圖標!
 """>
 <fact-zoomout """
-你知道你可以縮小看大圖嗎？你可以!<br> 使用 [ctrl] [-], 或右鍵單擊並拖動縮放圖標!
+你知道你可以縮小看大圖嗎？你可以!<br> 使用 [ctrl] [-], 或右鍵單擊並拖曳縮放圖標!
 """>
 <fact-markdown2 """
-你知道<a>標記</a>很棒嗎? 確實是這樣，Coggle支持它!
+你知道<a>Markdown</a>很棒嗎? 確實是這樣，Coggle支持它!
 """>
 <fact-pdf """
 你可以以PDF方式下載Coggle！在屏幕的右上方尋找下載按鈕.
@@ -884,7 +885,7 @@
 你知道你可以把圖像放到你的的Coggle中去嗎？你可以!<p>只需將圖像從你的計算機中拖放到你想要的地方.
 """>
 <fact-images2 """
-你知道你可以在Coggles上使用圖片嗎？你可以!<p>從你的計算機上拖動一個圖像到任何你想的地方。圖像的迷你版上傳並保存!
+你知道你可以在Coggles上使用圖片嗎？你可以!<p>從你的計算機上拖曳一個圖像到任何你想的地方。圖像的迷你版上傳並保存!
 """>
 <fact-plaintext-in """
 你知道你可以拖放純文字文件到Coggle上導入它們嗎？你可以!<p>如果你的文件有縮格，Coggle甚至會添加 結構到導入的文本中.
@@ -893,32 +894,32 @@
 你知道你可以拖放 Freemind .mm 文件到Coggle中導入它們嗎？你可以!
 """>
 <fact-link-drag """
-你知道你可以從你的地址欄中拖動URL到Coggle，做一個鏈接到該網站嗎？你可以！ """>
+你知道你可以從你的地址欄中拖曳URL到Coggle，做一個鏈接到該網站嗎？你可以！ """>
 <fact-text-size """
 你知道你可以改變字體嗎？你可以！ p>使用 #, ##, 或者 ### 從一行的開始，使文字變大.
 """>
 <fact-text-size2 """
-你知道你可以改變字體嗎？你可以!<p>拖動文本編輯區的一角向上或向下來改變文字大小.
+你知道你可以改變字體嗎？你可以!<p>拖曳文本編輯區的一角向上或向下來改變文字大小.
 """>
 <fact-text-size3 """
-你知道你可以改變文字大小嗎？你可以!<p>拖動文本編輯區的一個角落.
+你知道你可以改變文字大小嗎？你可以!<p>拖曳文本編輯區的一個角落.
 """>
 <fact-md-reference """
-你知道你可以使用標記在Coggles中添加鏈接、圖像和更多嗎？你可以!<p>這裡是 <a>完整的參考</a>.
+你知道你可以使用Markdown在Coggles中添加鏈接、圖像和更多嗎？你可以!<p>這裡是 <a>完整的參考</a>.
 """>
 <fact-multiline-keys """
-你知道你可以撤散多行文字嗎？你可以！按下[Ctrl]鍵同時按下[返回]鍵插入新的一行。你也可以拖動編輯字段的一角，然後正常使用[返回]鍵.
+你知道你可以撤散多行文字嗎？你可以！按下[Ctrl]鍵同時按下[enter]鍵插入新的一行。你也可以拖曳編輯字段的一角，然後正常使用[enter]鍵.
 """>
 <fact-multiline-drag """
-你知道你可以撤散多行文字嗎？你可以！拖動編輯字段的一角，然後按[返回]鍵將插入新的一行，而不是存儲你的編輯。你也可以在輸入的同時，按住[Ctrl]同時按下[返回]鍵插入新的一行.
+你知道你可以撤散多行文字嗎？你可以！拖曳編輯字段的一角，然後按[enter]鍵將插入新的一行，而不是存儲你的編輯。你也可以在輸入的同時，按住[Ctrl]同時按下[enter]鍵插入新的一行.
 """>
 <fact-multiline-wrap """
-你知道你可以撤散多行文字嗎？你可以！左/右拖動文本編輯區的一角自動換行.
+你知道你可以撤散多行文字嗎？你可以！左/右拖曳文本編輯區的一角自動換行.
 """>
 <fact-resize-images """
-你知道你可以調整圖像大小嗎？你可以！從互聯網上的任何地方（假定你有使用它的權限）把圖像拖放到你的Coggle，然後拖動圖像的右下角以調整其大小。 """>
+你知道你可以調整圖像大小嗎？你可以！從互聯網上的任何地方（假定你有使用它的權限）把圖像拖放到你的Coggle，然後拖曳圖像的右下角以調整其大小。 """>
 <fact-image-size """
-你知道我們支持一個標記延伸來指定圖像大小嗎？我們的確是！像這樣指定一個200 X 100像素的圖像: ![圖像描述](http://url.to.image "可選標題" 200x100)
+你知道我們支持一個Markdown延伸來指定圖像大小嗎？我們的確是！像這樣指定一個200 X 100像素的圖像: ![圖像描述](http://url.to.image "可選標題" 200x100)
 """>
 <fact-bold-kbshort """
 你知道你可以使用鍵盤快捷鍵在Coggles中添加**粗體文字**嗎？你可以！只需連同你選擇的要變成粗體的文字，按 [ctrl]+[b] (或 [cmd]+[b] 在 macs 上).
@@ -930,7 +931,7 @@
 你知道你可以使用鍵盤快捷鍵來編輯你所選擇的哪個分支嗎？你可以!<p>使用 [alt]+[shift]+ 箭頭鍵沿著分支移動.
 """>
 <fact-task-lists """
-你知道你可以使用<a>標記</a> 把清單添加到Coggles嗎？你可以, 這裡是一個例子:<p>- [ ] 取消選中復選框<br>- [X] 選中復選框</p><p>點擊複選框也自動改變標記.
+你知道你可以使用<a>Markdown</a> 把清單添加到Coggles嗎？你可以, 這裡是一個例子:<p>- [ ] 取消選中復選框<br>- [X] 選中復選框</p><p>點擊核取方塊也自動改變Markdown.
 """>
 <fact-api-1 """
 你知道我們有一個API嗎？我們的確有！程序可以用它來自動創建、檢查和操作Coggles.
