@@ -39,7 +39,7 @@
   <h2>做筆記</h2>
   <p>在會議中、你修改期間或任何靈感閃現時打開Coggle, 創造美麗、有條理的筆記.</p>
 """>
-    
+
 <index-use-brainstorm """
   <div><img></div>
   <h2>集思廣益</h2>
@@ -341,9 +341,9 @@
 <slider-yes "是的">
 <slider-no "不是">
 
-<me-language-title "Choose Your Preferred Language">
-<me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
-<me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
+<me-language-title "選擇你偏好的語言">
+<me-language-tip "用你的母語來幫助我們提供 Coggle，或者貢獻我們在 Github 上的<a>翻譯計畫</a>來補上缺少的東西！">
+<me-language-questions "如果你有任何關於翻譯的問題——或者你有任何修正或改良，但你不確定如何幫上忙，可以寄信到 <a>translate@coggle.it</a>。">
 
 <we-heart-you "我們愛你。">
 <help-discover-coggle "幫助世界發現Coggle並獲得免費的東西!">
@@ -942,5 +942,5 @@
 你知道Coggle組織可以把他們的標誌放在他們Coggles上嗎？他們能!
 """>
 <fact-organisation3 """
-你知道你可以創建一個Coggle組織來組織你的企業Coggles？ 你可以! 
+你知道你可以創建一個Coggle組織來組織你的企業Coggles？ 你可以!
 """>
