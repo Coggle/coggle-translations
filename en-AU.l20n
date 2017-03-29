@@ -199,6 +199,9 @@
 
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
+<doclist-upgrade """
+   <div> <b>Multiple starting points!</b> <p>Create multiple starting points with <a>Coggle Awesome</a>.</p> <a>Upgrade Now</a> <div></div> </div>
+""">
 
 <tooltip-createorg title:"Create an Organisation">
 <tooltip-invite-folder title:"Add people to this folder by email">
@@ -380,6 +383,7 @@
 <unnamed-diagram "Unnamed Diagram">
 
 <add-branch "add branch">
+<copy-branch "copy branch">
 <add-to-discussion "add to discussion">
 <comment-on-this "comment on this">
 <auto-arrange "auto-arrange">
@@ -396,6 +400,7 @@
 <redo "redo">
 <paste-branch "paste branch">
 <zoom-page "zoom page">
+<add-label "add label">
 
 <help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
 <help-add-node "Use the (+) buttons to add branches.">
@@ -600,6 +605,7 @@
 """>
 <sidebar-markdown "Markdown">
 <sidebar-bgmenu "<b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
+<sidebar-bgmenu2 "<b>Zoom</b>, add <b>text labels</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
 <sidebar-icons "Icons">
 <markdown-icons "Type <code>:</code> while editing or use the button along the top of the item editor.">
 <markdown-bold "<code>**text**</code> to make text <b>bold</b>">
