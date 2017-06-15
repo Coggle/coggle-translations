@@ -25,14 +25,14 @@
 <index-nav-gallery "ギャラリー">
 
 
-<index-unleash "Unleash your creativity">
-<index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
-<index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
+<index-unleash "創造性を解放しよう">
+<index-blurb "すばやく簡単に美しいノートを作りましょう。あなたのアイディアを友達や同僚と共有して、みんなでそれに取り掛かりましょう。">
+<index-viewgallery "または、<a>Coggleギャラリー</a>に何か新しい発見があるかもしれません。">
 
 <index-colab-mindmaps """
-  <h1>Collaborative Mind Maps</h1>
-  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
-  <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+  <h1>共同編集できるマインドマップ</h1>
+  <p>Coggleはマインドマップを作成したりシェアしたりできるオンラインツールです。ブラウザでオンラインで機能します。何もダウンロードしたりインストールする必要はありません。マインドマッピングを始めるために、早速<a>ログイン</a>しましょう！</p>
+  <p>ノートをとるにしても、ブレインストーミングをするにしても、計画するにしても、何か素晴らしくクリエイティブなことをするにしても、Coggleを使えば、とっても簡単にあなたのアイディアを視覚化することができます。思いのままに友達や同僚に共有しましょう。あなたの加えた変更は即座に共同編集者のブラウザに反映されます。彼らが世界中のどこにいたとしても。</p>
 """>
 
 <index-use-notes """
