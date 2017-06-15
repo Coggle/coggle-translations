@@ -1,34 +1,39 @@
-/* login widget content */
+/* Coggle translations for US English (the default) */
 
-<login-signup-button """
-  <p>サインアップ</p><p>Googleアカウントを利用</p>
-""">
-<login-tagline "無料で簡単！すでにサインアップしているなら<a>ログイン</a>">
-<logout "ログアウト">
+/* For help with syntax, see http://l20n.org/learn/ or email
+ * translations@coggle.it
+ *
+ * Each translation is made up of two parts:
+ *
+ * <translation-id "The html code that will be <b>displayed</b>">
+ *
+ * The translation-id should never be modified, and the html tags within the
+ * translated text such as <div>...</div>, <b>, <h1> etc shouldn't be modified
+ * either.
+ *
+ */
 
-
-
-/* front page content */
-
-<features-collaborate-title "みんなを巻き込もう">
-<features-collaborate "私達はチームで最高の仕事を成し遂げます。そして、自由に共同作業ができるとき、チームはとてもうまく働きます。Coggleを使えば、共同作業をするために友達や同僚を一度にあなたのダイアグラムに招待できます。">
-
-<features-images-title "視覚に訴えよう">
-<features-images "イメージは1000の言葉以上の価値を持っています。Coggleではデスクトップ上のイメージをドラッグ・アンド・ドロップでダイアグラムに追加できます。とても簡単！</p>
-  <p>その上、追加できるイメージの数に上限はありません。">
-
-<features-history-title "すぐに戻れる">
-<features-history "ドキュメントに加えた変更が、一日後に見なおした時によくなかったと思ったことはありますか？Coggleでは問題になりません。ヒストリー・モードにして戻りたい箇所まで戻って、そこからコピーを作ればよいのです！">
-
-<features-blame-title "誰が加えた変更かを知る">
-<features-blame "共有されたドキュメントに誰が変更を加えたか知りたいことはありませんか？Coggleではダイアグラムのヒストリーから誰がいつ変更を加えたかを知ることができます。ヒストリー・モードにして探すだけです。">
-
-<features-colours-title "色を使おう">
-<features-colours "あなたはヴィジュアルでものを考える人ですか？あなたはレイアウトや色から学ぶ人ですか？トピックに最適な色を選びましょう。ブランチをクリックしてカラー・ホイールを表示させ、好きな色を選びましょう。">
-
-/* new frontpage content */
+/* frontpage content (https://coggle.it/home), except for the plans section
+ * which is described below
+ */
 <index-tagline "複雑な情報を共有するシンプルなやり方">
 <index-signupnow "サインアップ">
+<index-login "サインアップ済みですか？ログインはこちら">
+
+<index-nav-pricing "価格">
+<index-nav-features "特徴">
+<index-nav-gallery "ギャラリー">
+
+
+<index-unleash "Unleash your creativity">
+<index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
+<index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
+
+<index-colab-mindmaps """
+  <h1>Collaborative Mind Maps</h1>
+  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
+  <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+""">
 
 <index-use-notes """
   <div><img></div>
@@ -58,6 +63,27 @@
   <p>ブレイン・ストーミングをしたり、ノートを取ったり、アイディアを記録したりする共用スペースをチームメンバーに提供しましょう。Coggle Organisationsはデータの管理やビジネス・ワークフローに統合するために必要なすべての機能を持っています。<a>続きを読む</a>。</p>
   <a>サインアップ<div>1メンバー1月$8から</div></a>
 """>
+
+<features-collaborate-title "みんなを巻き込む">
+<features-collaborate "私達はチームで最高の仕事を成し遂げます。そして、自由に共同作業ができるとき、チームはとてもうまく働きます。Coggleを使えば、共同作業をするために友達や同僚を一度にあなたのダイアグラムに招待できます。">
+
+<features-images-title "視覚に訴える">
+<features-images "Coggleではデスクトップ上のイメージをドラッグ・アンド・ドロップでダイアグラムに追加できます。追加できるイメージの数に上限はありません。">
+
+<features-history-title "すぐに戻せる">
+<features-history "ダイアグラムに加えた変更履歴を見渡して、戻りたいポイントのコピーを作りましょう。履歴のどのポイントからもコピーが作れます。">
+
+<features-blame-title "誰が加えた変更かを知る">
+<features-blame "ダイアグラムに加えた変更履歴を見渡して、誰がいつ変更したかを知ることができます！ヒストリー・モードにして探すだけです。">
+
+<features-colours-title "色を使う">
+<features-colours "ブランチをクリックしてカラー・ホイールを表示させ、好きな色を選びましょう。">
+
+<features-notifications-title "Emailで知る">
+<features-notifications "共同作業者がダイアグラムに変更を加えた時には、変更の概要をEmailで知ることができます。">
+
+<features-chat-title "コメントやチャットをする">
+<features-chat "ノードにコメントをしたり共同作業者とチャットをしたりしましょう。ダイアグラムから離れる必要はありません。">
 
 /* sign-up page content */
 <signup-choose-plan "パーソナルプランを選択してください">
