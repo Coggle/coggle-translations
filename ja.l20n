@@ -1,4 +1,4 @@
-/* Coggle translations for US English (the default) */
+/* Coggle translations for Japanese */
 
 /* For help with syntax, see http://l20n.org/learn/ or email
  * translations@coggle.it
@@ -370,7 +370,7 @@
 <about-hello2 """
   <h1>Hello!</h1>
   <p><b>Coggle gives you a clear way to share and understand complex information.
-  It's a collaborative document that simplifies complex things and 
+  It's a collaborative document that simplifies complex things and
   a shared workspace to help your team work more effectively together.</b></p>
   <p>It's free, and we promise it always will be, but we still promise to look
   after your data the best we know how, to keep backups, and to take security
