@@ -622,18 +622,18 @@
 <markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
 <markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
-<button-bold title:"Make text bold">
-<button-italic title:"Make text italic">
-<button-link title:"Link to a website">
-<button-image title:"Upload an image">
-<button-emoji title:"Search for icons.">
+<button-bold title:"テキストを太字にする">
+<button-italic title:"テキストをイタリックにする">
+<button-link title:"ウェブサイトにリンクする">
+<button-image title:"画像をアップロードする">
+<button-emoji title:"アイコンを検索する">
 
 /* diagram not-found page */
-<nodiagram-title "Diagram not found!">
-<nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">
-<nodiagram-logged-in "You are currently logged in as <b>{{ $user.givenName }}</b>, with the email address <b>{{ $user.email }}</b>. If this diagram exists, this account does not have permission to access it.">
-<nodiagram-not-logged-in "<b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.">
-<nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
+<nodiagram-title "ダイアグラムが見つかりませんでした！">
+<nodiagram-invalid-link "このリンクは無効かアクセスが無効になっています。">
+<nodiagram-logged-in "現在、 <b>{{ $user.givenName }}</b>、 <b>{{ $user.email }}</b> でログインしています。ダイアグラムが存在するならば、このアカウントはダイアグラムへのアクセス権を持っていません。">
+<nodiagram-not-logged-in "<b>ログインしていません。</b>  ダイアグラムが存在するならば、ログインしてアクセスすることができます。">
+<nodiagram-may-need-access "誰かに誘われてたどり着いたのならば、その方はあなたに閲覧権限も付与し忘れてしまっているかもしれません。">
 
 
 /* Awesome Landing Page (/awesome) */
