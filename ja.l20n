@@ -209,7 +209,7 @@
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
 <doclist-upgrade """
-   <div> <b>Multiple starting points!</b> <p>Create multiple starting points with <a>Coggle Awesome</a>.</p> <a>Upgrade Now</a> <div></div> </div>
+   <div> <b>複数の開始ポイント！</b> <p><a>Coggle Awesome</a>では複数の開始ポイントを作ることができます。</p> <a>アップグレードしましょう</a> <div></div> </div>
 """>
 
 <tooltip-createorg title:"Create an Organization">
@@ -647,26 +647,28 @@
   <div>$5 / MONTH</div>
 """>
 
-<awesome-feature-private-title "Unlimited Private Diagrams">
-<awesome-feature-private "Create as many private diagrams as you like. If you do ever cancel your subscription they stay private, and you keep access.">
+<awesome-feature-private-title "無制限のプライベート・ダイアグラム">
+<awesome-feature-private "好きなだけプライベート・ダイアグラムを作成できます。もしサブスクリプションをキャンセルしたとしても、作成したダイアグラムはプライベートのままですし、いつでも開くことができます。">
 
-<awesome-feature-joinloop-title "Create Loops and Join Branches">
-<awesome-feature-joinloop "Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.">
+<awesome-feature-joinloop-title "ブランチのループや結合をする">
+<awesome-feature-joinloop "ブランチを結合したりループを作ったりして、より力強く柔軟なダイアグラムを作成することで、プロセス・フローなどの高度な表現をすることができます。">
 
-<awesome-feature-present-title "Distraction-Free Presentation">
-<awesome-feature-present "Use Presentation Mode to present any Coggle in beautiful distraction-free full-screen mode. Collapse and expand branches as you tell your story.">
+<awesome-feature-present-title "プレゼンに集中する">
+<awesome-feature-present "プレゼンテーション・モードを使って全画面に美しく皆の目を釘付けにするCoggleの画面を表示しましょう。提案の中でブランチを折りたたんだり広げたりしましょう。">
 
-<awesome-feature-bigimages-title "Show Them the Big Picture">
-<awesome-feature-bigimages "Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.">
+<awesome-feature-bigimages-title "全体像を提示する">
+<awesome-feature-bigimages "
+  大きな画像をCoggleに追加してアイディアを説明しましょう。デスクトップからドッキュメントにドラッグ＆ドロップで追加できます。">
 
-<awesome-feature-colours-title "More Colors">
-<awesome-feature-colours "Unlock a new range of vivid colors to help organize and highlight your ideas.">
+<awesome-feature-colours-title "もっと色を">
+<awesome-feature-colours "
+  アイディアをより管理しやすく際立たせるために、新しい鮮明な色を使いましょう。">
 
-<awesome-feature-autoarrange-title "Automatic Branch Layout">
-<awesome-feature-autoarrange "Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.">
+<awesome-feature-autoarrange-title "自動ブランチレイアウト">
+<awesome-feature-autoarrange "Coggle Awesomeならたったワンクリックでブランチの位置調整ができます。">
 
-<awesome-feature-folders-title "Shared Folders">
-<awesome-feature-folders "Put your diagrams into folders to keep them organized and easily share them all with a group of collaborators.">
+<awesome-feature-folders-title "共有フォルダー">
+<awesome-feature-folders "ダイアグラムをフォルダーに入れて管理したり、共同作業者のグループにフォルダーごと共有することができます。">
 
 
 <awesome-hint-orgs """
