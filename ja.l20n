@@ -224,8 +224,8 @@
 <tooltip-more title:"Diagram options">
 
 /* documents list contextual help items */
-<help-searchcoggle-title "Search Coggle">
-<help-searchcoggle "Type to find your documents &mdash; quickly search for any word in a diagram!">
+<help-searchcoggle-title "Coggleを検索する">
+<help-searchcoggle "テキストからドキュメントを探しましょう &mdash; ダイアグラム内のテキストからすばやく探し出します。">
 <help-hide-for-now "今は隠す">
 <help-ok-got-it "OK, わかりました!">
 <help-creatediagram-title "新しいダイアグラムを作る">
