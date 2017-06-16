@@ -226,19 +226,19 @@
 /* documents list contextual help items */
 <help-searchcoggle-title "Search Coggle">
 <help-searchcoggle "Type to find your documents &mdash; quickly search for any word in a diagram!">
-<help-hide-for-now "Hide for now">
-<help-ok-got-it "OK, got it!">
-<help-creatediagram-title "Create a New Diagram">
+<help-hide-for-now "今は隠す">
+<help-ok-got-it "OK, わかりました!">
+<help-creatediagram-title "新しいダイアグラムを作る">
 <help-creatediagram """
-  <p>Create a new Coggle Diagram to get started.</p>
-  <p>Diagrams you create will be saved here on your homepage.</p>
+  <p>新しいダイアグラムを作ってCoggleを始めましょう。</p>
+  <p>ダイアグラムはあなたのページに保存されます。</p>
 """>
 
-<help-createfolder-title "Create a Folder">
-<help-createfolder "Create folders to share with groups of people, or categorize Coggles.">
+<help-createfolder-title "フォルダを作る">
+<help-createfolder "フォルダを作ってグループでシェアしたり、Coggleをカテゴライズしましょう。">
 
-<help-orgs-switch-title "Switch Between Organizations">
-<help-orgs-switch "<p>Click to switch between Organizations.</p><p>Organizations let you control sharing of Coggles and work with larger teams.</p>">
+<help-orgs-switch-title "オーガニゼーションを切り替える">
+<help-orgs-switch "<p>クリックしてオーガニゼーションを切り替えることができます。</p><p>オーガニゼーションを利用することで共有対象を管理してより大きなチームで利用することができます。</p>">
 
 
 /* Settings page content */
@@ -334,12 +334,12 @@
 <summary-overdue-plan "Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.</p>">
 
 
-<me-communication-title "Communication">
-<me-emails-title "Email Addresses">
-<me-emails-primary "(primary)">
-<me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
+<me-communication-title "コミュニケーション">
+<me-emails-title "Email">
+<me-emails-primary "(主に利用する)">
+<me-emailstip "私たちはprimaryのemailアドレスにのみ連絡しますが、Coggleのお誘いは他のemailアドレスでも受け取ることができます。">
 <me-talktome "Talk to me: ">
-<me-diagram-notifications "Diagram notifications: ">
+<me-diagram-notifications "ダイアグラムの通知: ">
 
 <slider-yes "YES">
 <slider-no "NO">
@@ -383,50 +383,50 @@
 """>
 
 /* Diagram content */
-<guide-click-here "click here">
-<guide-or-here "or here">
-<click-to-edit "click to edit">
-<click-to-edit-title "Click to edit title">
-<tap-to-edit "tap to edit">
-<tap-to-edit-title "Tap to edit title">
-<unnamed-diagram "Unnamed Diagram">
+<guide-click-here "ここをクリック">
+<guide-or-here "こっちでもOK">
+<click-to-edit "クリックして編集">
+<click-to-edit-title "クリックしてタイトルを編集">
+<tap-to-edit "タップして編集">
+<tap-to-edit-title "タップしてタイトルを編集">
+<unnamed-diagram "無題のダイアグラム">
 
-<add-branch "add branch">
-<copy-branch "copy branch">
-<add-to-discussion "add to discussion">
-<comment-on-this "comment on this">
-<auto-arrange "auto-arrange">
-<pick-colour "pick color">
-<delete-branch "delete branch"> /* (remove and item *and* all of its children) */
-<remove-item "remove item">
-<copy-branch "copy branch">
-<show-children "show children">
-<hide-children "hide children">
-<drag-to-create-link "drag to create link">
-<drag-to-transplant-branch "drag to transplant branch">
+<add-branch "ブランチを追加">
+<copy-branch "ブランチをコピー">
+<add-to-discussion "ディスカッションに追加">
+<comment-on-this "コメントを追加">
+<auto-arrange "自動調整">
+<pick-colour "色を選択">
+<delete-branch "ブランチを削除"> /* (remove and item *and* all of its children) */
+<remove-item "アイテムを削除">
+<copy-branch "ブランチをコピー">
+<show-children "子要素を表示">
+<hide-children "子要素を隠す">
+<drag-to-create-link "ドラッグしてリンクを作成">
+<drag-to-transplant-branch "ドラッグしてブランチを移動">
 
-<undo "undo">
-<redo "redo">
-<paste-branch "paste branch">
-<zoom-page "zoom page">
-<add-label "add label">
+<undo "取り消す">
+<redo "繰り返す">
+<paste-branch "ブランチをペースト">
+<zoom-page "ズーム">
+<add-label "ラベルを追加">
 
-<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
-<help-add-node "Use the (+) buttons to add branches.">
-<help-edit-node "<p>Click any item to edit the text.</p><p>Change the text size by dragging the corner of the editing area.</p>">
-<help-move-node "Drag any text to move it.">
-<help-node-menu "Right click to access the menu. Here you can add, remove, copy, and arrange branches.">
+<help-gohome "Coggleのロゴをクリックすると、一覧ページに戻ります。その際、編集中のドキュメントは自動保存されます。">
+<help-add-node "(+)ボタンでブランチを追加します。">
+<help-edit-node "<p>アイテムをクリックしてテキストを編集できます。</p><p>編集エリアの角をドラッグしてテキストのサイズを変更できます。</p>">
+<help-move-node "テキストをドラッグで移動できます。">
+<help-node-menu "右クリックをしてメニューを開きます。メニューからブランチの追加、削除、コピー、調整ができます。">
 
-<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
-<help-toolbar-invite-title "Work With Others">
-<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
-<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-multiline "[ctrl] + [enter]や書き込む前に入力欄のサイズを変更して、複数行の編集をしましょう。">
+<help-toolbar-invite-title "共同作業をする">
+<help-toolbar-invite "クリックしてCoggleの編集や閲覧のために共同作業者をお誘いしましょう。アイコンをタップすることで、共同作業者の権限の変更ができます。">
+<help-toolbar-invitemulti-title "一度に誘いましょう">
 <help-toolbar-invitemulti """
-  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+  時間の節約のために、一度に複数の人を誘うことができます: スペースや、カンマ <b>,</b> セミコロン <b>;</b> で区切ってemailを入力（ペースト）します。
 """>
-<help-toolbar-inviteflow "Coggle works best with others - enter the email address of a friend or co-worker.">
-<help-toolbar-inviteflow-title "Enter a Co-worker's Email">
-<help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
+<help-toolbar-inviteflow "Coggleは共同作業に最適です。友達や同僚のEmailを入力しましょう。">
+<help-toolbar-inviteflow-title "共同作業者のEmailを入力する">
+<help-inactive-invite "友達と一緒に生活を変えるアイディアを実現しましょう！<br>こちらからメールで招待しましょう。">
 
 <banner-open-getawesome """
     This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> Get <a>Awesome</a> to make it private.
@@ -471,46 +471,46 @@
 <diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
 
 /* sharing dialog content */
-<share-newlink "New Link:">
+<share-newlink "リンクの新規作成:">
 <share-newlink-tip """
-  These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+  ログインしていない人たちに対してダイアグラムを共有することができます。注意して下さい。リンクを通して<strong>誰でも</strong>あなたのダイアグラムが見えることになります。
 """>
 <share-tag-user "user">
 <share-tag-embed "embed">
 <share-tag-writable "editable">
-<share-send-email "SEND">
+<share-send-email "送信">
 <share-email-hints """
-  <div>to invite, type an email</div>
-  <div>then hit enter</div>
+  <div>emailを入力して</div>
+  <div>enterを押して下さい</div>
   <div>friend@example.com</div>
 """>
 <share-social """
-  <a title='Embed in a website'> <img/> </a>
-  <a title='Share on Facebook'> <img/> </a>
-  <a title='Share on Twitter'> <img/> </a>
+  <a title='サイトに貼る'> <img/> </a>
+  <a title='Facebookでシェア'> <img/> </a>
+  <a title='Twitterでシェア'> <img/> </a>
 """>
-<share-open "Can everyone view this diagram?">
-<share-open-detail "Open diagrams can be viewed by anyone and may appear in our <a>Gallery</a>">
+<share-open "全ての人がこのダイアグラムを見ることができますか？">
+<share-open-detail "全ての人が見ることができますし、検索エンジンの対象にもなります。">
 
 /* download dialog content */
-<download-pdf "Download PDF">
-<download-png "Download Image">
-<download-mm ".mm File">
-<download-txt "Plain-Text Outline">
-<download-advanced "Advanced Types">
-<download-failed "File generation failed.">
+<download-pdf "PDFをダウンロード">
+<download-png "Imageをダウンロード">
+<download-mm ".mm ファイル">
+<download-txt "プレーン・テキスト　アウトライン">
+<download-advanced "その他の形式">
+<download-failed "ファイルの生成に失敗しました。">
 
 /* access control slider content */
-<access-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-author "Author<br/><span>Allow creating and editing documents</span>">
+<access-readonly "閲覧のみ<br/><span>閲覧権限のみ付与</span>">
+<access-readclone "閲覧とコピー<br/><span>ダウンロードとコピー権限を付与</span>">
+<access-author "編集者<br/><span>新規作成、編集権限を付与</span>">
 
-<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
-<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
+<access-folder-readonly "閲覧のみ<br/><span>閲覧権限のみ付与</span>">
+<access-folder-readclone "閲覧とコピー<br/><span>ダウンロードとコピー権限を付与</span>">
+<access-folder-author "編集者<br/><span>新規作成、編集権限を付与</span>">
+<access-folder-admin "管理者<br/><span>メンバーやドキュメントを追加・削除できる</span>">
 
-<access-remove "Remove {{ $user.givenName }}">
+<access-remove "{{ $user.givenName }}を外す">
 
 /* Notification Messages */
 <readonly-warning """
@@ -530,10 +530,9 @@
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
-  Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!
-  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
+  画像は、無料を維持するために{{ $maxWidth }} &times; {{ $maxHeight }}に収まるサイズに縮小されています。<a>Coggle Awesome</a>にサインアップするともっと大きな画像をアップロードすることができるようになります。 <a>続きを読む</a>.
 """>
-<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
+<imgupload-slow-down "あわわ、遅くなってる！一枚ずつ画像をアップロードしてみてください。">
 
 
 /* shortcut help content (in the messages panel on the right-hand side of a
@@ -546,71 +545,71 @@
    linux: "ctrl"
  }
 >
-<sidebar-contextmenu "Context Menu">
-<sidebar-clickformenu "Right click an item or the background to access a menu.">
-<sidebar-tapformenu "Tap an item or the background to access a menu.">
-<sidebar-controls "Controls">
+<sidebar-contextmenu "コンテキストメニュー">
+<sidebar-clickformenu "アイテムや背景を右クリックしてしてメニューを開く。">
+<sidebar-tapformenu "アイテムや背景をタップしてメニューを開く。">
+<sidebar-controls "操作">
 <sidebar-addbranch """
-  <div>Add Branch:</div>
-  <div><span> click </span><div></div></div>
+  <div>ブランチを追加:</div>
+  <div><span> クリック </span><div></div></div>
 """>
 <sidebar-removebranch """
-  <div>Remove Branch:</div>
-  <div><div> {{ controls::removeKey }} </div> <span> + click </span> <div></div></div>
+  <div>ブランチを削除:</div>
+  <div><div> {{ controls::removeKey }} </div> <span> + クリック </span> <div></div></div>
 """>
 <sidebar-insertbranch """
-  <div>Insert Branch:</div>
-  <div><div> shift </div> <span> + click </span> <div></div></div>
+  <div>ブランチを挿入:</div>
+  <div><div> shift </div> <span> + クリック </span> <div></div></div>
 """>
 <sidebar-movebranch """
-  <div> Move Branch: </div>
-  <div><div> drag anything! </div></div>
+  <div>ブランチを移動: </div>
+  <div><div> ドラッグ！ </div></div>
 """>
 <sidebar-transplantbranch """
-  <div> Transplant Branch: </div>
-  <div><div> shift </div> <span> + drag </span> <div></div></div>
+  <div>ブランチを挿し替え: </div>
+  <div><div> shift </div> <span> + ドラッグ </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
-  <div> Change Colors: </div>
-  <div><span> click a branch </span></div>
+  <div>色を変更: </div>
+  <div><span> ブランチをクリック</span></div>
 """>
 <sidebar-addimages """
-  <div> Add <a>Images</a>: </div>
-  <div><div> drag and drop </div></div>
+  <div><a>画像</a> を追加: </div>
+  <div><div> ドラッグ & ドロップ </div></div>
 """>
 <sidebar-zoom """
-  <div> Zoom: </div>
-  <div><div> ctrl </div><span> + mousewheel </span></div>
+  <div>ズームする: </div>
+  <div><div> ctrl </div><span> + ホイール </span></div>
 """>
-<sidebar-shortcuts "Shortcuts">
+<sidebar-shortcuts "ショートカット">
 <sidebar-undo """
-  <div> Undo: </div>
+  <div> 変更の取消し: </div>
   <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
-  <div> Redo: </div>
+  <div> 取消しのキャンセル: </div>
   <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-whentyping "When typing">
+<sidebar-whentyping "入力時">
 <sidebar-sc-newitem """
-  <div> New Item: </div>
-  <div><div> shift </div><span> + </span><div> enter </div></div>
+  <div> アイテム新規作成: </div>
+  <div><div> shift </div><span> + </span><div> return </div></div>
 """>
 <sidebar-sc-newchild """
-  <div> New Child Item: </div>
+  <div> 子アイテム新規作成: </div>
   <div><div> tab </div></div>
 """>
 <sidebar-sc-parent """
-  <div> Jump to Parent: </div>
+  <div> 親アイテムへの移動: </div>
   <div><div> shift </div><span> + </span><div> tab </div></div>
 """>
 <sidebar-sc-markdown """
-    <div>Format text: </div>
-    <div>use <a>Markdown</a></div>
+    <div> フォーマット: </div>
+    <div><a>Markdown</a></div>
 """>
-<another-fact "another!">
+<another-fact "他にも！">
 <cogglefacts-more """
-  Read more...
+  もっと読む...
 """>
 <sidebar-markdown "Markdown">
 <sidebar-bgmenu "<b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
@@ -800,458 +799,6 @@
 """>
 
 <about-getintouch """
-  <h1>Get in Touch</h1>
-  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just
-  give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter
-  </a>and if you prefer you can always send an email to <a>hello@coggle.it
-  </a>— we love to chat!</p>
-""">
-
-<about-spreadtheword """
-  <h1>Spread the Word</h1>
-  <p>If you love Coggle, then help us break even more people free from the
-  confines of lists, spreadsheets and conventional documents! You can share
-  Coggle <a>on Twitter </a>or <a>on Facebook</a>.</p>
-""">
-
-<about-press """
-  <h1>In the press?</h1>
-  <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
-""">
-
-<about-company """
- <div>
-   <p>Registered in England and Wales. No. 9030487</p>
-   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
-
-/* Coggle Facts */
-<fact-math """
-Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
-""">
-<fact-collaborate """
-Did you know that you can collaborate in real-time with others? You can! Use the (+) button in the top right.
-""">
-<fact-share """
-Did you know that you can edit a Coggle at the same time as someone else? You can! Use the (+) button in the top right to invite others.
-""">
-<fact-font """
-Did you know you can use a fixed-width code font in Coggles? You can!<p>Just use `backticks` around the text, it also stops other special syntax from being interpreted.
-""">
-<fact-bold """
-Did you know you can use **bold text** in Coggles?<p>Just use **double asterisks** where you want the emphasis!
-""">
-<fact-italic """
-Did you know you can use *italic text* in Coggles?<p>Just use *asterisks* where you want the emphasis!
-""">
-<fact-links """
-Did you know you can put links in Coggles? You can!<p>They work like this:<br>[description](http://example.com)
-""">
-<fact-download """
-Did you know that you can download your Coggle as a PDF or an image? You can! Look for the download button in the top right of the screen.
-""">
-<fact-markdown """
-Did you know that Coggle uses <a>markdown syntax</a>? It does!<p>Try out links like this: &lt;http://example.com&gt;
-""">
-<fact-latex """
-Did you know Coggle supports LaTeX formulae? It does!<p>Use \\\\( LaTeX here \\\\) to try it out! Check out <a>this link</a> for syntax help.
-""">
-<fact-move """
-Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
-""">
-<fact-fontsize """
-Text too big? Too small? You can zoom!<br> use [ctrl] [+] / [ctrl] [-]
-""">
-<fact-zoomin """
-Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+], or right click and drag the zoom icon!
-""">
-<fact-zoomout """
-Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-], or right click and drag the zoom icon!
-""">
-<fact-markdown2 """
-Did you know that <a>Markdown</a> is awesome? It is, and Coggle supports it!
-""">
-<fact-pdf """
-You can download your Coggle as a PDF! Look for the download button in the top right of the screen.
-""">
-<fact-png """
-You can download your Coggle as an Image! Look for the download button in the top right of the screen.
-""">
-<fact-latex2 """
-Did you know Coggle supports LaTeX for math? It does!<p>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a>a syntax guide</a>.
-""">
-<fact-history """
-Did you know you can view the history of who changed what, when in your Coggle? You can! Click the clock icon in the top right.
-""">
-<fact-images """
-Did you know you can put images in your Coggle? You can!<p>Just drag and drop an image from your computer to wherever you want it.
-""">
-<fact-images2 """
-Did you know you can use images in Coggles? You can!<p>Drag and drop an image from your computer to wherever you want it. A mini version of the image is uploaded and saved!
-""">
-<fact-plaintext-in """
-Did you know you can drag & drop plain text files onto Coggle to import them? You can!<p>If your file has indentation, Coggle will even add structure to the imported text.
-""">
-<fact-freemind-in """
-Did you know you can drag & drop Freemind .mm files onto Coggle to import them? You can!
-""">
-<fact-link-drag """
-Did you know you can drag a URL from your address bar onto a Coggle to make a link to that site? You can!
-""">
-<fact-text-size """
-Did you know you can change the font? You can!<p>Use #, ##, or ### at the start of a line to make the text bigger.
-""">
-<fact-text-size2 """
-Did you know you can change the font? You can!<p>Drag the corner of the text editing area up or down to change the text size.
-""">
-<fact-text-size3 """
-Did you know you can change the text size? You can!<p>Drag the corner of the text editing area.
-""">
-<fact-md-reference """
-Did you know you can use Markdown in Coggles to add links, images and more? You can!<p>Here\'s the <a>complete reference</a>.
-""">
-<fact-multiline-keys """
-Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
-""">
-<fact-multiline-drag """
-Did you know you can break text over multiple lines? You can! Drag the corner of the edit field, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
-""">
-<fact-multiline-wrap """
-Did you know you can break text over multiple lines? You can! Drag the corner of the text editing area left/right to wrap text onto multiple lines.
-""">
-<fact-resize-images """
-Did you know you can resize images? You can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
-""">
-<fact-image-size """
-Did you know we support a Markdown extension to specify image size? We do! Specify a 200 by 100 pixel image like this: ![image description](http://url.to.image "optional title" 200x100)
-""">
-<fact-bold-kbshort """
-Did you know you can use keyboard shortcuts to add **bold text** in Coggles? You can! Just press [ctrl]+[b] (or [cmd]+[b] on macs) with the text you want bold selected.
-""">
-<fact-shortcuts-1 """
-Did you know you can edit your Coggle using only the keyboard? You can, here\'s how:<p>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
-""">
-<fact-shortcuts-2 """
-Did you know you can select which branch to edit using keyboard shortcuts? You can!<p>Use [alt]+[shift]+arrow keys to move along branches.
-""">
-<fact-task-lists """
-Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
-""">
-<fact-api-1 """
-Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
-""">
-<fact-organisation """
-Using Coggle in Business? You can create a Coggle Organization to manage your Company's Coggles.
-""">
-<fact-organisation2 """
-Did you know Coggle Organizations can put their logo on their Coggles? They can!
-""">
-<fact-organisation3 """
-Did you know you can create a Coggle Organization to organize your businesses Coggles? You can!
-""">
-
-/* ---- */
-
-
-
-/* sign-up page content */
-<signup-choose-plan "パーソナルプランを選択してください">
-
-<signup-free-plan """
-  <label>
-    <input>
-    <b>フリー!</b>
-    <span> 有効にする</span>
-    <p>ダイアグラムの作成は無制限。画像の追加は無制限。ダウンロードは無制限。CoggleのこれがCoggleの良さです。</p>
-  </label>
-""">
-
-<signup-awesome-plan """
-    <label>
-      <input>
-      <b>Coggle Awesome</b> — <b>$5 per month</b>
-      <span> active</span>
-      <p>Unlimited private diagrams to control access to your work, bigger image uploads, <a>read more...</a></p>
-    </label>
-""">
-
-<help-setup-org-usd """
-    <input> チームの為に <a>Coggle Organization</a> のセットアップをしたい &mdash; <b>1メンバー1月$8から</b>
-""">
-
-<help-setup-org-description """
-    Coggle Organization を利用することで、ビジネスデータを個人アカウントのデータを分けることができます。チームメンバーの権限管理が必要なビジネスでの利用に適しています。
-""">
-
-<billing-check-out-orgs """
-    <b>Coggleをビジネスで利用しますか？Coggle Organizationsを</b> チェックする <a></a>
-""">
-
-<signup-signup "サインアップ">
-<signup-save "保存">
-
-/* documents list content */
-<createcoggle """
-  <p title="Coggleの新規作成">新規作成</p>
-""">
-<createfolder """
-  <img>
-  <p title="フォルダの追加">追加</p>
-""">
-<limitedaccess "メンバー以外のアクセスは制限されています。">
-
-/* documents list contextual help items */
-<help-hide-for-now "今は隠す">
-<help-ok-got-it "OK, わかりました!">
-<help-settingsswitch-title "Access Your Settings">
-<help-settingsswitch """
-  <p>Click to access your personal settings, and to switch between, or create, Organizations.</p>
-  <p>Organizationsを使うことで大きなチームでのCoggleの共有管理や効率的な作業ができるようになります。</p>
-""">
-<help-createfolder "フォルダを作ってグループでシェアしたり、Coggleをカテゴライズしましょう。">
-<help-filtercoggles-title "Coggleを検索する">
-<help-filtercoggles """
-  検索文言を入れて、素早くCoggleを開きましょう。 – <b>[enter]</b> を押すと、検索結果の一番上のCoggleが開きます。
-""">
-<help-profile-title "あなたです!">
-<help-profile "アイコンをタップして、プロフィールや設定を見ましょう。">
-
-
-/* diagram introductory tutorial */
-<guide-click-here "ここをクリック">
-<guide-or-here "こっちでもOK">
-<guide-editanytext "どんなテキストも編集できます">
-<guide-draganything "そして、ドラッグすればテキストの移動もできます">
-<guide-clicktoadd "ここをクリックして、子アイテムを追加しましょう">
-<guide-taptoaddmore "タップしてもっと追加してみましょう">
-<guide-holdtoremove "... また、 {{ $removeKey }} を長押しして、ここをクリックすることで削除をすることができます。">
-<guide-undo "{{ $undoKey }} を使って、一つ前の作業を取り消すことができます。">
-<guide-redo "また、 {{ $redoKey }} を使って、取り消した作業を一つ復活させることができます。">
-<guide-donebasics "すばらしい！基本を抑えましたね！">
-
-
-/* diagram contextual help items */
-<help-gohome "Coggleのロゴをクリックすると、一覧ページに戻ります。その際、編集中のドキュメントは自動保存されます。">
-<help-sidebar "いつでもここをクリックすることでヘルプ・サイドバーの表示・非表示を変更できます。">
-<help-share-diagram "クリックしてCoggleの編集や閲覧のために共同作業者をお誘いしましょう。サインインと編集のためのemailリンクが送られます！">
-<help-multiline "[ctrl] + [enter]や書き込む前に入力欄のサイズを変更して、複数行の編集をしましょう。">
-<help-toolbar-invite-title "共同作業をする">
-<help-toolbar-invite "クリックしてCoggleの編集や閲覧のために共同作業者をお誘いしましょう。アイコンをタップすることで、共同作業者の権限の変更ができます。">
-<help-toolbar-invitemulti-title "一度に誘いましょう">
-<help-toolbar-invitemulti """
-  時間の節約のために、一度に複数の人を誘うことができます: スペースや、カンマ <b>,</b> セミコロン <b>;</b> で区切ってemailを入力（ペースト）します。
-""">
-<help-inactive-invite "友達と一緒に生活を変えるアイディアを実現しましょう！<br>こちらからメールで招待しましょう。">
-
-/* diagram sidebar content */
-<sidebar-getstarted """
-まずはここから <a>隠す</a><a>表示する</a>
-""">
-<guidestep-add "新しいアイテムを追加する">
-<guidestep-edit "アイテムを編集する">
-<guidestep-move "アイテムを移動する">
-<guidestep-remove "アイテムを削除する">
-<guidestep-undo "変更を取り消す">
-<guidestep-redo "取り消した変更をやりなおす">
-
-<controls[@os]
- removeKey[@os]: {
-  *win: "ctrl",
-   mac: "alt",
-   linux: "ctrl"
- }
->
-
-<sidebar-contextmenu "Context Menu">
-<sidebar-clickformenu "Right click an item or the background to access a menu.">
-<sidebar-controls "操作">
-<sidebar-addbranch """
-  <div>ブランチを追加:</div>
-  <div><span> クリック </span><div></div></div>
-""">
-<sidebar-removebranch """
-  <div>ブランチを削除:</div>
-  <div><div> {{ controls::removeKey }} </div> <span> + クリック </span> <div></div></div>
-""">
-<sidebar-insertbranch """
-  <div>ブランチを挿入:</div>
-  <div><div> shift </div> <span> + クリック </span> <div></div></div>
-""">
-<sidebar-movebranch """
-  <div>ブランチを移動: </div>
-  <div><div> ドラッグ！ </div></div>
-""">
-<sidebar-transplantbranch """
-  <div>ブランチを挿し替え: </div>
-  <div><div> shift </div> <span> + ドラッグ </span> <div></div></div>
-""">
-<sidebar-recolourbranch """
-  <div>色を変更: </div>
-  <div><span> ブランチをクリック</span></div>
-""">
-<sidebar-addimages """
-  <div><a>画像</a> を追加: </div>
-  <div><div> ドラッグ & ドロップ </div></div>
-""">
-<sidebar-zoom """
-  <div>ズームする: </div>
-  <div><div> ctrl </div><span> + ホイール </span></div>
-""">
-<sidebar-shortcuts "ショートカット">
-<sidebar-undo """
-  <div> 変更の取消し: </div>
-  <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
-""">
-<sidebar-redo """
-  <div> 取消しのキャンセル: </div>
-  <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
-""">
-<sidebar-whentyping "入力時">
-<sidebar-sc-newitem """
-  <div> アイテム新規作成: </div>
-  <div><div> shift </div><span> + </span><div> return </div></div>
-""">
-<sidebar-sc-newchild """
-  <div> 子アイテム新規作成: </div>
-  <div><div> tab </div></div>
-""">
-<sidebar-sc-parent """
-  <div> 親アイテムへの移動: </div>
-  <div><div> shift </div><span> + </span><div> tab </div></div>
-""">
-<sidebar-sc-markdown """
-    <div> フォーマット: </div>
-    <div><a>Markdown</a></div>
-""">
-<cogglefacts "他を見る!">
-<cogglefacts-more """
-  もっと読む...
-""">
-<sidebar-markdown "Markdown">
-<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
-<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
-<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
-<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
-<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
-
-<sidebar-contact """
-  <h3>Contact Us!</h3>
-  <p>ヘルプが必要ですか？バグを見つけましたか？連絡を取りたいですか？ <a>hello@coggle.it</a> メールをお待ちしています。</p>
-  <p>Coggleの最新情報やチュートリアルは <a>Bloggle</a> で見ることができます。Coggleのブログです。</p>
-  <p><a>Coggleのことをもっと知りたい</a>。 私たちの <a>プライバシー・ポリシー</a>。</p>
-  <p>プレスの方は<a>こちら</a>。 開発者の方は<a>こちら</a>。</p>
-""">
-
-/* Self-dialog & Supporter Signup */
-<me-manage-account "アカウント管理">
-<me-unsupport-progress "登録解除します。">
-<me-as-orgmember "<b>Organisation member</b>としてCoggleを閲覧中です。">
-<me-as-orgmember-youget "以下の素晴らしい機能を使うことができます:">
-<me-unsupport """
-  <a></a>Coggleのサポートをやめる<span> &mdash; 本当にやめますか？ <a>やめます</a></span>
-""">
-<me-signedup "すばらしい！Coggleサポーターとしてサインアップしました。">
-<me-support-cancelled """
-  <span>こんにちは &mdash; これはあなたです！</span>
-  あなたのサポーター登録はキャンセルされました。<a>もういちどサインアップする</a>。
-""">
-<me-support-signupnow "サインアップする">
-<me-support-weusestripe """
-  私たちは安全なお支払いを行っていただくために<a>stripe</a>を利用しています: あなたのカードの詳細情報は私たちのサーバには送られません。
-""">
-
-
-/* My Settings Page (/me) */
-<me-hi "こんにちは {{ $user.givenName }},">
-<me-communication-title "コミュニケーション">
-<me-emails-title "Email Addresses">
-<me-emailstip "私たちはprimaryのemailアドレスにのみ連絡しますが、Coggleのお誘いは他のemailアドレスでも受け取ることができます。">
-<me-talktome "Talk to me: ">
-<me-diagram-notifications "ダイアグラムの通知: ">
-
-<slider-yes "YES">
-<slider-no "NO">
-
-
-/* Organisations Landing Page (/organisations) */
-<orgs-pitch-2-usd """
-  <h2>Coggle Organisations</h2>
-  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
-  <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
-  <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
-""">
-
-<orgs-signup-usd """
-  <a>CREATE ORGANISATION<div>From $8 per member per month</div></a>
-""">
-
-<orgs-feature-awesome """
-  In addition, all members of your organisation will get the Coggle <a>Awesome</a> features.
-""">
-
-/* Organisations Sign-Up Page (/organisations/new) */
-<orgcreate-title "Create an Organisation">
-<orgcreate-controlsharing """
-  <img>
-  <h3>Control Sharing</h3>
-  <div>Make sure Coggles created by your organisation stay in your organisation.</div>
-""">
-<orgcreate-branding """
-  <img>
-  <h3>Brand your Exports</h3>
-  <div>Have your logo appear as a watermark when diagrams are exported.</div>
-""">
-<orgcreate-dashboard """
-  <img>
-  <h3>Super-user Dashboard</h3>
-  <div>Administrator accounts get full control of all the diagrams in your organisation.</div>
-""">
-<orgcreate-gotqs "Got questions? Ask us! <a>orgs@coggle.it</a>">
-<orgcreate-choosename "Organisation Name">
-<orgcreate-nameinput """
-  <input placeholder="Choose Your Organisation Name">
-  <span>Pick something short and recognisable!</span>
-""">
-<orgcreate-billing "Billing">
-<orgcreate-standard """
-  <label>
-    <input>
-    <b>Standard</b> — <b>$8 per member per month</b>
-    <div>unlimited everything, add your own branding, advanced user management</div>
-  </label>
-""">
-<orgcreate-enterprise """
-  <label>
-    <input>
-    <b>Enterprise</b> — <b>$55 per member per month</b>
-    <div>everything above plus we'll remove the Coggle branding from your diagrams.</div>
-  </label>
-""">
-<orgcreate-paymentinfo "<p><a>Read more</a> about how we process payments.</p>">
-<orgcreate-weusestripe "We use <a>Stripe</a> to process payments securely.">
-<orgcreate-stripeinfo """
-  Stripe is certified to PCI level 1, and store your payment information using AES-256 encryption. You can read more about their security practices on Stripe's <a>security page</a>.
-""">
-<orgcreate-create "<p>CREATE</p>">
-
-
-/* About Coggle (/about) */
-<about-hello2 """
-  <h1>Hello!</h1>
-  <p><b>Coggle gives you a clear way to share and understand complex information.
-  It's a collaborative document that simplifies complex things and
-  a shared workspace to help your team work more effectively together.</b></p>
-  <p>It's free, and we promise it always will be, but we still promise to look
-  after your data the best we know how, to keep backups, and to take security
-  seriously.</p>
-  <p>Our mission is to change the way that people work and collaborate forever,
-  to make you more productive, to make it easier to share information with
-  others, and to do it in a way that's beautiful, and a pleasure to use.</p>
-""">
-
-<about-getintouch """
   <h1>連絡をとりましょう</h1>
   <p>質問がありますか？どのようにCoggleを使っているか私たちに伝えたいですか？フィードバックがありますか？<a>facebook </a>や<a>Twitter</a>でお知らせ下さい。<a>hello@coggle.it </a>へのemailはいつでも受け付けています。 - 私たちはお話をすることが大好きです！</p>
 """>
@@ -1272,60 +819,6 @@ Did you know you can create a Coggle Organization to organize your businesses Co
    <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
  </div>
 """>
-
-
-/* sharing dialog content */
-<share-newlink "リンクの新規作成:">
-<share-newlink-tip """
-  ログインしていない人たちに対してダイアグラムを共有することができます。注意して下さい。リンクを通して<strong>誰でも</strong>あなたのダイアグラムが見えることになります。
-""">
-<share-tag-user "user">
-<share-tag-embed "embed">
-<share-tag-writable "editable">
-<share-embed "Coggleをウェブサイトに埋め込む">
-<share-send-email "送信">
-<share-email-hints """
-  <div>emailを入力して</div>
-  <div>enterを押して下さい</div>
-  <div>friend@example.com</div>
-""">
-<share-social """
-  <a title='サイトに貼る'> <img/> </a>
-  <a title='Facebookでシェア'> <img/> </a>
-  <a title='Twitterでシェア'> <img/> </a>
-""">
-<share-open "全ての人がこのダイアグラムを見ることができますか？">
-<share-open-detail "全ての人が見ることができますし、検索エンジンの対象にもなります。">
-<css--share-view-privatelinks-cogglelist-empty-before "プライベートリンクがありません">
-
-/* download dialog content */
-<download-pdf "PDFをダウンロード">
-<download-png "Imageをダウンロード">
-<download-mm ".mm ファイル">
-<download-txt "プレーン・テキスト　アウトライン">
-<download-advanced "その他の形式">
-<download-failed "ファイルの生成に失敗しました。">
-
-/* access control slider content */
-<access-readonly "閲覧のみ<br/><span>閲覧権限のみ付与</span>">
-<access-readclone "閲覧とコピー<br/><span>ダウンロードとコピー権限を付与</span>">
-<access-author "編集者<br/><span>新規作成、編集権限を付与</span>">
-
-<access-folder-readonly "閲覧のみ<br/><span>閲覧権限のみ付与</span>">
-<access-folder-readclone "閲覧とコピー<br/><span>ダウンロードとコピー権限を付与</span>">
-<access-folder-author "編集者<br/><span>新規作成、編集権限を付与</span>">
-<access-folder-admin "管理者<br/><span>メンバーやドキュメントを追加・削除できる</span>">
-
-<access-remove "{{ $user.givenName }}を外す">
-
-/* Notification Messages */
-
-/* Image drag-drop messages */
-<imgupload-was-resized-2 """
-  画像は、無料を維持するために{{ $maxWidth }} &times; {{ $maxHeight }}に収まるサイズに縮小されています。
-  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
-""">
-<imgupload-slow-down "あわわ、遅くなってる！一枚ずつ画像をアップロードしてみてください。">
 
 
 /* Coggle Facts */
