@@ -212,16 +212,16 @@
    <div> <b>複数の開始ポイント！</b> <p><a>Coggle Awesome</a>では複数の開始ポイントを作ることができます。</p> <a>アップグレードしましょう</a> <div></div> </div>
 """>
 
-<tooltip-createorg title:"Create an Organization">
-<tooltip-invite-folder title:"Add people to this folder by email">
-<tooltip-invite title:"Invite people to join this Coggle.">
-<tooltip-private-icon title:"Diagram is private">
-<tooltip-unsubscribe title:"Unsubscribe from notifications">
-<tooltip-subscribe title:"Subscribe to notifications">
-<tooltip-duplicate title:"Create a copy">
-<tooltip-remove title:"Remove diagram">
-<tooltip-restore title:"Restore diagram">
-<tooltip-more title:"Diagram options">
+<tooltip-createorg title:"オーガニゼーションを作成する">
+<tooltip-invite-folder title:"Emailで招待する">
+<tooltip-invite title:"Coggleに招待する">
+<tooltip-private-icon title:"ダイアグラムはプライベートです">
+<tooltip-unsubscribe title:"通知を解除する">
+<tooltip-subscribe title:"通知を登録する">
+<tooltip-duplicate title:"コピーを作成する">
+<tooltip-remove title:"ダイアグラムを削除する">
+<tooltip-restore title:"ダイアグラムを復元する">
+<tooltip-more title:"ダイアグラム・オプション">
 
 /* documents list contextual help items */
 <help-searchcoggle-title "Coggleを検索する">
