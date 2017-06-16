@@ -168,42 +168,42 @@
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in
 */
-<create-diagram "<span>Create Diagram</span>">
-<search-diagrams placeholder:"Search your diagrams">
-<view-gallery "Gallery">
-<create-folder "Create Folder">
-<shared-folders "Shared Folders">
-<created-by-you value:"Created By You">
-<shared-with-you value:"Shared With You">
-<folder-title placeholder:"Enter a folder name">
-<folder-areyousure "are you sure? <span>I&#39;m sure</span>">
-<logout "Logout">
-<settings "Settings">
-<return-to-diagrams "Return to your diagrams">
-<upgrade-to-awesome "Upgrade to <b>Awesome</b>!">
-<awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
-<awesome-trial-after "Then you'll be moved onto the free plan">
-<want-awesome-for-free "Want Awesome for free?">
-<personal-org "Personal <span>(<a>what is this?</a>)</span>">
-<help-search placeholder:"Help me to...">
-<my-settings "My Settings & Billing">
-<org-name-settings "{{ $orgName }} Settings">
-<org-settings title:"Manage Organization">
-<user-about "About Coggle">
-<user-contact "Contact Us">
-<user-privacy "Privacy Policy">
+<create-diagram "<span>ダイアグラムを作成する</span>">
+<search-diagrams placeholder:"ダイアグラムを検索する">
+<view-gallery "ギャラリー">
+<create-folder "フォルダーを作成する">
+<shared-folders "共有フォルダー">
+<created-by-you value:"作成したダイアグラム">
+<shared-with-you value:"共有されているダイアグラム">
+<folder-title placeholder:"フォルダー名を入力してください">
+<folder-areyousure "これでよいですか？ <span>はい</span>">
+<logout "ログアウト">
+<settings "設定">
+<return-to-diagrams "ダイアグラムに戻る">
+<upgrade-to-awesome "<b>Awesome</b> にアップグレード！">
+<awesome-time-remaining "Awesome トライアルの期限： <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<awesome-trial-after "トライアル終了後はフリープランに移行します。">
+<want-awesome-for-free "Awesome を無料で利用しますか？">
+<personal-org "パーソナル <span>(<a>これは何ですか？</a>)</span>">
+<help-search placeholder:"すいません、...がしたいのですが">
+<my-settings "個人設定と支払い">
+<org-name-settings "{{ $orgName }} 設定">
+<org-settings title:"オーガニゼーション設定">
+<user-about "Coggleとは">
+<user-contact "コンタクト">
+<user-privacy "プライバシー・ポリシー">
 <user-terms "Terms and Conditions">
-<user-link-drive "Link Google Drive">
+<user-link-drive "Google Driveにリンクする">
 <diagrams-limited "<span> {{ $privateDiagrams.used }} of {{ $privateDiagrams.available }}</span> private diagrams used">
 <diagrams-unlimited "<span>Unlimited</span> private diagrams">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <doclist-create """
-    <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
-    <div><a>Create Diagram</a></div>
+    <b>Coggle へようこそ！</b> – 作成したダイアグラムはここに表示されます。
+    <div><a>ダイアグラムを作成する</a></div>
 """>
-<doclist-shared "<b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.">
-<doclist-folder-empty "<b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.">
+<doclist-shared "<b>共有されているダイアグラム</b> – 他の人が作成してあなたに共有されているアイアグラムはこのフォルダーに表示されます。">
+<doclist-folder-empty "<b>空のフォルダーです！</b> – Create a new diagram here, or drag & drop diagrams into folders.">
 <impersonatedaccess "You're viewing Coggle as an Organization member. <a>Return to admin panel</a>">
 
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
