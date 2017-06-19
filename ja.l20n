@@ -242,8 +242,8 @@
 
 
 /* Settings page content */
-<settings-plans-title "Plans">
-<settings-billing-title "Billing & Invoices">
+<settings-plans-title "プラン">
+<settings-billing-title "支払いと請求">
 <settings-recommend-title "おすすめ">
 <settings-emails-title "コミュニケーション">
 <settings-language-title "言語">
