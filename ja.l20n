@@ -227,7 +227,7 @@
 <help-searchcoggle-title "Coggleを検索する">
 <help-searchcoggle "テキストからドキュメントを探しましょう &mdash; ダイアグラム内のテキストからすばやく探し出します。">
 <help-hide-for-now "今は隠す">
-<help-ok-got-it "OK, わかりました!">
+<help-ok-got-it "OK、わかりました!">
 <help-creatediagram-title "新しいダイアグラムを作る">
 <help-creatediagram """
   <p>新しいダイアグラムを作ってCoggleを始めましょう。</p>
