@@ -612,15 +612,15 @@
   もっと読む...
 """>
 <sidebar-markdown "Markdown">
-<sidebar-bgmenu "<b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
-<sidebar-bgmenu2 "<b>Zoom</b>, add <b>text labels</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
-<sidebar-icons "Icons">
-<markdown-icons "Type <code>:</code> while editing or use the button along the top of the item editor.">
-<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
-<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
-<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
-<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
-<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
+<sidebar-bgmenu "背景を右クリックして、<b>ズーム</b>や、<b>取り消し</b>、<b>コピーしたアイテムのペースト</b>をすることができます。">
+<sidebar-bgmenu2 "背景を右クリックして、<b>ズーム</b>や<b>テキストラベル</b>の追加、<b>取り消し</b>、<b>コピーしたアイテムのペースト</b>をすることができます。">
+<sidebar-icons "アイコン">
+<markdown-icons "編集中に <code>:</code> と入力したり、アイテムの上にあるボタンからアイコンの入力ができます。">
+<markdown-bold "<code>**text**</code> と入力して <b>ボールド</b> にすることができます。">
+<markdown-italic "<code>*italic*</code> と入力して <i>イタリック</i> にすることができます。">
+<markdown-link "<code>[タイトル](example.com)</code> と入力して <a>リンク</a> を作ることができます。">
+<markdown-checkbox "<code>- [X]</code> と入力して <input/> チェックボックスを作ることができます。">
+<markdown-code "<code>`text`</code> と入力して <code>固定幅</code> フォントを利用することができます。">
 
 <button-bold title:"テキストを太字にする">
 <button-italic title:"テキストをイタリックにする">
