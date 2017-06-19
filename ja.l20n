@@ -456,19 +456,19 @@
 
 
 
-<messages-title "Messages">
-<messages-search placeholder:"Search">
-<messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
-<messages-start "You've reached the start!">
-<messages-upgrade "Need more than 2 weeks history? Find out about upgrading to <a>Awesome</a> to get the full history.">
+<messages-title "メッセージ">
+<messages-search placeholder:"検索">
+<messages-entry placeholder:"メッセージを入力。@で相手を紐づけることができます。Enterで送信できます。">
+<messages-start "メッセージはここから始まります。">
+<messages-upgrade "2週間よりもっと履歴が見たいですか？完全な履歴を見ることができる <a>Awesome</a> プランをご検討ください。">
 
-<diagram-toolbar-history title:"View and copy previous versions.">
-<diagram-toolbar-messages title:"Comments and chat.">
-<diagram-toolbar-present title:"Present this Coggle.">
-<diagram-toolbar-share title:"Share this Coggle.">
-<diagram-toolbar-download title:"Download this Coggle.">
-<diagram-toolbar-copy title:"Create a copy of this Coggle.">
-<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
+<diagram-toolbar-history title:"以前のバージョンを確認、または、コピー">
+<diagram-toolbar-messages title:"コメントとチャット">
+<diagram-toolbar-present title:"このCoggleをプレゼンテーション">
+<diagram-toolbar-share title:"このCoggleをシェア">
+<diagram-toolbar-download title:"このCoggleをダウンロード">
+<diagram-toolbar-copy title:"このCoggleのコピーを作成">
+<diagram-toolbar-public "ダイアグラムを公開" title:"The Coggle Gallery に表示される可能性もあります">
 
 /* sharing dialog content */
 <share-newlink "リンクの新規作成:">
