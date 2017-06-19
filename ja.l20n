@@ -168,64 +168,64 @@
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in
 */
-<create-diagram "<span>Create Diagram</span>">
-<search-diagrams placeholder:"Search your diagrams">
-<view-gallery "Gallery">
-<create-folder "Create Folder">
-<shared-folders "Shared Folders">
-<created-by-you value:"Created By You">
-<shared-with-you value:"Shared With You">
-<folder-title placeholder:"Enter a folder name">
-<folder-areyousure "are you sure? <span>I&#39;m sure</span>">
-<logout "Logout">
-<settings "Settings">
-<return-to-diagrams "Return to your diagrams">
-<upgrade-to-awesome "Upgrade to <b>Awesome</b>!">
-<awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
-<awesome-trial-after "Then you'll be moved onto the free plan">
-<want-awesome-for-free "Want Awesome for free?">
-<personal-org "Personal <span>(<a>what is this?</a>)</span>">
-<help-search placeholder:"Help me to...">
-<my-settings "My Settings & Billing">
-<org-name-settings "{{ $orgName }} Settings">
-<org-settings title:"Manage Organization">
-<user-about "About Coggle">
-<user-contact "Contact Us">
-<user-privacy "Privacy Policy">
+<create-diagram "<span>ダイアグラムを作成する</span>">
+<search-diagrams placeholder:"ダイアグラムを検索する">
+<view-gallery "ギャラリー">
+<create-folder "フォルダーを作成する">
+<shared-folders "共有フォルダー">
+<created-by-you value:"作成したダイアグラム">
+<shared-with-you value:"共有されているダイアグラム">
+<folder-title placeholder:"フォルダー名を入力してください">
+<folder-areyousure "これでよいですか？ <span>はい</span>">
+<logout "ログアウト">
+<settings "設定">
+<return-to-diagrams "ダイアグラムに戻る">
+<upgrade-to-awesome "<b>Awesome</b> にアップグレード！">
+<awesome-time-remaining "Awesome トライアルの期限： <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<awesome-trial-after "トライアル終了後はフリープランに移行します。">
+<want-awesome-for-free "Awesome を無料で利用しますか？">
+<personal-org "パーソナル <span>(<a>これは何ですか？</a>)</span>">
+<help-search placeholder:"すいません、...がしたいのですが">
+<my-settings "個人設定と支払い">
+<org-name-settings "{{ $orgName }} 設定">
+<org-settings title:"オーガニゼーション設定">
+<user-about "Coggleとは">
+<user-contact "コンタクト">
+<user-privacy "プライバシー・ポリシー">
 <user-terms "Terms and Conditions">
-<user-link-drive "Link Google Drive">
+<user-link-drive "Google Driveにリンクする">
 <diagrams-limited "<span> {{ $privateDiagrams.used }} of {{ $privateDiagrams.available }}</span> private diagrams used">
 <diagrams-unlimited "<span>Unlimited</span> private diagrams">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <doclist-create """
-    <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
-    <div><a>Create Diagram</a></div>
+    <b>Coggle へようこそ！</b> – 作成したダイアグラムはここに表示されます。
+    <div><a>ダイアグラムを作成する</a></div>
 """>
-<doclist-shared "<b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.">
-<doclist-folder-empty "<b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.">
+<doclist-shared "<b>共有されているダイアグラム</b> – 他の人が作成してあなたに共有されているアイアグラムはこのフォルダーに表示されます。">
+<doclist-folder-empty "<b>空のフォルダーです！</b> – Create a new diagram here, or drag & drop diagrams into folders.">
 <impersonatedaccess "You're viewing Coggle as an Organization member. <a>Return to admin panel</a>">
 
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
 <doclist-upgrade """
-   <div> <b>Multiple starting points!</b> <p>Create multiple starting points with <a>Coggle Awesome</a>.</p> <a>Upgrade Now</a> <div></div> </div>
+   <div> <b>複数の開始ポイント！</b> <p><a>Coggle Awesome</a>では複数の開始ポイントを作ることができます。</p> <a>アップグレードしましょう</a> <div></div> </div>
 """>
 
-<tooltip-createorg title:"Create an Organization">
-<tooltip-invite-folder title:"Add people to this folder by email">
-<tooltip-invite title:"Invite people to join this Coggle.">
-<tooltip-private-icon title:"Diagram is private">
-<tooltip-unsubscribe title:"Unsubscribe from notifications">
-<tooltip-subscribe title:"Subscribe to notifications">
-<tooltip-duplicate title:"Create a copy">
-<tooltip-remove title:"Remove diagram">
-<tooltip-restore title:"Restore diagram">
-<tooltip-more title:"Diagram options">
+<tooltip-createorg title:"オーガニゼーションを作成する">
+<tooltip-invite-folder title:"Emailで招待する">
+<tooltip-invite title:"Coggleに招待する">
+<tooltip-private-icon title:"ダイアグラムはプライベートです">
+<tooltip-unsubscribe title:"通知を解除する">
+<tooltip-subscribe title:"通知を登録する">
+<tooltip-duplicate title:"コピーを作成する">
+<tooltip-remove title:"ダイアグラムを削除する">
+<tooltip-restore title:"ダイアグラムを復元する">
+<tooltip-more title:"ダイアグラム・オプション">
 
 /* documents list contextual help items */
-<help-searchcoggle-title "Search Coggle">
-<help-searchcoggle "Type to find your documents &mdash; quickly search for any word in a diagram!">
+<help-searchcoggle-title "Coggleを検索する">
+<help-searchcoggle "テキストからドキュメントを探しましょう &mdash; ダイアグラム内のテキストからすばやく探し出します。">
 <help-hide-for-now "今は隠す">
 <help-ok-got-it "OK, わかりました!">
 <help-creatediagram-title "新しいダイアグラムを作る">
@@ -622,18 +622,18 @@
 <markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
 <markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
 
-<button-bold title:"Make text bold">
-<button-italic title:"Make text italic">
-<button-link title:"Link to a website">
-<button-image title:"Upload an image">
-<button-emoji title:"Search for icons.">
+<button-bold title:"テキストを太字にする">
+<button-italic title:"テキストをイタリックにする">
+<button-link title:"ウェブサイトにリンクする">
+<button-image title:"画像をアップロードする">
+<button-emoji title:"アイコンを検索する">
 
 /* diagram not-found page */
-<nodiagram-title "Diagram not found!">
-<nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">
-<nodiagram-logged-in "You are currently logged in as <b>{{ $user.givenName }}</b>, with the email address <b>{{ $user.email }}</b>. If this diagram exists, this account does not have permission to access it.">
-<nodiagram-not-logged-in "<b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.">
-<nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
+<nodiagram-title "ダイアグラムが見つかりませんでした！">
+<nodiagram-invalid-link "このリンクは無効かアクセスが無効になっています。">
+<nodiagram-logged-in "現在、 <b>{{ $user.givenName }}</b>、 <b>{{ $user.email }}</b> でログインしています。ダイアグラムが存在するならば、このアカウントはダイアグラムへのアクセス権を持っていません。">
+<nodiagram-not-logged-in "<b>ログインしていません。</b>  ダイアグラムが存在するならば、ログインしてアクセスすることができます。">
+<nodiagram-may-need-access "誰かに誘われてたどり着いたのならば、その方はあなたに閲覧権限も付与し忘れてしまっているかもしれません。">
 
 
 /* Awesome Landing Page (/awesome) */
@@ -647,26 +647,28 @@
   <div>$5 / MONTH</div>
 """>
 
-<awesome-feature-private-title "Unlimited Private Diagrams">
-<awesome-feature-private "Create as many private diagrams as you like. If you do ever cancel your subscription they stay private, and you keep access.">
+<awesome-feature-private-title "無制限のプライベート・ダイアグラム">
+<awesome-feature-private "好きなだけプライベート・ダイアグラムを作成できます。もしサブスクリプションをキャンセルしたとしても、作成したダイアグラムはプライベートのままですし、いつでも開くことができます。">
 
-<awesome-feature-joinloop-title "Create Loops and Join Branches">
-<awesome-feature-joinloop "Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.">
+<awesome-feature-joinloop-title "ブランチのループや結合をする">
+<awesome-feature-joinloop "ブランチを結合したりループを作ったりして、より力強く柔軟なダイアグラムを作成することで、プロセス・フローなどの高度な表現をすることができます。">
 
-<awesome-feature-present-title "Distraction-Free Presentation">
-<awesome-feature-present "Use Presentation Mode to present any Coggle in beautiful distraction-free full-screen mode. Collapse and expand branches as you tell your story.">
+<awesome-feature-present-title "プレゼンに集中する">
+<awesome-feature-present "プレゼンテーション・モードを使って全画面に美しく皆の目を釘付けにするCoggleの画面を表示しましょう。提案の中でブランチを折りたたんだり広げたりしましょう。">
 
-<awesome-feature-bigimages-title "Show Them the Big Picture">
-<awesome-feature-bigimages "Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.">
+<awesome-feature-bigimages-title "全体像を提示する">
+<awesome-feature-bigimages "
+  大きな画像をCoggleに追加してアイディアを説明しましょう。デスクトップからドッキュメントにドラッグ＆ドロップで追加できます。">
 
-<awesome-feature-colours-title "More Colors">
-<awesome-feature-colours "Unlock a new range of vivid colors to help organize and highlight your ideas.">
+<awesome-feature-colours-title "もっと色を">
+<awesome-feature-colours "
+  アイディアをより管理しやすく際立たせるために、新しい鮮明な色を使いましょう。">
 
-<awesome-feature-autoarrange-title "Automatic Branch Layout">
-<awesome-feature-autoarrange "Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.">
+<awesome-feature-autoarrange-title "自動ブランチレイアウト">
+<awesome-feature-autoarrange "Coggle Awesomeならたったワンクリックでブランチの位置調整ができます。">
 
-<awesome-feature-folders-title "Shared Folders">
-<awesome-feature-folders "Put your diagrams into folders to keep them organized and easily share them all with a group of collaborators.">
+<awesome-feature-folders-title "共有フォルダー">
+<awesome-feature-folders "ダイアグラムをフォルダーに入れて管理したり、共同作業者のグループにフォルダーごと共有することができます。">
 
 
 <awesome-hint-orgs """
