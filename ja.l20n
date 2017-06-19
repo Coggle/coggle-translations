@@ -244,7 +244,7 @@
 /* Settings page content */
 <settings-plans-title "Plans">
 <settings-billing-title "Billing & Invoices">
-<settings-recommend-title "Recommend">
+<settings-recommend-title "おすすめ">
 <settings-emails-title "Communication">
 <settings-language-title "Language">
 
@@ -349,28 +349,28 @@
 <me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
 
 <we-heart-you "We ♥ you.">
-<help-discover-coggle "Help the world discover Coggle and get free stuff!">
+<help-discover-coggle "Coggleが無料で使えるということを世界中の人が知る手助けをしてください！">
 <introduce-n-more-friends[$introduceCount] {
-        1: "Introduce <span>{{ $introduceCount }}</span> more friend to Coggle",
-    *many: "Introduce <span>{{ $introduceCount }}</span> more friends to Coggle",
+        1: "<span>{{ $introduceCount }}</span>人以上にCoggleを紹介する",
+    *many: "<span>{{ $introduceCount }}</span>人以上にCoggleを紹介する",
 }>
 <introduced-n-friends[$introducedCount] {
-        1: "You've introduced <span>{{ $introducedCount }}</span> person to Coggle",
-    *many: "You've introduced <span>{{ $introducedCount }}</span> people to Coggle",
+        1: "<span>{{ $introducedCount }}</span>人にCoggleを紹介した",
+    *many: "<span>{{ $introducedCount }}</span>人にCoggleを紹介した",
 }>
 
 <share-your-link """
-  <p>Share your special link however you like</p>
+  <p>特別なリンクをシェアしてください</p>
   <p>
-    <a>Facebook</a>,
-    <a> Twitter</a>,
-    or <a>email</a> will all work well!
+    <a>Facebook</a>、
+    <a> Twitter</a>、
+    <a>メール</a>などお好きなもので！
   </p>
   <input/>
 """>
 
 <claim-free-month """
-  <p>Claim your free month of Coggle Awesome!</p>
+  <p>Coggle Awesome の一ヶ月無料利用申請をしてください！</p>
   <div>Redeem Now</div>
 """>
 
