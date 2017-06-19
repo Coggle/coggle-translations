@@ -245,8 +245,8 @@
 <settings-plans-title "Plans">
 <settings-billing-title "Billing & Invoices">
 <settings-recommend-title "おすすめ">
-<settings-emails-title "Communication">
-<settings-language-title "Language">
+<settings-emails-title "コミュニケーション">
+<settings-language-title "言語">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
@@ -335,10 +335,10 @@
 
 
 <me-communication-title "コミュニケーション">
-<me-emails-title "Email">
-<me-emails-primary "(主に利用する)">
-<me-emailstip "私たちはprimaryのemailアドレスにのみ連絡しますが、Coggleのお誘いは他のemailアドレスでも受け取ることができます。">
-<me-talktome "Talk to me: ">
+<me-emails-title "Email設定">
+<me-emails-primary "(プライマリー)">
+<me-emailstip "私たちはプライマリーのEmailアドレスにのみ連絡しますが、Coggleのお誘いは他のEmailアドレスでも受け取ることができます。">
+<me-talktome "話しかけられる: ">
 <me-diagram-notifications "ダイアグラムの通知: ">
 
 <slider-yes "YES">
