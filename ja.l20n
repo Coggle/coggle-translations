@@ -176,7 +176,7 @@
 <created-by-you value:"作成したダイアグラム">
 <shared-with-you value:"共有されているダイアグラム">
 <folder-title placeholder:"フォルダー名を入力してください">
-<folder-areyousure "これでよいですか？ <span>はい</span>">
+<folder-areyousure "よいですか？ <span>はい</span>">
 <logout "ログアウト">
 <settings "設定">
 <return-to-diagrams "ダイアグラムに戻る">
@@ -195,7 +195,7 @@
 <user-terms "Terms and Conditions">
 <user-link-drive "Google Driveにリンクする">
 <diagrams-limited "<span> {{ $privateDiagrams.used }} of {{ $privateDiagrams.available }}</span> private diagrams used">
-<diagrams-unlimited "<span>Unlimited</span> private diagrams">
+<diagrams-unlimited "<span>無制限の</span>プライベート・ダイアグラム">
 
 <limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
 <doclist-create """
@@ -227,7 +227,7 @@
 <help-searchcoggle-title "Coggleを検索する">
 <help-searchcoggle "テキストからドキュメントを探しましょう &mdash; ダイアグラム内のテキストからすばやく探し出します。">
 <help-hide-for-now "今は隠す">
-<help-ok-got-it "OK、わかりました!">
+<help-ok-got-it "OK、わかりました！">
 <help-creatediagram-title "新しいダイアグラムを作る">
 <help-creatediagram """
   <p>新しいダイアグラムを作ってCoggleを始めましょう。</p>
