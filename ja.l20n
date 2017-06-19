@@ -341,12 +341,12 @@
 <me-talktome "話しかけられる: ">
 <me-diagram-notifications "ダイアグラムの通知: ">
 
-<slider-yes "YES">
-<slider-no "NO">
+<slider-yes "はい">
+<slider-no "いいえ">
 
-<me-language-title "Choose Your Preferred Language">
-<me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
-<me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
+<me-language-title "優先言語の選択">
+<me-language-tip "あなたのネイティブ言語をCoggleに教えてください。また、足りないものがあればGithubの<a>翻訳プロジェクト</a>に協力してください！">
+<me-language-questions "翻訳に関して質問があったり、改善できると思ってもそのやり方がわからない場合は、<a>translate@coggle.it</a> 宛にお気軽にメールをください。">
 
 <we-heart-you "We ♥ you.">
 <help-discover-coggle "Coggleが無料で使えるということを世界中の人が知る手助けをしてください！">
