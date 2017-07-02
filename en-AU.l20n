@@ -481,7 +481,7 @@
   <a title='Share on Twitter'> <img/> </a>
 """>
 <share-open "Can everyone view this diagram?">
-<share-open-detail "Open diagrams can be viewed by anyone and may appear in our <a>Gallery</a>">
+<share-open-detail "Public diagrams can be viewed by anyone and may appear in our <a>Gallery</a>">
 
 /* download dialog content */
 <download-pdf "Download PDF">
