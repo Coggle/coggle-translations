@@ -54,14 +54,17 @@
   <a>Sign up now<div>From $8 (US) per member per month</div></a>
 """>
 
-<features-collaborate-title "Get everyone involved">
-<features-collaborate "Invite your friends and colleagues to work with you, at the same time, on your diagrams.">
+<features-realtime "Realtime Collaboration">
+<features-realtime-desc "Invite your friends and colleagues to work with you, at the same time, on your diagrams.">
 
 <features-images-title "Complete the picture">
 <features-images "Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.">
 
-<features-history-title "Go back in time">
+<features-fullhistory-title "Save Every Change">
 <features-history "Look through all the changes to a diagram and make a copy from any point to revert to a previous version.">
+
+<features-labels-title "Add Floating Text and Images">
+<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
 
 <features-blame-title "Track accountability">
 <features-blame "Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.">
@@ -96,6 +99,7 @@
 <feature-changes "<b>Full</b> change history">
 <feature-markdown "<b>Markdown</b> support">
 <feature-downloads "<b>PDF & Image</b> download">
+<feature-labels "Unconnected <b>text boxes</b>">
 <feature-exports "Export as <b>.mm and text</b>">
 <feature-imports "Import <b>.mm and text</b>">
 <feature-chat "Comments & Chat">
@@ -107,6 +111,7 @@
 <plans-awesome-price "$5 (US) / month">
 <feature-include-free "Everything in <b>Free</b>">
 <feature-unlimited-private "<b>Unlimited</b> private diagrams">
+<feature-multiroot "<b>Multiple start points</b>">
 <feature-private "<b>Private diagrams</b>">
 <feature-chathistory "<b>Full</b> chat history">
 <feature-rearrange "<b>Auto-arrange branches</b>">
@@ -114,6 +119,7 @@
 <feature-folders "<b>Shared folders</b>">
 <feature-presentation "Presentation mode">
 <feature-bigimages "<b>High-res image</b> uploads">
+<feature-linestyles "<b>Control line style</b>">
 <feature-extendedcolours "More colours">
 <plans-findoutmore "Find out more">
 
@@ -388,6 +394,7 @@
 <comment-on-this "comment on this">
 <auto-arrange "auto-arrange">
 <pick-colour "pick colour">
+<choose-style "choose style">
 <delete-branch "delete branch"> /* (remove and item *and* all of its children) */
 <remove-item "remove item">
 <copy-branch "copy branch">
@@ -415,7 +422,7 @@
 <help-toolbar-invitemulti """
   To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
 """>
-<help-toolbar-inviteflow "Coggle works best with others - enter the email address of a friend or co-worker.">
+<help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
 <help-toolbar-inviteflow-title "Enter a Co-worker's Email">
 <help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
 
@@ -645,8 +652,11 @@
 <awesome-feature-joinloop-title "Create Loops and Join Branches">
 <awesome-feature-joinloop "Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.">
 
-<awesome-feature-present-title "Distraction-Free Presentation">
-<awesome-feature-present "Use Presentation Mode to present any Coggle in beautiful distraction-free full-screen mode. Collapse and expand branches as you tell your story.">
+<awesome-feature-multiroot-title "Multiple Starting Points">
+<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+
+<awesome-feature-linestyle-title "Control Line Style">
+<awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
 
 <awesome-feature-bigimages-title "Show Them the Big Picture">
 <awesome-feature-bigimages "Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.">

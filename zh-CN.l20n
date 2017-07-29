@@ -63,13 +63,13 @@
   <a>Sign up now<div>From $8 per member per month</div></a>
 """>
 
-<features-collaborate-title "众人拾柴火焰高">
-<features-collaborate "你可以邀请你的朋友和同事和你一起制作笔记, 同时哦.">
+<features-realtime "Realtime Collaboration">
+<features-realtime-desc "你可以邀请你的朋友和同事和你一起制作笔记, 同时哦.">
 
 <features-images-title "一幅图胜过千言万语">
 <features-images "你可以拖拽你桌面上的图片到笔记中, 非常简单! 而且图片数量不限.">
 
-<features-history-title "时光机器">
+<features-fullhistory-title "Save Every Change">
 <features-history "做了一些改动, 几天之后觉得不喜欢? 没关系, 在笔记的修改历史中选择一个你喜欢的时间点, 基于它制作一份拷贝!">
 
 <features-blame-title "任务追踪">
@@ -105,6 +105,7 @@
 <feature-changes "<b>Full</b> change history">
 <feature-markdown "<b>Markdown</b> support">
 <feature-downloads "<b>PDF & Image</b> download">
+<feature-labels "Unconnected <b>text boxes</b>">
 <feature-exports "Export as <b>.mm and text</b>">
 <feature-imports "Import <b>.mm and text</b>">
 <feature-chat "Comments & Chat">
@@ -116,6 +117,7 @@
 <plans-awesome-price "$5 / month">
 <feature-include-free "Everything in <b>Free</b>">
 <feature-unlimited-private "<b>Unlimited</b> private diagrams">
+<feature-multiroot "<b>Multiple start points</b>">
 <feature-private "<b>Private diagrams</b>">
 <feature-chathistory "<b>Full</b> chat history">
 <feature-rearrange "<b>Auto-arrange branches</b>">
@@ -123,6 +125,7 @@
 <feature-folders "<b>Shared folders</b>">
 <feature-presentation "Presentation mode">
 <feature-bigimages "<b>High-res image</b> uploads">
+<feature-linestyles "<b>Control line style</b>">
 <feature-extendedcolours "More colours">
 <plans-findoutmore "Find out more">
 
@@ -397,6 +400,7 @@
 <comment-on-this "comment on this">
 <auto-arrange "auto-arrange">
 <pick-colour "pick colour">
+<choose-style "choose style">
 <delete-branch "delete branch"> /* (remove and item *and* all of its children) */
 <remove-item "remove item">
 <copy-branch "copy branch">
@@ -424,7 +428,7 @@
 <help-toolbar-invitemulti """
   你可以一次邀请多人: 键入或者粘贴他们的邮件地址, 用空格, 逗号<b>,</b>或者分号<b>;</b>来分隔
 """>
-<help-toolbar-inviteflow "Coggle works best with others - enter the email address of a friend or co-worker.">
+<help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
 <help-toolbar-inviteflow-title "Enter a Co-worker's Email">
 <help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
 
@@ -654,8 +658,11 @@
 <awesome-feature-joinloop-title "Create Loops and Join Branches">
 <awesome-feature-joinloop "Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.">
 
-<awesome-feature-present-title "Distraction-Free Presentation">
-<awesome-feature-present "Use Presentation Mode to present any Coggle in beautiful distraction-free full-screen mode. Collapse and expand branches as you tell your story.">
+<awesome-feature-multiroot-title "Multiple Starting Points">
+<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+
+<awesome-feature-linestyle-title "Control Line Style">
+<awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
 
 <awesome-feature-bigimages-title "Show Them the Big Picture">
 <awesome-feature-bigimages "Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.">

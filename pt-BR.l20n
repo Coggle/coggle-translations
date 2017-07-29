@@ -10,14 +10,17 @@
 
 /* front page content */
 
-<features-collaborate-title "Todos envolvidos">
-<features-collaborate "Muitas vezes, nós trabalhamos melhor em equipes, e as equipes funcionam de forma mais eficaz quando podem colaborar livremente. Coggle permite que você convide seus amigos e colegas para trabalhar com você, ao mesmo tempo, em seus diagramas.">
+<features-realtime "Realtime Collaboration">
+<features-realtime-desc "Muitas vezes, nós trabalhamos melhor em equipes, e as equipes funcionam de forma mais eficaz quando podem colaborar livremente. Coggle permite que você convide seus amigos e colegas para trabalhar com você, ao mesmo tempo, em seus diagramas.">
 
 <features-images-title "Complete a imagem">
 <features-images "Uma imagem vale mais que mil palavras. Coggle permite que você arraste e solte imagens a partir do seu ambiente de trabalho para seus diagramas. Simples assim! O melhor de tudo, não há limite para o número de imagens que você pode adicionar.">
 
-<features-history-title "Volte no tempo">
+<features-fullhistory-title "Save Every Change">
 <features-history "Você fez alterações em um documento, e um dia depois notou que não gostou das edições? Com o Coggle isso não é um problema. Basta entrar no modo de histórico para encontrar a versão correta, e fazer uma cópia a partir desse ponto!">
+
+<features-labels-title "Add Floating Text and Images">
+<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
 
 <features-blame-title "Rastreamento de  responsabilidade">
 <features-blame "Já se perguntou quem fez as alterações naquele documento compartilhado? Bem, com o Coggle você pode olhar através do histórico de seu diagrama para ver quem alterou o quê, e quando! Basta entrar no modo de histórico do diagrama para descobrir.">

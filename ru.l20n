@@ -63,13 +63,13 @@
   <a>Начните сейчас<div>От $8 за участника в месяц</div></a>
 """>
 
-<features-collaborate-title "Позвольте всем принять участие">
-<features-collaborate "Зачастую лучшую продуктивность мы показываем в командах, и команды действуют эффективнее, если они могут свободно сотрудничать. Coggle даёт вам возможность пригласить друзей и коллег к совместной и одновременной работе над вашими диаграммами.">
+<features-realtime "Realtime Collaboration">
+<features-realtime-desc "Зачастую лучшую продуктивность мы показываем в командах, и команды действуют эффективнее, если они могут свободно сотрудничать. Coggle даёт вам возможность пригласить друзей и коллег к совместной и одновременной работе над вашими диаграммами.">
 
 <features-images-title "Завершите картину">
 <features-images "Картина лучше тысячи слов. Coggle позволяет вам перетаскивать изображения на диаграммы прямо с вашего рабочего стола. Так просто! И самое лучшее - никакого лимита на количество изображений, которые вы можете добавить.">
 
-<features-history-title "Путешествуйте назад во времени">
+<features-fullhistory-title "Save Every Change">
 <features-history "Делали ли вы когда-нибудь изменения в документе, чтобы чуть позже понять, что вам они совсем не нравятся? С Coggle это не проблема. Просто войдите в режим истории, чтобы найти нужную версию, и сделайте копию этой версии!">
 
 <features-blame-title "Отслеживайте изменения на уровне аккаунтов">
@@ -105,6 +105,7 @@
 <feature-changes "<b>Полная</b> история изменений">
 <feature-markdown "<b>Разметка</b> - поддержка">
 <feature-downloads "Скачивание в формате <b>PDF или изображений</b>">
+<feature-labels "Unconnected <b>text boxes</b>">
 <feature-exports "Экспортируйте как <b>.mm и текст</b>">
 <feature-imports "Импортируйте <b>.mm и текст</b>">
 <feature-chat "Комментарии и чат">
@@ -116,6 +117,7 @@
 <plans-awesome-price "$5 / месяц">
 <feature-include-free "Все <b>бесплатно</b>">
 <feature-unlimited-private "<b>Безлимитные</b> личные диаграммы">
+<feature-multiroot "<b>Multiple start points</b>">
 <feature-private "<b>Личные диаграммы</b>">
 <feature-chathistory "<b>Полная</b> история чата">
 <feature-rearrange "<b>Авто-расстановка ветвей</b>">
@@ -123,6 +125,7 @@
 <feature-folders "<b>Общие папки</b>">
 <feature-presentation "Режим презентации">
 <feature-bigimages "Можно загружать <b>картинки с высоким разрешением</b>">
+<feature-linestyles "<b>Control line style</b>">
 <feature-extendedcolours "Больше цветов">
 <plans-findoutmore "Узнать больше">
 
@@ -394,6 +397,7 @@
 <comment-on-this "прокомментировать">
 <auto-arrange "расставить">
 <pick-colour "выбрать цвет">
+<choose-style "choose style">
 <delete-branch "удалить ветвь"> /* (удалить объект *и* все его дочерние ветви) */
 <remove-item "удалить объект">
 <copy-branch "скопировать ветвь">
@@ -421,6 +425,7 @@
   Чтобы сохранить время, вы можете приглашать несколько людей за раз: наберите (или вставьте) email адреса, разделяя их пробелами, запятыми<b>,</b> или точками с запятой <b>;</b>
 """>
 <help-toolbar-inviteflow "В Coggle лучше работать с другими - введите email адрес друга или сотрудника.">
+<help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
 <help-toolbar-inviteflow-title "Введите email сотрудника">
 <help-inactive-invite "Работайте с друзьями, чтобы воплотить свои идеи в жизнь!<br>Пригласите по email здесь.">
 
@@ -649,8 +654,11 @@
 <awesome-feature-joinloop-title "Создавайте петли и объединяйте Ветви">
 <awesome-feature-joinloop "Объединяйте Ветви и создавайте петли, чтобы создавать более сильные и гибкие диаграммы, показывающие процесс работы и другие полезные вещи.">
 
-<awesome-feature-present-title "Презентация без задержек">
-<awesome-feature-present "Используйте режим презентации, чтобы показывать любой Coggle в красивом, полноэкранном режиме без случайных нажатий. Свертывайте и развертывайте ветви, по мере того, как вы рассказываете свою историю.">
+<awesome-feature-multiroot-title "Multiple Starting Points">
+<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+
+<awesome-feature-linestyle-title "Control Line Style">
+<awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
 
 <awesome-feature-bigimages-title "Покажите их крупным планом">
 <awesome-feature-bigimages "Добавляйте огромные изображения к вашим Coggle, чтобы иллюстрировать свои идеи: просто перетащите изображение с вашего рабочего стола на документ.">

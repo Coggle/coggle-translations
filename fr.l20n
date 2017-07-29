@@ -50,14 +50,17 @@
   <a>Inscrivez-vous maintenant<div>À partir de 8$ par membre et par mois</div></a>
 """>
 
-<features-collaborate-title "Impliquez tout le monde">
-<features-collaborate "Nous travaillons souvent mieux en équipe, et les équipes opèrent plus efficacement lorsqu'elles peuvent collaborer librement. Coggle vous laisse inviter vos amis et vos collègues à travailler avec vous, en même temps, sur vos diagrammes.">
+<features-realtime "Realtime Collaboration">
+<features-realtime-desc "Nous travaillons souvent mieux en équipe, et les équipes opèrent plus efficacement lorsqu'elles peuvent collaborer librement. Coggle vous laisse inviter vos amis et vos collègues à travailler avec vous, en même temps, sur vos diagrammes.">
 
 <features-images-title "Complétez le tableau">
 <features-images "Une image vaut mieux qu'un millier de mots. Coggle vous laisse déposer vos images directement de votre bureau vers vos diagrammes. C'est aussi simple que ça ! Le gros plus étant qu'il n'y a pas de limite au nombre d'images que vous pouvez ajouter.">
 
-<features-history-title "Retournez dans le passé">
+<features-fullhistory-title "Save Every Change">
 <features-history "Vous avez modifié un document, seulement pour vous apercevoir un jour plus tard que vous n'aimez pas ces changements ? Avec Coggle, ce n'est pas un souci. Entrez simplement dans le mode historique afin de trouver la bonne version, et faites une copie partant de ce point !">
+
+<features-labels-title "Add Floating Text and Images">
+<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
 
 <features-blame-title "Suivez les responsabilités">
 <features-blame "Vous-êtes vous déjà demandé qui avait réalisé ces modifications sur un document partagé ? Avec Coggle, vous pouvez regarder dans l'historique de vos diagrammes pour voir qui a changé ça, et quand ! Entrez juste dans le mode historique de votre diagramme pour le savoir.">
@@ -79,6 +82,7 @@
 <feature-changes "Historique des modifications <b>complet</b>">
 <feature-markdown "Supporte le <b>Markdown</b>">
 <feature-downloads "Téléchargement en format <b>PDF et image</b>">
+<feature-labels "Unconnected <b>text boxes</b>">
 <feature-exports "Exportation en tant que <b>.mm et document texte</b>">
 <feature-imports "Importation en tant que <b>.mm et texte</b>">
 <feature-chat "Commentaires et chat">
@@ -87,12 +91,14 @@
 
 <plans-awesome-title "Awesome">
 <plans-awesome-price "5$ / mois">
-<feature-private "<b>Diagrammes privés</b>">
+<feature-unlimited-private "<b>Unlimited private diagrams</b>">
+<feature-multiroot "<b>Multiple start points</b>">
 <feature-chathistory "Historique de chat <b>complet</b>">
 <feature-rearrange "<b>Auto-arrangement des branches</b>">
 <feature-folders "<b>Dossiers partagés</b>">
 <feature-presentation "Mode présentation">
 <feature-bigimages "Chargement d'<b>images haute résolution</b>">
+<feature-linestyles "<b>Control line style</b>">
 <feature-extendedcolours "Plus de couleurs">
 <plans-findoutmore "En apprendre plus">
 
@@ -321,6 +327,7 @@
 <comment-on-this "commenter">
 <auto-arrange "auto-arranger">
 <pick-colour "choisir une couleur">
+<choose-style "choose style">
 <delete-branch "supprimer la branche"> /* (remove and item *and* all of its children) */
 <remove-item "suppprimer l'objet">
 <copy-branch "copier la branche">
@@ -348,6 +355,7 @@
   Pour gagner du temps, vous pouvez inviter plusieurs personnes d'un coup: rentrez (ou collez) leurs adresses e-mail séparées par des espaces, des virgules<b>,</b> ou des points-virgules<b>;</b>
 """>
 <help-toolbar-inviteflow "Coggle fonctionne mieux avec d'autres personnes - entrez l'adresse e-mail d'un ami ou d'un collègue.">
+<help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
 <help-toolbar-inviteflow-title "Entrer l'adresse e-mail d'un collègue">
 <help-inactive-invite "Travaillez avec vos amis pour mener vos idées à bien !<br>Invitez-les par e-mail ici.">
 
@@ -562,8 +570,14 @@
 <awesome-feature-private-title "Coggles privés illimités">
 <awesome-feature-private "Créez autant de Coggles privés que vous le souhaitez. Si jamais vous annulez votre abonnement, ils resteront privés et vous y garderez accès.">
 
-<awesome-feature-present-title "Présentation sans distractions">
-<awesome-feature-present "Utilisez le mode présentation pour présenter n'importe quel Coggle dans un mode présentation sans distractions en plein écran. Réduisez et développez vos branches à mesure qu'ils racontent votre histoire.">
+<awesome-feature-joinloop-title "Crea bucles y junta las ramas">
+<awesome-feature-joinloop "Une las ramas y crea bucles para hacer diagramas más potentes y flexibles, y así representar los flujos del proceso y otros aspectos más avanzados.">
+
+<awesome-feature-multiroot-title "Multiple Starting Points">
+<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+
+<awesome-feature-linestyle-title "Control Line Style">
+<awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
 
 <awesome-feature-bigimages-title "Montrez-leur le tableau complet">
 <awesome-feature-bigimages "Ajoutez d'énormes images à vos Coggles pour illustrer vos idées : il suffit de faire glisser une image depuis votre bureau vers un document.">

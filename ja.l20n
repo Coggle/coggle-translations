@@ -64,14 +64,17 @@
   <a>サインアップ<div>1メンバー1月$8から</div></a>
 """>
 
-<features-collaborate-title "みんなを巻き込む">
-<features-collaborate "私達はチームで最高の仕事を成し遂げます。そして、自由に共同作業ができるとき、チームはとてもうまく働きます。Coggleを使えば、共同作業をするために友達や同僚を一度にあなたのダイアグラムに招待できます。">
+<features-realtime "Realtime Collaboration">
+<features-realtime-desc "私達はチームで最高の仕事を成し遂げます。そして、自由に共同作業ができるとき、チームはとてもうまく働きます。Coggleを使えば、共同作業をするために友達や同僚を一度にあなたのダイアグラムに招待できます。">
 
 <features-images-title "視覚に訴える">
 <features-images "Coggleではデスクトップ上のイメージをドラッグ・アンド・ドロップでダイアグラムに追加できます。追加できるイメージの数に上限はありません。">
 
-<features-history-title "すぐに戻せる">
+<features-fullhistory-title "Save Every Change">
 <features-history "ダイアグラムに加えた変更履歴を見渡して、戻りたいポイントのコピーを作りましょう。履歴のどのポイントからもコピーが作れます。">
+
+<features-labels-title "Add Floating Text and Images">
+<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
 
 <features-blame-title "誰が加えた変更かを知る">
 <features-blame "ダイアグラムに加えた変更履歴を見渡して、誰がいつ変更したかを知ることができます！ヒストリー・モードにして探すだけです。">
@@ -105,6 +108,7 @@
 <feature-changes "<b>Full</b> change history">
 <feature-markdown "<b>Markdown</b> support">
 <feature-downloads "<b>PDF & Image</b> download">
+<feature-labels "Unconnected <b>text boxes</b>">
 <feature-exports "Export as <b>.mm and text</b>">
 <feature-imports "Import <b>.mm and text</b>">
 <feature-chat "Comments & Chat">
@@ -116,13 +120,14 @@
 <plans-awesome-price "$5 / month">
 <feature-include-free "Everything in <b>Free</b>">
 <feature-unlimited-private "<b>Unlimited</b> private diagrams">
-<feature-private "<b>Private diagrams</b>">
+<feature-multiroot "<b>Multiple start points</b>">
 <feature-chathistory "<b>Full</b> chat history">
 <feature-rearrange "<b>Auto-arrange branches</b>">
 <feature-rejoin "<b>Join Branches</b>">
 <feature-folders "<b>Shared folders</b>">
 <feature-presentation "Presentation mode">
 <feature-bigimages "<b>High-res image</b> uploads">
+<feature-linestyles "<b>Control line style</b>">
 <feature-extendedcolours "More colors">
 <plans-findoutmore "Find out more">
 
@@ -397,6 +402,7 @@
 <comment-on-this "コメントを追加">
 <auto-arrange "自動調整">
 <pick-colour "色を選択">
+<choose-style "choose style">
 <delete-branch "ブランチを削除"> /* (remove and item *and* all of its children) */
 <remove-item "アイテムを削除">
 <copy-branch "ブランチをコピー">
@@ -425,6 +431,7 @@
   時間の節約のために、一度に複数の人を誘うことができます: スペースや、カンマ <b>,</b> セミコロン <b>;</b> で区切ってemailを入力（ペースト）します。
 """>
 <help-toolbar-inviteflow "Coggleは共同作業に最適です。友達や同僚のEmailを入力しましょう。">
+<help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
 <help-toolbar-inviteflow-title "共同作業者のEmailを入力する">
 <help-inactive-invite "友達と一緒に生活を変えるアイディアを実現しましょう！<br>こちらからメールで招待しましょう。">
 
@@ -653,8 +660,11 @@
 <awesome-feature-joinloop-title "ブランチのループや結合をする">
 <awesome-feature-joinloop "ブランチを結合したりループを作ったりして、より力強く柔軟なダイアグラムを作成することで、プロセス・フローなどの高度な表現をすることができます。">
 
-<awesome-feature-present-title "プレゼンに集中する">
-<awesome-feature-present "プレゼンテーション・モードを使って全画面に美しく皆の目を釘付けにするCoggleの画面を表示しましょう。提案の中でブランチを折りたたんだり広げたりしましょう。">
+<awesome-feature-multiroot-title "Multiple Starting Points">
+<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+
+<awesome-feature-linestyle-title "Control Line Style">
+<awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
 
 <awesome-feature-bigimages-title "全体像を提示する">
 <awesome-feature-bigimages "

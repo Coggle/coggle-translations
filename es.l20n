@@ -54,14 +54,17 @@ Estas son algunas de las aplicaciones de Coggle – <a>Empecemos</a> ¡Descubre 
   <a>Regístrate ahora<div> desde $8 al mes por cada miembro</div></a>
 """>
 
-<features-collaborate-title "Implica a todo el mundo">
-<features-collaborate "Invita al mismo tiempo a tus amigos y colegas a trabajar contigo en tus diagramas.">
+<features-realtime "Realtime Collaboration">
+<features-realtime-desc "Invita al mismo tiempo a tus amigos y colegas a trabajar contigo en tus diagramas.">
 
 <features-images-title "Completa la imagen">
 <features-images "Arrastra y suelta las imágenes en tus diagramas directamente desde tu escritorio. No hay un límite de imágenes a añadir.">
 
-<features-history-title "Vuelve atrás en el tiempo">
+<features-fullhistory-title "Save Every Change">
 <features-history "Mira todos los cambios del diagrama y haz una copia desde cualquier punto para volver a la versión previa.">
+
+<features-labels-title "Add Floating Text and Images">
+<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
 
 <features-blame-title "Sigue la contabilidad">
 <features-blame "Mira la historia de tu diagrama para saber cuando alguien cambió algo. Solo tienes que introducir el modo de historia del diagrama para saberlo">
@@ -96,6 +99,7 @@ Estas son algunas de las aplicaciones de Coggle – <a>Empecemos</a> ¡Descubre 
 <feature-changes "<b>lleno</b> cambia la historia">
 <feature-markdown "<b>reducción</b> apoyo">
 <feature-downloads "<b>PDF e imágenes</b> apoyo">
+<feature-labels "Unconnected <b>text boxes</b>">
 <feature-exports "Exporta como <b>.mm y texto</b>">
 <feature-imports "Importa <b>.mm y texto</b>">
 <feature-chat "Comentarios y chat">
@@ -107,6 +111,7 @@ Estas son algunas de las aplicaciones de Coggle – <a>Empecemos</a> ¡Descubre 
 <plans-awesome-price "$5 / al mes">
 <feature-include-free "Todo incluido <b>Gratis</b>">
 <feature-unlimited-private "Diagramas privados <b>Ilimitados</b>">
+<feature-multiroot "<b>Multiple start points</b>">
 <feature-private "<b>Diagramas privados</b>">
 <feature-chathistory "Historial del chat <b>lleno</b> ">
 <feature-rearrange "<b>Ramas auto-organizadas</b>">
@@ -114,6 +119,7 @@ Estas son algunas de las aplicaciones de Coggle – <a>Empecemos</a> ¡Descubre 
 <feature-folders "<b>Compartir carpetas</b>">
 <feature-presentation "Modo presentación">
 <feature-bigimages "<b>Imágenes de alta resolución</b> subidas">
+<feature-linestyles "<b>Control line style</b>">
 <feature-extendedcolours "Más colores">
 <plans-findoutmore "Encuentra más">
 
@@ -371,6 +377,7 @@ Te cobraremos
 <comment-on-this "Comenta en esto">
 <auto-arrange "Auto-organización">
 <pick-colour "Seleccione el color">
+<choose-style "choose style">
 <delete-branch "Elimina la rama"> /* (Saca el ítem *y* todos sus niños) */
 <remove-item "Sacar el ítem">
 <copy-branch "Copiar la rama">
@@ -398,6 +405,7 @@ Te cobraremos
   Para ahorra tiempo puedes invitar múltiple gente a la vez: escribe (o copia) los correos electrónicos separados por espacios, comas<b>,</b> o punto y coma<b>;</b>
 """>
 <help-toolbar-inviteflow "Coggle funciona mejor con más gente- introduce el correo electrónico de algún amigo o compañero de trabajo.">
+<help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
 <help-toolbar-inviteflow-title "Introduce el correo electrónico de un compañero de trabajo">
 <help-inactive-invite "¡Trabaja con amigos para hacer tus ideas realidad!<br>Invítales por correo electrónico aquí.">
 
@@ -626,8 +634,11 @@ Te cobraremos
 <awesome-feature-joinloop-title "Crea bucles y junta las ramas">
 <awesome-feature-joinloop "Une las ramas y crea bucles para hacer diagramas más potentes y flexibles, y así representar los flujos del proceso y otros aspectos más avanzados.">
 
-<awesome-feature-present-title "Presentación libre de distracciones">
-<awesome-feature-present "Utiliza el modo presentación para presentar cualquier Coggle en el modo pantalla completa, bonito y libre de distracciones. Reduce o amplía las ramas según necesites lo que cuentes.">
+<awesome-feature-multiroot-title "Multiple Starting Points">
+<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+
+<awesome-feature-linestyle-title "Control Line Style">
+<awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
 
 <awesome-feature-bigimages-title "Enseña grandes imágenes">
 <awesome-feature-bigimages "Añade grandes imágenes en tus Coggle para ilustrar tus ideas: desde tu escritorio sólo necesitas arrastrarlas y soltarlas en el documento.">
