@@ -16,7 +16,7 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "Der übersichtliche Weg um komplexe Informationen zu teilen.">
+<index-tagline "Die übersichtliche Art und Weise um komplexe Informationen zu teilen.">
 <index-signupnow "Jetzt registrieren.">
 <index-login "Bereits registriert? Hier anmelden.">
 
@@ -25,19 +25,19 @@
 <index-nav-gallery "Gallerie">
 
 <index-unleash "Entfessle deine Kreativität">
-<index-blurb "Erstellen Sie schnell und einfach schöne Notizen. Teilen Sie diese mit Ihren Freunden und Kollegen um gemeinsam an Ideen zu arbeiten">
+<index-blurb "Erstellen Sie schnell und einfach schöne Notizen. Teilen Sie sie mit Ihren Freunden und Kollegen um gemeinsam an Ideen zu arbeiten">
 <index-viewgallery "Oder lassen Sie sich von der <a>Coggle Gallerie</a> inspirieren.">
 
 <index-colab-mindmaps """
   <h1>Kollaborative Mind Maps</h1>
-  <p>Coggle ist ein Online-Tool um Mindmaps zu erstellen und zu teilen. Es muss nichts gedownloaded oder installiert werden, da es online im Browser läuft. <a>Melden Sie sich an</a> um das Mind-Mappen zu beginnen!</p>
+  <p>Coggle ist ein Online-Tool um Mindmaps zu erstellen und teilen. Es muss nichts gedownloaded oder installiert werden, da es online im Browser läuft. <a>Melden Sie sich an</a> um das Mind-Mappen zu beginnen!</p>
   <p>Egal ob Sie Notizen oder ein Brainstorming erfassen, etwas planen oder auch etwas geniales und kreatives tun, Ideen mit Coggle zu visualisieren ist sehr leicht. Teilen Sie Ihre Werke mit so vielen Freunden und Kollegen wie Sie möchten. Alle Änderungen die Sie vornehmen sind sofort weltweit im Browser ersichtlich.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
   <h2>Notizen erfassen</h2>
-  <p>Nutzen Sie Coggle in Meetings, bei Wiederholungen oder wo auch immer die Inspiration gefordert wird um schöne und strukturierte Notizen zu erstellen.</p>
+  <p>Nutzen Sie Coggle in Meetings, bei Wiederholungen oder wo auch immer die Inspiration gefordert ist um schöne und strukturierte Notizen zu erstellen.</p>
 """>
     
 <index-use-brainstorm """
@@ -58,34 +58,34 @@
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From $8 per member per month</div></a>
+  <h2>Helfen Sie Ihrem Team mit <a>Coggle Organisations</a> zu kommunizieren.</h2>
+  <p>Geben Sie Ihrem Team einen gemeinsamen Ort für Brainstorming, Notizen und um Ideen zu dokumentieren. Coggle Organisations besitzt alle von Ihnen benötigten Funktionen um Ihre Daten zu managen und in Ihren Geschäftsworkflow zu integrieren. Lesen Sie <a>hier</a> mehr darüber.</p>
+  <a>Registrieren Sie sich jetzt<div>Ab $8 pro User im Monat</div></a>
 """>
 
-<features-realtime "Realtime Collaboration">
-<features-realtime-desc "Invite your friends and colleagues to work with you, at the same time, on your diagrams.">
+<features-realtime "Echtzeit Kollaboration">
+<features-realtime-desc "Laden Sie Ihre Freunde und Kollegen ein mit Ihnen zur selben Zeit am selben Diagram zu arbeiten.">
 
-<features-images-title "Complete the picture">
-<features-images "Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.">
+<features-images-title "Vervollständigen Sie das Bild">
+<features-images "Fügen Sie Bilder per drag-and-drop direkt vom Desktop in Ihre Diagramme ein. Es gibt kein Limit wieviele Bilder Sie hinzufügen können.">
 
-<features-fullhistory-title "Save Every Change">
-<features-history "Look through all the changes to a diagram and make a copy from any point to revert to a previous version.">
+<features-fullhistory-title "Speichern Sie jede Änderung">
+<features-history "Sehen Sie sich alle Änderungen eines Diagrams an und machen Sie eine Kopie von jedem Punkt um zu einer vorherigen Version zurück zu gelangen.">
 
-<features-labels-title "Add Floating Text and Images">
-<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
+<features-labels-title "Fügen Sie Fliesstext und Bilder hinzu">
+<features-labels "Fügen Sie Textbeschriftungen und Bilder hinzu, die nicht Teil der Diagrammstruktur sind, um Teile Ihres Diagramms mit Anmerkungen zu versehen.
 
-<features-blame-title "Track accountability">
-<features-blame "Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.">
+<features-blame-title "Verantwortlichkeit nachverfolgen">
+<features-blame "Sehen Sie die Änderungshistorie Ihres Diagramms durch um zu sehen wer was und wann geändert hat. Über den Diagrammverlauf-Modus finden Sie es heraus.">
 
-<features-colours-title "Get the colour right">
-<features-colours "Click on a branch to bring up the colour wheel and select the colour you want.">
+<features-colours-title "Nutzen Sie die richtige Farbe">
+<features-colours "Klicken Sie auf einen Zweig um den Farbkreis zu öffnen und die gewünschte Farbe auszuwählen.">
 
-<features-notifications-title "Email Notifications">
-<features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
+<features-notifications-title "E-Mail Benachrichtigung">
+<features-notifications "Erhalten Sie eine E-Mail-Benachrichtigung mit einer Zusammenfassung aller Änderungen wenn ein mit Ihnen geteiltes Diagram von einem Mitarbeiter geändert wurde.">
 
-<features-chat-title "Comments and Chat">
-<features-chat "Add comments to nodes and chat with collaborators without leaving your diagram workspace.">
+<features-chat-title "Kommentare und Chats">
+<features-chat "Fügen Sie Konten Kommentare hinzu und chatten Sie mit Mitarbeitern ohne die Diagramm-Arbeitsfläche zu verlassen.">
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
