@@ -3,7 +3,7 @@
     "/translations/{{ locale }}.l20n"
   ],
   "locales": [
-    "de-DE",
+    "de",
     "en-US",
     "en-GB",
     "en-AU",
