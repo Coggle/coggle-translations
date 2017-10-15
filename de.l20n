@@ -88,10 +88,11 @@
 <features-chat "Fügen Sie Konten Kommentare hinzu und chatten Sie mit Mitarbeitern ohne die Diagramm-Arbeitsfläche zu verlassen.">
 
 
+
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever "Coggle ist zur Verwendung kostenlos und wird immer kostenlos bleiben. Erstellen Sie unlimitiert öffentliche Diagramme und teilen Sie sie kostenlos.">
+ <plans-title-freeforever "Coggle ist zur Verwendung kostenlos und wird immer kostenlos bleiben. Erstellen Sie unlimitiert öffentliche Diagramme und teilen Sie sie kostenlos.">
 
 <plans-free-forever-title "Forever Free">
 <plans-free-description "Ideal um Coggle kennenzulernen und für die gelegentliche Nutzung.">
@@ -169,6 +170,7 @@
 <footer-privacy "privatsphäre">
 <footer-terms "bedingungen">
 <footer-press "presse">
+
 <footer-gdrive "<img/> Google Drive">
 
 
