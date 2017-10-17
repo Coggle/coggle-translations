@@ -16,7 +16,7 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "Der übersichtliche Weg um komplexe Informationen zu teilen.">
+<index-tagline "Die übersichtliche Art und Weise um komplexe Informationen zu teilen.">
 <index-signupnow "Jetzt registrieren.">
 <index-login "Bereits registriert? Hier anmelden.">
 
@@ -25,19 +25,19 @@
 <index-nav-gallery "Gallerie">
 
 <index-unleash "Entfessle deine Kreativität">
-<index-blurb "Erstellen Sie schnell und einfach schöne Notizen. Teilen Sie diese mit Ihren Freunden und Kollegen um gemeinsam an Ideen zu arbeiten">
+<index-blurb "Erstellen Sie schnell und einfach schöne Notizen. Teilen Sie sie mit Ihren Freunden und Kollegen um gemeinsam an Ideen zu arbeiten">
 <index-viewgallery "Oder lassen Sie sich von der <a>Coggle Gallerie</a> inspirieren.">
 
 <index-colab-mindmaps """
   <h1>Kollaborative Mind Maps</h1>
-  <p>Coggle ist ein Online-Tool um Mindmaps zu erstellen und zu teilen. Es muss nichts gedownloaded oder installiert werden, da es online im Browser läuft. <a>Melden Sie sich an</a> um das Mind-Mappen zu beginnen!</p>
+  <p>Coggle ist ein Online-Tool um Mindmaps zu erstellen und teilen. Es muss nichts gedownloaded oder installiert werden, da es online im Browser läuft. <a>Melden Sie sich an</a> um das Mind-Mappen zu beginnen!</p>
   <p>Egal ob Sie Notizen oder ein Brainstorming erfassen, etwas planen oder auch etwas geniales und kreatives tun, Ideen mit Coggle zu visualisieren ist sehr leicht. Teilen Sie Ihre Werke mit so vielen Freunden und Kollegen wie Sie möchten. Alle Änderungen die Sie vornehmen sind sofort weltweit im Browser ersichtlich.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
   <h2>Notizen erfassen</h2>
-  <p>Nutzen Sie Coggle in Meetings, bei Wiederholungen oder wo auch immer die Inspiration gefordert wird um schöne und strukturierte Notizen zu erstellen.</p>
+  <p>Nutzen Sie Coggle in Meetings, bei Wiederholungen oder wo auch immer die Inspiration gefordert ist um schöne und strukturierte Notizen zu erstellen.</p>
 """>
     
 <index-use-brainstorm """
@@ -58,117 +58,119 @@
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From $8 per member per month</div></a>
+  <h2>Helfen Sie Ihrem Team mit <a>Coggle Organisations</a> zu kommunizieren.</h2>
+  <p>Geben Sie Ihrem Team einen gemeinsamen Ort für Brainstorming, Notizen und um Ideen zu dokumentieren. Coggle Organisations besitzt alle von Ihnen benötigten Funktionen um Ihre Daten zu managen und in Ihren Geschäftsworkflow zu integrieren. Lesen Sie <a>hier</a> mehr darüber.</p>
+  <a>Registrieren Sie sich jetzt<div>Ab $8 pro User im Monat</div></a>
 """>
 
-<features-realtime "Realtime Collaboration">
-<features-realtime-desc "Invite your friends and colleagues to work with you, at the same time, on your diagrams.">
+<features-realtime "Echtzeit Kollaboration">
+<features-realtime-desc "Laden Sie Ihre Freunde und Kollegen ein mit Ihnen zur selben Zeit am selben Diagram zu arbeiten.">
 
-<features-images-title "Complete the picture">
-<features-images "Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.">
+<features-images-title "Vervollständigen Sie das Bild">
+<features-images "Fügen Sie Bilder per drag-and-drop direkt vom Desktop in Ihre Diagramme ein. Es gibt kein Limit wieviele Bilder Sie hinzufügen können.">
 
-<features-fullhistory-title "Save Every Change">
-<features-history "Look through all the changes to a diagram and make a copy from any point to revert to a previous version.">
+<features-fullhistory-title "Speichern Sie jede Änderung">
+<features-history "Sehen Sie sich alle Änderungen eines Diagrams an und machen Sie eine Kopie von jedem Punkt um zu einer vorherigen Version zurück zu gelangen.">
 
-<features-labels-title "Add Floating Text and Images">
-<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
+<features-labels-title "Fügen Sie Fliesstext und Bilder hinzu">
+<features-labels "Fügen Sie Textbeschriftungen und Bilder hinzu, die nicht Teil der Diagrammstruktur sind, um Teile Ihres Diagramms mit Anmerkungen zu versehen.
 
-<features-blame-title "Track accountability">
-<features-blame "Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.">
+<features-blame-title "Verantwortlichkeit nachverfolgen">
+<features-blame "Sehen Sie die Änderungshistorie Ihres Diagramms durch um zu sehen wer was und wann geändert hat. Über den Diagrammverlauf-Modus finden Sie es heraus.">
 
-<features-colours-title "Get the colour right">
-<features-colours "Click on a branch to bring up the colour wheel and select the colour you want.">
+<features-colours-title "Nutzen Sie die richtige Farbe">
+<features-colours "Klicken Sie auf einen Zweig um den Farbkreis zu öffnen und die gewünschte Farbe auszuwählen.">
 
-<features-notifications-title "Email Notifications">
-<features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
+<features-notifications-title "E-Mail Benachrichtigung">
+<features-notifications "Erhalten Sie eine E-Mail-Benachrichtigung mit einer Zusammenfassung aller Änderungen wenn ein mit Ihnen geteiltes Diagram von einem Mitarbeiter geändert wurde.">
 
-<features-chat-title "Comments and Chat">
-<features-chat "Add comments to nodes and chat with collaborators without leaving your diagram workspace.">
+<features-chat-title "Kommentare und Chats">
+<features-chat "Fügen Sie Konten Kommentare hinzu und chatten Sie mit Mitarbeitern ohne die Diagramm-Arbeitsfläche zu verlassen.">
+
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever "Coggle is free to use, and always will be. Create unlimited public diagrams and share them for free.">
+ <plans-title-freeforever "Coggle ist zur Verwendung kostenlos und wird immer kostenlos bleiben. Erstellen Sie unlimitiert öffentliche Diagramme und teilen Sie sie kostenlos.">
 
-<plans-free-forever-title "Free Forever">
-<plans-free-description "Ideal for discovering Coggle and occasional use.">
-<plans-free-price "Free forever">
-<feature-free-private "<b>1</b> private diagram">
-<feature-realtime "<b>Real-time</b> collaboration">
-<feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
-<feature-diagrams "<b>Unlimited</b> public diagrams">
+<plans-free-forever-title "Forever Free">
+<plans-free-description "Ideal um Coggle kennenzulernen und für die gelegentliche Nutzung.">
+<plans-free-price "Für immer kostenlos">
+<feature-free-private "<b>1</b> privates Diagramm">
+<feature-realtime "<b>Echtzeit</b> Kollaboration">
+<feature-emoji "Über <b>1600</b> <a>schöne Icons</a>">
+<feature-diagrams "<b>Unlimitierte</b> öffentliche Diagramme">
 <feature-nprivate[$privateDiagrams.available] {
-       1: "1 private diagram",
-   *many: "{{ $privateDiagrams.available }} private diagrams"
+       1: "1 privates Diagramm",
+   *many: "{{ $privateDiagrams.available }} private Diagramme"
 }>
-<feature-images "<b>Unlimited</b> image uploads">
-<feature-changes "<b>Full</b> change history">
-<feature-markdown "<b>Markdown</b> support">
-<feature-downloads "<b>PDF & Image</b> download">
-<feature-labels "Unconnected <b>text boxes</b>">
-<feature-exports "Export as <b>.mm and text</b>">
-<feature-imports "Import <b>.mm and text</b>">
-<feature-chat "Comments & Chat">
-<feature-embed "Embeddable diagrams">
-<plans-free-getstarted "Get Started">
+<feature-images "<b>Unlimitierte</b> Bild-Uploads">
+<feature-changes "<b>Volle</b> Änderungshistorie">
+<feature-markdown "<b>Markdown</b> Support">
+<feature-downloads "<b>PDF & Bilder</b> Download">
+<feature-labels "Unverbundene <b>Text-Boxen</b>">
+<feature-exports "Export als <b>.mm und Text</b>">
+<feature-imports "Import <b>.mm und Text</b>">
+<feature-chat "Kommentare & Chat">
+<feature-embed "Einbettbare Diagramme">
+<plans-free-getstarted "Los geht's">
 
 <plans-awesome-title "Awesome">
-<plans-awesome-description "Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.">
-<plans-awesome-price "$5 / month">
-<feature-include-free "Everything in <b>Free</b>">
-<feature-unlimited-private "<b>Unlimited</b> private diagrams">
-<feature-multiroot "<b>Multiple start points</b>">
-<feature-private "<b>Private diagrams</b>">
-<feature-chathistory "<b>Full</b> chat history">
-<feature-rearrange "<b>Auto-arrange branches</b>">
-<feature-rejoin "<b>Join Branches</b>">
-<feature-folders "<b>Shared folders</b>">
-<feature-presentation "Presentation mode">
-<feature-bigimages "<b>High-res image</b> uploads">
-<feature-linestyles "<b>Control line style</b>">
-<feature-extendedcolours "More colours">
-<plans-findoutmore "Find out more">
+<plans-awesome-description "Ideal für den <b>persönlichen</b> oder <b>professionellen</b> Gebrauch, mit privaten und erweiterten Funktionen.">
+<plans-awesome-price "$5 / Monat">
+<feature-include-free "Alles in <b>Free</b>">
+<feature-unlimited-private "<b>Unlimitierte</b> private Diagramme">
+<feature-multiroot "<b>Mehrere Start-Punkte</b>">
+<feature-private "<b>Private Diagramme</b>">
+<feature-chathistory "<b>Vollen</b> Chat-Verlauf">
+<feature-rearrange "<b>Automatisiertes Anordnen der Zweige</b>">
+<feature-rejoin "<b>Zweige zusammenführen</b>">
+<feature-folders "<b>Geteilte Ordner</b>">
+<feature-presentation "Präsentationsmodus">
+<feature-bigimages "<b>Hochauflösende Bilder</b> uploaden">
+<feature-linestyles "<b>Steuerlinienstil</b>">
+<feature-extendedcolours "Mehr Farben">
+<plans-findoutmore "Erfahren Sie mehr darüber">
 
 <plans-org-title "Organisation">
-<plans-org-description "Ideal for <b>teams</b> that want to control access to their data and consolidate billing.">
-<plans-org-price "$8 / member / month">
-<feature-org-awesome "Everything from <b>Awesome</b>">
-<feature-org-separate "Separate Personal workspace">
-<feature-org-billing "Consolidated billing">
-<feature-bulkexport "<b>Bulk export</b>">
-<feature-adminpanel "<b>User & data</b> management">
-<feature-branding "Branded diagrams">
+<plans-org-description "Ideal für <b>Teams</b>, die den Zugriff auf ihre Daten kontrollieren und die Abrechnung konsolidieren möchten.">
+<plans-org-price "$8 / User / Monat">
+<feature-org-awesome "Alles in <b>Awesome</b>">
+<feature-org-separate "Separate persönliche Arbeitsumgebungen">
+<feature-org-billing "Abrechnung konsolidieren">
+<feature-bulkexport "<b>Bulk-Export</b>">
+<feature-adminpanel "<b>User & Daten</b> Management">
+<feature-branding "Diagramme mit Branding">
 
-<plans-select "Select">
-<continue-free "Continue on <b>Free</b> plan">
-<current-plan "Your current plan">
+<plans-select "Auswahl">
+<continue-free "Mit dem <b>kostenlosen</b> Plan fortfahren.">
+<current-plan "Ihr aktueller Plan">
 <cancel-subscription "Cancel Subscription">
-<awesome-signup-monthly "Sign up <span>$5</span> per month">
-<awesome-signup-yearly "Sign up <span>$50</span> per year">
-<awesome-upgrade-monthly "Upgrade (<b>$5</b>/month)">
-<awesome-upgrade-yearly "Upgrade (<b>$50</b>/year)">
-<product-purchase "PURCHASE">
-<yearly-discount "Pay yearly and get 2 months free!">
-<yearly-discount-percent "Pay yearly and save over 15%">
-<switch-yearly "Upgrade to Yearly">
-<manage-subscription "Manage Subscription">
+<awesome-signup-monthly "Registrieren <span>$5</span> im Monat">
+<awesome-signup-yearly "Registrieren <span>$50</span> im Jahr">
+<awesome-upgrade-monthly "Upgrade (<b>$5</b>/Monat)">
+<awesome-upgrade-yearly "Upgrade (<b>$50</b>/Jahr)">
+<product-purchase "KAUFEN">
+<yearly-discount "Jährlich zahlen und 2 Monate kostenlos bekommen!">
+<yearly-discount-percent "Jährlich zahlen und über 15% sparen">
+<switch-yearly "Upgrade auf Jährlich">
+<manage-subscription "Abo verwalten">
 
-<per-month "per month">
-<per-member-per-month "per member per month">
+<per-month "pro Monat">
+<per-member-per-month "pro User im Monat">
 
 <awesome-feature "Awesome Plan">
-<org-feature "Organisation Feature">
+<org-feature "Organisation Funktion">
 
-<footer-about "about">
-<footer-contact "contact">
+<footer-about "über">
+<footer-contact "kontakt">
 <footer-facebook "facebook">
 <footer-twitter "twitter">
-<footer-privacy "privacy">
-<footer-terms "terms">
-<footer-press "press">
+<footer-privacy "privatsphäre">
+<footer-terms "bedingungen">
+<footer-press "presse">
+
 <footer-gdrive "<img/> Google Drive">
 
 
