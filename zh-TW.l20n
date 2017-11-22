@@ -20,9 +20,9 @@
 <index-signupnow "立即註冊">
 <index-login "已經註冊了？在這裡登錄。">
 
-<index-nav-pricing "Pricing">
-<index-nav-features "Features">
-<index-nav-gallery "Gallery">
+<index-nav-pricing "會員">
+<index-nav-features "功能">
+<index-nav-gallery "Coggle 畫廊">
 
 <index-unleash "發揮你的創造力">
 <index-blurb "製作精美的筆記，方便快捷。與朋友和同事分享，協同提升你的創意。完全免費！">
@@ -58,54 +58,54 @@
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>幫助你的團隊溝通，使用<a> Coggle組織</a>.</h2>
-  <p>給你的團隊集思廣益的共享空間，記錄和記載他們的想法。 Coggle組織具有你所需要的所有功能，管理控制你的數據，並與你的業務流程整合。閱讀更多<a>here</a>.</p>
+  <h2>幫助你的團隊溝通，使用<a> Coggle組織</a>。</h2>
+  <p>給你的團隊集思廣益的共享空間，記錄和記載他們的想法。 Coggle組織具有你所需要的所有功能，管理控制你的數據，並與你的業務流程整合。<a>按這裡</a>閱讀更多。</p>
   <a>立即註冊<div>從每位會員每月$ 8起</div></a>
 """>
 
-<features-realtime "Realtime Collaboration">
-<features-realtime-desc "通常我們以團隊工作最出色，當團隊自由協作時最有效， Coggle讓你邀請你的朋友和同事在你的圖表裡同一時間與你攜手工作.">
+<features-realtime "實時協作">
+<features-realtime-desc "通常我們以團隊工作最出色，當團隊自由協作時最有效， Coggle讓你邀請你的朋友和同事在你的圖表裡同一時間與你攜手工作。">
 
 <features-images-title "完成圖片">
-<features-images "一張圖片勝過千言萬語。 Coggle讓你直接從桌面上拖放圖像到你的圖表。就那麼簡單! 最好的莫過於，你可以添加圖片的數量沒有限制.">
+<features-images "一張圖片勝過千言萬語。 Coggle讓你直接從桌面上拖放圖像到你的圖表。就那麼簡單! 最好的莫過於，你可以添加圖片的數量沒有限制。">
 
-<features-fullhistory-title "Save Every Change">
+<features-fullhistory-title "保存每一個修改">
 <features-history "你已經修改了文件，一天后回來決定你不喜歡所做的編輯？有了Coggle，這不是一個問題。只需進入歷史模式，找到合適的版本，並從該點做個副本!">
 
 <features-blame-title "跟踪問責">
-<features-blame "有沒有想過是誰對那個共享文檔做了那些更改？有了Coggle，你可以看看你圖表的歷史，是誰和什麼時候做了那些更改！只要進入圖表歷史模式即可找出.">
+<features-blame "有沒有想過是誰對那個共享文檔做了那些更改？有了Coggle，你可以看看你圖表的歷史，是誰和什麼時候做了那些更改！只要進入圖表歷史模式即可找出。">
 
 <features-colours-title "獲得正確的色彩">
-<features-colours "你是一個視覺思考著嗎？你通過佈局和顏色學習嗎？好吧，確保你的主題獲得正確的顏色，只需點擊一個分支，彈出色輪，並選擇你想要的顏色.">
+<features-colours "你是一個視覺思考著嗎？你通過佈局和顏色學習嗎？好吧，確保你的主題獲得正確的顏色，只需點擊一個分支，彈出色輪，並選擇你想要的顏色。">
 
-<features-notifications-title "Email Notifications">
-<features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
+<features-notifications-title "電郵通知">
+<features-notifications "當團隊其他人編輯與您共享的圖表時，您能獲取電郵通知有關編輯摘要。">
 
-<features-chat-title "Comments and Chat">
-<features-chat "Add comments to nodes and chat with collaborators without leaving your diagram workspace.">
+<features-chat-title "留言和討論">
+<features-chat "不必離開coggle便能與團隊討論圖表，和在每一個點上添加留言。">
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever "Coggle 永遠都能免費使用。繪製無限的公開圖表，並免費分享。">
+<plans-title-freeforever "Coggle永遠都能免費使用。繪製無限的公開圖表，並免費分享。">
 
-<plans-free-forever-title "Free Forever">
-<plans-free-description "Ideal for discovering Coggle and occasional use.">
-<plans-free-price "Free forever">
-<feature-free-private "<b>1</b> private diagram">
-<feature-realtime "<b>實時</b> 協作">
-<feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
-<feature-diagrams "<b>無限的</b> 公共圖表">
+<plans-free-forever-title "免費會員">
+<plans-free-description "體驗Coggle和一般使用的理想選擇">
+<plans-free-price "永久免費">
+<feature-free-private "<b>一個</b>私人圖表">
+<feature-realtime "<b>實時</b>協作">
+<feature-emoji "超過<b>1600</b><a>漂亮圖案</a>">
+<feature-diagrams "<b>無限</b>公共圖表">
 <feature-nprivate[$privateDiagrams.available] {
-       1: "1 private diagram",
-   *many: "{{ $privateDiagrams.available }} private diagrams"
+       1: "一個私人圖表",
+   *many: "{{ $privateDiagrams.available }}個私人圖表"
 }>
-<feature-images "<b>無限的</b> 圖片上傳">
-<feature-changes "<b>完整的</b> 更改歷史記錄">
-<feature-markdown "<b>Markdown</b> 支持">
+<feature-images "<b>無限的</b>圖片上傳">
+<feature-changes "<b>完整的</b>更改歷史記錄">
+<feature-markdown "<b>Markdown</b>支持">
 <feature-downloads "<b>PDF和圖像</b> 下載">
-<feature-labels "Unconnected <b>text boxes</b>">
+<feature-labels "漂浮的<b>文本框</b>">
 <feature-exports "匯出 <b>.mm 和文字</b>">
 <feature-imports "匯入 <b>.mm 和文字</b>">
 <feature-chat "評論和聊天">
@@ -113,51 +113,51 @@
 <plans-free-getstarted "開始">
 
 <plans-awesome-title "好棒棒會員">
-<plans-awesome-description "Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.">
-<plans-awesome-price "$5 / 每月">
-<feature-include-free "Everything in <b>Free</b>">
-<feature-unlimited-private "<b>Unlimited</b> private diagrams">
-<feature-multiroot "<b>Multiple start points</b>">
+<plans-awesome-description "<b>個人</b>或<b>專業</b>使用的理想選擇，有較大隱私和先進的功能">
+<plans-awesome-price "每月$5美元">
+<feature-include-free "<b>免費版本</b>的所有功能">
+<feature-unlimited-private "<b>無限</b>私人圖表">
+<feature-multiroot "<b>多個起點</b>">
 <feature-private "<b>私人圖表</b>">
-<feature-chathistory "<b>全部</b> 聊天歷史">
+<feature-chathistory "<b>全部</b>聊天歷史">
 <feature-rearrange "<b>自動排列分支</b>">
-<feature-rejoin "<b>Join Branches</b>">
+<feature-rejoin "<b>連接分支</b>">
 <feature-folders "<b>共享文件夾</b>">
-<feature-presentation " 演示模式 ">
-<feature-bigimages "<b>高分辨率圖像</b> 上傳">
-<feature-linestyles "<b>Control line style</b>">
-<feature-extendedcolours " 更多顏色 ">
+<feature-presentation "演示模式">
+<feature-bigimages "<b>高分辨率圖像</b>上傳">
+<feature-linestyles "<b>更改線條樣式</b>">
+<feature-extendedcolours "更多顏色">
 <plans-findoutmore "了解更多">
 
-<plans-org-title "組織">
-<plans-org-description "Ideal for <b>teams</b> that want to control access to their data and consolidate billing.">
-<plans-org-price "$8 / 每人每月">
-<feature-org-awesome "Everything from <b>Awesome</b>">
-<feature-org-separate "Separate Personal workspace">
-<feature-org-billing "Consolidated billing">
+<plans-org-title "組織會員">
+<plans-org-description "<b>團隊</b>使用的理想選擇， 管理員能控制團隊權限，並合併收費。">
+<plans-org-price "每人每月$8美元">
+<feature-org-awesome "<b>超級會員</b>的所有功能">
+<feature-org-separate "每人獨立工作區">
+<feature-org-billing "合併收費">
 <feature-bulkexport "<b>批量匯出</b>">
-<feature-adminpanel "<b>用戶和數據</b> 管理">
+<feature-adminpanel "<b>用戶和數據</b>管理">
 <feature-branding "品牌圖表">
 
 <plans-select "選擇">
-<continue-free "繼續<b>免費會員</b>方案">
+<continue-free "繼續<b>免費會員</b>計劃">
 <current-plan "你當前的方案">
 <cancel-subscription "取消訂閱">
-<awesome-signup-monthly "註冊 <span>$5</span> 每月">
-<awesome-signup-yearly "註冊 <span>$50</span> 每年">
-<awesome-upgrade-monthly "Upgrade (<b>$5</b>/month)">
-<awesome-upgrade-yearly "Upgrade (<b>$50</b>/year)">
-<product-purchase "PURCHASE">
+<awesome-signup-monthly "註冊 每月<span>$5美元</span> ">
+<awesome-signup-yearly "註冊 每年<span>$50美元</span>">
+<awesome-upgrade-monthly "升級 (每月<b>$5美元</b>)">
+<awesome-upgrade-yearly "升級 (每年<b>$50美元</b>)">
+<product-purchase "購買">
 <yearly-discount "支付全年並獲2個月免費!">
 <yearly-discount-percent "支付全年節省超過15％">
 <switch-yearly "升級到每年">
-<manage-subscription "Manage Subscription">
+<manage-subscription "管理會員計劃">
 
-<per-month "per month">
-<per-member-per-month "per member per month">
+<per-month "每月">
+<per-member-per-month "每人每月">
 
-<awesome-feature "Awesome Plan">
-<org-feature "Organisation Feature">
+<awesome-feature "好棒棒會員">
+<org-feature "組織會員功能">
 
 <footer-about "關於">
 <footer-contact "聯繫">
@@ -166,7 +166,7 @@
 <footer-privacy "隱私">
 <footer-terms "條款">
 <footer-press "新聞報導">
-<footer-gdrive "<img/> 谷歌驅動器">
+<footer-gdrive "<img/>谷歌驅動器">
 
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in
@@ -175,7 +175,7 @@
 <search-diagrams placeholder:"搜索你的圖表.">
 <view-gallery "畫廊">
 <create-folder "創建文件夾">
-<shared-folders "Shared Folders">
+<shared-folders "共享文件夾">
 <created-by-you value:"由你創建">
 <shared-with-you value:"與你分享">
 <folder-title placeholder:"輸入文件夾名稱">
@@ -184,23 +184,23 @@
 <settings "設置">
 <return-to-diagrams "返回到你的圖表">
 <upgrade-to-awesome "升級為好棒棒會員！">
-<awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
-<awesome-trial-after "Then you'll be moved onto the free plan">
+<awesome-time-remaining "好棒棒會員試用到期<time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<awesome-trial-after "你現在變為免費會員">
 <want-awesome-for-free "希望免費獲得好棒棒會員的資格嗎？">
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
 <help-search placeholder:"我想問...">
-<my-settings "My Settings & Billing">
-<org-name-settings "{{ $orgName }} Settings">
-<org-settings title:"Manage Organisation">
-<user-about "About Coggle">
-<user-contact "Contact Us">
-<user-privacy "Privacy Policy">
-<user-terms "Terms and Conditions">
-<user-link-drive "Link Google Drive">
-<diagrams-limited "<span> {{ $privateDiagrams.used }} of {{ $privateDiagrams.available }}</span> private diagrams used">
-<diagrams-unlimited "<span>Unlimited</span> private diagrams">
+<my-settings "我的設置和帳單">
+<org-name-settings "{{ $orgName }}設置">
+<org-settings title:"管理組織">
+<user-about "有關Coggle">
+<user-contact "聯繫我們">
+<user-privacy "隱私政策">
+<user-terms "條款和條件">
+<user-link-drive "鏈接Google雲端硬盤">
+<diagrams-limited "<span>使用了{{ $privateDiagrams.avaliable }}個中的{{ $privateDiagrams.used }}個</span>私人圖表">
+<diagrams-unlimited "<span>無限</span>私人圖表">
 
-<limitedaccess "你有有限的訪問權限{{ $resourceName }} 因為你不是一個成員">
+<limitedaccess "你的訪問權限有限{{ $resourceName }} 因為你不是一個會員">
 <doclist-create """
     <b>歡迎來到Coggle!</b> – 你創建的圖表將在這裡列出.
     <div><a>創建圖表</a></div>
@@ -221,7 +221,7 @@
 <tooltip-duplicate title:" 創建一個副本">
 <tooltip-remove title:" 刪除圖表">
 <tooltip-restore title:" 恢復圖表">
-<tooltip-more title:"Diagram options">
+<tooltip-more title:"圖表選項">
 
 /* documents list contextual help items */
 <help-searchcoggle-title "搜索Coggle ">
@@ -262,7 +262,7 @@
 
 <billingPeriod {
           *permonth: "每月",
-  permemberpermonth: "每個成員每月",
+  permemberpermonth: "每人每月",
             peryear: "每年"
 }>
 
