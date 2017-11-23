@@ -20,9 +20,11 @@
 <index-signupnow "立即註冊">
 <index-login "已經註冊了？在這裡登錄。">
 
+<index-nav-login "登錄">
 <index-nav-pricing "會員">
 <index-nav-features "功能">
 <index-nav-gallery "Coggle 畫廊">
+<index-nav-home "主頁">
 
 <index-unleash "發揮你的創造力">
 <index-blurb "製作精美的筆記，方便快捷。與朋友和同事分享，協同提升你的創意。完全免費！">
@@ -66,14 +68,26 @@
 <features-realtime "實時協作">
 <features-realtime-desc "通常我們以團隊工作最出色，當團隊自由協作時最有效， Coggle讓你邀請你的朋友和同事在你的圖表裡同一時間與你攜手工作。">
 
-<features-images-title "完成圖片">
+<features-unlimited-images-title "無限圖片上傳">
 <features-images "一張圖片勝過千言萬語。 Coggle讓你直接從桌面上拖放圖像到你的圖表。就那麼簡單! 最好的莫過於，你可以添加圖片的數量沒有限制。">
 
 <features-fullhistory-title "保存每一個修改">
 <features-history "你已經修改了文件，一天后回來決定你不喜歡所做的編輯？有了Coggle，這不是一個問題。只需進入歷史模式，找到合適的版本，並從該點做個副本!">
 
+<features-labels-title "浮動標籤和圖像">
+<features-labels "在不屬於心智圖分枝的部分添加標籤和圖像。">
+
+<awesome-feature-joinloop-title "組成環圈和連接分支">
+<awesome-feature-joinloop "創造更強大和靈活的圖表來表示流程和其他複雜概念。">
+
+<awesome-feature-editablelinks-title "匿名協作">
+<awesome-feature-editablelinks "分享秘密鏈接以允許團隊不需要登錄便可以編輯圖表。 。">
+
 <features-blame-title "跟踪問責">
 <features-blame "有沒有想過是誰對那個共享文檔做了那些更改？有了Coggle，你可以看看你圖表的歷史，是誰和什麼時候做了那些更改！只要進入圖表歷史模式即可找出。">
+
+<awesome-feature-multiroot-title "多個中央點">
+<awesome-feature-multiroot "將多個中央點添加到您的圖表，以在同一圖表中表達多個相關主題。">
 
 <features-colours-title "獲得正確的色彩">
 <features-colours "你是一個視覺思考著嗎？你通過佈局和顏色學習嗎？好吧，確保你的主題獲得正確的顏色，只需點擊一個分支，彈出色輪，並選擇你想要的顏色。">
@@ -90,7 +104,7 @@
  */
 <plans-title-freeforever "Coggle永遠都能免費使用。繪製無限的公開圖表，並免費分享。">
 
-<plans-free-forever-title "免費會員">
+<plans-free-title "免費會員">
 <plans-free-description "體驗Coggle和一般使用的理想選擇">
 <plans-free-price "永久免費">
 <feature-free-private "<b>一個</b>私人圖表">
@@ -115,9 +129,9 @@
 <plans-awesome-title "好棒棒會員">
 <plans-awesome-description "<b>個人</b>或<b>專業</b>使用的理想選擇，有較大隱私和先進的功能">
 <plans-awesome-price "每月$5美元">
-<feature-include-free "<b>免費版本</b>的所有功能">
+<feature-include-free "<b>免費會員</b>的所有功能">
 <feature-unlimited-private "<b>無限</b>私人圖表">
-<feature-multiroot "<b>多個起點</b>">
+<feature-multiroot "<b>多個中央點</b>">
 <feature-private "<b>私人圖表</b>">
 <feature-chathistory "<b>全部</b>聊天歷史">
 <feature-rearrange "<b>自動排列分支</b>">
@@ -127,18 +141,19 @@
 <feature-bigimages "<b>高分辨率圖像</b>上傳">
 <feature-linestyles "<b>更改線條樣式</b>">
 <feature-extendedcolours "更多顏色">
+<feature-editable-links "通過<b>鏈接</b>進行協作">
 <plans-findoutmore "了解更多">
 
 <plans-org-title "組織會員">
 <plans-org-description "<b>團隊</b>使用的理想選擇， 管理員能控制團隊權限，並合併收費。">
 <plans-org-price "每人每月$8美元">
-<feature-org-awesome "<b>超級會員</b>的所有功能">
+<feature-org-awesome "<b>好棒棒會員</b>的所有功能">
 <feature-org-separate "每人獨立工作區">
 <feature-org-billing "合併收費">
 <feature-bulkexport "<b>批量匯出</b>">
 <feature-adminpanel "<b>用戶和數據</b>管理">
 <feature-branding "品牌圖表">
-
+<feature-org-saml-sso "SAML單點登錄">
 <plans-select "選擇">
 <continue-free "繼續<b>免費會員</b>計劃">
 <current-plan "你當前的方案">
@@ -167,7 +182,8 @@
 <footer-terms "條款">
 <footer-press "新聞報導">
 <footer-gdrive "<img/>谷歌驅動器">
-
+<footer-what-is-mindmapping "什麼是心智圖？">
+<footer-top-uses "常見的心智圖用例">
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in
 */
@@ -185,7 +201,7 @@
 <return-to-diagrams "返回到你的圖表">
 <upgrade-to-awesome "升級為好棒棒會員！">
 <awesome-time-remaining "好棒棒會員試用到期<time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
-<awesome-trial-after "你現在變為免費會員">
+<awesome-trial-after "然後您將會回復為免費會員">
 <want-awesome-for-free "希望免費獲得好棒棒會員的資格嗎？">
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
 <help-search placeholder:"我想問...">
@@ -246,7 +262,9 @@
 <settings-billing-title "帳單和發票">
 <settings-recommend-title "推薦">
 <settings-emails-title "通訊">
-<settings-language-title "語言設定">
+<settings-language-title "語言">
+<settings-communication-title "通訊">
+<settings-account-title "關閉賬戶">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
@@ -458,11 +476,12 @@
 
 
 
-<messages-title "Messages">
+<messages-title "討論">
 <messages-search placeholder:" 搜索">
 <messages-entry placeholder:" 輸入消息。使用@標記人。按[Enter]發送.">
 <messages-start "你已經達到了啟動!">
 <messages-upgrade "需要2週以上的歷史？了解如何升級到<a>真棒</a> 要得到完整的歷史.">
+<messages-comments-notes "輸入評論，討論和筆記。">
 
 <diagram-toolbar-history title:" 查看和復制以前的版本.">
 <diagram-toolbar-messages title:" 評論和聊天.">
@@ -548,6 +567,7 @@
    linux: "ctrl"
  }
 >
+<sidebar-bgmenu2 "在任何地方單擊右鍵，便能<b>縮放</b>，添加<b>標籤</b>，<b>還原</b>和<b>粘貼已複製的項目</b>。">
 <sidebar-contextmenu "上下文菜單">
 <sidebar-clickformenu "右鍵點擊一個項目或背景以訪問菜單.">
 <sidebar-tapformenu "點擊一個項目或背景以訪問菜單.">
@@ -625,11 +645,13 @@
 <markdown-checkbox "<code>- [X]</code> 建立一個 <input/> 核取方塊">
 <markdown-code "<code>`文字`</code> 使用一個<code>固定寬度</code> 字形">
 
-<button-bold title:"Make text bold">
-<button-italic title:"Make text italic">
-<button-link title:"Link to a website">
-<button-image title:"Upload an image">
-<button-emoji title:"Search for icons.">
+<markdown-icons "">
+
+<button-bold title:"加粗文字">
+<button-italic title:"斜體文字">
+<button-link title:"鏈接到一個網站">
+<button-image title:"上傳圖片">
+<button-emoji title:"搜索圖標">
 
 /* diagram not-found page */
 <nodiagram-title "未發現圖表!">
