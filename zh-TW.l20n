@@ -62,7 +62,7 @@
   <a><img></a>
   <h2>幫助你的團隊溝通，使用<a> Coggle組織</a>。</h2>
   <p>給你的團隊集思廣益的共享空間，記錄和記載他們的想法。 Coggle組織具有你所需要的所有功能，管理控制你的數據，並與你的業務流程整合。<a>按這裡</a>閱讀更多。</p>
-  <a>立即註冊<div>從每位會員每月$ 8起</div></a>
+  <a>立即註冊<div>從每位會員每月$8起</div></a>
 """>
 
 <features-realtime "實時協作">
@@ -76,12 +76,6 @@
 
 <features-labels-title "浮動標籤和圖像">
 <features-labels "在不屬於心智圖分枝的部分添加標籤和圖像。">
-
-<awesome-feature-joinloop-title "組成環圈和連接分支">
-<awesome-feature-joinloop "創造更強大和靈活的圖表來表示流程和其他複雜概念。">
-
-<awesome-feature-editablelinks-title "匿名協作">
-<awesome-feature-editablelinks "分享秘密鏈接以允許團隊不需要登錄便可以編輯圖表。 。">
 
 <features-blame-title "跟踪問責">
 <features-blame "有沒有想過是誰對那個共享文檔做了那些更改？有了Coggle，你可以看看你圖表的歷史，是誰和什麼時候做了那些更改！只要進入圖表歷史模式即可找出。">
@@ -669,51 +663,54 @@
 
 <awesome-signup """
   <a>立即註冊</a>
-  <div>$5 / 月</dom>
+  <div>每月$5美元</dom>
 """>
 
 <awesome-feature-private-title "無限的私人Coggles">
 <awesome-feature-private "創造你想要的盡可能多的私人Coggles。如果你萬一取消訂閱,他們仍保持私有,並且你保持訪問.">
 
-<awesome-feature-joinloop-title "Create Loops and Join Branches">
-<awesome-feature-joinloop "Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.">
+<awesome-feature-joinloop-title "組成環圈和連接分支">
+<awesome-feature-joinloop "創造更強大和靈活的圖表來表示流程和其他複雜概念。">
 
-<awesome-feature-multiroot-title "Multiple Starting Points">
-<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+<awesome-feature-editablelinks-title "匿名協作">
+<awesome-feature-editablelinks "分享秘密鏈接以允許團隊不需要登錄便可以編輯圖表。">
 
-<awesome-feature-linestyle-title "Control Line Style">
-<awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
+<awesome-feature-linestyle-title "更改線條樣式">
+<awesome-feature-linestyle "更改圖表中的線條粗細和样式。">
 
 <awesome-feature-bigimages-title "給他們展示大圖片">
 <awesome-feature-bigimages "把龐大的圖像加到你的Coggles來說明你的想法:你只要把你的圖片從桌面上拖放到一個文件裡.">
 
-<awesome-feature-colours-title "More Colours">
-<awesome-feature-colours "Unlock a new range of vivid colours to help organise and highlight your ideas.">
+<awesome-feature-colours-title "更多的顏色">
+<awesome-feature-colours "獲得更多生動色彩，以幫助組織和突出您的想法。">
 
-<awesome-feature-autoarrange-title "Automatic Branch Layout">
-<awesome-feature-autoarrange "Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.">
+<awesome-feature-autoarrange-title "自動分支佈局">
+<awesome-feature-autoarrange "使用Coggle 的自動分支排列功能，只需點擊一下即可齊整分支的位置。">
 
-<awesome-feature-folders-title "Shared Folders">
-<awesome-feature-folders "Put your diagrams into folders to keep them organised and easily share them all with a group of collaborators.">
+<awesome-feature-folders-title "共享文件夾">
+<awesome-feature-folders "把您的圖表放入共享文件夾中，以保持其齊整性，並可輕鬆地與團體共享。">
 
 
 <awesome-hint-orgs """
-  如果你使用Coggle工作,看看<a>Coggle 組織</a>, 連同所有的Coggle好棒棒會員功能,和商業友好的管理功能.
+  如果你使用Coggle工作,看看<a>Coggle 組織會員</a>, 連同所有的Coggle好棒棒會員功能,和商業友好的管理功能.
 """>
 
 
 /* Organisations Landing Page (/organisations) */
 <orgs-pitch-3 """
-  <h2>Coggle 組織s</h2>
+  <h2>Coggle 組織會員</h2>
   <p>每個Coggle組織帶有管理大批人群的設計特點，會員來來去去，需要保護敏感信息.</p>
 """>
 
 <orgs-signup "<a>創建 組織</a>">
 
 <orgs-subpitch """
-  <p>當信息對你的團隊至關重要，你需要更強大的工具，更能控制你的數據。這就是我們為什麼創建了<a>Coggle 組織</a>.</p>
-  <p>定價很簡單, <b>每個成員每個月$8 </b>.<br><b>一切無限使用</b>.</p>
+  <p>當信息對你的團隊至關重要，你需要更強大的工具，更能控制你的數據。這就是我們為什麼創建了<a>Coggle 組織會員</a>.</p>
+  <p>定價很簡單, <b>每人每月$8美元 </b>.<br><b>一切無限使用</b>.</p>
 """>
+
+<orgs-feature-saml-sso-title "SAML單點登錄">
+<orgs-feature-saml-sso "使用您現有的SAML單點登錄服務對用戶進行身份驗證。 支持OneLogin，Okta等等。">
 
 <orgs-feature-in-one-place-title "一切都在一個地方">
 <orgs-feature-in-one-place "你組織所有的圖表都在一個地方。把你團隊的工作放置在一個易於管理的地方，保持它的安全 - 所以你知道在確切的地方查找.">
@@ -738,15 +735,15 @@
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
-<orgcreate-title2 "創建一個 <a>Coggle 組織</a>">
+<orgcreate-title2 "創建一個 <a>Coggle 組織會員</a>">
 <orgcreate-nameinput """
   <input placeholder="選擇你組織的名稱">
   <span>挑一些短但易於識別的!</span>
 """>
 
 <faq-orgs-whatare """
-  <div>什麼是Coggle 組織?</div>
-  <div><p>Coggle 組織在你個人的圖表和那些你公司所屬的圖表之間形成一個分離。通過把個人的和職業的分離開來，你獲得對存儲在Coggle上的企業數據更大的控制，包括何時以及如何被你的員工共享.</p></div>
+  <div>什麼是Coggle 組織會員?</div>
+  <div><p>Coggle 組織會員在你個人的圖表和那些你公司所屬的圖表之間形成一個分離。通過把個人的和職業的分離開來，你獲得對存儲在Coggle上的企業數據更大的控制，包括何時以及如何被你的員工共享.</p></div>
 """>
 
 
@@ -756,8 +753,8 @@
 <faq-orgs-whofor """
   <div> Coggle組織是為誰的?</div>
   <div>
-    <p>Coggle 組織是為那些對輸入Coggle 的數據需要更大控制權的團隊或需要保持個人資料獨立而設計的。他們正在成功地被私人公司、公共機構、學校和大學用來幫助群體安全地合作.</p>
-    <p>任何需要對共享圖表有更多控制權的群體，無論是為監管或內部政策合規性，會發現 Coggle 組織有用處.</p>
+    <p>Coggle 組織會員是為那些對輸入Coggle 的數據需要更大控制權的團隊或需要保持個人資料獨立而設計的。他們正在成功地被私人公司、公共機構、學校和大學用來幫助群體安全地合作.</p>
+    <p>任何需要對共享圖表有更多控制權的群體，無論是為監管或內部政策合規性，會發現 Coggle 組織會員有用處.</p>
   </div>
 """>
 
@@ -784,7 +781,7 @@
 
 
 <faq-orgs-awesome """
-  <div>Coggle 組織和Coggle好棒棒會員怎樣聯繫起來?</div>
+  <div>Coggle 組織會員和Coggle好棒棒會員怎樣聯繫起來?</div>
   <div>
     <p> Coggle組織是一種集中計費和對多個Coggle好棒棒會員訂閱許可證管理的好方法.</p>
     <p>當你組織的每個用戶在你組織的工作空間圖上工作時，他們將自動獲得Coggle真棒。這意味著所有的強大功能，包括私人圖表、演示模式、擴展調色板和高分辨率圖片上傳.</p>
@@ -797,7 +794,7 @@
 
 <faq-orgs-billing """
   <div> Coggle組織是怎樣計費的?</div>
-  <div> Coggle組織每位會員每月收費$ 8。你可以隨時從儀表板上為你的組織添加和刪除成員.</div>
+  <div> Coggle組織每位會員每月收費$8美元。你可以隨時從儀表板上為你的組織添加和刪除成員.</div>
 """>
 
 
