@@ -436,9 +436,8 @@
 <help-toolbar-invitemulti """
   為了節省時間，你可以一次邀請多個人：鍵入（或貼上）用空格，逗號分隔的電子郵件地址<b>,</b> 或分號<b>;</b>
 """>
-<help-toolbar-inviteflow "與他人一起工作Coggle效果最好-
+<help-toolbar-inviteflow "與他人一起工作Coggle效果最好-輸入朋友或同事的電子郵件地址.">
 <help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
-輸入朋友或同事的電子郵件地址.">
 <help-toolbar-inviteflow-title "輸入一個同事的電子郵件">
 <help-inactive-invite "與朋友合作，幫助把你的想法賦予生命!<br>通過這裡的電子郵件邀請.">
 
@@ -632,14 +631,11 @@
 <sidebar-bgmenu "透過右鍵點擊背景來進行<b>縮放</b>、<b>還原</b>、及<b>貼上複製的項目</b>。">
 <sidebar-icons "圖示">
 <markdown-icons "當正在編輯時輸入 <code>:</code>，或使用項目編輯區上方的按鈕。">
-<markdown-icons "Type <code>:</code> while editing or use the button along the top of the item editor.">
 <markdown-bold "<code>**文字**</code> 讓文字<b>粗體</b>">
 <markdown-italic "<code>*斜體*</code> 讓文字<i>斜體</i>">
 <markdown-link "<code>[標題](example.com)</code> 創建一個<a>鏈接</a>">
 <markdown-checkbox "<code>- [X]</code> 建立一個 <input/> 核取方塊">
 <markdown-code "<code>`文字`</code> 使用一個<code>固定寬度</code> 字形">
-
-<markdown-icons "">
 
 <button-bold title:"加粗文字">
 <button-italic title:"斜體文字">
