@@ -148,6 +148,7 @@
 <feature-adminpanel "<b>用戶和數據</b>管理">
 <feature-branding "品牌圖表">
 <feature-org-saml-sso "SAML單點登錄">
+
 <plans-select "選擇">
 <continue-free "繼續<b>免費會員</b>計劃">
 <current-plan "你當前的方案">
@@ -422,6 +423,7 @@
 <redo "重做">
 <paste-branch "貼上分支">
 <zoom-page "縮放頁面">
+<add-label "add label">
 
 <help-gohome "點擊Coggle標誌回到主頁，在這裡你的文件會自動保存.">
 <help-add-node "使用（+）按鈕來添加分支.">
@@ -482,7 +484,7 @@
 <diagram-toolbar-share title:" 分享此Coggle.">
 <diagram-toolbar-download title:" 下載此Coggle.">
 <diagram-toolbar-copy title:" 創建此Coggle副本.">
-
+<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
 
 /* sharing dialog content */
 <share-newlink "新鏈接:">
@@ -560,7 +562,6 @@
    linux: "ctrl"
  }
 >
-<sidebar-bgmenu2 "在任何地方單擊右鍵，便能<b>縮放</b>，添加<b>標籤</b>，<b>還原</b>和<b>粘貼已複製的項目</b>。">
 <sidebar-contextmenu "上下文菜單">
 <sidebar-clickformenu "右鍵點擊一個項目或背景以訪問菜單.">
 <sidebar-tapformenu "點擊一個項目或背景以訪問菜單.">
@@ -629,6 +630,7 @@
 """>
 <sidebar-markdown "Markdown">
 <sidebar-bgmenu "透過右鍵點擊背景來進行<b>縮放</b>、<b>還原</b>、及<b>貼上複製的項目</b>。">
+<sidebar-bgmenu2 "在任何地方單擊右鍵，便能<b>縮放</b>，添加<b>標籤</b>，<b>還原</b>和<b>粘貼已複製的項目</b>。">
 <sidebar-icons "圖示">
 <markdown-icons "當正在編輯時輸入 <code>:</code>，或使用項目編輯區上方的按鈕。">
 <markdown-bold "<code>**文字**</code> 讓文字<b>粗體</b>">
@@ -918,7 +920,8 @@
 你知道你可以拖放 Freemind .mm 文件到Coggle中導入它們嗎？你可以!
 """>
 <fact-link-drag """
-你知道你可以從你的地址欄中拖曳URL到Coggle，做一個鏈接到該網站嗎？你可以！ """>
+你知道你可以從你的地址欄中拖曳URL到Coggle，做一個鏈接到該網站嗎？你可以！
+""">
 <fact-text-size """
 你知道你可以改變字體嗎？你可以！ p>使用 #, ##, 或者 ### 從一行的開始，使文字變大.
 """>
@@ -941,7 +944,8 @@
 你知道你可以撤散多行文字嗎？你可以！左/右拖曳文本編輯區的一角自動換行.
 """>
 <fact-resize-images """
-你知道你可以調整圖像大小嗎？你可以！從互聯網上的任何地方（假定你有使用它的權限）把圖像拖放到你的Coggle，然後拖曳圖像的右下角以調整其大小。 """>
+你知道你可以調整圖像大小嗎？你可以！從互聯網上的任何地方（假定你有使用它的權限）把圖像拖放到你的Coggle，然後拖曳圖像的右下角以調整其大小。
+""">
 <fact-image-size """
 你知道我們支持一個Markdown延伸來指定圖像大小嗎？我們的確是！像這樣指定一個200 X 100像素的圖像: ![圖像描述](http://url.to.image "可選標題" 200x100)
 """>
