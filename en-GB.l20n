@@ -1,7 +1,7 @@
 /* Coggle translations for British English */
 
-/* For help with syntax, see http://l20n.org/learn/ or email
- * translations@coggle.it
+/* For help with syntax email translations@coggle.it
+ *
  *
  * Each translation is made up of two parts:
  *
@@ -101,7 +101,7 @@
 <plans-free-forever-title "Free Forever">
 <plans-free-description "Ideal for discovering Coggle and occasional use.">
 <plans-free-price "Free forever">
-<feature-free-private "<b>1</b> private diagram">
+
 <feature-realtime "<b>Real-time</b> collaboration">
 <feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
@@ -218,6 +218,7 @@
 """>
 <doclist-shared "<b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.">
 <doclist-folder-empty "<b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.">
+<doclist-readonly "<b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.">
 <impersonatedaccess "You're viewing Coggle as an Organisation member. <a>Return to admin panel</a>">
 
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
