@@ -583,7 +583,7 @@
   <div><div> drag anything! </div></div>
 """>
 <sidebar-transplantbranch """
-  <div> Перенети ветвь: </div>
+  <div> Перенести ветвь: </div>
   <div><div> shift </div> <span> + drag </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
