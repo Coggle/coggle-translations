@@ -20,9 +20,11 @@
 <index-signupnow "Sign Up Now">
 <index-login "Already signed up? Log in here.">
 
+<index-nav-login "Login">
 <index-nav-pricing "Pricing">
 <index-nav-features "Features">
 <index-nav-gallery "Gallery">
+<index-nav-home "Home">
 
 <index-unleash "Unleash your creativity">
 <index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
@@ -78,6 +80,9 @@
 <features-blame-title "Track accountability">
 <features-blame "Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.">
 
+<awesome-feature-multiroot-title "Multiple Starting Points">
+<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+
 <features-colours-title "Get the color right">
 <features-colours "Click on a branch to bring up the color wheel and select the color you want.">
 
@@ -96,7 +101,7 @@
 <plans-free-forever-title "Free Forever">
 <plans-free-description "Ideal for discovering Coggle and occasional use.">
 <plans-free-price "Free forever">
-<feature-free-private "<b>1</b> private diagram">
+
 <feature-realtime "<b>Real-time</b> collaboration">
 <feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
 <feature-diagrams "<b>Unlimited</b> public diagrams">
@@ -130,6 +135,7 @@
 <feature-bigimages "<b>High-res image</b> uploads">
 <feature-linestyles "<b>Control line style</b>">
 <feature-extendedcolours "More colors">
+<feature-editable-links "Collaborate by <b>link</b>">
 <plans-findoutmore "Find out more">
 
 <plans-org-title "Organization">
@@ -141,6 +147,7 @@
 <feature-bulkexport "<b>Bulk export</b>">
 <feature-adminpanel "<b>User & data</b> management">
 <feature-branding "Branded diagrams">
+<feature-org-saml-sso "SAML Single Sign On">
 
 <plans-select "Select">
 <continue-free "Continue on <b>Free</b> plan">
@@ -170,7 +177,8 @@
 <footer-terms "terms">
 <footer-press "press">
 <footer-gdrive "<img/> Google Drive">
-
+<footer-what-is-mindmapping "What is Mindmapping?">
+<footer-top-uses "Top Mindmap Uses">
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
@@ -210,13 +218,11 @@
 """>
 <doclist-shared "<b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.">
 <doclist-folder-empty "<b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.">
+<doclist-readonly "<b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.">
 <impersonatedaccess "You're viewing Coggle as an Organization member. <a>Return to admin panel</a>">
 
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
-<doclist-upgrade """
-   <div> <b>Multiple starting points!</b> <p>Create multiple starting points with <a>Coggle Awesome</a>.</p> <a>Upgrade Now</a> <div></div> </div>
-""">
 
 <tooltip-createorg title:"Create an Organization">
 <tooltip-invite-folder title:"Add people to this folder by email">
@@ -253,6 +259,8 @@
 <settings-recommend-title "Recommend">
 <settings-emails-title "Communication">
 <settings-language-title "Language">
+<settings-communication-title "Communication">
+<settings-account-title "Close Account">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
@@ -468,6 +476,7 @@
 <messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
 <messages-start "You've reached the start!">
 <messages-upgrade "Need more than 2 weeks history? Find out about upgrading to <a>Awesome</a> to get the full history.">
+<messages-comments-notes "Enter comments, discussion and notes.">
 
 <diagram-toolbar-history title:"View and copy previous versions.">
 <diagram-toolbar-messages title:"Comments and chat.">
@@ -697,6 +706,9 @@
   <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organizations</a>.</p>
   <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
 """>
+
+<orgs-feature-saml-sso-title "SAML Single Sign On">
+<orgs-feature-saml-sso "Authenticate users using your existing Single Sign On service. Support for OneLogin, Okta and more.">
 
 <orgs-feature-in-one-place-title "Everything in One Place">
 <orgs-feature-in-one-place "All your organizations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.">
