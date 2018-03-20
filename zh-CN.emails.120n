@@ -1,0 +1,16 @@
+/* shared email content */
+<emWelcomeHappyCoggling "到目前为止就这样了。快乐Coggling!">
+<emUnsubscribe "太多的电子邮件？ 对于这点很抱歉, <a>现在就取消订阅</a>.">
+<emSendReason """
+你接受到该消息，因为你注册时点同意了，<a>https://coggle.it</a><br> 你可以管理你的通信首选项 <a>在这里</a>.
+""">
+<emSignoffCoggleTeam "<b>Coggle 团队</b>">
+
+
+
+/* welcome email content */
+<emWelcomeCoggleFamily "欢迎来到Coggle家庭{{ $name }} &mdash; 有你跟我们在一起真是太好了!">
+<emWelcomeCoggleDesign """
+我们设计Coggle时把<b>简单</b> 和<b>合作</b> 放在心中. 与你的同事、同学或朋友分享你的想法和知识,从Coggle中获得更多.
+""">
+<emWelcomeCreateDiagram "现在就创建一个图表">
