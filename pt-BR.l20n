@@ -1,7 +1,20 @@
-/* Coggle translations for Portuguese (Brazil) */
+/* Coggle translations for Portuguese (Brazil) - Traduções do Coggle para o Portugues Brasileiro*/
 
 /* For help with syntax, see http://l20n.org/learn/ or email
  * translations@coggle.it
+ *
+ * Para ajuda com a sintaxe, acesse http://l20n.org/learn/ ou via e-mail
+ * translations@coggle.it
+ *
+ * Cada linha de tradução e composta por duas partes:
+ * 
+ * <translation-id "O codigo html será <b>exibido</b>">
+ *
+ * O 'translation-id' nunca deve ser alterado, e as tags html 
+ * como <div>...</div>, <b>, <h1> e etc também nao devem ser modificado.
+ *
+ *
+ * English:
  *
  * Each translation is made up of two parts:
  *
@@ -16,27 +29,27 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "The clear way to share complex information.">
-<index-signupnow "Sign Up Now">
-<index-login "Already signed up? Log in here.">
+<index-tagline "Um jeito simples para compartilhar informações complexas.">
+<index-signupnow "Registre-se Agora">
+<index-login "Ja tem uma conta? Faça log in aqui.">
 
-<index-nav-pricing "Pricing">
-<index-nav-features "Features">
-<index-nav-gallery "Gallery">
+<index-nav-pricing "Planos">
+<index-nav-features "Características">
+<index-nav-gallery "Galeria">
 
-<index-unleash "Unleash your creativity">
-<index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
-<index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
+<index-unleash "Explore sua criatividade.">
+<index-blurb "Produza notas maravilhosas e rapidamente. Compartilhe com seus amigos e colegas para trabalharem suas ideias juntos.">
+<index-viewgallery "Ou explore a <a>Galeria do Coggle</a> para inspirações.">
 
 <index-colab-mindmaps """
-  <h1>Collaborative Mind Maps</h1>
-  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
+  <h1>Mapas mentais colaborativos</h1>
+  <p>Coggle e uma ferramenta online para criação e compartilhamento de mapas mentais. Crie online diretamente do seu navegador: Sem downloads ou instalações. <a>Faça log in</a> e começe a criar seus mapas agora!</p>
   <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
-  <h2>Take Notes</h2>
+  <h2>Faça anotações</h2>
   <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
 """>
     
@@ -48,12 +61,12 @@
 
 <index-use-share """
   <div><img></div>
-  <h2>Share Information</h2>
+  <h2>Compartilhe informações</h2>
   <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
 """>
     
 <index-use-other """
-  These are just a few of the things Coggle is useful for – <a>get started</a> now to discover your own!
+  Estes são apenas algumas das coisas que o Coggle e capaz – <a>comece agora</a> e descubra por você mesmo!
 """>
 
 <index-helpteam-orgs-usd """
