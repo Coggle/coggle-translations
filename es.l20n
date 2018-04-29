@@ -388,7 +388,7 @@ Te cobraremos
 
 <undo "deshacer">
 <redo "rehacer">
-<paste-branch "copiar rama">
+<paste-branch "Pegar rama">
 <zoom-page "ampliar la página">
 
 <help-gohome "Pincha en el logo de Coggle para volver a la página de inicio donde todos tus documentos se guardan automáticamente.">
