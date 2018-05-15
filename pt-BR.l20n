@@ -363,7 +363,7 @@
 <slider-yes "SIM">
 <slider-no "NÃO">
 
-<me-language-title "Choose Your Preferred Language">
+<me-language-title "Escolha seu idioma preferido">
 <me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
 <me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
 
