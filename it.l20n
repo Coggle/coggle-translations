@@ -16,81 +16,83 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "The clear way to share complex information.">
-<index-signupnow "Sign Up Now">
-<index-login "Already signed up? Log in here.">
+<index-tagline "Il modo chiaro per condividere informazioni complesse.">
+<index-signupnow "Registrati">
+<index-login "Sei già registrato? Accedi qui.">
 
 <index-nav-login "Login">
-<index-nav-pricing "Pricing">
-<index-nav-features "Features">
-<index-nav-gallery "Gallery">
+<index-nav-pricing "Prezzi">
+<index-nav-features "Caratteristiche">
+<index-nav-gallery "Galleria">
 <index-nav-home "Home">
 
-<index-unleash "Unleash your creativity">
+<index-unleash "Scatena la tua Reatività">
 <index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
-<index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
+<index-blurb "Crea bellisimi appunti velocemente e facilmente. Condividili con amici e colleghi per lavorare insieme sulle tue idee.">
+<index-viewgallery "O esploara la <a>Galleria Coggle </a> per ispirarti.">
 
 <index-colab-mindmaps """
-  <h1>Collaborative Mind Maps</h1>
-  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
-  <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+  <h1>Mappe Mentali Collaborative</h1>
+  <p>Coggle è uno strumento online per creare e condividere mappe mentali. Funziona online nel tuo browser: non c'è niente da scaricare o installare <a>Accedi</a> per cominciare a creare mappe mentali ora!</p>
+  <p>Se stai prendendo appunti, fai brainstorming, pianifichi o fai qualcosa di incredibilmente creativo, è estremamente semplice visualizzare le tue idee con Coggle. Condividi con quanti amici o colleghi vuoi. Le modifiche apportate verranno visualizzate immediatamente nel browser, ovunque si trovino nel mondo.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
-  <h2>Take Notes</h2>
-  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
+  <h2>Prendi Appunti</h2>
+  <p>Apri Coggle in una riunione, durante la revisione o in qualsiasi momento di ispirazione per creare nappunti belli e strutturati.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
   <h2>Brainstorm</h2>
-  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+  <p>Inizia l'idea, annaffiala con Coggle e guardala crescere in un piano completo, ben strutturato e pronto a essere condiviso.</p>
 """>
 
 <index-use-share """
   <div><img></div>
-  <h2>Share Information</h2>
-  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+  <h2>Condividi Informazioni</h2>
+  <p>Distilla il tuo argomento in un Coggle, includi tutti i dettagli e condividilo con il tuo team, i tuoi compagni di classe o il mondo!</p>
 """>
     
 <index-use-other """
   These are just a few of the things Coggle is useful for – <a>get started</a> now to discover your own!
+  Queste sono solo alcune delle cose per le quali Coggle è utile – <a>Comincia</a> ora e scopri in quale altro modo puoi usarlo!
 """>
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From $8 per member per month</div></a>
+  <h2>Aiuta il tuo team a communicare con <a>Coggle Organisations</a>.</h2>
+  <p>Offri al tuo team uno spazio condiviso per il brainstorming, per prendere appunti e documentare le loro idee. Le organizzazioni Coggle sono dotate di tutte le funzionalità necessarie per gestire il controllo dei dati e integrarsi con il flusso di lavoro aziendale. <a>Approfondisci</a>.</p>
+  <a>Registrati ora<div> a partire da $8 per mese per utente</div></a>
 """>
 
-<features-realtime "Realtime Collaboration">
-<features-realtime-desc "Invite your friends and colleagues to work with you, at the same time, on your diagrams.">
+<features-realtime "Collaborazione in tempo reale">
+<features-realtime-desc "Invita i tuoi amici e colleghi per lavorare con te, nello stesso momento, sui tuoi diagrammi.">
 
-<features-images-title "Complete the picture">
-<features-images "Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.">
+<features-images-title "Completa il quadro">
+<features-images "Trascina e rilascia le immagine dall tuo Desktop direttamenti nei tuoi diagrammi. Non c'è limite al numero di immagini che puoi aggiungere.">
 
-<features-fullhistory-title "Save Every Change">
-<features-history "Look through all the changes to a diagram and make a copy from any point to revert to a previous version.">
+<features-fullhistory-title "Salva ogni modifica">
+<features-history "Guarda tutte le modifiche di un diagramma e fai una copia da qualsiasi punto per tornare a una versione precedente.">
 
-<features-labels-title "Add Floating Text and Images">
-<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
+<features-labels-title "Aggiungi testo e immagini mobili">
+<features-labels "Aggiungi etichette di testo e immagini che non fanno parte dell'albero del diagramma per annotare parti della tua mappa.">
 
-<features-blame-title "Track accountability">
-<features-blame "Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.">
+<features-blame-title "Traccia le responsabilità">
+<features-blame "Guarda attraverso la cronologia del tuo diagramma per vedere chi ha cambiato cosa e quando! Basta entrare nella modalità cronologia diagramma per scoprirlo.">
 
-<awesome-feature-multiroot-title "Multiple Starting Points">
-<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+<awesome-feature-multiroot-title "Molti punti di partenza">
+<awesome-feature-multiroot "Aggiungi più elementi centrali ai tuoi diagrammi per mappare gli argomenti correlati in un unico spazio di lavoro.">
 
-<features-colours-title "Get the colour right">
-<features-colours "Click on a branch to bring up the colour wheel and select the colour you want.">
+<features-colours-title "Imposta il colore giusto">
+<features-colours "Fai clic su un ramo per visualizzare la ruota dei colori e seleziona il colore desiderato.">
 
-<features-notifications-title "Email Notifications">
-<features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
+<features-notifications-title "Notifiche via Email">
+<features-notifications "Ricevi una notifica via email con un riepilogo delle modifiche quando i collaboratori modificano i diagrammi condivisi con te.">
 
-<features-chat-title "Comments and Chat">
-<features-chat "Add comments to nodes and chat with collaborators without leaving your diagram workspace.">
+<features-chat-title "Commenti in chat">
+<features-chat "Aggiungi commenti ai nodi e chatta con i collaboratori senza uscire dall'area di lavoro del diagramma.">
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
