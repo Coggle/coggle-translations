@@ -17,21 +17,21 @@
  * which is described below
  */
 <index-tagline "化繁复为简洁.">
-<index-signupnow "Sign up now">
-<index-login "Already signed up? Log in here.">
+<index-signupnow "立即注册">
+<index-login "已经注册？在此登录。">
 
-<index-nav-pricing "Pricing">
-<index-nav-features "Features">
-<index-nav-gallery "Gallery">
+<index-nav-pricing "价格">
+<index-nav-features "功能">
+<index-nav-gallery "画廊">
 
-<index-unleash "Unleash your creativity">
-<index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
-<index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
+<index-unleash "释放你的创造力">
+<index-blurb "快速轻松地制作美丽的笔记。与朋友和同事一起分享他们的想法。">
+<index-viewgallery "或者看看 <a>Coggle画廊</a> 来获取灵感。">
 
 <index-colab-mindmaps """
-  <h1>Collaborative Mind Maps</h1>
-  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
-  <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+  <h1>协作思维导图</h1>
+  <p>Coggle是创建和分享思维导图的在线工具。它可以在浏览器中在线工作，不用下载或安装。 <a>登录</a> 来开始制作思维导图！</p>
+  <p>无论您是在做笔记，头脑风暴，规划还是做一些非常有创意的事情，使用Coggle都可以让您的想法变得非常简单。 只要你喜欢，尽可能与朋友或同事分享。 您所做的更改将立即显示在浏览器中，无论他们身在何处。</p>
 """>
 
 <index-use-notes """
@@ -58,18 +58,18 @@
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From $8 per member per month</div></a>
+  <h2>帮助你的团队与 <a>Coggle组织</a> 进行沟通.</h2>
+  <p>为您的团队提供共享空间，进行头脑风暴，记录笔记和记录他们的想法。Coggle组织具有您需要的所有功能，用于管理数据控制并与您的业务工作流集成。阅读 <a>这里</a> 来了解更多.</p>
+  <a>立即注册<div>每位会员每月8美元</div></a>
 """>
 
-<features-realtime "Realtime Collaboration">
+<features-realtime "实时协作">
 <features-realtime-desc "你可以邀请你的朋友和同事和你一起制作笔记, 同时哦.">
 
 <features-images-title "一幅图胜过千言万语">
 <features-images "你可以拖拽你桌面上的图片到笔记中, 非常简单! 而且图片数量不限.">
 
-<features-fullhistory-title "Save Every Change">
+<features-fullhistory-title "保存每个更改">
 <features-history "做了一些改动, 几天之后觉得不喜欢? 没关系, 在笔记的修改历史中选择一个你喜欢的时间点, 基于它制作一份拷贝!">
 
 <features-blame-title "任务追踪">
@@ -78,56 +78,56 @@
 <features-colours-title "选择最精准的颜色">
 <features-colours "外貌协会会员? 对颜色和布局非常挑剔? 没问题, 只需要点击连接线就可以在色彩圆环中选择你想要的颜色.">
 
-<features-notifications-title "Email Notifications">
-<features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
+<features-notifications-title "电子邮件通知">
+<features-notifications "当协作者编辑与您共享的图表时，获取附有更改摘要的电子邮件通知。">
 
-<features-chat-title "Comments and Chat">
-<features-chat "Add comments to nodes and chat with collaborators without leaving your diagram workspace.">
+<features-chat-title "评论和聊天">
+<features-chat "将注释添加到节点并与协作者聊天，而不用离开图表工作区。">
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever "Coggle is free to use, and always will be. Create unlimited public diagrams and share them for free.">
+<plans-title-freeforever "Coggle可以免费使用，而且一直都是。 创建无限制的公共图表并免费分享。">
 
-<plans-free-forever-title "Free Forever">
-<plans-free-description "Ideal for discovering Coggle and occasional use.">
-<plans-free-price "Free forever">
-<feature-free-private "<b>1</b> private diagram">
-<feature-realtime "<b>Real-time</b> collaboration">
-<feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
-<feature-diagrams "<b>Unlimited</b> public diagrams">
+<plans-free-forever-title "永久免费">
+<plans-free-description "发现Coggle和偶尔使用的理想选择。">
+<plans-free-price "永久免费">
+<feature-free-private "<b>1</b> 个私人图表">
+<feature-realtime "<b>即时</b>合作">
+<feature-emoji "超过 <b>1600</b> <a>个精美图标</a>">
+<feature-diagrams "<b>无限</b> 公共图表">
 <feature-nprivate[$privateDiagrams.available] {
-       1: "1 private diagram",
-   *many: "{{ $privateDiagrams.available }} private diagrams"
+       1: "1 个私人图表",
+   *many: "{{ $privateDiagrams.available }} 私人图表"
 }>
-<feature-images "<b>Unlimited</b> image uploads">
-<feature-changes "<b>Full</b> change history">
-<feature-markdown "<b>Markdown</b> support">
-<feature-downloads "<b>PDF & Image</b> download">
-<feature-labels "Unconnected <b>text boxes</b>">
-<feature-exports "Export as <b>.mm and text</b>">
-<feature-imports "Import <b>.mm and text</b>">
-<feature-chat "Comments & Chat">
-<feature-embed "Embeddable diagrams">
-<plans-free-getstarted "Get Started">
+<feature-images "<b>无限</b>图片上传">
+<feature-changes "<b>完整</b>更改历史记录">
+<feature-markdown "<b> Markdown </b>支持">
+<feature-downloads "<b> PDF＆Image </b>下载">
+<feature-labels "未连接<b>文本框</b>">
+<feature-exports> "导出为<b> .mm和文本</b>">
+<feature-imports> "导入<b> .mm和文本</b>">
+<feature-chat "评论和聊天">
+<feature-embed "嵌入式图表">
+<plans-free-getstarted "入门">
 
-<plans-awesome-title "Awesome">
-<plans-awesome-description "Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.">
-<plans-awesome-price "$5 / month">
-<feature-include-free "Everything in <b>Free</b>">
-<feature-unlimited-private "<b>Unlimited</b> private diagrams">
-<feature-multiroot "<b>Multiple start points</b>">
-<feature-private "<b>Private diagrams</b>">
-<feature-chathistory "<b>Full</b> chat history">
-<feature-rearrange "<b>Auto-arrange branches</b>">
-<feature-rejoin "<b>Join Branches</b>">
-<feature-folders "<b>Shared folders</b>">
-<feature-presentation "Presentation mode">
-<feature-bigimages "<b>High-res image</b> uploads">
-<feature-linestyles "<b>Control line style</b>">
-<feature-extendedcolours "More colours">
-<plans-findoutmore "Find out more">
+<plans-awesome-title "很棒">
+<plans-awesome-description "适合<b>个人</b>或<b>专业</b>使用，具有隐私和高级功能。">
+<plans-awesome-price "每月5美元">
+<feature-include-free "所有内容<b>免费</b>"
+<feature-unlimited-private "<b>无限</b> 私人图表">
+<feature-multiroot "<b>多个起点</b>">
+<feature-private "<b>私人图表</b>">
+<feature-chathistory "<b>完整</b>聊天记录”>
+<feature-rearrange "<b>自动排列分支</b>">
+<feature-rejoin "<b>加入分支</b>">
+<feature-folders "<b>共享文件夹</b>">
+<feature-presentation "演示模式">
+<feature-bigimages "<b>高分辨率图片</b>上传">
+<feature-linestyles "<b>控制线样式</b>">
+<feature-extendedcolours "更多颜色">
+<plans-findoutmore "了解更多">
 
 <plans-org-title "Organisation">
 <plans-org-description "Ideal for <b>teams</b> that want to control access to their data and consolidate billing.">
