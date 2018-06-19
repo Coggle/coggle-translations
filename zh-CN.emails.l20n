@@ -1,6 +1,6 @@
 
 /* shared email content */
-<emWhatIsCoggle "Coggle是一个协作式思维导图工具,帮助您理解复杂的事物.使用起来简单,并且免费.">
+<emWhatIsCoggle "Coggle是一个协作式思维导图工具,帮助您理解复杂的事物.它使用起来简单,并且免费.">
 <emWelcomeHappyCoggling "目前为止就这样了.快乐Coggling！">
 <emUnsubscribe "电子邮件过多?对于这个很抱歉,a>现在退订</a>.">
 <emSendReason """
@@ -32,7 +32,7 @@
 <emFollowup2Subject "您的最终更新!>
 <emFollowup2FirstWeek "你在Coggle的第一周怎么样,{{ $name }}?">
 <emFollowup2ChangeFontSize """
-<b>你知道你可以改变字体大小吗,<b>让你的文档中的重要项目变大,引引起注意,拖动文本编辑区域的角落以更改文字大小:
+<b>你知道你可以改变字体大小吗,<b>让你的文档中的重要项目变大,引起注意,拖动文本编辑区域的角落以更改文字大小:
 """>
 <emFollowup2MoreFeatures "想要更多功能?"
 <emFollowup2AwesomePitch """
@@ -43,18 +43,18 @@
 
 /* diagram invites email content */
 <emInviteDiagramSubject "{{ $from.full_name }} 将您添加到了Coggle图表">
-<emInviteDiagramDescription "{{ $from.name }} 将您添加到了Coggle图表:{{ $title }}">
+<emInviteDiagramDescription "{{ $from.name }} 将您添加到了Coggle图表: {{ $title }}">
 <emInviteDiagramView "查看">
 
 /* folder invites email content */
 <emInviteFolderSubject "{{ $from.full_name }} 将您添加到了Coggle文件夹">
-<emInviteFolderDescription "{{ $from.name }} 将您添加到了Coggle文件夹中:{{ $title }}">
+<emInviteFolderDescription "{{ $from.name }} 将您添加到了Coggle文件夹中: {{ $title }}">
 <emInviteFolderView "加入
 
 /* organisation invites email content */
-<emInviteOrganisationSubject "{{ $from.full_name }} 将您添加到了Coggle组织{{ $title }}">
+<emInviteOrganisationSubject "{{ $from.full_name }} 将您添加到了Coggle组织 {{ $title }}">
 <emInviteOrganisationDescription """
-  {{ $from.name }}将您添加到了Coggle组织<b>{{ $title }}</b>,点击"加入"来接受此邀请，或阅读我们的<a>快速指南</a>以开始使用.
+  {{ $from.name }}将您添加到了Coggle组织 <b>{{ $title }}</b>,点击"加入"来接受此邀请，或阅读我们的<a>快速指南</a>以开始使用.
 """>
 <emInviteOrganisationView "加入">
 
@@ -69,6 +69,6 @@
 
 
 /* tag email content */
-<emTagSubject "{{ $from.name }}给您添加了标签{{ $title }}">
-<emTagDescription "<b>{{ $from.name }}</b>已经给您添加了标签{{ $title }}">
+<emTagSubject "{{ $from.name }} 给您添加了标签 {{ $title }}">
+<emTagDescription "<b>{{ $from.name }}</b> 已经给您添加了标签 {{ $title }}">
 <emTagView "阅读">
