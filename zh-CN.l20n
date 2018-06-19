@@ -127,7 +127,7 @@
 <feature-bigimages "<b>高分辨率图片</b>上传">
 <feature-linestyles "<b>控制线样式</b>">
 <feature-extendedcolours "更多颜色">
-<feature-editable-links "Collaborate by <b>link</b>">
+<feature-editable-links "与<b>link</b>协作">
 <plans-findoutmore "了解更多">
 
 <plans-org-title "组织会员">
@@ -481,7 +481,7 @@
 <diagram-toolbar-public-detail "公共图表" title:"该图表可能会出现在Coggle画廊和搜索结果中.">
 
 /* history slider content */
-<current-version "current">
+<current-version "当前">
 
 /* sharing dialog content */
 <share-newlink "新链接:">
