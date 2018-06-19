@@ -106,8 +106,8 @@
 <feature-markdown "<b> Markdown </b>支持">
 <feature-downloads "<b> PDF＆Image </b>下载">
 <feature-labels "未连接<b>文本框</b>">
-<feature-exports> "导出为<b> .mm和文本</b>">
-<feature-imports> "导入<b> .mm和文本</b>">
+<feature-exports "导出为<b> .mm和文本</b>">
+<feature-imports "导入<b> .mm和文本</b>">
 <feature-chat "评论和聊天">
 <feature-embed "嵌入式图表">
 <plans-free-getstarted "入门">
@@ -115,11 +115,11 @@
 <plans-awesome-title "超棒">
 <plans-awesome-description "适合<b>个人</b>或<b>专业</b>使用，具有隐私和高级功能。">
 <plans-awesome-price "每月5美元">
-<feature-include-free "所有内容<b>免费</b>"
+<feature-include-free "所有内容<b>免费</b>">
 <feature-unlimited-private "<b>无限</b> 私人图表">
 <feature-multiroot "<b>多个起点</b>">
 <feature-private "<b>私人图表</b>">
-<feature-chathistory "<b>完整</b>聊天记录”>
+<feature-chathistory "<b>完整</b>聊天记录">
 <feature-rearrange "<b>自动排列分支</b>">
 <feature-rejoin "<b>加入分支</b>">
 <feature-folders "<b>共享文件夹</b>">
@@ -127,6 +127,7 @@
 <feature-bigimages "<b>高分辨率图片</b>上传">
 <feature-linestyles "<b>控制线样式</b>">
 <feature-extendedcolours "更多颜色">
+<feature-editable-links "Collaborate by <b>link</b>">
 <plans-findoutmore "了解更多">
 
 <plans-org-title "组织会员">
@@ -138,6 +139,7 @@
 <feature-bulkexport "<b>批量汇出</b>">
 <feature-adminpanel "<b>用户和数据</b>管理">
 <feature-branding "品牌图表">
+<feature-org-saml-sso "SAML Single Sign On">
 
 <plans-select "选择">
 <continue-free "继续<b>免费会员</b>计划">
@@ -155,6 +157,7 @@
 
 <per-month "每月">
 <per-member-per-month "每人每月">
+<forever "forever">
 
 <awesome-feature "超棒计划">
 <org-feature "组织会员功能">
@@ -198,7 +201,7 @@
 <user-privacy "隐私政策">
 <user-terms "条款和条件">
 <user-link-drive "链接Google Drive">
-<diagrams-limited "<span>使用了{{ $privateDiagrams.avaliable }}个中的{{ $privateDiagrams.used }}个</span>私人图表">
+<diagrams-limited "<span>使用了{{ $privateDiagrams.available }}个中的{{ $privateDiagrams.used }}个</span>私人图表">
 <diagrams-unlimited "<span>无限</span>私人图表">
 
 <limitedaccess "你的访问权限有限{{ $resourceName }} 因为你不是一个会员">
@@ -351,30 +354,30 @@
 <me-language-tip "用你的母语来帮助我们提供 Coggle，或者贡献我们在 Github 上的<a>翻译计划</a>来补上缺少的东西！">
 <me-language-questions "如果你有任何关于翻译的问题——或者你有任何修正或改良，但你不确定如何帮上忙，可以寄信到 <a>translate@coggle.it</a>。">
 
-<we-heart-you "我们爱你。">
-<help-discover-coggle "帮助世界发现Coggle并获得免费的东西!">
-<introduce-n-more-friends[$introduceCount] {
-        1: "介绍 <span>{{ $introduceCount }}</span> 更多的朋友给Coggle",
-    *many: "介绍<span>{{ $introduceCount }}</span> 更多的朋友给Coggle",
-}>
-<introduced-n-friends[$introducedCount] {
-        1: "你已经介绍了<span>{{ $introducedCount }}</span> 个人给Coggle",
-    *many: "你已经介绍了<span>{{ $introducedCount }}</span> 个人给Coggle",
-}>
-
-<share-your-link """
-  <p>分享你的特殊链接，你有多喜欢</p>
-  <p>
-    <a>Facebook</a>,
-    <a> Twitter</a>,
-    or <a>电子邮件</a> 都能行得通!
+<recommend-coggle "Recommend Coggle">
+<recommend-share-link """
+  <p>Either invite collaborators to your diagrams, or share your referral link via
+    <a> Facebook</a>, <a> Twitter</a>, or <a>email</a>.
   </p>
-  <input/>
+  <input></input>
 """>
+<invite-n-more[$introduceCount] {
+       1: "One more invite to try Awesome for free!",
+   *many: "Invite <span>{{ $introduceCount }}</span> more people to try Awesome for free!",
+}>
 
 <claim-free-month """
-  <p>认领一个月免费的 Coggle 超棒会员方案！</p>
-  <div>现在兑换</div>
+  <p>Claim your free month of Coggle Awesome!</p>
+  <div>Redeem Now</div>
+""">
+
+<close-account-title "Close Your Coggle Account">
+<close-account "Permanently close your free Coggle account.">
+<close-account-description "This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.">
+<close-account-button "Close my Account">
+<close-account-confirmation """
+  <input placeholder='Type your email address'/>
+  <button>CONFIRM</button>
 """>
 
 /* Gallery Content (/gallery) */
@@ -447,6 +450,7 @@
 
 <go-awesome "成为超棒会员！">
 <free-awesome "希望免费升级超棒会员吗？">
+<upgrade-now "Upgrade Now">
 
 <me-support-awesomethanks """
   <p><b>感谢支持 Coggle！</b></p>
@@ -491,7 +495,7 @@
   <div>friend@example.com</div>
 """>
 <share-social """
-  <a title=“嵌入在网站”> <img/> </a>
+  <a title='嵌入在网站'> <img/> </a>
   <a title='在Facebook上分享'> <img/> </a>
   <a title='在Twitter上分享'> <img/> </a>
 """>
