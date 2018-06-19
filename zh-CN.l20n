@@ -237,9 +237,9 @@
 """>
 
 <help-createfolder-title "创建一个活页夹">
-<help-createfolder "创建活页夹与一群人分享,或把Coggles分类.">
+<help-createfolder "创建活页夹与一群人分享,或把Coggle分类.">
 <help-orgs-switch-title "组织之间切换">
-<help-orgs-switch "<p>点击在组织之间切换.</p><p>组织让你控制Coggles的共享,并与更大规模的团队合作.</p>">
+<help-orgs-switch "<p>点击在组织之间切换.</p><p>组织让你控制Coggle的共享,并与更大规模的团队合作.</p>">
 
 
 /* Settings page content */
@@ -253,7 +253,7 @@
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
- * they create an 组织, they are "create"ing an 组织, or when they change the
+ * they create an Organisation, they are "create"ing an organisation, or when they change the
  * billing details they are "updating" them.
  */
 <settingsSubmitButton {
@@ -646,7 +646,7 @@
 /* Awesome Landing Page (/awesome) */
 <awesome-pitch """
   <h2>Coggle 超棒会员</h2>
-  <p>成为 Coggle 超棒会员，给你的思维充电。添加巨大的图像，显示你的Coggles，创造不会被搜索引擎索引的私人Coggles.</p>
+  <p>成为 Coggle 超棒会员，给你的思维充电。添加巨大的图像，显示你的Coggle，创造不会被搜索引擎索引的私人Coggle.</p>
 """>
 
 <awesome-signup """
@@ -654,8 +654,8 @@
   <div>每月5美元</dom>
 """>
 
-<awesome-feature-private-title "无限的私人Coggles">
-<awesome-feature-private "创造你想要的尽可能多的私人Coggles。如果你万一取消订阅,他们仍保持私有,并且你保持访问.">
+<awesome-feature-private-title "无限的私人Coggle">
+<awesome-feature-private "创造你想要的尽可能多的私人Coggle。如果你万一取消订阅,他们仍保持私有,并且你保持访问.">
 
 <awesome-feature-joinloop-title "组成环圈和连接分支">
 <awesome-feature-joinloop "创造更强大和灵活的图表来表示流程和其他复杂概念。">
@@ -667,7 +667,7 @@
 <awesome-feature-linestyle "更改图表中的线条粗细和样式。">
 
 <awesome-feature-bigimages-title "给他们展示大图片">
-<awesome-feature-bigimages "把庞大的图像加到你的Coggles来说明你的想法:你只要把你的图片从桌面上拖放到一个文件里.">
+<awesome-feature-bigimages "把庞大的图像加到你的Coggle来说明你的想法:你只要把你的图片从桌面上拖放到一个文件里.">
 
 <awesome-feature-colours-title "更多的颜色">
 <awesome-feature-colours "获得更多生动色彩，以帮助组织和突出您的想法。">
@@ -704,13 +704,13 @@
 <orgs-feature-in-one-place "你组织所有的图表都在一个地方。把你团队的工作放置在一个易于管理的地方，保持它的安全 - 所以你知道在确切的地方查找.">
 
 <orgs-feature-control-sharing-title "共享控制">
-<orgs-feature-control-sharing "你可以确保你创造的Coggles 组织留在你的组织。这可以保护敏感材料不被意外曝光，如果错误的电子邮件地址被邀请到一个文档的话.">
+<orgs-feature-control-sharing "你可以确保你创造的Coggle 组织留在你的组织。这可以保护敏感材料不被意外曝光，如果错误的电子邮件地址被邀请到一个文档的话.">
 
 <orgs-feature-manage-users-title "安全地管理用户">
 <orgs-feature-manage-users "从你组织删除成员不会失去他们的工作。使用管理仪表板查看由你的组织成员创建的所有图表，不论这些成员是过去和现在的，被删除或现役的.">
 
 <orgs-feature-export-title "批量导出">
-<orgs-feature-export "组织管理员可以以机器可读、可存盘的 JSON 格式，单一点击下载所有的Coggles 组织。非常适合监管合规或内心的平静.">
+<orgs-feature-export "组织管理员可以以机器可读、可存盘的 JSON 格式，单一点击下载所有的Coggle 组织。非常适合监管合规或内心的平静.">
 
 <orgs-feature-branding-title "展示你的品牌">
 <orgs-feature-branding "打造带有你的标志、专业清洁的图表，以 PDF 或 PNG 格式导出。非常适合在你的公司中与客户或同事分享图表.">
@@ -841,7 +841,7 @@
 
 /* Coggle Facts */
 <fact-math """
-你知道你可以在Coggles中写数学吗？ （是的，令人讨厌！）用 \\\\( LaTeX 这里 \\\\)尝试一下!
+你知道你可以在Coggle中写数学吗？ （是的，令人讨厌！）用 \\\\( LaTeX 这里 \\\\)尝试一下!
 """>
 <fact-collaborate """
 你知道你可以实时与他人合作吗？你可以！使用右上方的（+）按钮.
@@ -850,16 +850,16 @@
 你知道你可以同时与其他人编辑Coggle？你可以！使用右上方的（+）按钮来邀请其他人.
 """>
 <fact-font """
-你知道你可以在Coggles中使用固定宽度代码字体？你可以!<p>只需在文字周围使用‘倒引号’，同时它也会停止对其他特殊的语法做解释.
+你知道你可以在Coggle中使用固定宽度代码字体？你可以!<p>只需在文字周围使用‘倒引号’，同时它也会停止对其他特殊的语法做解释.
 """>
 <fact-bold """
-你知道你可以在Coggles中使用**粗体文字**吗?<p>只要在你想强调的地方使用**双星号**!
+你知道你可以在Coggle中使用**粗体文字**吗?<p>只要在你想强调的地方使用**双星号**!
 """>
 <fact-italic """
-你知道你可以在Coggles中使用*斜体*吗?<p>只要在你要强调的使用*星号*!
+你知道你可以在Coggle中使用*斜体*吗?<p>只要在你要强调的使用*星号*!
 """>
 <fact-links """
-你知道你可以在Coggles中放入链接吗? 你可以!<p>他们是这样工作的:<br>[描述](http://example.com)
+你知道你可以在Coggle中放入链接吗? 你可以!<p>他们是这样工作的:<br>[描述](http://example.com)
 """>
 <fact-download """
 你知道你可以以PDF或图像方式下载你的Coggle吗？你可以！在屏幕的右上方寻找下载按钮.
@@ -901,7 +901,7 @@
 你知道你可以把图像放到你的的Coggle中去吗？你可以!<p>只需将图像从你的计算器中拖放到你想要的地方.
 """>
 <fact-images2 """
-你知道你可以在Coggles上使用图片吗？你可以!<p>从你的计算器上拖曳一个图像到任何你想的地方。图像的迷你版上传并保存!
+你知道你可以在Coggle上使用图片吗？你可以!<p>从你的计算器上拖曳一个图像到任何你想的地方。图像的迷你版上传并保存!
 """>
 <fact-plaintext-in """
 你知道你可以拖放纯文本档到Coggle上导入它们吗？你可以!<p>如果你的档有缩格，Coggle甚至会添加 结构到导入的文本中.
@@ -922,7 +922,7 @@
 你知道你可以改变文字大小吗？你可以!<p>拖曳文本编辑区的一个角落.
 """>
 <fact-md-reference """
-你知道你可以使用Markdown在Coggles中添加链接、图像和更多吗？你可以!<p>这里是 <a>完整的参考</a>.
+你知道你可以使用Markdown在Coggle中添加链接、图像和更多吗？你可以!<p>这里是 <a>完整的参考</a>.
 """>
 <fact-multiline-keys """
 你知道你可以撤散多行文字吗？你可以！按下[Ctrl]键同时按下[enter]键插入新的一行。你也可以拖曳编辑字段的一角，然后正常使用[enter]键.
@@ -940,7 +940,7 @@
 你知道我们支持一个Markdown延伸来指定图像大小吗？我们的确是！像这样指定一个200 X 100像素的图像: ![图像描述](http://url.to.image "可选标题" 200x100)
 """>
 <fact-bold-kbshort """
-你知道你可以使用键盘快捷键在Coggles中添加**粗体文字**吗？你可以！只需连同你选择的要变成粗体的文字，按 [ctrl]+[b] (或 [cmd]+[b] 在 macs 上).
+你知道你可以使用键盘快捷键在Coggle中添加**粗体文字**吗？你可以！只需连同你选择的要变成粗体的文字，按 [ctrl]+[b] (或 [cmd]+[b] 在 macs 上).
 """>
 <fact-shortcuts-1 """
 你知道你可以只用键盘编辑Coggle吗？你可以，这里教你如何做:<p>[tab] 添加一个子节点<br>[shift]+[tab] 移动到父<br>[shift]+[return] 加同级
@@ -949,17 +949,17 @@
 你知道你可以使用键盘快捷键来编辑你所选择的哪个分支吗？你可以!<p>使用 [alt]+[shift]+ 箭头键沿着分支移动.
 """>
 <fact-task-lists """
-你知道你可以使用<a>Markdown</a> 把清单添加到Coggles吗？你可以, 这里是一个例子:<p>- [ ] 取消选中复选框<br>- [X] 选中复选框</p><p>点击复选框也自动改变Markdown.
+你知道你可以使用<a>Markdown</a> 把清单添加到Coggle吗？你可以, 这里是一个例子:<p>- [ ] 取消选中复选框<br>- [X] 选中复选框</p><p>点击复选框也自动改变Markdown.
 """>
 <fact-api-1 """
-你知道我们有一个API吗？我们的确有！程序可以用它来自动创建、检查和操作Coggles.
+你知道我们有一个API吗？我们的确有！程序可以用它来自动创建、检查和操作Coggle.
 """>
 <fact-organisation """
-要在商务中使用Coggle吗？你可以创建一个Coggle组织来管理你公司的Coggles.
+要在商务中使用Coggle吗？你可以创建一个Coggle组织来管理你公司的Coggle.
 """>
 <fact-organisation2 """
-你知道Coggle组织可以把他们的标志放在他们Coggles上吗？他们能!
+你知道Coggle组织可以把他们的标志放在他们Coggle上吗？他们能!
 """>
 <fact-organisation3 """
-你知道你可以创建一个Coggle组织来组织你的企业Coggles？ 你可以!
+你知道你可以创建一个Coggle组织来组织你的企业Coggle？ 你可以!
 """>
