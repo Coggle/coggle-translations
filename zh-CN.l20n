@@ -112,7 +112,7 @@
 <feature-embed "嵌入式图表">
 <plans-free-getstarted "入门">
 
-<plans-awesome-title "Awesome">
+<plans-awesome-title "Awesome会员">
 <plans-awesome-description "适合<b>个人</b>或<b>专业</b>使用,具有隐私和高级功能.">
 <plans-awesome-price "每月5美元">
 <feature-include-free "所有内容<b>免费</b>">
@@ -159,7 +159,7 @@
 <per-member-per-month "每人每月">
 <forever "永久">
 
-<awesome-feature "Awesome计划">
+<awesome-feature "Awesome会员">
 <org-feature "组织会员功能">
 
 <footer-about "关于">
@@ -252,7 +252,7 @@
 <settings-emails-title "通讯">
 <settings-language-title "语言">
 <settings-communication-title "通讯">
-<settings-account-title "关闭账户">
+<settings-account-title "注销账户">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
@@ -344,7 +344,7 @@
 <me-emails-title "电子邮件地址">
 <me-emails-primary "(主要的)">
 <me-emailstip "我们只发送给主要电子邮件的地址,但你其他任何地址可以收到邀请.">
-<me-talktome "跟我说话: ">
+<me-talktome "与我聊天: ">
 <me-diagram-notifications "图表通知: ">
 
 <slider-yes "是的">
@@ -454,7 +454,7 @@
 
 <me-support-awesomethanks """
   <p><b>感谢支持Coggle!</b></p>
-  <p>作为一个Coggle的早期支持者,你的订阅方案将带给你所有的<a>CoggleAwesome会员</a>功能!</p>
+  <p>作为一个Coggle的早期支持者,你的订阅方案将带给你所有的<a>Coggle Awesome会员</a>功能!</p>
   <a>管理你的方案</a>
 """>
 
@@ -688,7 +688,7 @@
 
 
 <awesome-hint-orgs """
-  如果你使用Coggle工作,看看<a>Coggle 组织会员</a>, 连同所有的CoggleAwesome会员功能,和商业友好的管理功能.
+  如果你使用Coggle工作,看看<a>Coggle 组织会员</a>, 连同所有的Coggle Awesome会员功能,和商业友好的管理功能.
 """>
 
 
@@ -777,9 +777,9 @@
 
 
 <faq-orgs-awesome """
-  <div>Coggle 组织会员和CoggleAwesome会员怎样联系起来？</div>
+  <div>Coggle 组织会员和Coggle Awesome会员怎样联系起来？</div>
   <div>
-    <p> Coggle组织是一种集中计费和对多个CoggleAwesome会员订阅许可证管理的好方法.</p>
+    <p> Coggle组织是一种集中计费和对多个Coggle Awesome会员订阅许可证管理的好方法.</p>
     <p>当你组织的每个用户在你组织的工作空间图上工作时,他们将自动获得Coggle真棒.这意味着所有的强大功能,包括私人图表、演示模式、扩展调色板和高分辨率图片上传.</p>
   </div>
 """>
