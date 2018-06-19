@@ -16,40 +16,40 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "化繁复为简洁。">
+<index-tagline "化繁复为简洁.">
 <index-signupnow "立即注册">
-<index-login "已经注册？在这里登录。">
+<index-login "已经注册？在这里登录.">
 
 <index-nav-pricing "价格">
 <index-nav-features "功能">
 <index-nav-gallery "画廊">
 
 <index-unleash "释放你的创造力">
-<index-blurb "快速轻松地制作美丽的笔记。与朋友和同事一起分享他们的想法。">
-<index-viewgallery "或者看看 <a>Coggle画廊</a> 来获取灵感。">
+<index-blurb "快速轻松地制作美丽的笔记.与朋友和同事一起分享他们的想法.">
+<index-viewgallery "或者看看 <a>Coggle画廊</a> 来获取灵感.">
 
 <index-colab-mindmaps """
   <h1>协作思维导图</h1>
-  <p>Coggle是创建和分享思维导图的在线工具。它可以在浏览器中在线工作，不用下载或安装。 <a>登录</a> 来开始制作思维导图！</p>
-  <p>无论您是在做笔记，头脑风暴，规划还是做一些非常有创意的事情，使用Coggle都可以让您的想法变得非常简单。 只要你喜欢，尽可能与朋友或同事分享。 您所做的更改将立即显示在浏览器中，无论他们身在何处。</p>
+  <p>Coggle是创建和分享思维导图的在线工具.它可以在浏览器中在线工作,不用下载或安装. <a>登录</a> 来开始制作思维导图!</p>
+  <p>无论您是在做笔记,头脑风暴,规划还是做一些非常有创意的事情,使用Coggle都可以让您的想法变得非常简单. 只要你喜欢,尽可能与朋友或同事分享. 您所做的更改将立即显示在浏览器中,无论他们身在何处.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
   <h2>随手笔记</h2>
-  <p>开会中或者任何灵感碰撞的时候, 打开Coggle创建一份组织精美的笔记.</p>
+  <p>开会中或者任何灵感碰撞的时候,打开Coggle创建一份组织精美的笔记.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
   <h2>头脑风暴</h2>
-  <p>把你的想法在Coggle中开一个小头, 然后把它一点一点变成成清晰详实可分享的大计划.</p>
+  <p>把你的想法在Coggle中开一个小头,然后把它一点一点变成成清晰详实可分享的大计划.</p>
 """>
 
 <index-use-share """
   <div><img></div>
   <h2>信息共享</h2>
-  <p>将每一个细节浓缩成Coggle笔记, 然后共享给团队, 同学, 或者全世界!</p>
+  <p>将每一个细节浓缩成Coggle笔记,然后共享给团队,同学,或者全世界!</p>
 """>
     
 <index-use-other """
@@ -59,39 +59,39 @@
 <index-helpteam-orgs-usd """
   <a><img></a>
   <h2>帮助你的团队与 <a>Coggle组织</a> 进行沟通.</h2>
-  <p>为您的团队提供共享空间，进行头脑风暴，记录笔记和记录他们的想法。Coggle组织具有您需要的所有功能，用于管理数据控制并与您的业务工作流集成。阅读 <a>这里</a> 来了解更多.</p>
+  <p>为您的团队提供共享空间,进行头脑风暴,记录笔记和记录他们的想法.Coggle组织具有您需要的所有功能,用于管理数据控制并与您的业务工作流集成.阅读 <a>这里</a> 来了解更多.</p>
   <a>立即注册<div>每位会员每月8美元</div></a>
 """>
 
 <features-realtime "实时协作">
-<features-realtime-desc "你可以邀请你的朋友和同事和你一起制作笔记, 同时哦.">
+<features-realtime-desc "你可以邀请你的朋友和同事和你一起制作笔记,同时哦.">
 
 <features-images-title "一幅图胜过千言万语">
 <features-images "你可以拖拽你桌面上的图片到笔记中, 非常简单! 而且图片数量不限.">
 
 <features-fullhistory-title "保存每个更改">
-<features-history "做了一些改动, 几天之后觉得不喜欢? 没关系, 在笔记的修改历史中选择一个你喜欢的时间点, 基于它制作一份拷贝!">
+<features-history "做了一些改动, 几天之后觉得不喜欢？ 没关系, 在笔记的修改历史中选择一个你喜欢的时间点, 基于它制作一份拷贝!">
 
 <features-blame-title "任务追踪">
-<features-blame "想看看是谁在你的共享笔记中做了什么改动? 只需要进入笔记的修改历史中查看所有的修改记录.">
+<features-blame "想看看是谁在你的共享笔记中做了什么改动？ 只需要进入笔记的修改历史中查看所有的修改记录.">
 
 <features-colours-title "选择最精准的颜色">
-<features-colours "外貌协会会员? 对颜色和布局非常挑剔? 没问题, 只需要点击连接线就可以在色彩圆环中选择你想要的颜色.">
+<features-colours "外貌协会会员？ 对颜色和布局非常挑剔？ 没问题, 只需要点击连接线就可以在色彩圆环中选择你想要的颜色.">
 
 <features-notifications-title "电子邮件通知">
-<features-notifications "当协作者编辑与您共享的图表时，获取附有更改摘要的电子邮件通知。">
+<features-notifications "当协作者编辑与您共享的图表时,获取附有更改摘要的电子邮件通知.">
 
 <features-chat-title "评论和聊天">
-<features-chat "将注释添加到节点并与协作者聊天，而不用离开图表工作区。">
+<features-chat "将注释添加到节点并与协作者聊天,而不用离开图表工作区.">
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever "Coggle可以免费使用，而且一直都是。 创建无限制的公共图表并免费分享。">
+<plans-title-freeforever "Coggle可以免费使用,而且一直都是. 创建无限制的公共图表并免费分享.">
 
 <plans-free-forever-title "永久免费">
-<plans-free-description "发现Coggle和偶尔使用的理想选择。">
+<plans-free-description "发现Coggle和偶尔使用的理想选择.">
 <plans-free-price "永久免费">
 <feature-free-private "<b>1</b> 个私人图表">
 <feature-realtime "<b>即时</b>合作">
@@ -112,8 +112,8 @@
 <feature-embed "嵌入式图表">
 <plans-free-getstarted "入门">
 
-<plans-awesome-title "超棒">
-<plans-awesome-description "适合<b>个人</b>或<b>专业</b>使用，具有隐私和高级功能。">
+<plans-awesome-title "Awesome会员">
+<plans-awesome-description "适合<b>个人</b>或<b>专业</b>使用,具有隐私和高级功能.">
 <plans-awesome-price "每月5美元">
 <feature-include-free "所有内容<b>免费</b>">
 <feature-unlimited-private "<b>无限</b> 私人图表">
@@ -127,19 +127,19 @@
 <feature-bigimages "<b>高分辨率图片</b>上传">
 <feature-linestyles "<b>控制线样式</b>">
 <feature-extendedcolours "更多颜色">
-<feature-editable-links "Collaborate by <b>link</b>">
+<feature-editable-links "与<b>link</b>协作">
 <plans-findoutmore "了解更多">
 
 <plans-org-title "组织会员">
-<plans-org-description "<b>团队</b>使用的理想选择， 管理员能控制团队权限，并合并收费。">
+<plans-org-description "<b>团队</b>使用的理想选择, 管理员能控制团队权限,并合并收费.">
 <plans-org-price "每人每月8美元">
-<feature-org-awesome "<b>超棒会员</b>的所有功能">
+<feature-org-awesome "<b>Awesome会员</b>的所有功能">
 <feature-org-separate "每人独立工作区">
 <feature-org-billing "合并收费">
 <feature-bulkexport "<b>批量汇出</b>">
 <feature-adminpanel "<b>用户和数据</b>管理">
 <feature-branding "品牌图表">
-<feature-org-saml-sso "SAML Single Sign On">
+<feature-org-saml-sso "SAML单独登录">
 
 <plans-select "选择">
 <continue-free "继续<b>免费会员</b>计划">
@@ -157,9 +157,9 @@
 
 <per-month "每月">
 <per-member-per-month "每人每月">
-<forever "forever">
+<forever "永久">
 
-<awesome-feature "超棒计划">
+<awesome-feature "Awesome会员">
 <org-feature "组织会员功能">
 
 <footer-about "关于">
@@ -183,14 +183,14 @@
 <created-by-you value:"由你创建">
 <shared-with-you value:"与你分享">
 <folder-title placeholder:"输入活页夹名称">
-<folder-areyousure "你确定吗? <span>我确定</span>">
+<folder-areyousure "你确定吗？ <span>我确定</span>">
 <logout "退出">
 <settings "设置">
 <return-to-diagrams "返回到你的图表">
-<upgrade-to-awesome "升级为超棒会员！">
-<awesome-time-remaining "超棒会员试用到期<time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<upgrade-to-awesome "升级为Awesome会员!">
+<awesome-time-remaining "Awesome会员试用到期<time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
 <awesome-trial-after "然后您将会回复为免费会员">
-<want-awesome-for-free "希望免费获得超棒会员的资格吗？">
+<want-awesome-for-free "希望免费获得Awesome会员的资格吗？">
 <personal-org "私人 <span>(<a>这是什么？</a>)</span>">
 <help-search placeholder:"我想问...">
 <my-settings "我的设置和账单">
@@ -210,10 +210,10 @@
     <div><a>创建图表</a></div>
 """>
 <doclist-shared "<b>与你分享</b> – 由其他人创建的、然后与你共享的图表在此文件夹.">
-<doclist-folder-empty "<b>这是一个空活页夹!</b> – 在这里创建一个新的图表，或者将图表拖放到文件夹中.">
+<doclist-folder-empty "<b>这是一个空活页夹!</b> – 在这里创建一个新的图表,或者将图表拖放到文件夹中.">
 <impersonatedaccess "你正在作为一个组织查看Coggle. <a>返回到管理面板</a>">
 
-<doclist-loading-failed "嗯，哦！加载档夹失败，刷新页面，然后再试一次.">
+<doclist-loading-failed "嗯,哦!加载档夹失败,刷新页面,然后再试一次.">
 <doclist-discover-whatspossible "想从Coggle获得更多吗？ 发现<a>什么是可能的</a>.<div></div>">
 
 <tooltip-createorg title:"创建一个组织">
@@ -231,7 +231,7 @@
 <help-searchcoggle-title "搜索Coggle ">
 <help-searchcoggle "输入要查找的文档 “-”; 快速搜索图中的任何一个字!">
 <help-hide-for-now "现在隐藏起来">
-<help-ok-got-it "好的，我知道了!">
+<help-ok-got-it "好的,我知道了!">
 <help-creatediagram-title "创建一个新图表">
 <help-creatediagram """
   <p>创建一个新的Coggle图表开始.</p>
@@ -252,7 +252,7 @@
 <settings-emails-title "通讯">
 <settings-language-title "语言">
 <settings-communication-title "通讯">
-<settings-account-title "关闭账户">
+<settings-account-title "注销账户">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
@@ -274,7 +274,7 @@
 
 <billing-header """
     <h3>结算明细</h3>
-    <div>我们认为您会喜欢您的Coggle订阅，如果由于某种原因您不完全满意，请与我们联系 <b>hello@coggle.it</b> 我们会做出正确的决定。</div>
+    <div>我们认为您会喜欢您的Coggle订阅,如果由于某种原因您不完全满意,请与我们联系 <b>hello@coggle.it</b> 我们会做出正确的决定.</div>
 """>
 <billing-on-file """
   <p>我们为您提供的卡片结束于 <b>{{ $cardEndsIn }}</b>, 它到期于 <b>{{ $cardExpires }}</b>.</p>
@@ -282,7 +282,7 @@
 """>
 <billing-ok-button "{{ settingsSubmitButton[$submit] }}">
 <billing-charge-description """
-    我们会向你收取
+    我们会向你收费
     <span>{{ $product.price }}</span>
     <span>{{ billingPeriod[$product.periodKey] }}</span>
 """>
@@ -321,67 +321,67 @@
 <billing-weusestripe "我们使用 <a>Stripe</a> 安全地处理支付：你的卡的数据永远不会通过我们的服务器.">
 
 <cancel-really """
-  <span>真的要取消你的会员方案吗?</span>
+  <span>真的要取消你的会员方案吗？</span>
   <div>不可能!</div>
   <div>是的, 取消订阅</div>
 """>
 
 <cancel-discount-available """
-  <span>继续订阅超棒会员方案，获得<b>接下来三个月</b>的<b>七折优惠</b>！</span>
-  <div>保持超棒会员！</div>
+  <span>继续订阅Awesome会员方案,获得<b>接下来三个月</b>的<b>七折优惠</b>!</span>
+  <div>保持Awesome会员!</div>
   <div>取消订阅</div>
   <a class='back'>返回</a>
 """>
 
-<summary-free-plan "您还没有订阅。 <a>现在升级！</a></p>">
-<summary-active-plan "您正在处于<code>{{ $planName }}</code> 计划。 <a>取消订阅</a> 或 <a href='/plans'>比较会员计划</a>.</p>">
-<summary-upgrade-yearly "<p>通过支付年计划来获取额外两个月免费试用 (<b>节省15％</b>)。 <a>升级 (<b>50美元</b>)</a></p><p>当前计划中剩余的时间将自动从升级成本中扣除。</p>">
-<summary-ending-plan "您正在处于<code>{{ $planName }}</code>机会。 在当前结算周期结束时<b>设置为取消</b>。 <a>重新订阅</a></p>">
-<summary-overdue-plan "由于逾期付款，您的订阅无效。 您可以通过更新卡或与我们联系来解决此问题 <b>hello@coggle.it</b>.</p>">
+<summary-free-plan "您还没有订阅. <a>现在升级!</a></p>">
+<summary-active-plan "您正在处于<code>{{ $planName }}</code> 计划. <a>取消订阅</a> 或 <a href='/plans'>比较会员计划</a>.</p>">
+<summary-upgrade-yearly "<p>通过支付年计划来获取额外两个月免费试用 (<b>节省15％</b>). <a>升级 (<b>50美元</b>)</a></p><p>当前计划中剩余的时间将自动从升级成本中扣除.</p>">
+<summary-ending-plan "您正在处于<code>{{ $planName }}</code>机会. 在当前结算周期结束时<b>设置为取消</b>. <a>重新订阅</a></p>">
+<summary-overdue-plan "由于逾期付款,您的订阅无效. 您可以通过更新卡或与我们联系来解决此问题 <b>hello@coggle.it</b>.</p>">
 
 
 <me-communication-title "通讯">
 <me-emails-title "电子邮件地址">
 <me-emails-primary "(主要的)">
-<me-emailstip "我们只发送给主要电子邮件的地址，但你其他任何地址可以收到邀请.">
-<me-talktome "跟我说话: ">
+<me-emailstip "我们只发送给主要电子邮件的地址,但你其他任何地址可以收到邀请.">
+<me-talktome "与我聊天: ">
 <me-diagram-notifications "图表通知: ">
 
 <slider-yes "是的">
 <slider-no "不是">
 
 <me-language-title "选择你偏好的语言">
-<me-language-tip "用你的母语来帮助我们提供 Coggle，或者贡献我们在 Github 上的<a>翻译计划</a>来补上缺少的东西！">
-<me-language-questions "如果你有任何关于翻译的问题——或者你有任何修正或改良，但你不确定如何帮上忙，可以寄信到 <a>translate@coggle.it</a>。">
+<me-language-tip "用你的母语来帮助我们提供 Coggle,或者贡献我们在 Github 上的<a>翻译计划</a>来补上缺少的东西!">
+<me-language-questions "如果你有任何关于翻译的问题——或者你有任何修正或改良,但你不确定如何帮上忙,可以寄信到 <a>translate@coggle.it</a>.">
 
-<recommend-coggle "Recommend Coggle">
+<recommend-coggle "推荐Coggle">
 <recommend-share-link """
-  <p>Either invite collaborators to your diagrams, or share your referral link via
-    <a> Facebook</a>, <a> Twitter</a>, or <a>email</a>.
+  <p>邀请协作者加入你的图表,或者通过
+    <a>Facebook</a>,<a>Twitter</a>,或<a>电子邮件</a>分享你的推荐链接.
   </p>
   <input></input>
 """>
 <invite-n-more[$introduceCount] {
-       1: "One more invite to try Awesome for free!",
-   *many: "Invite <span>{{ $introduceCount }}</span> more people to try Awesome for free!",
+       1: "还有一个邀请即可免费试用Awesome会员!",
+   *many: "邀请 <span>{{ $introduceCount }}</span>更多的人来免费试用Awesome会员!",
 }>
 
 <claim-free-month """
-  <p>Claim your free month of Coggle Awesome!</p>
+  <p>确认Coggle的免费一个月Awesome会员!</p>
   <div>Redeem Now</div>
 """>
 
-<close-account-title "Close Your Coggle Account">
-<close-account "Permanently close your free Coggle account.">
-<close-account-description "This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.">
-<close-account-button "Close my Account">
+<close-account-title "注销你的Coggle账户">
+<close-account "永久注销你的免费Coggle账户.">
+<close-account-description "这个过程<b>不可逆转</b>,并且会立即生效.您将失去对所有图表的访问权限,因此请确保您已导出任何要保留的图表.">
+<close-account-button "注销我的账户">
 <close-account-confirmation """
-  <input placeholder='Type your email address'/>
+  <input placeholder='输入你的电子邮箱地址'/>
   <button>CONFIRM</button>
 """>
 
 /* Gallery Content (/gallery) */
-<gallery-title "Coggle 画廊">
+<gallery-title "Coggle画廊">
 <gallery-blurb2 "一手挑选最好的、用Coggle制作的图表收集!">
 <gallery-folder-blurb2 """
   <b>Coggle 画廊</b> - 一手挑选最好的、用Coggle制作的图表收集! <br/>
@@ -418,43 +418,43 @@
 <zoom-page "缩放页面">
 <add-label "添加标签">
 
-<help-gohome "点击Coggle标志回到主页，在这里你的档会自动保存.">
+<help-gohome "点击Coggle标志回到主页,在这里你的档会自动保存.">
 <help-add-node "使用（+）按钮来添加分支.">
 <help-edit-node "<p>点击任何项目编辑文字.</p><p>通过拖曳编辑区的角落更改文字大小.</p>">
 <help-move-node "拖曳任何文字来移动它.">
-<help-node-menu "右键点击进入菜单。在这里，你可以添加、删除、复制、并安排分支机构.">
+<help-node-menu "右键点击进入菜单.在这里,你可以添加、删除、复制、并安排分支机构.">
 
-<help-multiline "使用[CTRL] + [进入]添加多行文字，或键入之前拖曳重设大小握.">
+<help-multiline "使用[CTRL] + [进入]添加多行文字,或键入之前拖曳重设大小握.">
 <help-toolbar-invite-title "与他人协作">
-<help-toolbar-invite "点击邀请他人编辑或查看这个Coggle。你可以点击其图标控制人的权限.">
+<help-toolbar-invite "点击邀请他人编辑或查看这个Coggle.你可以点击其图标控制人的权限.">
 <help-toolbar-invitemulti-title "邀请多人">
 <help-toolbar-invitemulti """
-  为了节省时间，你可以一次邀请多个人：键入（或贴上）用空格，逗号分隔的电子邮件地址<b>,</b> 或分号<b>;</b>
+  为了节省时间,你可以一次邀请多个人：键入（或贴上）用空格,逗号分隔的电子邮件地址<b>,</b> 或分号<b>;</b>
 """>
 <help-toolbar-inviteflow "与他人一起工作Coggle效果最好-输入朋友或同事的电子邮件地址.">
-<help-toolbar-invitedonefaster "让事情更快完成 - 邀请某人与您一起编辑并立即看到它们的改变。">
+<help-toolbar-invitedonefaster "让事情更快完成 - 邀请某人与您一起编辑并立即看到它们的改变.">
 <help-toolbar-inviteflow-title "输入一个同事的电子邮件">
-<help-inactive-invite "与朋友合作，帮助把你的想法赋予生命!<br>通过这里的电子邮件邀请.">
+<help-inactive-invite "与朋友合作,帮助把你的想法赋予生命!<br>通过这里的电子邮件邀请.">
 
 <banner-open-getawesome """
-    这是一个开放的Coggle - 它可能会出现在<a>Coggle 画廊.</a>升级为<a>超棒会员</a> 把它变成私人的.
+    这是一个开放的Coggle - 它可能会出现在<a>Coggle画廊.</a>升级为<a>Awesome会员</a> 把它变成私人的.
 """>
 <banner-open-awesome """
-        这是一个开放的Coggle - 它可能会出现在<a>Coggle 画廊.</a> 你可以把它变成私人的，从<a>共享对话框</a>.
+        这是一个开放的Coggle - 它可能会出现在<a>Coggle画廊.</a> 你可以把它变成私人的,从<a>共享对话框</a>.
 """>
 
 <me-as-awesome-orgmember """
   <p>这是你本人和 - 你正查看Coggle作为<b>组织成员</b>.</p>
-  <p>这也代表你同时获得 <a>Coggle 超棒会员</a>的所有强大功能！</p>
+  <p>这也代表你同时获得 <a>Coggle Awesome会员</a>的所有强大功能!</p>
 """>
 
-<go-awesome "成为超棒会员！">
-<free-awesome "希望免费升级超棒会员吗？">
-<upgrade-now "Upgrade Now">
+<go-awesome "成为Awesome会员!">
+<free-awesome "希望免费升级Awesome会员吗？">
+<upgrade-now "立刻升级">
 
 <me-support-awesomethanks """
-  <p><b>感谢支持 Coggle！</b></p>
-  <p>作为一个 Coggle 的早期支持者，你的订阅方案将带给你所有的 <a>Coggle 超棒会员</a>功能！</p>
+  <p><b>感谢支持Coggle!</b></p>
+  <p>作为一个Coggle的早期支持者,你的订阅方案将带给你所有的<a>Coggle Awesome会员</a>功能!</p>
   <a>管理你的方案</a>
 """>
 
@@ -467,10 +467,10 @@
 
 <messages-title "讨论">
 <messages-search placeholder:" 搜索">
-<messages-entry placeholder:" 输入消息。使用@标记人。按[Enter]发送.">
+<messages-entry placeholder:" 输入消息.使用@标记人.按[Enter]发送.">
 <messages-start "你已经达到了启动!">
 <messages-upgrade "需要2周以上的历史？了解如何升级到<a>真棒</a> 要得到完整的历史.">
-<messages-comments-notes placeholder:"输入评论，讨论和笔记。">
+<messages-comments-notes placeholder:"输入评论,讨论和笔记.">
 
 <diagram-toolbar-history title:" 查看和复制以前的版本.">
 <diagram-toolbar-messages title:" 评论和聊天.">
@@ -478,22 +478,22 @@
 <diagram-toolbar-share title:" 分享此Coggle.">
 <diagram-toolbar-download title:" 下载此Coggle.">
 <diagram-toolbar-copy title:" 创建此Coggle副本.">
-<diagram-toolbar-public-detail "Public Diagram" title:"This diagram may appear in the Coggle Gallery and search results.">
+<diagram-toolbar-public-detail "公共图表" title:"该图表可能会出现在Coggle画廊和搜索结果中.">
 
 /* history slider content */
-<current-version "current">
+<current-version "当前">
 
 /* sharing dialog content */
 <share-newlink "新链接:">
 <share-newlink-tip """
-这些让你与没有登录的人分享你的图表，但要小心，他们让<strong>任何有该链接的人</strong> 看到你的作品!
+这些让你与没有登录的人分享你的图表,但要小心,他们让<strong>任何有该链接的人</strong> 看到你的作品!
 """>
 <share-tag-user "用户">
 <share-tag-embed "嵌入">
 <share-tag-writable "编辑的">
 <share-send-email "发送">
 <share-email-hints """
-  <div>为了邀请，键入电子邮件</div>
+  <div>为了邀请,键入电子邮件</div>
   <div>然后按下回车键</div>
   <div>friend@example.com</div>
 """>
@@ -502,8 +502,8 @@
   <a title='在Facebook上分享'> <img/> </a>
   <a title='在Twitter上分享'> <img/> </a>
 """>
-<share-open "每个人都可以查看此图吗?">
-<share-open-detail "打开图表可以被任何人看到，并且可以通过搜索引擎找到">
+<share-open "每个人都可以查看此图吗？">
+<share-open-detail "打开图表可以被任何人看到,并且可以通过搜索引擎找到">
 
 /* download dialog content */
 <download-pdf "下载PDF ">
@@ -512,7 +512,7 @@
 <download-txt "纯文本纲要">
 <download-advanced "高级类型">
 <download-failed "档生成失败.">
-<download-import-tip "<b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a>Read more.</a>">
+<download-import-tip "<b>寻找如何导入？</b> 将.mm或.txt文件拖放到图表上以将其导入!<a>了解更多.</a>">
 
 /* access control slider content */
 <access-readonly "只能读取<br/><span>只允许他们查看</span>">
@@ -528,7 +528,7 @@
 
 /* Notification Messages */
 <readonly-warning """
-  你不能编辑此图. <div>如果需要进行编辑，请作者给你权限.</div>
+  你不能编辑此图. <div>如果需要进行编辑,请作者给你权限.</div>
 """>
 <websocket-offline """
 由于网络问题修改可能缓慢. <a>帮我解决这个问题!</a>
@@ -537,14 +537,14 @@
   <b>失去连接</b>: 修改可能不会被保存</div>
 """>
 <unrecoverable-warning """
-  有不可恢复的错误，请重新加载页面。如果你有关于什么可能出错的信息，请发送电子邮件至<a>contact@coggle.it</a>
+  有不可恢复的错误,请重新加载页面.如果你有关于什么可能出错的信息,请发送电子邮件至<a>contact@coggle.it</a>
 """>
 <banner-undo-warning "没有更多的还原!">
 <banner-redo-warning "没有更多的重做!">
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
-你的图像已经被调整了大小以适合{{$maxWidth}}乘以 {{$maxHeight}}，这样我们就可以永远免费存储你的图像了!
+你的图像已经被调整了大小以适合{{$maxWidth}}乘以 {{$maxHeight}},这样我们就可以永远免费存储你的图像了!
   你可以注册<a>Coggle真棒</a> 上传更大的图片. <a>阅读更多</a>.
 """>
 
@@ -627,10 +627,10 @@
   阅读更多...
 """>
 <sidebar-markdown "Markdown">
-<sidebar-bgmenu "透过右键点击背景来进行<b>缩放</b>、<b>还原</b>、及<b>贴上复制的项目</b>。">
-<sidebar-bgmenu2 "在任何地方单击右键，便能<b>缩放</b>，添加<b>标签</b>，<b>还原</b>和<b>粘贴已复制的项目</b>。">
+<sidebar-bgmenu "透过右键点击背景来进行<b>缩放</b>、<b>还原</b>、及<b>贴上复制的项目</b>.">
+<sidebar-bgmenu2 "在任何地方单击右键,便能<b>缩放</b>,添加<b>标签</b>,<b>还原</b>和<b>粘贴已复制的项目</b>.">
 <sidebar-icons "图示">
-<markdown-icons "当正在编辑时输入 <code>:</code>，或使用项目编辑区上方的按钮。">
+<markdown-icons "当正在编辑时输入 <code>:</code>,或使用项目编辑区上方的按钮.">
 <markdown-bold "<code>**文字**</code> 让文字<b>粗体</b>">
 <markdown-italic "<code>*斜体*</code> 让文字<i>斜体</i>">
 <markdown-link "<code>[标题](example.com)</code> 创建一个<a>链接</a>">
@@ -645,16 +645,16 @@
 
 /* diagram not-found page */
 <nodiagram-title "未发现图表!">
-<nodiagram-invalid-link "此图的链接无效，或对它的访问已经被撤销.">
-<nodiagram-logged-in "你目前作为。。。登录<b>{{ $user.givenName }}</b>, 用的电子邮件地址<b>{{ $user.email }}</b> . 如果此图表存在，这个帐户没有权限访问.">
-<nodiagram-not-logged-in "<b>你目前尚未登录.</b> 如果此图存在，你登录到你的帐户可以访问这个图表.">
-<nodiagram-may-need-access "如果有人给你一个链接到这个图，他们可能还需要给你权限查看它.">
+<nodiagram-invalid-link "此图的链接无效,或对它的访问已经被撤销.">
+<nodiagram-logged-in "你目前作为...登录<b>{{ $user.givenName }}</b>, 用的电子邮件地址<b>{{ $user.email }}</b> . 如果此图表存在,这个帐户没有权限访问.">
+<nodiagram-not-logged-in "<b>你目前尚未登录.</b> 如果此图存在,你登录到你的帐户可以访问这个图表.">
+<nodiagram-may-need-access "如果有人给你一个链接到这个图,他们可能还需要给你权限查看它.">
 
 
 /* Awesome Landing Page (/awesome) */
 <awesome-pitch """
-  <h2>Coggle 超棒会员</h2>
-  <p>成为 Coggle 超棒会员，给你的思维充电。添加巨大的图像，显示你的Coggle，创造不会被搜索引擎索引的私人Coggle.</p>
+  <h2>Coggle Awesome会员</h2>
+  <p>成为 Coggle Awesome会员,给你的思维充电.添加巨大的图像,显示你的Coggle,创造不会被搜索引擎索引的私人Coggle.</p>
 """>
 
 <awesome-signup """
@@ -663,71 +663,71 @@
 """>
 
 <awesome-feature-private-title "无限的私人Coggle">
-<awesome-feature-private "创造你想要的尽可能多的私人Coggle。如果你万一取消订阅,他们仍保持私有,并且你保持访问.">
+<awesome-feature-private "创造你想要的尽可能多的私人Coggle.如果你万一取消订阅,他们仍保持私有,并且你保持访问.">
 
 <awesome-feature-joinloop-title "组成环圈和连接分支">
-<awesome-feature-joinloop "创造更强大和灵活的图表来表示流程和其他复杂概念。">
+<awesome-feature-joinloop "创造更强大和灵活的图表来表示流程和其他复杂概念.">
 
 <awesome-feature-editablelinks-title "匿名协作">
-<awesome-feature-editablelinks "分享秘密链接以允许团队不需要登录便可以编辑图表。">
+<awesome-feature-editablelinks "分享秘密链接以允许团队不需要登录便可以编辑图表.">
 
 <awesome-feature-linestyle-title "更改线条样式">
-<awesome-feature-linestyle "更改图表中的线条粗细和样式。">
+<awesome-feature-linestyle "更改图表中的线条粗细和样式.">
 
 <awesome-feature-bigimages-title "给他们展示大图片">
 <awesome-feature-bigimages "把庞大的图像加到你的Coggle来说明你的想法:你只要把你的图片从桌面上拖放到一个文件里.">
 
 <awesome-feature-colours-title "更多的颜色">
-<awesome-feature-colours "获得更多生动色彩，以帮助组织和突出您的想法。">
+<awesome-feature-colours "获得更多生动色彩,以帮助组织和突出您的想法.">
 
 <awesome-feature-autoarrange-title "自动分支布局">
-<awesome-feature-autoarrange "使用Coggle 的自动分支排列功能，只需点击一下即可齐整分支的位置。">
+<awesome-feature-autoarrange "使用Coggle 的自动分支排列功能,只需点击一下即可齐整分支的位置.">
 
 <awesome-feature-folders-title "共享档夹">
-<awesome-feature-folders "把您的图表放入共享文件夹中，以保持其齐整性，并可轻松地与团体共享。">
+<awesome-feature-folders "把您的图表放入共享文件夹中,以保持其齐整性,并可轻松地与团体共享.">
 
 
 <awesome-hint-orgs """
-  如果你使用Coggle工作,看看<a>Coggle 组织会员</a>, 连同所有的Coggle超棒会员功能,和商业友好的管理功能.
+  如果你使用Coggle工作,看看<a>Coggle 组织会员</a>, 连同所有的Coggle Awesome会员功能,和商业友好的管理功能.
 """>
 
 
 /* Organisations Landing Page (/organisations) */
 <orgs-pitch-3 """
   <h2>Coggle 组织会员</h2>
-  <p>每个Coggle组织带有管理大批人群的设计特点，会员来来去去，需要保护敏感信息.</p>
+  <p>每个Coggle组织带有管理大批人群的设计特点,会员来来去去,需要保护敏感信息.</p>
 """>
 
 <orgs-signup "<a>创建 组织</a>">
 
 <orgs-subpitch """
-  <p>当信息对你的团队至关重要，你需要更强大的工具，更能控制你的数据。这就是我们为什么创建了<a>Coggle 组织会员</a>.</p>
+  <p>当信息对你的团队至关重要,你需要更强大的工具,更能控制你的数据.这就是我们为什么创建了<a>Coggle 组织会员</a>.</p>
   <p>定价很简单, <b>每人每月8美元 </b>.<br><b>一切无限使用</b>.</p>
 """>
 
 <orgs-feature-saml-sso-title "SAML单点登录">
-<orgs-feature-saml-sso "使用您现有的SAML单点登录服务对用户进行身份验证。 支持OneLogin，Okta等等。">
+<orgs-feature-saml-sso "使用您现有的SAML单点登录服务对用户进行身份验证. 支持OneLogin,Okta等等.">
 
 <orgs-feature-in-one-place-title "一切都在一个地方">
-<orgs-feature-in-one-place "你组织所有的图表都在一个地方。把你团队的工作放置在一个易于管理的地方，保持它的安全 - 所以你知道在确切的地方查找.">
+<orgs-feature-in-one-place "你组织所有的图表都在一个地方.把你团队的工作放置在一个易于管理的地方,保持它的安全 - 所以你知道在确切的地方查找.">
 
 <orgs-feature-control-sharing-title "共享控制">
-<orgs-feature-control-sharing "你可以确保你创造的Coggle 组织留在你的组织。这可以保护敏感材料不被意外曝光，如果错误的电子邮件地址被邀请到一个文档的话.">
+<orgs-feature-control-sharing "你可以确保你创造的Coggle 组织留在你的组织.这可以保护敏感材料不被意外曝光,如果错误的电子邮件地址被邀请到一个文档的话.">
 
 <orgs-feature-manage-users-title "安全地管理用户">
-<orgs-feature-manage-users "从你组织删除成员不会失去他们的工作。使用管理仪表板查看由你的组织成员创建的所有图表，不论这些成员是过去和现在的，被删除或现役的.">
+<orgs-feature-manage-users "从你组织删除成员不会失去他们的工作.使用管理仪表板查看由你的组织成员创建的所有图表,不论这些成员是过去和现在的,被删除或现役的.">
 
 <orgs-feature-export-title "批量导出">
-<orgs-feature-export "组织管理员可以以机器可读、可存盘的 JSON 格式，单一点击下载所有的Coggle 组织。非常适合监管合规或内心的平静.">
+<orgs-feature-export "组织管理员可以以机器可读、可存盘的 JSON 格式,单一点击下载所有的Coggle 组织.非常适合监管合规或内心的平静.">
 
 <orgs-feature-branding-title "展示你的品牌">
-<orgs-feature-branding "打造带有你的标志、专业清洁的图表，以 PDF 或 PNG 格式导出。非常适合在你的公司中与客户或同事分享图表.">
+<orgs-feature-branding "打造带有你的标志、专业清洁的图表,以 PDF 或 PNG 格式导出.非常适合在你的公司中与客户或同事分享图表.">
 
 <orgs-feature-editable-links-title "可编辑的私人链接">
-<orgs-feature-editable-links "创建私人链接，与你的组织以外的合作者分享，允许他们不必登录可以编辑图表">
+<orgs-feature-editable-links "创建私人链接,与你的组织以外的合作者分享,允许他们不必登录可以编辑图表">
 
 <orgs-feature-awesome """
-此外，你组织所有成员将获得 <a>Coggle 超棒会员</a> 功能。
+此外,你组织所有成员将获得 <a>Coggle Awesome会员</a> 功能.
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
@@ -738,8 +738,8 @@
 """>
 
 <faq-orgs-whatare """
-  <div>什么是Coggle 组织会员?</div>
-  <div><p>Coggle 组织会员在你个人的图表和那些你公司所属的图表之间形成一个分离。通过把个人的和职业的分离开来，你获得对存储在Coggle上的企业数据更大的控制，包括何时以及如何被你的员工共享.</p></div>
+  <div>什么是Coggle 组织会员？</div>
+  <div><p>Coggle 组织会员在你个人的图表和那些你公司所属的图表之间形成一个分离.通过把个人的和职业的分离开来,你获得对存储在Coggle上的企业数据更大的控制,包括何时以及如何被你的员工共享.</p></div>
 """>
 
 
@@ -747,10 +747,10 @@
 
 
 <faq-orgs-whofor """
-  <div> Coggle组织是为谁的?</div>
+  <div> Coggle组织是为谁的？</div>
   <div>
-    <p>Coggle 组织会员是为那些对输入Coggle 的数据需要更大控制权的团队或需要保持个人资料独立而设计的。他们正在成功地被私人公司、公共机构、学校和大学用来帮助群体安全地合作.</p>
-    <p>任何需要对共享图表有更多控制权的群体，无论是为监管或内部政策合规性，会发现 Coggle 组织会员有用处.</p>
+    <p>Coggle 组织会员是为那些对输入Coggle 的数据需要更大控制权的团队或需要保持个人资料独立而设计的.他们正在成功地被私人公司、公共机构、学校和大学用来帮助群体安全地合作.</p>
+    <p>任何需要对共享图表有更多控制权的群体,无论是为监管或内部政策合规性,会发现 Coggle 组织会员有用处.</p>
   </div>
 """>
 
@@ -761,12 +761,12 @@
 
 
 <faq-orgs-features """
-  <div>什么是Coggle组织的主要特点?</div>
+  <div>什么是Coggle组织的主要特点？</div>
   <div>
-    <p><b>仪表板管理员</b>: 完全控制你的组织成员创建的图表，包括恢复已删除的图表.</p>
+    <p><b>仪表板管理员</b>: 完全控制你的组织成员创建的图表,包括恢复已删除的图表.</p>
     <p><b>数据控制</b>: 选择限制只在你的组织中共享数据.</p>
-    <p><b>批量导出</b>: 为了进行备份或监管目的，导出你组织的所有图表.</p>
-    <p><b>集中计费</b>: 在一个地方支付多个超棒会员订阅，并且当你公司的成员进入或离开时取消订阅. </p>
+    <p><b>批量导出</b>: 为了进行备份或监管目的,导出你组织的所有图表.</p>
+    <p><b>集中计费</b>: 在一个地方支付多个Awesome会员订阅,并且当你公司的成员进入或离开时取消订阅. </p>
   </div>
 """>
 
@@ -777,10 +777,10 @@
 
 
 <faq-orgs-awesome """
-  <div>Coggle 组织会员和Coggle超棒会员怎样联系起来?</div>
+  <div>Coggle 组织会员和Coggle Awesome会员怎样联系起来？</div>
   <div>
-    <p> Coggle组织是一种集中计费和对多个Coggle超棒会员订阅许可证管理的好方法.</p>
-    <p>当你组织的每个用户在你组织的工作空间图上工作时，他们将自动获得Coggle真棒。这意味着所有的强大功能，包括私人图表、演示模式、扩展调色板和高分辨率图片上传.</p>
+    <p> Coggle组织是一种集中计费和对多个Coggle Awesome会员订阅许可证管理的好方法.</p>
+    <p>当你组织的每个用户在你组织的工作空间图上工作时,他们将自动获得Coggle真棒.这意味着所有的强大功能,包括私人图表、演示模式、扩展调色板和高分辨率图片上传.</p>
   </div>
 """>
 
@@ -789,28 +789,28 @@
 
 
 <faq-orgs-billing """
-  <div> Coggle组织是怎样计费的?</div>
-  <div> Coggle组织每位会员每月收费8美元。你可以随时从仪表板上为你的组织添加和删除成员.</div>
+  <div> Coggle组织是怎样计费的？</div>
+  <div> Coggle组织每位会员每月收费8美元.你可以随时从仪表板上为你的组织添加和删除成员.</div>
 """>
 
 
 
 <faq-orgs-edu """
-  <div>是否有任何教育定价选项?</div>
+  <div>是否有任何教育定价选项？</div>
   <div>是! 与我们联系：education@coggle.it 了解更多.</div>
 """>
 
 <faq-orgs-more """
   <div>我还有一些问题...</div>
-  <div>问我们！给我们发电子邮件至orgs@coggle.it 我们会很乐意提供帮助 :)</div>
+  <div>问我们!给我们发电子邮件至orgs@coggle.it 我们会很乐意提供帮助 :)</div>
 """>
 
 /* About Coggle (/about) */
 <about-hello2 """
   <h1>你好!</h1>
-  <p><b>Coggle为你提供一种共享和理解复杂信息的清晰方式。这是一个简化复杂事物的协作档，和一个帮助你的团队更有效地一起工作的共享工作区.</b></p>
-  <p>它是免费的，而且我们承诺，它永远免费，但我们还答应用我们最多的知识照看你的数据、保持备份、并认真对待安全问题.</p>
-  <p>我们的使命是永远改变人们工作和合作的方式、让你更有效率、更容易地与他人分享信息，并且用一种漂亮的方式做到这一点，愉快地使用。 .</p>
+  <p><b>Coggle为你提供一种共享和理解复杂信息的清晰方式.这是一个简化复杂事物的协作档,和一个帮助你的团队更有效地一起工作的共享工作区.</b></p>
+  <p>它是免费的,而且我们承诺,它永远免费,但我们还答应用我们最多的知识照看你的数据、保持备份、并认真对待安全问题.</p>
+  <p>我们的使命是永远改变人们工作和合作的方式、让你更有效率、更容易地与他人分享信息,并且用一种漂亮的方式做到这一点,愉快地使用. .</p>
 """>
 
 
@@ -821,65 +821,65 @@
 
 <about-getintouch """
   <h1>保持联系</h1>
-  <p>有问题吗？要告诉我们你使用Coggle得如何？或者，也许只是给我们一些建议吗？你可以在<a>facebook </a>找到我们和在 <a>Twitter上
-  </a>如果你愿意，你可以随时发送电子邮件至<a>hello@coggle.it
+  <p>有问题吗？要告诉我们你使用Coggle得如何？或者,也许只是给我们一些建议吗？你可以在<a>facebook </a>找到我们和在 <a>Twitter上
+  </a>如果你愿意,你可以随时发送电子邮件至<a>hello@coggle.it
   </a>— 我们爱聊天!</p>
 """>
 
 
 <about-spreadtheword """
   <h1>传播这个消息</h1>
-  <p>如果你爱Coggle，你可以通过让甚至更多的人摆脱列表、电子表格和传统文文件的束缚来帮助我们！你可以<a>在Twitter 上</a>或者 <a>在Facebook上</a>共享Coggle.</p>
+  <p>如果你爱Coggle,你可以通过让甚至更多的人摆脱列表、电子表格和传统文文件的束缚来帮助我们!你可以<a>在Twitter 上</a>或者 <a>在Facebook上</a>共享Coggle.</p>
 """>
 
 
 
 <about-press """
-  <h1>有新闻吗?</h1>
+  <h1>有新闻吗？</h1>
   <p>要不然看看我们的<a>新闻报导专栏</a>, 或者 <a>联系我们</a> 以了解更多!</p>
 """>
 
 <about-company """
  <div>
-   <p>在英格兰和威尔士注册。注册号 9030487</p>
-   <p>注册办公室：威廉·詹姆士大厦，考利路，剑桥，CB4 0WX </p>
+   <p>在英格兰和威尔士注册.注册号 9030487</p>
+   <p>注册办公室：威廉·詹姆士大厦,考利路,剑桥,CB4 0WX </p>
  </div>
 """>
 
 
 /* Coggle Facts */
 <fact-math """
-你知道你可以在Coggle中写数学吗？ （是的，令人讨厌！）用 \\\\( LaTeX 这里 \\\\)尝试一下!
+你知道你可以在Coggle中写数学吗？ （是的,令人讨厌!）用 \\\\( LaTeX 这里 \\\\)尝试一下!
 """>
 <fact-collaborate """
-你知道你可以实时与他人合作吗？你可以！使用右上方的（+）按钮.
+你知道你可以实时与他人合作吗？你可以!使用右上方的（+）按钮.
 """>
 <fact-share """
-你知道你可以同时与其他人编辑Coggle？你可以！使用右上方的（+）按钮来邀请其他人.
+你知道你可以同时与其他人编辑Coggle？你可以!使用右上方的（+）按钮来邀请其他人.
 """>
 <fact-font """
-你知道你可以在Coggle中使用固定宽度代码字体？你可以!<p>只需在文字周围使用‘倒引号’，同时它也会停止对其他特殊的语法做解释.
+你知道你可以在Coggle中使用固定宽度代码字体？你可以!<p>只需在文字周围使用‘倒引号’,同时它也会停止对其他特殊的语法做解释.
 """>
 <fact-bold """
-你知道你可以在Coggle中使用**粗体文字**吗?<p>只要在你想强调的地方使用**双星号**!
+你知道你可以在Coggle中使用**粗体文字**吗？<p>只要在你想强调的地方使用**双星号**!
 """>
 <fact-italic """
-你知道你可以在Coggle中使用*斜体*吗?<p>只要在你要强调的使用*星号*!
+你知道你可以在Coggle中使用*斜体*吗？<p>只要在你要强调的使用*星号*!
 """>
 <fact-links """
-你知道你可以在Coggle中放入链接吗? 你可以!<p>他们是这样工作的:<br>[描述](http://example.com)
+你知道你可以在Coggle中放入链接吗？ 你可以!<p>他们是这样工作的:<br>[描述](http://example.com)
 """>
 <fact-download """
-你知道你可以以PDF或图像方式下载你的Coggle吗？你可以！在屏幕的右上方寻找下载按钮.
+你知道你可以以PDF或图像方式下载你的Coggle吗？你可以!在屏幕的右上方寻找下载按钮.
 """>
 <fact-markdown """
-你知道Coggle使用<a>Markdown语法吗</a>? 它确实是这样!<p>尝试像这样的链接: &lt;http://example.com&gt;
+你知道Coggle使用<a>Markdown语法吗</a>？它确实是这样!<p>尝试像这样的链接: &lt;http://example.com&gt;
 """>
 <fact-latex """
-你知道Coggle支持LaTeX公式吗？它确实是这样!<p>使用 \\\\( LaTeX 这里 \\\\) 尝试一下！查看<a>这个链接</a> 寻找语法帮助.
+你知道Coggle支持LaTeX公式吗？它确实是这样!<p>使用 \\\\( LaTeX 这里 \\\\) 尝试一下!查看<a>这个链接</a> 寻找语法帮助.
 """>
 <fact-move """
-希望该项目放在Coggle的不同部分吗？没问题！按住shift键，同时拖曳项目的（+）按钮重新连接到其他地方.
+希望该项目放在Coggle的不同部分吗？没问题!按住shift键,同时拖曳项目的（+）按钮重新连接到其他地方.
 """>
 <fact-fontsize """
 文字太大了？太小了？你可以放大缩小!<br> 使用 [ctrl] [+] / [ctrl] [-]
@@ -891,37 +891,37 @@
 你知道你可以缩小看大图吗？你可以!<br> 使用 [ctrl] [-], 或右键单击并拖曳缩放图标!
 """>
 <fact-markdown2 """
-你知道<a>Markdown</a>很棒吗? 确实是这样，Coggle支持它!
+你知道<a>Markdown</a>很棒吗？确实是这样,Coggle支持它!
 """>
 <fact-pdf """
-你可以以PDF方式下载Coggle！在屏幕的右上方寻找下载按钮.
+你可以以PDF方式下载Coggle!在屏幕的右上方寻找下载按钮.
 """>
 <fact-png """
-你可以以图像方式下载Coggle！在屏幕的右上方寻找下载按钮.
+你可以以图像方式下载Coggle!在屏幕的右上方寻找下载按钮.
 """>
 <fact-latex2 """
 你知道Coggle支持LaTeX数学吗？它确实是这样!<p>使用 \\\\( \\LaTeX 这里 \\\\) 来试试吧t! 这是 <a>语法指南</a>.
 """>
 <fact-history """
-你知道你可以查看是谁、什么时候在你的Coggle中做更改的历史吗？你可以！点击右上角的时钟图标.
+你知道你可以查看是谁、什么时候在你的Coggle中做更改的历史吗？你可以!点击右上角的时钟图标.
 """>
 <fact-images """
 你知道你可以把图像放到你的的Coggle中去吗？你可以!<p>只需将图像从你的计算器中拖放到你想要的地方.
 """>
 <fact-images2 """
-你知道你可以在Coggle上使用图片吗？你可以!<p>从你的计算器上拖曳一个图像到任何你想的地方。图像的迷你版上传并保存!
+你知道你可以在Coggle上使用图片吗？你可以!<p>从你的计算器上拖曳一个图像到任何你想的地方.图像的迷你版上传并保存!
 """>
 <fact-plaintext-in """
-你知道你可以拖放纯文本档到Coggle上导入它们吗？你可以!<p>如果你的档有缩格，Coggle甚至会添加 结构到导入的文本中.
+你知道你可以拖放纯文本档到Coggle上导入它们吗？你可以!<p>如果你的档有缩格,Coggle甚至会添加 结构到导入的文本中.
 """>
 <fact-freemind-in """
 你知道你可以拖放 Freemind .mm 文件到Coggle中导入它们吗？你可以!
 """>
 <fact-link-drag """
-你知道你可以从你的地址栏中拖曳URL到Coggle，做一个链接到该网站吗？你可以！
+你知道你可以从你的地址栏中拖曳URL到Coggle,做一个链接到该网站吗？你可以!
 """>
 <fact-text-size """
-你知道你可以改变字体吗？你可以！ p>使用 #, ##, 或者 ### 从一行的开始，使文字变大.
+你知道你可以改变字体吗？你可以! p>使用 #, ##, 或者 ### 从一行的开始,使文字变大.
 """>
 <fact-text-size2 """
 你知道你可以改变字体吗？你可以!<p>拖曳文本编辑区的一角向上或向下来改变文字大小.
@@ -933,25 +933,25 @@
 你知道你可以使用Markdown在Coggle中添加链接、图像和更多吗？你可以!<p>这里是 <a>完整的参考</a>.
 """>
 <fact-multiline-keys """
-你知道你可以撤散多行文字吗？你可以！按下[Ctrl]键同时按下[enter]键插入新的一行。你也可以拖曳编辑字段的一角，然后正常使用[enter]键.
+你知道你可以撤散多行文字吗？你可以!按下[Ctrl]键同时按下[enter]键插入新的一行.你也可以拖曳编辑字段的一角,然后正常使用[enter]键.
 """>
 <fact-multiline-drag """
-你知道你可以撤散多行文字吗？你可以！拖曳编辑字段的一角，然后按[enter]键将插入新的一行，而不是存储你的编辑。你也可以在输入的同时，按住[Ctrl]同时按下[enter]键插入新的一行.
+你知道你可以撤散多行文字吗？你可以!拖曳编辑字段的一角,然后按[enter]键将插入新的一行,而不是存储你的编辑.你也可以在输入的同时,按住[Ctrl]同时按下[enter]键插入新的一行.
 """>
 <fact-multiline-wrap """
-你知道你可以撤散多行文字吗？你可以！左/右拖曳文本编辑区的一角自动换行.
+你知道你可以撤散多行文字吗？你可以!左/右拖曳文本编辑区的一角自动换行.
 """>
 <fact-resize-images """
-你知道你可以调整图像大小吗？你可以！从互联网上的任何地方（假定你有使用它的权限）把图像拖放到你的Coggle，然后拖曳图像的右下角以调整其大小。
+你知道你可以调整图像大小吗？你可以!从互联网上的任何地方（假定你有使用它的权限）把图像拖放到你的Coggle,然后拖曳图像的右下角以调整其大小.
 """>
 <fact-image-size """
-你知道我们支持一个Markdown延伸来指定图像大小吗？我们的确是！像这样指定一个200 X 100像素的图像: ![图像描述](http://url.to.image "可选标题" 200x100)
+你知道我们支持一个Markdown延伸来指定图像大小吗？我们的确是!像这样指定一个200 X 100像素的图像: ![图像描述](http://url.to.image "可选标题" 200x100)
 """>
 <fact-bold-kbshort """
-你知道你可以使用键盘快捷键在Coggle中添加**粗体文字**吗？你可以！只需连同你选择的要变成粗体的文字，按 [ctrl]+[b] (或 [cmd]+[b] 在 macs 上).
+你知道你可以使用键盘快捷键在Coggle中添加**粗体文字**吗？你可以!只需连同你选择的要变成粗体的文字,按 [ctrl]+[b] (或 [cmd]+[b] 在 macs 上).
 """>
 <fact-shortcuts-1 """
-你知道你可以只用键盘编辑Coggle吗？你可以，这里教你如何做:<p>[tab] 添加一个子节点<br>[shift]+[tab] 移动到父<br>[shift]+[return] 加同级
+你知道你可以只用键盘编辑Coggle吗？你可以,这里教你如何做:<p>[tab] 添加一个子节点<br>[shift]+[tab] 移动到父<br>[shift]+[return] 加同级
 """>
 <fact-shortcuts-2 """
 你知道你可以使用键盘快捷键来编辑你所选择的哪个分支吗？你可以!<p>使用 [alt]+[shift]+ 箭头键沿着分支移动.
@@ -960,7 +960,7 @@
 你知道你可以使用<a>Markdown</a> 把清单添加到Coggle吗？你可以, 这里是一个例子:<p>- [ ] 取消选中复选框<br>- [X] 选中复选框</p><p>点击复选框也自动改变Markdown.
 """>
 <fact-api-1 """
-你知道我们有一个API吗？我们的确有！程序可以用它来自动创建、检查和操作Coggle.
+你知道我们有一个API吗？我们的确有!程序可以用它来自动创建、检查和操作Coggle.
 """>
 <fact-organisation """
 要在商务中使用Coggle吗？你可以创建一个Coggle组织来管理你公司的Coggle.

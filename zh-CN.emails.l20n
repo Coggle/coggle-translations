@@ -1,0 +1,74 @@
+
+/* shared email content */
+<emWhatIsCoggle "Coggle是一个协作式思维导图工具,帮助您理解复杂的事物.它使用起来简单,并且免费.">
+<emWelcomeHappyCoggling "目前为止就这样了.快乐Coggling！">
+<emUnsubscribe "电子邮件过多?对于这个很抱歉,<a>现在退订</a>.">
+<emSendReason """
+您收到了这条消息,因为你注册了 <a>https://coggle.it</a><br>您可以在<a>这里</a>管理您的通讯偏好.
+""">
+<emBecauseInvited "您收到此消息,因为您已被现有用户邀请使用Coggle.>
+<emSignoffCoggleTeam "<b>Coggle团队</b>">
+
+
+/* welcome email content */
+<emWelcomeSubject "{{ $name }}, 欢迎来到Coggle!">
+<emWelcomeCoggleFamily "欢迎来到Coggle大家庭{{$ name}}＆mdash;高兴有你在！">
+<emWelcomeCoggleDesign """
+我们设计了Coggle,它的核心是<b>简单</b>和<b>协作</b>.同事,同学或朋友分享您的想法和知识,充分发挥Coggle的作用.
+""">
+<emWelcomeCreateDiagram "现在就创建一个图表">
+
+
+/* welcome followup email content */
+<emFollowupSubject "{{ $name }},你是怎么找到Coggle的?">
+<emFollowupFindingCoggle "{{ $name }},你是怎么找到Coggle的?>
+<emFollowupTryInvite """
+你有没有试过邀请朋友同事到你的文件,使用任何图表右上方的<b>分享按钮</b>来邀请他们.您将在编辑时立即看到他们的变化!
+""">
+<emFollowupInviteNow "现在就邀请某人">
+
+
+/* welcome second followup email content */
+<emFollowup2Subject "您的最终更新!>
+<emFollowup2FirstWeek "你在Coggle的第一周怎么样,{{ $name }}?">
+<emFollowup2ChangeFontSize """
+<b>你知道你可以改变字体大小吗,<b>让你的文档中的重要项目变大,引起注意,拖动文本编辑区域的角落以更改文字大小:
+""">
+<emFollowup2MoreFeatures "想要更多功能?"
+<emFollowup2AwesomePitch """
+看看我们的<a>Awesome</a>会员计划,为您的Coggle提供更多有用的功能!
+""">
+<emFollowup2GoAwesome "成为Awesome会员">
+
+
+/* diagram invites email content */
+<emInviteDiagramSubject "{{ $from.full_name }} 将您添加到了Coggle图表">
+<emInviteDiagramDescription "{{ $from.name }} 将您添加到了Coggle图表: {{ $title }}">
+<emInviteDiagramView "查看">
+
+/* folder invites email content */
+<emInviteFolderSubject "{{ $from.full_name }} 将您添加到了Coggle文件夹">
+<emInviteFolderDescription "{{ $from.name }} 将您添加到了Coggle文件夹中: {{ $title }}">
+<emInviteFolderView "加入
+
+/* organisation invites email content */
+<emInviteOrganisationSubject "{{ $from.full_name }} 将您添加到了Coggle组织 {{ $title }}">
+<emInviteOrganisationDescription """
+  {{ $from.name }}将您添加到了Coggle组织 <b>{{ $title }}</b>,点击"加入"来接受此邀请，或阅读我们的<a>快速指南</a>以开始使用.
+""">
+<emInviteOrganisationView "加入">
+
+
+/* summary email content */
+<emSummaryDescription "{{ $title }} 已被更新">
+<emSummaryItemsAdded "增加了项目">
+<emSummaryItemsRemoved "删除了项目">
+<emSummaryItemsChanged "更改了项目">
+<emSummaryNewComments "还有新的评论.">
+<emSummaryView "查看更改">
+
+
+/* tag email content */
+<emTagSubject "{{ $from.name }} 给您添加了标签 {{ $title }}">
+<emTagDescription "<b>{{ $from.name }}</b> 已经给您添加了标签 {{ $title }}">
+<emTagView "阅读">
