@@ -165,6 +165,7 @@
 
 <per-month "per month">
 <per-member-per-month "per member per month">
+<forever "forever">
 
 <awesome-feature "Awesome Plan">
 <org-feature "Organisation Feature">
@@ -362,30 +363,30 @@
 <me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
 <me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
 
-<we-heart-you "We ♥ you.">
-<help-discover-coggle "Help the world discover Coggle and get free stuff!">
-<introduce-n-more-friends[$introduceCount] {
-        1: "Introduce <span>{{ $introduceCount }}</span> more friend to Coggle",
-    *many: "Introduce <span>{{ $introduceCount }}</span> more friends to Coggle",
-}>
-<introduced-n-friends[$introducedCount] {
-        1: "You've introduced <span>{{ $introducedCount }}</span> person to Coggle",
-    *many: "You've introduced <span>{{ $introducedCount }}</span> people to Coggle",
-}>
-
-<share-your-link """
-  <p>Share your special link however you like</p>
-  <p>
-    <a>Facebook</a>, 
-    <a> Twitter</a>, 
-    or <a>email</a> will all work well!
+<recommend-coggle "Recommend Coggle">
+<recommend-share-link """
+  <p>Either invite collaborators to your diagrams, or share your referral link via
+    <a> Facebook</a>, <a> Twitter</a>, or <a>email</a>.
   </p>
-  <input/>
+  <input></input>
 """>
+<invite-n-more[$introduceCount] {
+       1: "One more invite to try Awesome for free!",
+   *many: "Invite <span>{{ $introduceCount }}</span> more people to try Awesome for free!",
+}>
 
 <claim-free-month """
   <p>Claim your free month of Coggle Awesome!</p>
   <div>Redeem Now</div>
+""">
+
+<close-account-title "Close Your Coggle Account">
+<close-account "Permanently close your free Coggle account.">
+<close-account-description "This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.">
+<close-account-button "Close my Account">
+<close-account-confirmation """
+  <input placeholder='Type your email address'/>
+  <button>CONFIRM</button>
 """>
 
 /* Gallery Content (/gallery) */
@@ -457,6 +458,7 @@
 
 <go-awesome "Go Awesome">
 <free-awesome "Want Awesome for free?">
+<upgrade-now "Upgrade Now">
 
 <me-support-awesomethanks """
   <p><b>Thanks for supporting Coggle!</b></p>
