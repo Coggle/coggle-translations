@@ -20,8 +20,8 @@
 
 
 /* welcome followup email content */
-<emFollowupSubject "{{ $name }},你怎么找到Coggle?">
-<emFollowupFindingCoggle "{{ $name }},你怎么找到Coggle?>
+<emFollowupSubject "{{ $name }},你是怎么找到Coggle的?">
+<emFollowupFindingCoggle "{{ $name }},你是怎么找到Coggle的?>
 <emFollowupTryInvite """
 你有没有试过邀请朋友同事到你的文件,使用任何图表右上方的<b>分享按钮</b>来邀请他们.您将在编辑时立即看到他们的变化!
 """>
