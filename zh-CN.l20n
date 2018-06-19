@@ -470,7 +470,7 @@
 <messages-entry placeholder:" 输入消息。使用@标记人。按[Enter]发送.">
 <messages-start "你已经达到了启动!">
 <messages-upgrade "需要2周以上的历史？了解如何升级到<a>真棒</a> 要得到完整的历史.">
-<messages-comments-notes "输入评论，讨论和笔记。">
+<messages-comments-notes placeholder:"输入评论，讨论和笔记。">
 
 <diagram-toolbar-history title:" 查看和复制以前的版本.">
 <diagram-toolbar-messages title:" 评论和聊天.">
@@ -478,7 +478,10 @@
 <diagram-toolbar-share title:" 分享此Coggle.">
 <diagram-toolbar-download title:" 下载此Coggle.">
 <diagram-toolbar-copy title:" 创建此Coggle副本.">
-<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
+<diagram-toolbar-public-detail "Public Diagram" title:"This diagram may appear in the Coggle Gallery and search results.">
+
+/* history slider content */
+<current-version "current">
 
 /* sharing dialog content */
 <share-newlink "新链接:">
@@ -509,6 +512,7 @@
 <download-txt "纯文本纲要">
 <download-advanced "高级类型">
 <download-failed "档生成失败.">
+<download-import-tip "<b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a>Read more.</a>">
 
 /* access control slider content */
 <access-readonly "只能读取<br/><span>只允许他们查看</span>">

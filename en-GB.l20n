@@ -478,7 +478,7 @@
 <messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
 <messages-start "You've reached the start!">
 <messages-upgrade "Need more than 2 weeks history? Find out about upgrading to <a>Awesome</a> to get the full history.">
-<messages-comments-notes "Enter comments, discussion and notes.">
+<messages-comments-notes placeholder:"Enter comments, discussion and notes.">
 
 <diagram-toolbar-history title:"View and copy previous versions.">
 <diagram-toolbar-messages title:"Comments and chat.">
@@ -486,7 +486,10 @@
 <diagram-toolbar-share title:"Share this Coggle.">
 <diagram-toolbar-download title:"Download this Coggle.">
 <diagram-toolbar-copy title:"Create a copy of this Coggle.">
-<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
+<diagram-toolbar-public-detail "Public Diagram" title:"This diagram may appear in the Coggle Gallery and search results.">
+
+/* history slider content */
+<current-version "current">
 
 /* sharing dialog content */
 <share-newlink "New Link:">
@@ -517,6 +520,7 @@
 <download-txt "Plain-Text Outline">
 <download-advanced "Advanced Types">
 <download-failed "File generation failed.">
+<download-import-tip "<b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a>Read more.</a>">
 
 /* access control slider content */
 <access-readonly "Read only<br/><span>Only allow them to view</span>">
