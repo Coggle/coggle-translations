@@ -2,7 +2,7 @@
 /* shared email content */
 <emWhatIsCoggle "Coggle是一个协作式思维导图工具,帮助您理解复杂的事物.它使用起来简单,并且免费.">
 <emWelcomeHappyCoggling "目前为止就这样了.快乐Coggling！">
-<emUnsubscribe "电子邮件过多?对于这个很抱歉,a>现在退订</a>.">
+<emUnsubscribe "电子邮件过多?对于这个很抱歉,<a>现在退订</a>.">
 <emSendReason """
 您收到了这条消息,因为你注册了 <a>https://coggle.it</a><br> 您可以在<a>这里</a>管理您的通讯偏好.
 """>
