@@ -99,129 +99,130 @@
  * also on the homepage)
  */
 <plans-title-freeforever "Coggle is free to use, and always will be. Create unlimited public diagrams and share them for free.">
+<plans-title-freeforever "Coggle è gratuito, e sempre lo sarà. Crea un numero illimitato di diagrammi e condividili gratuitamente.">
 
-<plans-free-forever-title "Free Forever">
-<plans-free-description "Ideal for discovering Coggle and occasional use.">
-<plans-free-price "Free forever">
+<plans-free-forever-title "Gratis per Sempre">
+<plans-free-description "Ideale per scoprire Coggle e utilizzo occasionale.">
+<plans-free-price "Gratis per Sempre">
 
-<feature-realtime "<b>Real-time</b> collaboration">
-<feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
-<feature-diagrams "<b>Unlimited</b> public diagrams">
+<feature-realtime "Collaborazione in <b>Real-time</b>">
+<feature-emoji "Oltre <b>1600</b> <a>bellissime icone</a>">
+<feature-diagrams "<b>Illimitati</b> diagrammi pubblici">
 <feature-nprivate[$privateDiagrams.available] {
-       1: "1 private diagram",
-   *many: "{{ $privateDiagrams.available }} private diagrams"
+       1: "1 diagramma privato",
+   *many: "{{ $privateDiagrams.available }} diagrammi privati"
 }>
-<feature-images "<b>Unlimited</b> image uploads">
-<feature-changes "<b>Full</b> change history">
-<feature-markdown "<b>Markdown</b> support">
-<feature-downloads "<b>PDF & Image</b> download">
-<feature-labels "Unconnected <b>text boxes</b>">
-<feature-exports "Export as <b>.mm and text</b>">
-<feature-imports "Import <b>.mm and text</b>">
-<feature-chat "Comments & Chat">
-<feature-embed "Embeddable diagrams">
-<plans-free-getstarted "Get Started">
+<feature-images "<b>Illimitato</b> upload di immagini">
+<feature-changes "<b>Cronologia completa</b> dei cambiamenti">
+<feature-markdown "Supporto al <b>Markdown</b>">
+<feature-downloads "Possibilità di scaricare <b>PDF & Immagini</b>">
+<feature-labels "<b>Caselle di testo</b> sconnesse">
+<feature-exports "Esportazione <b>.mm e testo</b>">
+<feature-imports "Importazione <b>.mm e testo</b>">
+<feature-chat "Commenti & Chat">
+<feature-embed "Diagrammi incorporabili">
+<plans-free-getstarted "Comincia ora">
 
-<plans-awesome-title "Awesome">
-<plans-awesome-description "Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.">
-<plans-awesome-price "$5 / month">
-<feature-include-free "Everything in <b>Free</b>">
-<feature-unlimited-private "<b>Unlimited</b> private diagrams">
-<feature-multiroot "<b>Multiple start points</b>">
-<feature-private "<b>Private diagrams</b>">
-<feature-chathistory "<b>Full</b> chat history">
-<feature-rearrange "<b>Auto-arrange branches</b>">
-<feature-rejoin "<b>Join Branches</b>">
-<feature-folders "<b>Shared folders</b>">
-<feature-presentation "Presentation mode">
-<feature-bigimages "<b>High-res image</b> uploads">
-<feature-linestyles "<b>Control line style</b>">
-<feature-extendedcolours "More colours">
-<feature-editable-links "Collaborate by <b>link</b>">
-<plans-findoutmore "Find out more">
+<plans-awesome-title "Eccezionale">
+<plans-awesome-description "Ideale per uso <b>personale</b> o <b>professionale</b>, con privacy e funzionalità avvanzate.">
+<plans-awesome-price "$5 / mese">
+<feature-include-free "Tutto quello nella versione <b>Gratuita</b>">
+<feature-unlimited-private "<b>Illimitati</b> diagrammi privati">
+<feature-multiroot "<b>Punti di partenza multipli</b>">
+<feature-private "<b>Diagrammi Privati</b>">
+<feature-chathistory "<b>Cronologia completa</b> della chat">
+<feature-rearrange "<b>Organizzazione automatica dei rami</b>">
+<feature-rejoin "<b>Unisci i rami</b>">
+<feature-folders "<b>Cartelle condivise</b>">
+<feature-presentation "Modalità presentazione">
+<feature-bigimages "Upload di <b>immagini ad Altarisoluzione</b>">
+<feature-linestyles "<b>Controlla lo stile della linea</b>">
+<feature-extendedcolours "Più colori">
+<feature-editable-links "Collabora via <b>link</b>">
+<plans-findoutmore "Scopri di più">
 
-<plans-org-title "Organisation">
-<plans-org-description "Ideal for <b>teams</b> that want to control access to their data and consolidate billing.">
-<plans-org-price "$8 / member / month">
-<feature-org-awesome "Everything from <b>Awesome</b>">
-<feature-org-separate "Separate Personal workspace">
-<feature-org-billing "Consolidated billing">
-<feature-bulkexport "<b>Bulk export</b>">
-<feature-adminpanel "<b>User & data</b> management">
-<feature-branding "Branded diagrams">
+<plans-org-title "Organizzazione">
+<plans-org-description "Ideale per i <b>team</b> che vogliono controllare l'accesso ai propri dati e consolidare la fatturazione.">
+<plans-org-price "$8 / membro / mese">
+<feature-org-awesome "Tutto da <b>Fantastico</b>">
+<feature-org-separate "Separa gli spazi di lavoro Personali">
+<feature-org-billing "Consolida la fatturazione">
+<feature-bulkexport "<b>Esportazione Bulk</b>">
+<feature-adminpanel "Amministrazione <b>Utenti & Dati</b>">
+<feature-branding "Diagrammi Brandizzati">
 <feature-org-saml-sso "SAML Single Sign On">
 
-<plans-select "Select">
-<continue-free "Continue on <b>Free</b> plan">
-<current-plan "Your current plan">
-<cancel-subscription "Cancel Subscription">
-<awesome-signup-monthly "Sign up <span>$5</span> per month">
-<awesome-signup-yearly "Sign up <span>$50</span> per year">
-<awesome-upgrade-monthly "Upgrade (<b>$5</b>/month)">
-<awesome-upgrade-yearly "Upgrade (<b>$50</b>/year)">
-<product-purchase "PURCHASE">
-<yearly-discount "Pay yearly and get 2 months free!">
-<yearly-discount-percent "Pay yearly and save over 15%">
-<switch-yearly "Upgrade to Yearly">
-<manage-subscription "Manage Subscription">
+<plans-select "Seleziona">
+<continue-free "Continua con il piano <b>Gratuito</b>">
+<current-plan "Il tuo piano corrente">
+<cancel-subscription "Cancella iscrizzione">
+<awesome-signup-monthly "Registrati <span>$5</span> al mese">
+<awesome-signup-yearly "Registrati <span>$50</span> all'anno">
+<awesome-upgrade-monthly "Estendi (<b>$5</b>/mese)">
+<awesome-upgrade-yearly "Estendi (<b>$50</b>/anno)">
+<product-purchase "ACQUISTA">
+<yearly-discount "Paga annualmente e ricevi 2 mesi gratis!">
+<yearly-discount-percent "Paga annualmente e risparmia olte il 15%">
+<switch-yearly "Estendi ad Annuale">
+<manage-subscription "Amministra l'inscrizione">
 
-<per-month "per month">
-<per-member-per-month "per member per month">
+<per-month "al mese">
+<per-member-per-month "per utente per mese">
 
-<awesome-feature "Awesome Plan">
-<org-feature "Organisation Feature">
+<awesome-feature "Piano Eccezionale">
+<org-feature "Funzionalità Aziendali">
 
-<footer-about "about">
-<footer-contact "contact">
+<footer-about "chi siamo">
+<footer-contact "contatti">
 <footer-facebook "facebook">
 <footer-twitter "twitter">
 <footer-privacy "privacy">
-<footer-terms "terms">
-<footer-press "press">
+<footer-terms "termini">
+<footer-press "stampa">
 <footer-gdrive "<img/> Google Drive">
-<footer-what-is-mindmapping "What is Mindmapping?">
-<footer-top-uses "Top Mindmap Uses">
+<footer-what-is-mindmapping "Che cos'e il Mindmapping?">
+<footer-top-uses "Migliori utilizzi delle MindMap">
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
-<create-diagram "<span>Create Diagram</span>">
-<search-diagrams placeholder:"Search your diagrams">
-<view-gallery "Gallery">
-<create-folder "Create Folder">
-<shared-folders "Shared Folders">
-<created-by-you value:"Created By You">
-<shared-with-you value:"Shared With You">
-<folder-title placeholder:"Enter a folder name">
-<folder-areyousure "are you sure? <span>I&#39;m sure</span>">
+<create-diagram "<span>Crea Diagramma</span>">
+<search-diagrams placeholder:"Cerca diagramma">
+<view-gallery "Galleria">
+<create-folder "Crea Cartella">
+<shared-folders "Cartelle Condivise">
+<created-by-you value:"Create da Te">
+<shared-with-you value:"Condivise con Te">
+<folder-title placeholder:"Inserisci il nome della cartella">
+<folder-areyousure "sei sicuro? <span>Sonon sicuro</span>">
 <logout "Logout">
-<settings "Settings">
-<return-to-diagrams "Return to your diagrams">
-<upgrade-to-awesome "Upgrade to <b>Awesome</b>!">
-<awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
-<awesome-trial-after "Then you'll be moved onto the free plan">
-<want-awesome-for-free "Want Awesome for free?">
-<personal-org "Personal <span>(<a>what is this?</a>)</span>">
-<help-search placeholder:"Help me to...">
-<my-settings "My Settings & Billing">
-<org-name-settings "{{ $orgName }} Settings">
-<org-settings title:"Manage Organisation">
-<user-about "About Coggle">
-<user-contact "Contact Us">
+<settings "Impostazioni">
+<return-to-diagrams "Ritorna al tuo diagramma">
+<upgrade-to-awesome "Estendi a <b>Eccezionale</b>!">
+<awesome-time-remaining "La prova di Eccezionale scade tra <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<awesome-trial-after "Quindi sarai spostato sul piano gratuito">
+<want-awesome-for-free "Vuoi Eccezionale gratuitamente?">
+<personal-org "Personale <span>(<a>cos'e questo?</a>)</span>">
+<help-search placeholder:"Aiutami a...">
+<my-settings "Mie impostazioni & Fatturazione">
+<org-name-settings "{{ $orgName }} Impostazioni">
+<org-settings title:"Gestisci Organizzazione">
+<user-about "Su Coggle">
+<user-contact "Contattaci">
 <user-privacy "Privacy Policy">
-<user-terms "Terms and Conditions">
+<user-terms "Termini e Conditizioni">
 <user-link-drive "Link Google Drive">
-<diagrams-limited "<span> {{ $privateDiagrams.used }} of {{ $privateDiagrams.available }}</span> private diagrams used">
-<diagrams-unlimited "<span>Unlimited</span> private diagrams">
+<diagrams-limited "<span> {{ $privateDiagrams.used }} di {{ $privateDiagrams.available }}</span> diagrammi privati usati">
+<diagrams-unlimited "<span>Illimitati</span> diagrammi privati">
 
-<limitedaccess "You have limited access to {{ $resourceName }} as you're not a member">
+<limitedaccess "Hai accesso limitato a {{ $resourceName }} in quanto non sei membro">
 <doclist-create """
-    <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
-    <div><a>Create Diagram</a></div>
+    <b>Benvenuto in Coggle!</b> – I diagrammi che crei sarano salvati qui.
+    <div><a>Crea Diagramma</a></div>
 """>
-<doclist-shared "<b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.">
-<doclist-folder-empty "<b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.">
-<doclist-readonly "<b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.">
-<impersonatedaccess "You're viewing Coggle as an Organisation member. <a>Return to admin panel</a>">
+<doclist-shared "<b>Condivisi con Te</b> – diagrammi creati da altri utente e poi condivisi con Te son in questa cartella.">
+<doclist-folder-empty "<b>Questa è una cartella vuota!</b> – Crea un nuovo diagramma qui, o trascina e rilascia diagrammi nelle cartelle.">
+<doclist-readonly "<b>Benvenuto in Coggle!</b> – Chiedi al proprietario il permesso per creare diagrammi qui.">
+<impersonatedaccess "Stai visualizzando coggle come membro Aziendale. <a>Ritorna al panello di controllo</a>">
 
 <doclist-loading-failed "Uh-oh! Loading folder failed, refresh the page to try again.">
 <doclist-discover-whatspossible "Want to get more from Coggle? Discover <a>what's possible</a>.<div></div>">
