@@ -27,7 +27,6 @@
 <index-nav-home "Home">
 
 <index-unleash "Scatena la tua Reatività">
-<index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
 <index-blurb "Crea bellisimi appunti velocemente e facilmente. Condividili con amici e colleghi per lavorare insieme sulle tue idee.">
 <index-viewgallery "O esploara la <a>Galleria Coggle </a> per ispirarti.">
 
@@ -56,7 +55,6 @@
 """>
     
 <index-use-other """
-  These are just a few of the things Coggle is useful for – <a>get started</a> now to discover your own!
   Queste sono solo alcune delle cose per le quali Coggle è utile – <a>Comincia</a> ora e scopri in quale altro modo puoi usarlo!
 """>
 
@@ -98,7 +96,6 @@
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
-<plans-title-freeforever "Coggle is free to use, and always will be. Create unlimited public diagrams and share them for free.">
 <plans-title-freeforever "Coggle è gratuito, e sempre lo sarà. Crea un numero illimitato di diagrammi e condividili gratuitamente.">
 
 <plans-free-forever-title "Gratis per Sempre">
@@ -168,6 +165,7 @@
 
 <per-month "al mese">
 <per-member-per-month "per utente per mese">
+<forever "forever">
 
 <awesome-feature "Piano Eccezionale">
 <org-feature "Funzionalità Aziendali">
@@ -224,7 +222,6 @@
 <doclist-readonly "<b>Benvenuto in Coggle!</b> – Chiedi al proprietario il permesso per creare diagrammi qui.">
 <impersonatedaccess "Stai visualizzando coggle come membro Aziendale. <a>Ritorna al panello di controllo</a>">
 
-  
 <doclist-loading-failed "Uh-oh! caricamento della cartella Fallito, aggiorna la pagina e prova nuovamente.">
 <doclist-discover-whatspossible "Vuoi avere di più da Coggle? Scopri <a>cos'è possibile</a>.<div></div>">
 
@@ -366,30 +363,30 @@
 <me-language-tip "Aiutaci a fornire Coggle nella tua lingua nativa o ad aggiungere qualcosa che manca contribuendo al nostro <a> progetto di traduzione </a> su Github!">
 <me-language-questions "Se hai domande sulle traduzioni - o se hai correzioni o miglioramenti e non sei sicuro di come aiutarci, inviaci una email a<a>translate@coggle.it</a>.">
 
-<we-heart-you "We ♥ you.">
-<help-discover-coggle "Aiuta il mondo a scoprire Coggle e ottenere cose gratis!">
-<introduce-n-more-friends[$introduceCount] {
-        1: "Introduci <span>{{ $introduceCount }}</span> un amico a Coggle",
-    *many: "Introduci <span>{{ $introduceCount }}</span> più amici a Coggle",
-}>
-<introduced-n-friends[$introducedCount] {
-        1: "Hai presentato <span>{{ $introducedCount }}</span> persona a Coggle",
-    *many: "Hai presentato <span>{{ $introducedCount }}</span> persone a Coggle",
-}>
-
-<share-your-link """
-  <p>Condividi il tuo link speciale come preferisci</p>
-  <p>
-    <a>Facebook</a>, 
-    <a> Twitter</a>, 
-    o <a>email</a> funzionerà tutto perfettamente!
+<recommend-coggle "Recommend Coggle">
+<recommend-share-link """
+  <p>Either invite collaborators to your diagrams, or share your referral link via
+    <a> Facebook</a>, <a> Twitter</a>, or <a>email</a>.
   </p>
-  <input/>
+  <input></input>
 """>
+<invite-n-more[$introduceCount] {
+       1: "One more invite to try Awesome for free!",
+   *many: "Invite <span>{{ $introduceCount }}</span> more people to try Awesome for free!",
+}>
 
 <claim-free-month """
   <p>Richiedi il tuo mese gratuito di Coggle Eccezionale!</p>
   <div>Riscatta ora</div>
+""">
+
+<close-account-title "Close Your Coggle Account">
+<close-account "Permanently close your free Coggle account.">
+<close-account-description "This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.">
+<close-account-button "Close my Account">
+<close-account-confirmation """
+  <input placeholder='Type your email address'/>
+  <button>CONFIRM</button>
 """>
 
 /* Gallery Content (/gallery) */
@@ -461,7 +458,7 @@ Per risparmiare tempo, puoi invitare più persone contemporaneamente: digita (o 
 
 <go-awesome "Vai a Coggle Awesome">
 <free-awesome "Vuoi Coggle Awesome gratis?">
-
+<upgrade-now "Upgrade Now">
 
 <me-support-awesomethanks """
   <p><b>Grazie per il supporto a Coggle!</b></p>
@@ -490,6 +487,9 @@ Per risparmiare tempo, puoi invitare più persone contemporaneamente: digita (o 
 <diagram-toolbar-download title:"Scarica questo Coggle.">
 <diagram-toolbar-copy title:"Crea una copia di questo Coggle.">
 <diagram-toolbar-public "Diagramma pubblico" title:"Potrebbe apparire nella Galleria di Coggle">
+
+/* history slider content */
+<current-version "current">
 
 /* sharing dialog content */
 <share-newlink "Nuovo Link:">
@@ -520,6 +520,7 @@ Per risparmiare tempo, puoi invitare più persone contemporaneamente: digita (o 
 <download-txt "Struttura di testo semplice">
 <download-advanced "Tipi Avanzati">
 <download-failed "Generazione file fallita.">
+<download-import-tip "<b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a>Read more.</a>">
 
 /* access control slider content */
 <access-readonly "Sola lettura<br/><span>Permetti solo la visualizzazione</span>">
