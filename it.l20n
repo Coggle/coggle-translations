@@ -494,7 +494,7 @@ Per risparmiare tempo, puoi invitare più persone contemporaneamente: digita (o 
 /* sharing dialog content */
 <share-newlink "Nuovo Link:">
 <share-newlink-tip """
-  Questo ti permette di condividere il tuo diagramma con persone che non hanno effettuato l'accesso, ma fai attenzione, questo permette a <strong> chiunque </ strong> abbia il link di vedere il tuo lavoro!
+  Questo ti permette di condividere il tuo diagramma con persone che non hanno effettuato l'accesso, ma fai attenzione, questo permette a <strong> chiunque </strong> abbia il link di vedere il tuo lavoro!
 """>
 <share-tag-user "utente">
 <share-tag-embed "incorpora">
