@@ -26,36 +26,36 @@
 <features-colours "Är du en visuell tänkare? Lär du dig med hjälp av layout och färg? Se till att du får rätt färg för dina ämnen, klicka bara på en gren för att få upp färghjulet och välj den färg du vill ha.">
 
 /* new frontpage content */
-<index-tagline "The clear way to share complex information.">
-<index-signupnow "Sign Up Now">
+<index-tagline "Ett tydligt sätt att dela komplex information.">
+<index-signupnow "Registrera dig nu">
 
 <index-use-notes """
   <div><img></div>
-  <h2>Take Notes</h2>
-  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
+  <h2>Ta anteckningar</h2>
+  <p>Öppna Coggle i ett möte, efteråt under din omarbetning eller varsom inspirationen slår till för att skapa vackra, strukturerade anteckningar.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
-  <h2>Brainstorm</h2>
-  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+  <h2>Brainstorma</h2>
+  <p>Ta början på en idé, vatten den med Coggle och se den växa till en fullfjädrad plan, överskådlig och redo att dela.</p>
 """>
 
 <index-use-share """
   <div><img></div>
-  <h2>Share Information</h2>
-  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+  <h2>Dela information</h2>
+  <p>Destillera ditt ämne i en Coggle, inkludera alla detaljer och dela med ditt team, dina klasskamrater eller hela världen!</p>
 """>
     
 <index-use-other """
-  These are just a few of the things Coggle is useful for – <a>get started</a> now and find your own use!
+  Detta är bara några få av de saker Coggle är användbart för - <a>kom igång</a> nu och hitta ditt eget användningsområde!
 """>
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From $8 per user per month</div></a>
+  <h2>Hjälp ditt team kommunicera med <a>Coggle Organisations</a>.</h2>
+  <p>Ge ditt team ett gemensamt utrymme för brainstorming, anteckningar och att dokumentera sina idéer. Coggle Organisations kommer med alla funktioner du behöver för att få kontroll över er data och integrera med ert företags arbetsflöde. Läs mer <a>här</a>.</p>
+   <a>Registrera er nu<div>Från $8 per användare och månad</div></a>
 """>
 
 
