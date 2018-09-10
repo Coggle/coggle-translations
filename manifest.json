@@ -4,18 +4,19 @@
   ],
   "locales": [
     "de",
-    "en-US",
-    "en-GB",
     "en-AU",
-    "pt-BR",
+    "en-GB",
+    "en-US",
+    "es",
     "fr",
     "it",
     "ja",
+    "pl",
+    "pt-BR",
     "ru",
-    "zh-CN",
-    "zh-TW",
     "sv",
-    "es"
+    "zh-CN",
+    "zh-TW"
   ],
   "default_locale": "en-US"
 }

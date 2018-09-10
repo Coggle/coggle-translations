@@ -1,0 +1,14 @@
+/* Tłumaczenie Coggle na język polski */
+
+/* By uzyskać pomoc ze składnią wyślij wiadomość na translations@coggle.it
+ *
+ *
+ * Każdy rekord składa się z dwóch części:
+ *
+ * <identyfikator-rekordu "Treść oraz znaczniki HTML, która będzie <b>wyświetlana</b>">
+ *
+ * Identyfikatory rekordów nie powinny być modyfikowane. Zachowane powinny także zostać,
+ * w odpowiednich miejscach tekstu, użyte tagi HTML, jak np: <div>...</div>, <b>, <h1>.
+ *
+ */
+
