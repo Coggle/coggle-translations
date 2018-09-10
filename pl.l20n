@@ -12,3 +12,16 @@
  *
  */
 
+/* Zawartość strony tytułowej (https://coggle.it/home), za wyjątkiem secji z abonamentami
+ * która została opisana poniżej
+ */
+<index-tagline "Prosty sposób przekazywania skąplikowanych informacji.">
+<index-signupnow "Zarejestruj się teraz">
+<index-login "Masz już konto? Zaloguj się.">
+
+<index-nav-login "Logowanie">
+<index-nav-pricing "Opłaty">
+<index-nav-features "Funkcjonalności">
+<index-nav-gallery "Galeria">
+<index-nav-home "Początek">
+
