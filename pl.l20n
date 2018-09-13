@@ -1,0 +1,27 @@
+/* Tłumaczenie Coggle na język polski */
+
+/* By uzyskać pomoc ze składnią wyślij wiadomość na translations@coggle.it
+ *
+ *
+ * Każdy rekord składa się z dwóch części:
+ *
+ * <identyfikator-rekordu "Treść oraz znaczniki HTML, która będzie <b>wyświetlana</b>">
+ *
+ * Identyfikatory rekordów nie powinny być modyfikowane. Zachowane powinny także zostać,
+ * w odpowiednich miejscach tekstu, użyte tagi HTML, jak np: <div>...</div>, <b>, <h1>.
+ *
+ */
+
+/* Zawartość strony tytułowej (https://coggle.it/home), za wyjątkiem sekcji z abonamentami
+ * która została opisana poniżej
+ */
+<index-tagline "Prosty sposób przekazywania skąplikowanych informacji.">
+<index-signupnow "Zarejestruj się teraz">
+<index-login "Masz już konto? Zaloguj się.">
+
+<index-nav-login "Logowanie">
+<index-nav-pricing "Opłaty">
+<index-nav-features "Funkcjonalności">
+<index-nav-gallery "Galeria">
+<index-nav-home "Początek">
+
