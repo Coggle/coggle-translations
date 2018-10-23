@@ -3,6 +3,8 @@
     "/translations/{{ locale }}.l20n"
   ],
   "locales": [
+    "be",
+    "be-TARASK",
     "de",
     "en-AU",
     "en-GB",
