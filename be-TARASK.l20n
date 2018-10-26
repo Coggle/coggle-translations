@@ -1,0 +1,55 @@
+/* Coggle translations for Belorussian (Tarashkevitsa) */
+
+/* For help with syntax, see http://l20n.org/learn/ or email
+ * translations@coggle.it
+ *
+ * Each translation is made up of two parts:
+ *
+ * <translation-id "The html code that will be <b>displayed</b>">
+ *
+ * The translation-id should never be modified, and the html tags within the
+ * translated text such as <div>...</div>, <b>, <h1> etc shouldn't be modified
+ * either.
+ *
+ */
+
+/* frontpage content (https://coggle.it/home), except for the plans section
+ * which is described below
+ */
+<index-tagline "Звычайны спосаб дзялiцца iнфармацыёй.">
+<index-signupnow "Зарэґавацца зараз">
+<index-login "Ужо зарэґавалiся? <a>Увайдзiце</a>.">
+
+<index-nav-login "Увайсьцi">
+<index-nav-pricing "Кошт">
+<index-nav-features "Асабiстасьцi">
+<index-nav-gallery "Галерэя">
+<index-nav-home "Дамоў">
+
+<index-unleash "Дайце волю сваёй творчасьцi">
+<index-blurb "Стварайце цудоўныя нататкi хутка i лёгка. Падзяляйцеся iмi з сябрамi i калегамi, каб працаваць над iдэяй разам.">
+<index-viewgallery "Альбо зазiрнiце ў <a>Coggle галерэю</a> для надхненьня.">
+
+<index-colab-mindmaps """
+  <h1>Супольныя майндмапы</h1>
+  <p>Coggle - гэта анлайн прылада для ствараньня i сумеснай працы над майндмапамi. Ён працуе ў вашым браўзэры: нiчога не патрэбна нi зпампоўваць, нi ўсталяваць. <a>Увайдзiце,</a> каб пачаць ствараць майндмапы менавіта зараз!</p>
+  <p>За што б вы нi ўзялiся: складаньне запiсаў, правядзеньне мазґавога штурму, планаваньне, цi стварэньне чагосцi неверагодна крэатыўнага - ўсё гэта вельмi лёгка стварыць, вiзуалiзуя iнфармацыю i выкарыстоўвая Coggle. Падзяляйцеся створанымi coggle'мi з любой колькасьцю калег i сябраў. Усе зьмяненьня, якiя вы зробiце, iмгненна адлюстуюцца ў iншых у браўзэры, дзе б яны нi знаходзiлiся.</p>
+""">
+
+<index-use-notes """
+  <div><img></div>
+  <h2>Стварайце нататкi</h2>
+  <p>Уваходзьце ў Coggle падчас сустрэчаў, калi разважаеце над чымсьцi, альбо калi з'яўляецца надхненьне для ствараньня прыгожых, структураваных нататкаў.</p>
+""">
+    
+<index-use-brainstorm """
+  <div><img></div>
+  <h2>Мазґавы штурм</h2>
+  <p>Пакладзiце пачатак iдэе, напоўнiце яе з Coggle i пазiрайце як яна разрастаецца, ператвараецца ў цалкам працаздольны план, звычайна выбудаваны и падрыхтаваны дзеля рэалiзацыi.</p>
+""">
+
+<index-use-share """
+  <div><img></div>
+  <h2>Падзяляйцеся iнфармацыей</h2>
+  <p>Занясiце вашу тэму ў Coggle, уключыце ўсе дэталi i падзялiцеся з камандай, вашымi аднагрупнiкамi цi з усем светам!</p>
+""">
