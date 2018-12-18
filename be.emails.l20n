@@ -1,0 +1,74 @@
+
+/* shared email content */
+<emWhatIsCoggle "Coggle гэта супольны iнструмент для стварання майндкарт, якiя дапамагаюць разабрацца ў складных i комплексных рэчах. Гэта проста i бясплатна.">
+<emWelcomeHappyCoggling "Пакуль што гэта ўсё. Прыемнага стварэння сваiх майндкарт!">
+<emUnsubscribe "Шмат паведамленняў? Нам жаль... Вы можаце <a>адпiсацца зараз</a>.">
+<emSendReason """
+Вам была адаслана гэта паведамленне таму, што вы зарэгавалiся на <a>https://coggle.it</a><br> Вы можаце памяняць свае налады паведамленняў <a>тут</a>.
+""">
+<emBecauseInvited "Вам была адаслана гэта паведамленне таму, што вы были запрошаны ў Coggle iснуючым карыстальнiкам.">
+<emSignoffCoggleTeam "<b>Каманда Coggle</b>">
+
+
+/* welcome email content */
+<emWelcomeSubject "{{ $name }}, Вiтаем у Coggle!">
+<emWelcomeCoggleFamily "Запрашаем у нашу сям'ю {{ $name }} &mdash; Добра, што вы з намi!">
+<emWelcomeCoggleDesign """
+Мы зрабiлi ўсё, каб Coggle быў <b>просты ў асваеннi</b> i <b>зручны для працы ў камандзе</b>. Падзяляйцеся сваiмi ведамi i iдэямi з калегамi, аднакласнiкамi альбо сябрамi, каб атрымаць максiмум ад Coggle.
+""">
+<emWelcomeCreateDiagram "СТВАРЫЦЕ ДЫЯГРАМУ ЗАРАЗ!">
+
+
+/* welcome followup email content */
+<emFollowupSubject "{{ $name }}, як вам Coggle?">
+<emFollowupFindingCoggle "{{ $name }}, як вам Coggle?">
+<emFollowupTryInvite """
+Вы ўжо паспрабавалi запрасiць сябра працаваць разам?  Вы можаце <b>падзялiцца</b> ў правым верхнiм кутку любой дыяграмы для таго, каб адаслаць запрашэнне. Вы адразу жа ўбачыце любыя змяненнi з iх боку!
+""">
+<emFollowupInviteNow "ЗАПРАСIЦЕ КАГО-НЕБУДЗЬ ЗАРАЗ">
+
+
+/* welcome second followup email content */
+<emFollowup2Subject "Вашыя фiнальныя аднаўленнi!">
+<emFollowup2FirstWeek "Як прайшоў ваш тыдзень з Coggle, {{ $name }}?">
+<emFollowup2ChangeFontSize """
+<b>А вы ведалi, што можаце змяняць памер шрыфта?</b> Выдзяляйце важныя аб'екты ў сваiх документах, павялiчвая iх. Пацягнiце за краi поля рэдагавання тэкста, каб змянiць яго памеры:
+""">
+<emFollowup2MoreFeatures "Жадаеш больш магчымасцей?">
+<emFollowup2AwesomePitch """
+Пазiрнiце на план <a>Awesome</a>, якi ўмацуе твой Coggle яшчэ болей карыснымi функцыямi!
+""">
+<emFollowup2GoAwesome "ПЕРАЙСЦI НА AWESOME">
+
+
+/* diagram invites email content */
+<emInviteDiagramSubject "{{ $from.full_name }} далучыўся/лася да вашай Coggle дыяграмы">
+<emInviteDiagramDescription "{{ $from.name }} дадаў/ла вас да Coggle дыяграмы: {{ $title }}">
+<emInviteDiagramView "ПРАГЛЯДЗЕЦЬ">
+
+/* folder invites email content */
+<emInviteFolderSubject "{{ $from.full_name }} дадаў/ла вас да Coggle тэчцы">
+<emInviteFolderDescription "{{ $from.name }} дадаў/ла вас да Coggle тэчцы: {{ $title }}">
+<emInviteFolderView "ДАЛУЧЫЦЦА">
+
+/* organization invites email content */
+<emInviteOrganisationSubject "{{ $from.full_name }} дадаў/ла вас да {{ $title }} Coggle Organization">
+<emInviteOrganisationDescription """
+  {{ $from.name }} дадаў/ла вас да <b>{{ $title }}</b> Coggle Organization, нацiснiце "ДАЛУЧЫЦЦА" каб прыняць запрашэнне, альбо прачытайце наш <a>кароткi курс</a> каб пачаць працу.
+""">
+<emInviteOrganisationView "ДАЛУЧЫЦЦА">
+
+
+/* summary email content */
+<emSummaryDescription "{{ $title }} аднаўлены">
+<emSummaryItemsAdded "ДАДАНА">
+<emSummaryItemsRemoved "ВЫДАЛНА">
+<emSummaryItemsChanged "ЗМЕНЕНА">
+<emSummaryNewComments "I яшчэ у вас ёсць новыя каментарыi.">
+<emSummaryView "ПРАГЛЯДЗЕЦЬ ЗМЯНЕННI">
+
+
+/* tag email content */
+<emTagSubject "{{ $from.name }} пазначыў/ла вас у {{ $title }}">
+<emTagDescription "<b>{{ $from.name }}</b> пазначыў/ла вас у {{ $title }}">
+<emTagView "ЧЫТАЦЬ">
