@@ -258,9 +258,9 @@
 <settings-plans-title "Piani">
 <settings-billing-title "Fatturazione & In entrata">
 <settings-recommend-title "Raccomandate">
-<settings-emails-title "Communicazioni">
+<settings-emails-title "Comunicazioni">
 <settings-language-title "Lingua">
-<settings-communication-title "Communicazioni">
+<settings-communication-title "Comunicazioni">
 <settings-account-title "Chiudi Profilo">
 
 /* The button to save billing details changes its text in different contexts:
