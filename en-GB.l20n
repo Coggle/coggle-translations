@@ -415,16 +415,18 @@
 <choose-style "choose style">
 <delete-branch "delete branch"> /* (remove and item *and* all of its children) */
 <remove-item "remove item">
-<copy-branch "copy branch">
 <show-children "show children">
 <hide-children "hide children">
 <drag-to-create-link "drag to create link">
 <drag-to-transplant-branch "drag to transplant branch">
+<delete-connection "delete connection">
+<reverse-connection "reverse connection">
+<label-connection "label this connection">
 
 <undo "undo">
 <redo "redo">
 <paste-branch "paste branch">
-<zoom-page "zoom page">
+<drag-zoom-page "drag to zoom page">
 <add-label "add label">
 
 <help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
@@ -644,12 +646,22 @@
 <markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
 <markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
 <markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
+<touch-pressitem "<b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more.">
+<touch-pressbackground "<b>Long-press</b> on the <b>background</b> to add <b>labels</b>, <b>undo</b>, and paste.">
 
 <button-bold title:"Make text bold">
 <button-italic title:"Make text italic">
 <button-link title:"Link to a website">
 <button-image title:"Upload an image">
 <button-emoji title:"Search for icons.">
+<button-formatting title:"Text formatting">
+<button-back title:"Back">
+<button-aligned-left title:"Aligned left">
+<button-aligned-center title:"Aligned center">
+<button-aligned-right title:"Aligned right">
+<button-aligned-auto title:"Aligned automatically">
+<button-upload title:"Add image or attach file.">
+<button-attach title:"Attach a file.">
 
 /* diagram not-found page */
 <nodiagram-title "Diagram not found!">
