@@ -427,7 +427,7 @@
 <add-label "add label">
 
 <help-gohome "Cliquez sur le logo Coggle pour retourner à la page d'accueil, où vos documents sont automatiquement sauvegardés.">
-<help-add-node "Utilisez les boutons (+) pour ajouter des branches.">
+<help-add-node "Utilisez les boutons <div>+</div> pour ajouter des branches.">
 <help-edit-node "<p>Cliquez sur un objet pour éditer le texte.</p><p>Changez la taille du texte en faisant glisser le coin de la zone d'édition.</p>">
 <help-move-node "Faites glisser n'importe quel texte pour le déplacer.">
 <help-node-menu "Faites un clic droit pour accéder au menu. Ici vous pouvez ajouter, supprimer, copier et arranger vos branches.">

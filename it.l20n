@@ -428,7 +428,7 @@
 <add-label "aggiungi etichetta ">
 
 <help-gohome "Fare clic sul logo Coggle per tornare alla homepage, in cui i documenti vengono salvati automaticamente.">
-<help-add-node "Usa (+) per aggiungere rami.">
+<help-add-node "Usa <div>+</div> per aggiungere rami.">
 <help-edit-node "<p>Clicca su qualsiasi elemento per modificare il suo testo.</p><p>Modificare le dimensioni del testo trascinando l'angolo dell'area di modifica.</p>">
 <help-move-node "Trascina qualsiasi testo per spostarlo.">
 <help-node-menu "Fare clic con il tasto destro per accedere al menu. Qui puoi aggiungere, rimuovere, copiare e organizzare i rami.">

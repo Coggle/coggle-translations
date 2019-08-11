@@ -419,7 +419,7 @@
 <add-label "添加标签">
 
 <help-gohome "点击Coggle标志回到主页,在这里你的档会自动保存.">
-<help-add-node "使用（+）按钮来添加分支.">
+<help-add-node "使用<div>+</div>按钮来添加分支.">
 <help-edit-node "<p>点击任何项目编辑文字.</p><p>通过拖曳编辑区的角落更改文字大小.</p>">
 <help-move-node "拖曳任何文字来移动它.">
 <help-node-menu "右键点击进入菜单.在这里,你可以添加、删除、复制、并安排分支机构.">

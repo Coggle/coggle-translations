@@ -429,7 +429,7 @@
 <add-label "add label">
 
 <help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
-<help-add-node "Use the (+) buttons to add branches.">
+<help-add-node "Use the <div>+</div> buttons to add branches.">
 <help-edit-node "<p>Click any item to edit the text.</p><p>Change the text size by dragging the corner of the editing area.</p>">
 <help-move-node "Drag any text to move it.">
 <help-node-menu "Right click to access the menu. Here you can add, remove, copy, and arrange branches.">

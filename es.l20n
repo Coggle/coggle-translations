@@ -392,7 +392,7 @@ Te cobraremos
 <zoom-page "ampliar la página">
 
 <help-gohome "Pincha en el logo de Coggle para volver a la página de inicio donde todos tus documentos se guardan automáticamente.">
-<help-add-node "Usa el botón (+) para añadir ramas.">
+<help-add-node "Usa el botón <div>+</div> para añadir ramas.">
 <help-edit-node "<p>Pincha en cualquier ítem para accede al menú.</p><p>Cambia el tamaño del texto arrastrando la esquina del área de edición.</p>">
 <help-move-node "Arrastra cualquier texto para moverlo.">
 <help-node-menu "Pincha en el botón derecho para acceder al menú. Aquí puedes añadir, quitar, copiar y organizar ramas.">
