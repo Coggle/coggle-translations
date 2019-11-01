@@ -30,8 +30,8 @@
  * which is described below
  */
 <index-tagline "Um jeito simples para compartilhar informações complexas.">
-<index-signupnow "Registre-se Agora">
-<index-login "Ja tem uma conta? Faça log in aqui.">
+<index-signupnow "Registre-se agora">
+<index-login "Já tem uma conta? Faça login aqui.">
 
 <index-nav-pricing "Planos">
 <index-nav-features "Características">
@@ -43,8 +43,8 @@
 
 <index-colab-mindmaps """
   <h1>Mapas mentais colaborativos</h1>
-  <p>Coggle e uma ferramenta online para criação e compartilhamento de mapas mentais. Crie online diretamente do seu navegador: Sem downloads ou instalações. <a>Faça log in</a> e começe a criar seus mapas agora!</p>
-  <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+  <p>Coggle é uma ferramenta online para criação e compartilhamento de mapas mentais. Crie online diretamente do seu navegador: sem downloads ou instalações. <a>Faça login</a> e comece a criar seus mapas agora!</p>
+  <p>Se você está fazendo anotações, brainstorming, planejamento ou fazendo algo incrivelmente criativo, é muito simples visualizar suas ideias com o Coggle. Compartilhe com quantos amigos ou colegas você quiser. As alterações feitas serão exibidas instantaneamente no navegador, onde quer que estejam no mundo.</p>
 """>
 
 <index-use-notes """
