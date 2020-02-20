@@ -152,7 +152,7 @@
 <plans-select "Seleziona">
 <continue-free "Continua con il piano <b>Gratuito</b>">
 <current-plan "Il tuo piano corrente">
-<cancel-subscription "Cancella iscrizzione">
+<cancel-subscription "Cancella iscrizione">
 <awesome-signup-monthly "Registrati <span>$5</span> al mese">
 <awesome-signup-yearly "Registrati <span>$50</span> all'anno">
 <awesome-upgrade-monthly "Estendi (<b>$5</b>/mese)">
