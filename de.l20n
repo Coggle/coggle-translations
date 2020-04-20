@@ -345,204 +345,204 @@
 <me-communication-title "Kommunikation">
 <me-emails-title "Email Adressen">
 <me-emails-primary "(primär)">
-<me-emailstip "We'll only email your primary address, but you can receive invites to any of the others.">
-<me-talktome "Talk to me: ">
-<me-diagram-notifications "Diagram notifications: ">
+<me-emailstip "Wir kontaktieren Sie nur an Ihre primäre Mailadresse, aber Sie können Einladungen an alle anderen erhalten.">
+<me-talktome "Sprechen Sie mit mir: ">
+<me-diagram-notifications "Diagramm-Benachrichtigungen: ">
 
-<slider-yes "YES">
-<slider-no "NO">
+<slider-yes "JA">
+<slider-no "NEIN">
 
-<me-language-title "Choose Your Preferred Language">
-<me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
-<me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
+<me-language-title "Wählen Sie Ihre bevorzugte Sprache">
+<me-language-tip "Helfen Sie uns, Coggle in Ihrer Muttersprache bereitzustellen, oder fügen Sie etwas hinzu, was noch fehlt, indem Sie zu unserem <a>Übersetzungsprojekt</a> auf Github beitragen!">
+<me-language-questions "Wenn Sie Fragen zu Übersetzungen haben - oder wenn Sie Korrekturen oder Verbesserungen haben und sich nicht sicher sind, wie Sie uns helfen können, schreiben Sie uns einfach eine E-Mail an <a>translate@coggle.it</a>.">
 
-<we-heart-you "We ♥ you.">
-<help-discover-coggle "Help the world discover Coggle and get free stuff!">
+<we-heart-you "Wir ♥ Sie.">
+<help-discover-coggle "Helfen Sie der Welt, Coggle zu entdecken und erhalten Sie kostenloses Material!">
 <introduce-n-more-friends[$introduceCount] {
-        1: "Introduce <span>{{ $introduceCount }}</span> more friend to Coggle",
-    *many: "Introduce <span>{{ $introduceCount }}</span> more friends to Coggle",
+        1: "Coggle <span>{{ $introduceCount }}</span> weiteren Freund vorstellen",
+    *many: "Coggle <span>{{ $introduceCount }}</span> weiteren Freunden vorstellen",
 }>
 <introduced-n-friends[$introducedCount] {
-        1: "You've introduced <span>{{ $introducedCount }}</span> person to Coggle",
-    *many: "You've introduced <span>{{ $introducedCount }}</span> people to Coggle",
+        1: "Sie haben <span>{{ $introducedCount }}</span> Person zu Coggle eingeladen",
+    *many: "Sie haben <span>{{ $introducedCount }}</span> Personen zu Coggle eingeladen",
 }>
 
 <share-your-link """
-  <p>Share your special link however you like</p>
+  <p>Teilen Sie Ihren speziellen Link nach Belieben:</p>
   <p>
     <a>Facebook</a>, 
     <a> Twitter</a>, 
-    or <a>email</a> will all work well!
+    oder <a>E-Mail</a> werden alle gut funktionieren!
   </p>
   <input/>
 """>
 
 <claim-free-month """
-  <p>Claim your free month of Coggle Awesome!</p>
-  <div>Redeem Now</div>
+  <p>Beanspruchen Sie Ihren Freimonat von Coggle Awesome!</p>
+  <div>Jetzt einlösen</div>
 """>
 
 /* Gallery Content (/gallery) */
-<gallery-title "The Coggle Gallery">
-<gallery-blurb2 "A selection of the best diagrams made with Coggle!">
+<gallery-title "Die Coggle Galerie">
+<gallery-blurb2 "Eine Auswahl der besten mit Coggle erstellten Diagramme!">
 <gallery-folder-blurb2 """
-  <b>The Coggle Gallery</b> - A selection of the best diagrams made with Coggle! <br/>
-  Follow us on <a>Twitter</a> or <a>Facebook</a> for regular updates.
+  <b>Die Coggle-Galerie</b> - Eine Auswahl der besten mit Coggle erstellten Diagramme! <br/>
+  Folgen Sie uns auf <a>Twitter</a> oder <a>Facebook</a> für regelmäßige Updates.
 """>
 
 /* Diagram content */
-<guide-click-here "click here">
-<guide-or-here "or here">
-<click-to-edit "click to edit">
-<click-to-edit-title "Click to edit title">
-<tap-to-edit "tap to edit">
-<tap-to-edit-title "Tap to edit title">
-<unnamed-diagram "Unnamed Diagram">
+<guide-click-here "hier klicken">
+<guide-or-here "oder hier">
+<click-to-edit "zum Bearbeiten klicken">
+<click-to-edit-title "zum Bearbeiten des Titels klicken">
+<tap-to-edit "zum Bearbeiten tippen">
+<tap-to-edit-title "zum Bearbeiten des Titels tippen">
+<unnamed-diagram "Unbenanntes Diagramm">
 
-<add-branch "add branch">
-<copy-branch "copy branch">
-<add-to-discussion "add to discussion">
-<comment-on-this "comment on this">
-<auto-arrange "auto-arrange">
-<pick-colour "pick colour">
-<choose-style "choose style">
-<delete-branch "delete branch"> /* (remove and item *and* all of its children) */
-<remove-item "remove item">
-<copy-branch "copy branch">
-<show-children "show children">
-<hide-children "hide children">
-<drag-to-create-link "drag to create link">
-<drag-to-transplant-branch "drag to transplant branch">
+<add-branch "Zweig hinzufügen">
+<copy-branch "Zweig kopieren">
+<add-to-discussion "Diskussion hinzufügen">
+<comment-on-this "kommentieren">
+<auto-arrange "automatisch anordnen">
+<pick-colour "Farbe wählen">
+<choose-style "Stil wählen">
+<delete-branch "Zweig löschen"> /* (remove and item *and* all of its children) */
+<remove-item "Eintrag löschen">
+<copy-branch "Zweig kopieren">
+<show-children "Äste zeigen">
+<hide-children "Äste verbergen">
+<drag-to-create-link "Ziehen, um Link zu erstellen">
+<drag-to-transplant-branch "Ziehen, um Zwei zu verpflanzen">
 
-<undo "undo">
-<redo "redo">
-<paste-branch "paste branch">
-<zoom-page "zoom page">
-<add-label "add label">
+<undo "rückgängig">
+<redo "wiederherstellen">
+<paste-branch "Zweig einfügen">
+<zoom-page "Seite zoomen">
+<add-label "Beschriftung hinzufügen">
 
-<help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
-<help-add-node "Use the (+) buttons to add branches.">
-<help-edit-node "<p>Click any item to edit the text.</p><p>Change the text size by dragging the corner of the editing area.</p>">
-<help-move-node "Drag any text to move it.">
-<help-node-menu "Right click to access the menu. Here you can add, remove, copy, and arrange branches.">
+<help-gohome "Klicken Sie auf das Coggle-Logo, um zurück zur Startseite zu gelangen, wo Ihre Dokumente automatisch gespeichert werden.">
+<help-add-node "Verwenden Sie die (+)-Knöpfe, um Zweige hinzuzufügen.">
+<help-edit-node "<p>Klicken Sie auf ein beliebiges Element, um den Text zu bearbeiten.</p><p>Ändern Sie die Textgröße durch Ziehen an der Ecke des Bearbeitungsbereichs.</p>">
+<help-move-node "Ziehen Sie einen beliebigen Text, um ihn zu verschieben.">
+<help-node-menu "Klicken Sie mit der rechten Maustaste, um das Menü aufzurufen. Hier können Sie Zweige hinzufügen, entfernen, kopieren und anordnen.">
 
-<help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
-<help-toolbar-invite-title "Work With Others">
-<help-toolbar-invite "Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.">
-<help-toolbar-invitemulti-title "Invite Multiple People">
+<help-multiline "Fügen Sie mehrere Textzeilen mit [Strg] + [Enter] oder durch Ziehen des Griffs zur Größenänderung vor der Eingabe hinzu.">
+<help-toolbar-invite-title "Kollaboration">
+<help-toolbar-invite "Klicken Sie, um Personen zum Bearbeiten oder Anzeigen dieses Coggle einzuladen. Sie können die Berechtigungen der Personen steuern, indem Sie auf ihr Symbol klicken.">
+<help-toolbar-invitemulti-title "Mehrere Personen einladen">
 <help-toolbar-invitemulti """
-  To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+  Um Zeit zu sparen, können Sie mehrere Personen gleichzeitig einladen: Geben Sie die E-Mail-Adressen durch Leerzeichen, Kommata<b>,</b> oder Semikolons<b>;</b> getrennt ein (oder fügen Sie sie ein).
 """>
-<help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
-<help-toolbar-inviteflow-title "Enter a Co-worker's Email">
-<help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
+<help-toolbar-invitedonefaster "Erledigen Sie Dinge schneller - laden Sie jemanden ein, mit Ihnen zusammen zu bearbeiten und sehen Sie die Änderungen sofort.">
+<help-toolbar-inviteflow-title "E-Mail eines Mitbearbeiters eingeben">
+<help-inactive-invite "Arbeiten Sie mit Freunden zusammen, um Ihre Ideen zum Leben zu erwecken!<br>Hier per E-Mail einladen.">
 
 <banner-open-getawesome """
-    This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> Get <a>Awesome</a> to make it private.
+    Dies ist ein öffentliches Coggle - es könnte in der <a>Coggle-Galerie erscheinen.</a> <a>Awesome</a> bekommen, um es privat zu machen.
 """>
 <banner-open-awesome """
-    This is an Open Coggle — it might appear in the <a>Coggle Gallery.</a> You can make it private from the <a>sharing dialog</a>.
+    Dies ist ein öffentliches Coggle - es könnte in der <a>Coggle-Galerie erscheinen.</a> Sie können es aus dem <a>Teilen-Dialog</a> privat machen.
 """>
 
 <me-as-awesome-orgmember """
-  <p>This is you &mdash; you\'re viewing Coggle as an <b>organisation member</b>.</p>
-  <p>This means you get all the great features from the <a>Coggle Awesome</a> plan too!</p>
+  <p>Das sind Sie &mdash; Sie sehen Coggle als ein <b>Organisationsmitglied</b>.</p>
+  <p>Das bedeutet, dass Sie auch alle großartigen Funktionen aus dem <a>Coggle Awesome</a> Lizenzmodell erhalten!</p>
 """>
 
-<go-awesome "Go Awesome">
-<free-awesome "Want Awesome for free?">
+<go-awesome "Zu Awesome wechseln">
+<free-awesome "Wollen Sie Awesome kostenlos?">
 
 <me-support-awesomethanks """
-  <p><b>Thanks for supporting Coggle!</b></p>
-  <p>For being an early Coggle supporter, you get all the benefits of the <a>Coggle Awesome</a> plan included in your subscription!</p>
-  <a>Manage your plan</a>
+  <p><b>Danke für die Unterstützung von Coggle!</b></p>
+  <p>Als früher Coggle-Unterstützer erhalten Sie alle Vorteile des <a>Coggle Awesome</a> Lizenzmodells in Ihrem Abonnement inklusive!</p>
+  <a>Ihr Lizenzmodell verwalten</a>
 """>
 
 <me-awesomethanks """
-  <p>This is you &mdash;<b>You\'re Awesome!</b></p>
-  <a>Manage your plan</a>
+  <p>Das sind Sie &mdash;<b>Sie haben Awesome!</b></p>
+  <a>Ihr Lizenzmodell verwalten</a>
 """>
 
 
 
-<messages-title "Messages">
-<messages-search placeholder:"Search">
-<messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
-<messages-start "You've reached the start!">
-<messages-upgrade "Need more than 2 weeks history? Find out about upgrading to <a>Awesome</a> to get the full history.">
+<messages-title "Mitteilungen">
+<messages-search placeholder:"Suche">
+<messages-entry placeholder:"Geben Sie eine Nachricht ein. Verwenden Sie @, um Personen zu markieren. Drücken Sie [Enter] zum Senden.">
+<messages-start "Sie haben den Start erreicht!">
+<messages-upgrade "Benötigen Sie mehr als 2 Wochen Geschichtsverlauf? Informieren Sie sich über ein Upgrade auf <a>Awesome</a>, um die vollständige Historie zu erhalten.">
 
-<diagram-toolbar-history title:"View and copy previous versions.">
-<diagram-toolbar-messages title:"Comments and chat.">
-<diagram-toolbar-present title:"Present this Coggle.">
-<diagram-toolbar-share title:"Share this Coggle.">
-<diagram-toolbar-download title:"Download this Coggle.">
-<diagram-toolbar-copy title:"Create a copy of this Coggle.">
-<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
+<diagram-toolbar-history title:"Frühere Versionen anzeigen und kopieren.">
+<diagram-toolbar-messages title:"Kommentare und Chats.">
+<diagram-toolbar-present title:"Dieses Coggle präsentieren.">
+<diagram-toolbar-share title:"Dieses Coggle teilen.">
+<diagram-toolbar-download title:"Dieses Coggle herunterladen.">
+<diagram-toolbar-copy title:"Kopie dieses Coggles erzeugen.">
+<diagram-toolbar-public "Öffentliches Diagramm" title:"Darf in der Coggle Gallery erscheinen">
 
 /* sharing dialog content */
-<share-newlink "New Link:">
+<share-newlink "Neuer Link:">
 <share-newlink-tip """
-  These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+  Damit können Sie Ihr Diagramm mit Leuten teilen, die nicht eingeloggt sind, aber seien Sie vorsichtig, sie lassen <strong>jedermann</strong> mit dem Link Ihre Arbeit sehen!
 """>
-<share-tag-user "user">
-<share-tag-embed "embed">
-<share-tag-writable "editable">
-<share-send-email "SEND">
+<share-tag-user "Nutzer">
+<share-tag-embed "Einbinden">
+<share-tag-writable "editierbar">
+<share-send-email "SENDEN">
 <share-email-hints """
-  <div>to invite, type an email</div>
-  <div>then hit enter</div>
+  <div>E-Mail eingeben zum Einladen</div>
+  <div>dann drücken Sie Enter</div>
   <div>friend@example.com</div>
 """>
 <share-social """
-  <a title='Embed in a website'> <img/> </a>
-  <a title='Share on Facebook'> <img/> </a>
-  <a title='Share on Twitter'> <img/> </a>
+  <a title='In eine Website einbetten'> <img/> </a>
+  <a title='Auf Facebook teilen'> <img/> </a>
+  <a title='Auf Twitter teilen'> <img/> </a>
 """>
-<share-open "Can everyone view this diagram?">
-<share-open-detail "Public diagrams can be viewed by anyone and may appear in our <a>Gallery</a>">
+<share-open "Kann jeder dieses Diagramm sehen?">
+<share-open-detail "Öffentliche Diagramme können von jedermann eingesehen werden und können in unserer <a>Galerie</a> erscheinen.">
 
 /* download dialog content */
 <download-pdf "Download PDF">
-<download-png "Download Image">
-<download-mm ".mm File">
-<download-txt "Plain-Text Outline">
-<download-advanced "Advanced Types">
-<download-failed "File generation failed.">
+<download-png "Download Grafik">
+<download-mm ".mm Datei">
+<download-txt "Einfach-Text Gliederung">
+<download-advanced "Erweiterte Typen">
+<download-failed "Dateierzeugung fehlgeschlagen.">
 
 /* access control slider content */
-<access-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-author "Author<br/><span>Allow creating and editing documents</span>">
+<access-readonly "Nur Lesen<br/><span>Nur Anzeigen erlauben</span>">
+<access-readclone "Lesen & Kopien erstellen<br/><span>Auch Herunterladen und Kopieren erlauben</span>">
+<access-author "Verfassen<br/><span>Erlauben Sie das Erstellen und Bearbeiten von Dokumenten</span>">
 
-<access-folder-readonly "Read only<br/><span>Only allow them to view</span>">
-<access-folder-readclone "Read & create copies<br/><span>Also allow downloading and copying</span>">
-<access-folder-author "Author<br/><span>Allow creating and editing documents</span>">
-<access-folder-admin "Administer<br/><span>Add and remove people and documents</span>">
+<access-folder-readonly "Nur Lesen<br/><span>Nur Anzeigen erlauben</span>">
+<access-folder-readclone "Lesen & Kopien erstellen<br/><span>Auch Herunterladen und Kopieren erlauben</span>">
+<access-folder-author ""Verfassen<br/><span>Erlauben Sie das Erstellen und Bearbeiten von Dokumenten</span>">
+<access-folder-admin "Administrieren<br/><span>Personen und Dokumente hinzufügen und entfernen</span>">
 
-<access-remove "Remove {{ $user.givenName }}">
+<access-remove "{{ $user.givenName }} entfernen">
 
 /* Notification Messages */
 <readonly-warning """
-  You cannot edit this diagram. <div>If you need to edit it, ask the author to give you permission.</div>
+  Sie können dieses Diagramm nicht bearbeiten. <div>Wenn Sie es bearbeiten müssen, bitten Sie den Autor um Erlaubnis.</div>
 """>
 <websocket-offline """
-  Changes may be slow due to network issues. <a>Help me fix this!</a>
+  Änderungen können aufgrund von Netzwerkproblemen langsam sein. <a>Helfen Sie mir, das zu beheben!</a>
 """>
 <disconnect-warning """
-  <b>Connection lost</b>: Changes may not be saved</div>
+  <b>Verbindung verloren</b>: Änderungen können nicht gespeichert werden</div>
 """>
 <unrecoverable-warning """
-  There was an unrecoverable error, please reload the page. If you have information about what might have gone wrong, please email <a>contact@coggle.it</a>
+  Es gab einen nicht behebbaren Fehler, bitte laden Sie die Seite neu. Wenn Sie Informationen darüber haben, was schief gelaufen sein könnte, senden Sie bitte eine E-Mail an <a>contact@coggle.it</a>
 """>
-<banner-undo-warning "Nothing more to undo!">
-<banner-redo-warning "Nothing more to redo!">
+<banner-undo-warning "Nichts mehr rückgängig zu machen!">
+<banner-redo-warning "Nichts mehr wiederherzustellen!">
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
-  Your image was resized to fit within {{ $maxWidth }} &times; {{ $maxHeight }}, so that we can store your image for free, forever!
-  You can sign up for <a>Coggle Awesome</a> to upload much bigger images. <a>Read more</a>.
+  Ihr Bild wurde so verkleinert, dass es in {{ $maxWidth }} &times; {{ $maxHeight }} passt, so dass wir Ihr Bild kostenlos und für immer speichern können!
+  Sie können sich für <a>Coggle Awesome</a> anmelden, um viel größere Bilder hochzuladen. <a>Mehr lesen</a>.
 """>
-<imgupload-slow-down "Whoa, slow down! Try uploading files one at a time.">
+<imgupload-slow-down "Whoa, bitte etwas langsamer! Versuchen Sie, die Dateien nacheinander hochzuladen.">
 
 
 /* shortcut help content (in the messages panel on the right-hand side of a
@@ -550,93 +550,93 @@
  */
 <controls[@os] 
  removeKey[@os]: {
-  *win: "ctrl",
-   mac: "alt",
-   linux: "ctrl"
+  *win: "Strg",
+   mac: "Alt",
+   linux: "Strg"
  }
 >
-<sidebar-contextmenu "Context Menu">
-<sidebar-clickformenu "Right click an item or the background to access a menu.">
-<sidebar-tapformenu "Tap an item or the background to access a menu.">
-<sidebar-controls "Controls">
+<sidebar-contextmenu "Kontext-Menü">
+<sidebar-clickformenu "Klicken Sie mit der rechten Maustaste auf ein Element oder den Hintergrund, um auf ein Menü zuzugreifen.">
+<sidebar-tapformenu "Tippen Sie auf ein Element oder den Hintergrund, um auf ein Menü zuzugreifen.">
+<sidebar-controls "Steuerung">
 <sidebar-addbranch """
-  <div>Add Branch:</div>
-  <div><span> click </span><div></div></div>
+  <div>Zweig hinzufügen:</div>
+  <div><span> klicken </span><div></div></div>
 """>
 <sidebar-removebranch """
-  <div>Remove Branch:</div>
-  <div><div> {{ controls::removeKey }} </div> <span> + click </span> <div></div></div>
+  <div>Zweig entfernen:</div>
+  <div><div> {{ controls::removeKey }} </div> <span> + klicken </span> <div></div></div>
 """>
 <sidebar-insertbranch """
-  <div>Insert Branch:</div>
-  <div><div> shift </div> <span> + click </span> <div></div></div>
+  <div>Zweig einfügen:</div>
+  <div><div> Umschaltaste </div> <span> + klicken </span> <div></div></div>
 """>
 <sidebar-movebranch """
-  <div> Move Branch: </div>
-  <div><div> drag anything! </div></div>
+  <div> Zweig verschieben: </div>
+  <div><div> ziehen Sie beliebiges! </div></div>
 """>
 <sidebar-transplantbranch """
-  <div> Transplant Branch: </div>
-  <div><div> shift </div> <span> + drag </span> <div></div></div>
+  <div> Zweig verpflanzen: </div>
+  <div><div> Umschalttaste </div> <span> + ziehen </span> <div></div></div>
 """>
 <sidebar-recolourbranch """
-  <div> Change Colours: </div>
-  <div><span> click a branch </span></div>
+  <div> Farben ändern: </div>
+  <div><span> Klicken Sie einen Zweig an </span></div>
 """>
 <sidebar-addimages """
-  <div> Add <a>Images</a>: </div>
-  <div><div> drag and drop </div></div>
+  <div> <a>Grafiken</a> hinzufügen: </div>
+  <div><div> Drag&Drop </div></div>
 """>
 <sidebar-zoom """
   <div> Zoom: </div>
-  <div><div> ctrl </div><span> + mousewheel </span></div>
+  <div><div> Strg </div><span> + Mausrad </span></div>
 """>
-<sidebar-shortcuts "Shortcuts">
+<sidebar-shortcuts "Tastaturkürzel">
 <sidebar-undo """
-  <div> Undo: </div>
-  <div><div> ctrl </div> <span> + </span> <div> Z </div> </div>
+  <div> Rückgängig: </div>
+  <div><div> Strg </div> <span> + </span> <div> Z </div> </div>
 """>
 <sidebar-redo """
-  <div> Redo: </div>
-  <div><div> ctrl </div> <span> + </span> <div> shift </div> <span> + </span> <div> Z </div> </div>
+  <div> Wiederherstellen: </div>
+  <div><div> Strg </div> <span> + </span> <div> Umschalttaste </div> <span> + </span> <div> Z </div> </div>
 """>
-<sidebar-whentyping "When typing">
+<sidebar-whentyping "Beim Tippen">
 <sidebar-sc-newitem """
-  <div> New Item: </div>
-  <div><div> shift </div><span> + </span><div> return </div></div>
+  <div> Neuer Eintrag: </div>
+  <div><div> Umschalttaste </div><span> + </span><div> Return </div></div>
 """>
 <sidebar-sc-newchild """
-  <div> New Child Item: </div>
-  <div><div> tab </div></div>
+  <div> Neuer Unter-Eintrag: </div>
+  <div><div> Tab </div></div>
 """>
 <sidebar-sc-parent """
-  <div> Jump to Parent: </div>
-  <div><div> shift </div><span> + </span><div> tab </div></div>
+  <div> Zum übergeordneten Eintrag springen: </div>
+  <div><div> Umschalttaste </div><span> + </span><div> Tab </div></div>
 """>
 <sidebar-sc-markdown """
-    <div>Format text: </div>
-    <div>use <a>Markdown</a></div>
+    <div>Text formatieren: </div>
+    <div>Benutzen Sie <a>Markdown</a></div>
 """>
-<another-fact "another!">
+<another-fact "weitere">
 <cogglefacts-more """
-  Read more...
+  Mehr lesen...
 """>
 <sidebar-markdown "Markdown">
-<sidebar-bgmenu "<b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
-<sidebar-bgmenu2 "<b>Zoom</b>, add <b>text labels</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
-<sidebar-icons "Icons">
-<markdown-icons "Type <code>:</code> while editing or use the button along the top of the item editor.">
-<markdown-bold "<code>**text**</code> to make text <b>bold</b>">
-<markdown-italic "<code>*italic*</code> to make text <i>italic</i>">
-<markdown-link "<code>[Title](example.com)</code> to create a <a>link</a>">
-<markdown-checkbox "<code>- [X]</code> to create a <input/> checkbox">
-<markdown-code "<code>`text`</code> to use a <code>fixed width</code> font">
+<sidebar-bgmenu "<b>Zoomen</b>, <b>Rückgängig machen</b>, und <b>Kopierte Elemente einfügen</b> durch Rechtsklick auf den Hintergrund.">
+<sidebar-bgmenu2 "<b>Zoomen</b>,  <b>Textbeschriftungen</b> einfügen, <b>Rückgängig machen</b> und <b>Kopierte Elemente einfügen</b>, durch Rechtsklick auf den Hintergrund.">
+<sidebar-icons "Symbole">
+<markdown-icons "Geben Sie während der Bearbeitung <code>:</code> ein oder verwenden Sie die Schaltfläche oben im Objekteditor.">
+<markdown-bold "<code>**text**</code> um Text <b>fett</b> zu machen ">
+<markdown-italic "<code>*italic*</code> um Text <i>kursiv</i> zu machen">
+<markdown-link "<code>[Titel](example.com)</code> um einen <a>Link</a> zu erzeugen">
+<markdown-checkbox "<code>- [X]</code> um ein <input/> Kontrollkästchen zu erzeugen">
+<markdown-code "<code>`text`</code> um einen Schrifttyp <code>fester Breite</code> zu verwenden">
 
-<button-bold title:"Make text bold">
-<button-italic title:"Make text italic">
-<button-link title:"Link to a website">
-<button-image title:"Upload an image">
-<button-emoji title:"Search for icons.">
+<button-bold title:"Text fett formatieren">
+<button-italic title:"Text kursiv formatieren">
+<button-link title:"Link zu einer Website">
+<button-image title:"Grafik hochladen">
+<button-emoji title:"Symbole suchen">
 
 /* diagram not-found page */
 <nodiagram-title "Diagram not found!">
