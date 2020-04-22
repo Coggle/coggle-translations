@@ -819,7 +819,7 @@
 """>
 
 <about-getintouch """
-  <h1>Get in Touch</h1>
+  <h1>Kontakt aufnehmen</h1>
   <p>Haben Sie eine Frage? Möchten Sie uns sagen, wie Sie Coggle verwenden? Oder uns vielleicht einfach nur ein Feedback geben? 
   Sie finden uns auf <a>facebook </a>und auf <a>Twitter</a> und wenn Sie es vorziehen, 
   können Sie uns jederzeit eine E-Mail an <a>hello@coggle.it</a>- wir lieben es zu chatten!</p>
@@ -833,139 +833,171 @@
 """>
 
 <about-press """
-  <h1>In the press?</h1>
-  <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
+  <h1>In der Presse?</h1>
+  <p>Dann sehen Sie sich unser <a>Pressekit</a> an, oder nehmen Sie <a>Kontakt auf</a>, um mehr zu erfahren!</p>
 """>
 
 <about-company """
  <div>
-   <p>Registered in England and Wales. No. 9030487</p>
-   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
+   <p>Registriert in England und Wales. No. 9030487</p>
+   <p>Eingetragener Firmensitz: William James House, Cowley Road, Cambridge CB4 0WX</p>
  </div>
 """>
 
 
 /* Coggle Facts */
 <fact-math """
-Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
+  Wussten Sie, dass Sie in Coggles Mathematik schreiben können? (Ja, Geeky!) 
+  Benutzen Sie \\\\\\\( LaTeX hier \\\\\\\), um es auszuprobieren!
 """>
 <fact-collaborate """
-Did you know that you can collaborate in real-time with others? You can! Use the (+) button in the top right.
+  Wussten Sie, dass Sie in Echtzeit mit anderen zusammenarbeiten können? Das geht! Verwenden Sie die Schaltfläche (+) oben rechts.
 """>
 <fact-share """
-Did you know that you can edit a Coggle at the same time as someone else? You can! Use the (+) button in the top right to invite others.
+  Wussten Sie, dass Sie einen Coggle zur gleichen Zeit wie jemand anderes bearbeiten können? Das geht! 
+  Benutzen Sie den (+) Knopf oben rechts, um andere einzuladen.
 """>
 <fact-font """
-Did you know you can use a fixed-width code font in Coggles? You can!<p>Just use `backticks` around the text, it also stops other special syntax from being interpreted.
+  Wussten Sie, dass Sie in Coggles eine Code-Schriftart mit fester Breite verwenden können? Das geht!
+  <p>Einfach `backticks` um den Text herum verwenden, es verhindert auch, dass andere spezielle Syntaxen interpretiert werden.
 """>
 <fact-bold """
-Did you know you can use **bold text** in Coggles?<p>Just use **double asterisks** where you want the emphasis!
+  Wussten Sie, dass Sie **fetten Text** in Coggles verwenden können?
+  <p>Benutzen Sie einfach **doppelte Sternchen** dort, wo Sie die Hervorhebung wünschen!
 """>
 <fact-italic """
-Did you know you can use *italic text* in Coggles?<p>Just use *asterisks* where you want the emphasis!
+  Wussten Sie, dass Sie *kursiven Text* in Coggles verwenden können?
+  <p>Benutzen Sie einfach *Sternchen*, wo Sie die Betonung haben wollen!
 """>
 <fact-links """
-Did you know you can put links in Coggles? You can!<p>They work like this:<br>[description](http://example.com)
+  Wussten Sie, dass Sie in Coggles Links setzen können? Das geht!<p>Es funktioniert wie folgt:<br>[Beschreibung](http://example.com)
 """>
 <fact-download """
-Did you know that you can download your Coggle as a PDF or an image? You can! Look for the download button in the top right of the screen.
+  Wussten Sie, dass Sie Ihren Coggle als PDF oder als Bild herunterladen können? Das geht! Achten Sie auf den Download-Button oben rechts auf dem Bildschirm.
 """>
 <fact-markdown """
-Did you know that Coggle uses <a>markdown syntax</a>? It does!<p>Try out links like this: &lt;http://example.com&gt;
+  Wussten Sie, dass Coggle <a>Markdown-Syntax</a> verwendet? Tut es!<p>Links wie diesen ausprobieren: &lt;http://example.com&gt;
 """>
 <fact-latex """
-Did you know Coggle supports LaTeX formulae? It does!<p>Use \\\\( LaTeX here \\\\) to try it out! Check out <a>this link</a> for syntax help.
+  Wussten Sie, dass Coggle LaTeX-Formeln unterstützt? Tut es!<p>Nutzen Sie \\\\\\ (LaTeX hier \\\\\\), um es auszuprobieren! 
+  Sehen Sie sich <a>diesen Link</a> an, um Hilfe zur Syntax zu erhalten.
 """>
 <fact-move """
-Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
+  Wollen Sie diesen Eintrag auf einem anderen Teil des Coggle? Kein Problem! Halten Sie die Umschalttaste gedrückt, 
+  während Sie den (+)-Knopf eines Gegenstandes ziehen, um ihn an einer anderen Stelle wieder anzubringen.
 """>
 <fact-fontsize """
-Text too big? Too small? You can zoom!<br> use [ctrl] [+] / [ctrl] [-]
+  Text zu groß? Zu klein? Sie können zoomen!<br> Benutzen Sie [ctrl] [+] / [ctrl] [-]
 """>
 <fact-zoomin """
-Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+], or right click and drag the zoom icon!
+  Wussten Sie, dass Sie für einen genaueren Blick hineinzoomen können? Das geht!<br> Benutzen Sie [ctrl] [+], 
+  oder klicken Sie mit der rechten Maustaste und ziehen Sie das Zoom-Icon!
 """>
 <fact-zoomout """
-Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-], or right click and drag the zoom icon!
+  Wussten Sie, dass man das Bild verkleinern kann, um das Gesamtbild zu sehen? Das geht!<br> 
+  Benutzen Sie [ctrl] [-], oder klicken Sie mit der rechten Maustaste und ziehen Sie das Zoom-Symbol!
 """>
 <fact-markdown2 """
-Did you know that <a>Markdown</a> is awesome? It is, and Coggle supports it!
+  Wussten Sie, dass <a>Markdown</a> fantastisch ist? Das ist es, und Coggle unterstützt es!
 """>
 <fact-pdf """
-You can download your Coggle as a PDF! Look for the download button in the top right of the screen.
+  Sie können Ihren Coggle als PDF herunterladen! Achten Sie auf den Download-Button oben rechts auf dem Bildschirm.
 """>
 <fact-png """
-You can download your Coggle as an Image! Look for the download button in the top right of the screen.
+  Sie können Ihren Coggle als Bild herunterladen! Achten Sie auf den Download-Button oben rechts auf dem Bildschirm.
 """>
 <fact-latex2 """
-Did you know Coggle supports LaTeX for math? It does!<p>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a>a syntax guide</a>.
+  Wussten Sie, dass Coggle LaTeX für Mathematik unterstützt? Tut es!<p>Nutzen Sie \\\\\\( \\\\LaTeX hier \\\\\\), 
+  um es auszuprobieren! Hier ist <a>ein Syntax-Leitfaden</a>.
 """>
 <fact-history """
-Did you know you can view the history of who changed what, when in your Coggle? You can! Click the clock icon in the top right.
+  Wussten Sie, dass Sie die Geschichte, wer wann was verändert hat, in Ihrem Coggle einsehen können? Das geht! 
+  Klicken Sie auf das Uhrsymbol oben rechts.
 """>
 <fact-images """
-Did you know you can put images in your Coggle? You can!<p>Just drag and drop an image from your computer to wherever you want it.
+  Wussten Sie, dass Sie Bilder in Ihren Coggle legen können? Das geht!<p>Ziehen Sie einfach ein Bild per Drag & Drop von Ihrem Computer dorthin, wo Sie es haben wollen.
 """>
 <fact-images2 """
-Did you know you can use images in Coggles? You can!<p>Drag and drop an image from your computer to wherever you want it. A mini version of the image is uploaded and saved!
+  Wussten Sie, dass Sie Bilder in Coggles verwenden können? Das geht!<p>
+  Ziehen Sie per Drag and Drop ein Bild von Ihrem Computer dorthin, wo Sie es haben wollen. 
+  Eine Miniversion des Bildes wird hochgeladen und gespeichert!
 """>
 <fact-plaintext-in """
-Did you know you can drag & drop plain text files onto Coggle to import them? You can!<p>If your file has indentation, Coggle will even add structure to the imported text.
+  Wussten Sie, dass Sie reine Textdateien per Drag & Drop auf Coggle ziehen können, um sie zu importieren? Das geht!
+  <p>Wenn Ihre Datei eine Einrückung hat, fügt Coggle dem importierten Text sogar Struktur hinzu.
 """>
 <fact-freemind-in """
-Did you know you can drag & drop Freemind .mm files onto Coggle to import them? You can!
+  Wussten Sie, dass Sie Freemind .mm-Dateien per Drag & Drop auf Coggle ziehen können, um sie zu importieren? Das können Sie!
 """>
 <fact-link-drag """
-Did you know you can drag a URL from your address bar onto a Coggle to make a link to that site? You can!
+  Wussten Sie, dass Sie eine URL aus Ihrer Adressleiste auf einen Coggle ziehen können, um einen Link zu dieser Website zu erstellen? 
+  Das können Sie!
 """>
 <fact-text-size """
-Did you know you can change the font? You can!<p>Use #, ##, or ### at the start of a line to make the text bigger.
+  Wussten Sie, dass Sie die Schriftart ändern können? Das geht!<p>Verwenden Sie #, ## oder ### am Anfang einer Zeile, 
+  um den Text größer zu machen.
 """>
 <fact-text-size2 """
-Did you know you can change the font? You can!<p>Drag the corner of the text editing area up or down to change the text size.
+  Wussten Sie, dass Sie die Schriftart ändern können? Das geht!<p>Ziehen Sie die Ecke des Textbearbeitungsbereichs nach oben 
+  oder unten, um die Textgröße zu ändern.
 """>
 <fact-text-size3 """
-Did you know you can change the text size? You can!<p>Drag the corner of the text editing area.
+  Wussten Sie, dass Sie die Textgröße ändern können? Das geht!<p>Ziehen Sie die Ecke des Textbearbeitungsbereichs.
 """>
 <fact-md-reference """
-Did you know you can use Markdown in Coggles to add links, images and more? You can!<p>Here\'s the <a>complete reference</a>.
+  Wussten Sie, dass Sie Markdown in Coggles verwenden können, um Links, Bilder und mehr hinzuzufügen? Das können Sie!
+  <p>Hier ist die <a>vollständige Referenz</a>.
 """>
 <fact-multiline-keys """
-Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
+  Wussten Sie, dass Sie Text über mehrere Zeilen umbrechen können? Das geht! Halten Sie [ctrl] gedrückt, während Sie [return] drücken, 
+  um eine neue Zeile einzufügen. Sie können auch die Ecke des Bearbeitungsfeldes ziehen und dann ganz normal [Return] drücken.
 """>
 <fact-multiline-drag """
-Did you know you can break text over multiple lines? You can! Drag the corner of the edit field, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
+  Wussten Sie, dass Sie Text über mehrere Zeilen umbrechen können? Das geht! Ziehen Sie die Ecke des Bearbeitungsfeldes,
+  dann fügt [return] eine neue Zeile ein, anstatt Ihre Änderungen zu speichern. Sie können auch [ctrl] gedrückt halten, 
+  während Sie [return] drücken, um während der Eingabe einen Zeilenumbruch einzufügen.
 """>
 <fact-multiline-wrap """
-Did you know you can break text over multiple lines? You can! Drag the corner of the text editing area left/right to wrap text onto multiple lines.
+  Wussten Sie, dass Sie Text über mehrere Zeilen umbrechen können? Das geht! Ziehen Sie die Ecke des Textbearbeitungsbereichs 
+  nach links/rechts, um Text auf mehrere Zeilen umzubrechen.
 """>
 <fact-resize-images """
-Did you know you can resize images? You can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
+  Wussten Sie, dass Sie die Größe von Bildern ändern können? Sie können es! 
+  Ziehen Sie ein Bild von irgendwo im Internet auf Ihren Coggle (vorausgesetzt, Sie haben die Erlaubnis, es zu verwenden), 
+  und ziehen Sie dann die untere rechte Ecke des Bildes, um die Größe zu ändern.
 """>
 <fact-image-size """
-Did you know we support a Markdown extension to specify image size? We do! Specify a 200 by 100 pixel image like this: ![image description](http://url.to.image "optional title" 200x100)
+  Wussten Sie, dass wir eine Markdown-Erweiterung zur Angabe der Bildgröße unterstützen? Das tun wir! 
+  Geben Sie ein Bild von 200 x 100 Pixel wie folgt an: ![Bildbeschreibung](http://url.to.image "optionaler Titel" 200x100)
 """>
 <fact-bold-kbshort """
-Did you know you can use keyboard shortcuts to add **bold text** in Coggles? You can! Just press [ctrl]+[b] (or [cmd]+[b] on macs) with the text you want bold selected.
+  Wussten Sie, dass Sie Tastaturkürzel verwenden können, um **fetten Text** in Coggles hinzuzufügen? Das können Sie! 
+  Drücken Sie einfach [ctrl]+[b] (oder [cmd]+[b] auf Macs), während der Text, den Sie fett markieren wollen, markiert ist.
 """>
 <fact-shortcuts-1 """
-Did you know you can edit your Coggle using only the keyboard? You can, here\'s how:<p>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
+  Wussten Sie, dass Sie Ihren Coggle nur mit der Tastatur bearbeiten können? Sie können wie folgt vorgehen:<p>[tab], 
+  um einen Unterknoten hinzuzufügen<br>[shift]+[tab], um zum übergeordneten Knoten zu wechseln<br>[shift]+[return], 
+  um einen Nachbarknoten hinzuzufügen.
 """>
 <fact-shortcuts-2 """
-Did you know you can select which branch to edit using keyboard shortcuts? You can!<p>Use [alt]+[shift]+arrow keys to move along branches.
+  Wussten Sie, dass Sie den zu bearbeitenden Zweig mit Tastaturkürzeln auswählen können? 
+  Das geht!<p>Verwenden Sie [alt]+[Umschalt]+Pfeiltasten, um sich entlang der Zweige zu bewegen.
 """>
 <fact-task-lists """
-Did you know you can <a>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<p>- [ ] unchecked checkbox<br>- [X] checked checkbox</p><p>Clicking on a checkbox automatically changes the markdown, too.
+  Wussten Sie, dass Sie <a>Markdown</a> Checklisten zu Coggles hinzufügen können? Es ist möglich, hier ein Beispiel:
+  <p>- [ ] nicht angekreuztes Kontrollkästchen <br>- [X] angekreuztes Kontrollkästchen</p>
+  <p>Durch Anklicken eines Kontrollkästchens wird automatisch auch das Markdown geändert.
 """>
 <fact-api-1 """
-Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
+  Wussten Sie, dass wir eine API haben? Wir haben eine! Programme können damit Coggles automatisch erstellen, 
+  untersuchen und manipulieren.
 """>
 <fact-organisation """
-Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+  Coggle im Geschäftsleben einsetzen? Sie können eine Coggle-Organisation erstellen, um die Coggles Ihres Unternehmens zu verwalten.
 """>
 <fact-organisation2 """
-Did you know Coggle Organisations can put their logo on their Coggles? They can!
+  Wussten Sie, dass Coggle-Organisationen ihr Logo auf ihren Coggles anbringen können? Das können sie!
 """>
 <fact-organisation3 """
-Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
+  Wussten Sie, dass Sie eine Coggle-Organisation gründen können, um Ihre geschäftlichen Coggles zu organisieren? Das geht!
 """>
