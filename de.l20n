@@ -16,7 +16,7 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "Die übersichtliche Art und Weise um komplexe Informationen zu teilen.">
+<index-tagline "Die übersichtliche Art und Weise, komplexe Informationen zu teilen.">
 <index-signupnow "Jetzt registrieren.">
 <index-login "Bereits registriert? Hier anmelden.">
 
@@ -25,67 +25,75 @@
 <index-nav-gallery "Galerie">
 
 <index-unleash "Entfessle deine Kreativität">
-<index-blurb "Erstellen Sie schnell und einfach schöne Notizen. Teilen Sie sie mit Ihren Freunden und Kollegen um gemeinsam an Ideen zu arbeiten">
+<index-blurb "Erstellen Sie schnell und einfach schöne Notizen. Teilen Sie sie mit Ihren Freunden und Kollegen, um gemeinsam an Ideen zu arbeiten.">
 <index-viewgallery "Oder lassen Sie sich von der <a>Coggle Galerie</a> inspirieren.">
 
 <index-colab-mindmaps """
   <h1>Kollaborative Mind Maps</h1>
-  <p>Coggle ist ein Online-Tool um Mindmaps zu erstellen und teilen. Es muss nichts herutergeladen oder installiert werden, da es online im Browser läuft. <a>Melden Sie sich an</a> um das Mind-Mappen zu beginnen!</p>
-  <p>Egal ob Sie Notizen oder ein Brainstorming erfassen, etwas planen oder auch etwas geniales und kreatives tun, Ideen mit Coggle zu visualisieren ist sehr leicht. Teilen Sie Ihre Werke mit so vielen Freunden und Kollegen wie Sie möchten. Alle Änderungen die Sie vornehmen sind sofort weltweit im Browser ersichtlich.</p>
+  <p>Coggle ist ein Online-Tool um Mindmaps zu erstellen und zu teilen. Es muss nichts herutergeladen oder installiert werden, 
+  da es online im Browser läuft. <a>Melden Sie sich an</a> um das Mind-Mappen zu beginnen!</p>
+  <p>Egal ob Sie Notizen oder ein Brainstorming erfassen, etwas planen oder auch etwas geniales und kreatives tun, 
+  Ideen mit Coggle zu visualisieren ist sehr leicht. Teilen Sie Ihre Werke mit so vielen Freunden und Kollegen wie Sie möchten. 
+  Alle Änderungen die Sie vornehmen sind sofort weltweit im Browser ersichtlich.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
   <h2>Notizen erfassen</h2>
-  <p>Nutzen Sie Coggle in Meetings, bei Wiederholungen oder wo auch immer die Inspiration gefordert ist um schöne und strukturierte Notizen zu erstellen.</p>
+  <p>Nutzen Sie Coggle in Meetings, Reviews oder wo auch immer Inspiration gefordert ist, 
+  um schöne und strukturierte Notizen zu erstellen.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
   <h2>Brainstorming</h2>
-  <p>Nutzen Sie den Start einer Idee, bewässern Sie sie mit Coggle und sehen Sie zu wie sie zu einem vollständigen und übersichtlichen Plan wächst und gedeiht bis sie bereit ist geteilt zu werden.</p>
+  <p>Nutzen Sie den Start einer Idee, bewässern Sie sie mit Coggle und sehen Sie zu wie sie zu einem vollständigen und 
+  übersichtlichen Plan wächst und gedeiht, bis sie bereit ist geteilt zu werden.</p>
 """>
 
 <index-use-share """
   <div><img></div>
   <h2>Informationen teilen</h2>
-  <p>Erarbeiten Sie Ihr Thema in Coggle, schliessen Sie alle Details ein und teilen Sie sie mit Ihrem Team, Ihren Klassenkameraden oder der ganzen Welt!</p>
+  <p>Erarbeiten Sie Ihr Thema in Coggle, schliessen Sie alle Details ein und teilen Sie sie mit Ihrem Team, 
+  Ihren Klassenkameraden oder der ganzen Welt!</p>
 """>
     
 <index-use-other """
-  Das sind nur ein paar Funktionen wofür Coggle nützlich ist – <a>Starten Sie hier</a> um Ihre eigenen zu entdecken!
+  Das sind nur ein paar Funktionen, wofür Coggle nützlich ist – <a>Starten Sie hier</a> um Ihre eigenen zu entdecken!
 """>
 
 <index-helpteam-orgs-usd """
   <a><img></a>
-  <h2>Helfen Sie Ihrem Team mit <a>Coggle Organisations</a> zu kommunizieren.</h2>
-  <p>Geben Sie Ihrem Team einen gemeinsamen Ort für Brainstorming, Notizen und um Ideen zu dokumentieren. Coggle Organisations besitzt alle von Ihnen benötigten Funktionen um Ihre Daten zu managen und in Ihren Geschäftsworkflow zu integrieren. Lesen Sie <a>hier</a> mehr darüber.</p>
+  <h2>Helfen Sie Ihrem Team, mit <a>Coggle Organisations</a> zu kommunizieren.</h2>
+  <p>Geben Sie Ihrem Team einen gemeinsamen Ort für Brainstorming, Notizen und um Ideen zu dokumentieren. 
+  Coggle Organisations besitzt alle notwendigen Funktionen, um Ihre Daten zu managen und in Ihren Geschäftsablauf zu integrieren. 
+  Lesen Sie <a>hier</a> mehr darüber.</p>
   <a>Registrieren Sie sich jetzt<div>Ab $8 pro User im Monat</div></a>
 """>
 
 <features-realtime "Echtzeit Kollaboration">
-<features-realtime-desc "Laden Sie Ihre Freunde und Kollegen ein mit Ihnen zur selben Zeit am selben Diagram zu arbeiten.">
+<features-realtime-desc "Laden Sie Ihre Freunde und Kollegen ein, mit Ihnen zur selben Zeit am selben Diagram zu arbeiten.">
 
 <features-images-title "Vervollständigen Sie das Bild">
-<features-images "Fügen Sie Bilder per drag-and-drop direkt vom Desktop in Ihre Diagramme ein. Es gibt kein Limit wieviele Bilder Sie hinzufügen können.">
+<features-images "Fügen Sie Bilder per Drag & Drop direkt vom Desktop in Ihre Diagramme ein. Es gibt kein Limit, wieviele Bilder Sie hinzufügen können.">
 
 <features-fullhistory-title "Speichern Sie jede Änderung">
 <features-history "Sehen Sie sich alle Änderungen eines Diagrams an und machen Sie eine Kopie von jedem Punkt um zu einer vorherigen Version zurück zu gelangen.">
 
-<features-labels-title "Fügen Sie Fliesstext und Bilder hinzu">
+<features-labels-title "Fügen Sie Fließtext und Bilder hinzu">
 <features-labels "Fügen Sie Textbeschriftungen und Bilder hinzu, die nicht Teil der Diagrammstruktur sind, um Teile Ihres Diagramms mit Anmerkungen zu versehen.
 
 <features-blame-title "Verantwortlichkeit nachverfolgen">
-<features-blame "Sehen Sie die Änderungshistorie Ihres Diagramms durch um zu sehen wer was und wann geändert hat. Über den Diagrammverlauf-Modus finden Sie es heraus.">
+<features-blame "Sehen Sie die Änderungshistorie Ihres Diagramms durch um zu sehen, wer was und wann geändert hat. Über den Diagrammverlauf-Modus finden Sie es heraus.">
 
 <features-colours-title "Nutzen Sie die richtige Farbe">
 <features-colours "Klicken Sie auf einen Zweig um den Farbkreis zu öffnen und die gewünschte Farbe auszuwählen.">
 
 <features-notifications-title "E-Mail Benachrichtigung">
-<features-notifications "Erhalten Sie eine E-Mail-Benachrichtigung mit einer Zusammenfassung aller Änderungen wenn ein mit Ihnen geteiltes Diagram von einem Mitarbeiter geändert wurde.">
+<features-notifications "Erhalten Sie eine E-Mail-Benachrichtigung mit einer Zusammenfassung aller Änderungen, wenn ein mit Ihnen geteiltes Diagram von einem Mitarbeiter geändert wurde.">
 
 <features-chat-title "Kommentare und Chats">
-<features-chat "Fügen Sie Konten Kommentare hinzu und chatten Sie mit Mitarbeitern ohne die Diagramm-Arbeitsfläche zu verlassen.">
+<features-chat "Fügen Sie Konten Kommentare hinzu und chatten Sie mit Mitarbeitern, ohne die Diagramm-Arbeitsfläche zu verlassen.">
 
 
 
@@ -121,15 +129,15 @@
 <plans-awesome-price "$5 / Monat">
 <feature-include-free "Alles in <b>Free</b>">
 <feature-unlimited-private "<b>Unlimitierte</b> private Diagramme">
-<feature-multiroot "<b>Mehrere Start-Punkte</b>">
+<feature-multiroot "<b>Mehrere Ausgangs-Punkte</b>">
 <feature-private "<b>Private Diagramme</b>">
-<feature-chathistory "<b>Vollen</b> Chat-Verlauf">
+<feature-chathistory "<b>Voller</b> Chat-Verlauf">
 <feature-rearrange "<b>Automatisiertes Anordnen der Zweige</b>">
 <feature-rejoin "<b>Zweige zusammenführen</b>">
 <feature-folders "<b>Geteilte Ordner</b>">
 <feature-presentation "Präsentationsmodus">
-<feature-bigimages "<b>Hochauflösende Bilder</b> uploaden">
-<feature-linestyles "<b>Steuerlinienstil</b>">
+<feature-bigimages "<b>Hochauflösende Bilder</b> hochladen">
+<feature-linestyles "<b>Linienstil Einstellungsmöglichkeiten</b>">
 <feature-extendedcolours "Mehr Farben">
 <plans-findoutmore "Erfahren Sie mehr darüber">
 
@@ -137,18 +145,18 @@
 <plans-org-description "Ideal für <b>Teams</b>, die den Zugriff auf ihre Daten kontrollieren und die Abrechnung konsolidieren möchten.">
 <plans-org-price "$8 / User / Monat">
 <feature-org-awesome "Alles in <b>Awesome</b>">
-<feature-org-separate "Separate persönliche Arbeitsumgebungen">
+<feature-org-separate "Separate, persönliche Arbeitsumgebungen">
 <feature-org-billing "Abrechnung konsolidieren">
-<feature-bulkexport "<b>Bulk-Export</b>">
-<feature-adminpanel "<b>User & Daten</b> Management">
+<feature-bulkexport "<b>Massenexport</b>">
+<feature-adminpanel "<b>User- & Daten-</b> Management">
 <feature-branding "Diagramme mit Branding">
 
 <plans-select "Auswahl">
-<continue-free "Mit dem <b>kostenlosen</b> Plan fortfahren.">
-<current-plan "Ihr aktueller Plan">
-<cancel-subscription "Cancel Subscription">
-<awesome-signup-monthly "Registrieren <span>$5</span> im Monat">
-<awesome-signup-yearly "Registrieren <span>$50</span> im Jahr">
+<continue-free "Mit dem <b>kostenlosen</b> Lizenzmodell fortfahren.">
+<current-plan "Ihr aktuelles Lizenzmodell">
+<cancel-subscription "Abonnement kündigen">
+<awesome-signup-monthly "Registrieren für <span>$5</span> im Monat">
+<awesome-signup-yearly "Registrieren für <span>$50</span> im Jahr">
 <awesome-upgrade-monthly "Upgrade (<b>$5</b>/Monat)">
 <awesome-upgrade-yearly "Upgrade (<b>$50</b>/Jahr)">
 <product-purchase "KAUFEN">
@@ -161,7 +169,7 @@
 <per-member-per-month "pro User im Monat">
 
 <awesome-feature "Awesome Lizenz">
-<org-feature "Organisation Funktion">
+<org-feature "Organisations-Funktion">
 
 <footer-about "Über">
 <footer-contact "Kontakt">
@@ -217,7 +225,7 @@
 <doclist-loading-failed "Entschuldigung! Das Laden des Ordners schlug fehl, bitte versuchen Sie es erneut, indem Sie die Seite neu laden.">
 <doclist-discover-whatspossible "Möchten Sie mehr von Coggle? Entdecken Sie <a>was möglich ist</a>.<div></div>">
 <doclist-upgrade """
-   <div> <b>Multiple Start-Punkte!</b> <p>Erzeugen Sie mehrere Start-Punkte mit <a>Coggle Awesome</a>.</p> <a>Upgrade jetzt durchführen</a> <div></div> </div>
+   <div> <b>Mehrere Ausgangs-Punkte!</b> <p>Erzeugen Sie mehreren Ausgangs-Punkten mit <a>Coggle Awesome</a>.</p> <a>Upgrade jetzt durchführen</a> <div></div> </div>
 """>
 
 <tooltip-createorg title:"Organisation erzeugen">
@@ -280,7 +288,8 @@
 """>
 <billing-on-file """
   <p>Die Karte, die wir für Sie in den Akten haben, endet am <b>{{{ $cardEndsIn }}</b>, sie läuft ab am<b>{{{{ $cardExpires }}}</b>.</p>
-  <p>Die Rechnungs-Postleitzahl, die wir für Sie gespeichert haben, lautet <b>{{{ $addressZip }}</b>. <a>Kreditkartendetails bearbeiten</a></p>
+  <p>Die Rechnungs-Postleitzahl, die wir für Sie gespeichert haben, lautet <b>{{{ $addressZip }}</b>.
+  <a>Kreditkartendetails bearbeiten</a></p>
 """>
 <billing-ok-button "{{ settingsSubmitButton[$submit] }}">
 <billing-charge-description """
@@ -431,17 +440,20 @@
 <help-toolbar-invite "Klicken Sie, um Personen zum Bearbeiten oder Anzeigen dieses Coggle einzuladen. Sie können die Berechtigungen der Personen steuern, indem Sie auf ihr Symbol klicken.">
 <help-toolbar-invitemulti-title "Mehrere Personen einladen">
 <help-toolbar-invitemulti """
-  Um Zeit zu sparen, können Sie mehrere Personen gleichzeitig einladen: Geben Sie die E-Mail-Adressen durch Leerzeichen, Kommata<b>,</b> oder Semikolons<b>;</b> getrennt ein (oder fügen Sie sie ein).
+  Um Zeit zu sparen, können Sie mehrere Personen gleichzeitig einladen: 
+  Geben Sie die E-Mail-Adressen durch Leerzeichen, Kommata<b>,</b> oder Semikolons<b>;</b> getrennt ein (oder fügen Sie sie ein).
 """>
 <help-toolbar-invitedonefaster "Erledigen Sie Dinge schneller - laden Sie jemanden ein, mit Ihnen zusammen zu bearbeiten und sehen Sie die Änderungen sofort.">
 <help-toolbar-inviteflow-title "E-Mail eines Mitbearbeiters eingeben">
 <help-inactive-invite "Arbeiten Sie mit Freunden zusammen, um Ihre Ideen zum Leben zu erwecken!<br>Hier per E-Mail einladen.">
 
 <banner-open-getawesome """
-    Dies ist ein öffentliches Coggle - es könnte in der <a>Coggle-Galerie erscheinen.</a> <a>Awesome</a> bekommen, um es privat zu machen.
+    Dies ist ein öffentliches Coggle - es könnte in der <a>Coggle-Galerie erscheinen.</a> <a>Awesome</a> bekommen, 
+    um es privat zu machen.
 """>
 <banner-open-awesome """
-    Dies ist ein öffentliches Coggle - es könnte in der <a>Coggle-Galerie erscheinen.</a> Sie können es aus dem <a>Teilen-Dialog</a> privat machen.
+    Dies ist ein öffentliches Coggle - es könnte in der <a>Coggle-Galerie erscheinen.</a> 
+    Sie können es aus dem <a>Teilen-Dialog</a> privat machen.
 """>
 
 <me-as-awesome-orgmember """
@@ -482,7 +494,8 @@
 /* sharing dialog content */
 <share-newlink "Neuer Link:">
 <share-newlink-tip """
-  Damit können Sie Ihr Diagramm mit Leuten teilen, die nicht eingeloggt sind, aber seien Sie vorsichtig, sie lassen <strong>jedermann</strong> mit dem Link Ihre Arbeit sehen!
+  Damit können Sie Ihr Diagramm mit Leuten teilen, die nicht eingeloggt sind, aber seien Sie vorsichtig, 
+  sie lassen <strong>jedermann</strong> mit dem Link Ihre Arbeit sehen!
 """>
 <share-tag-user "Nutzer">
 <share-tag-embed "Einbinden">
@@ -532,15 +545,17 @@
   <b>Verbindung verloren</b>: Änderungen können nicht gespeichert werden</div>
 """>
 <unrecoverable-warning """
-  Es gab einen nicht behebbaren Fehler, bitte laden Sie die Seite neu. Wenn Sie Informationen darüber haben, was schief gelaufen sein könnte, senden Sie bitte eine E-Mail an <a>contact@coggle.it</a>
+  Es gab einen nicht behebbaren Fehler, bitte laden Sie die Seite neu. Wenn Sie Informationen darüber haben, 
+  was schief gelaufen sein könnte, senden Sie bitte eine E-Mail an <a>contact@coggle.it</a>
 """>
 <banner-undo-warning "Nichts mehr rückgängig zu machen!">
 <banner-redo-warning "Nichts mehr wiederherzustellen!">
 
 /* Image drag-drop messages */
 <imgupload-was-resized-2 """
-  Ihr Bild wurde so verkleinert, dass es in {{ $maxWidth }} &times; {{ $maxHeight }} passt, so dass wir Ihr Bild kostenlos und für immer speichern können!
-  Sie können sich für <a>Coggle Awesome</a> anmelden, um viel größere Bilder hochzuladen. <a>Mehr lesen</a>.
+  Ihr Bild wurde so verkleinert, dass es in {{ $maxWidth }} &times; {{ $maxHeight }} passt, 
+  so dass wir Ihr Bild kostenlos und für immer speichern können! Sie können sich für <a>Coggle Awesome</a> anmelden, 
+  um viel größere Bilder hochzuladen. <a>Mehr lesen</a>.
 """>
 <imgupload-slow-down "Whoa, bitte etwas langsamer! Versuchen Sie, die Dateien nacheinander hochzuladen.">
 
@@ -639,191 +654,182 @@
 <button-emoji title:"Symbole suchen">
 
 /* diagram not-found page */
-<nodiagram-title "Diagram not found!">
-<nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">
-<nodiagram-logged-in "You are currently logged in as <b>{{ $user.givenName }}</b>, with the email address <b>{{ $user.email }}</b>. If this diagram exists, this account does not have permission to access it.">
-<nodiagram-not-logged-in "<b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.">
-<nodiagram-may-need-access "If someone gave you a link to this diagram they might also need to give you permission to view it.">
+<nodiagram-title "Diagramm nicht gefunden!">
+<nodiagram-invalid-link "Dieser Diagramm-Link ist ungültig, oder der Zugriff darauf wurde widerrufen.">
+<nodiagram-logged-in "Sie sind aktuell eingeloggt als <b>{{ $user.givenName }}</b>, mit der E-Mail-Adresse <b>{{ $user.email }}</b>. Falls dieses Diagramm existiert, hat dieses Konto keine Zugriffsberechtigung darauf.">
+<nodiagram-not-logged-in "<b>Sie sind zur Zeit nicht eingeloggt.</b> Falls dieses Diagramm existiert, haben Sie möglicherweise Zugang zu diesem Diagramm, wenn Sie sich in Ihrem Konto einloggen.">
+<nodiagram-may-need-access "Wenn Ihnen jemand einen Link zu diesem Diagramm gegeben hat, muss er Ihnen möglicherweise auch die Erlaubnis geben, es anzusehen.">
 
 
 /* Awesome Landing Page (/awesome) */
 <awesome-pitch """
   <h2>Coggle Awesome</h2>
-  <p>Supercharge your thinking with Coggle Awesome. Add huge images, present your Coggles, and create private Coggles that won't be indexed by search engines.</p>
+  <p>Laden Sie Ihr Denken mit Coggle Awesome auf. Fügen Sie riesige Bilder hinzu, präsentieren Sie Ihre Coggles und 
+  erstellen Sie private Coggles, die nicht von Suchmaschinen indiziert werden.</p>
 """>
 
 <awesome-signup """
-  <a>SIGN UP NOW</a>
-  <div>$5 / MONTH</div>
+  <a>JETZT ANMELDEN</a>
+  <div>$5 / MONAT</div>
 """>
 
-<awesome-feature-private-title "Unlimited Private Diagrams">
-<awesome-feature-private "Create as many private diagrams as you like. If you do ever cancel your subscription they stay private, and you keep access.">
+<awesome-feature-private-title "Unbegrenzt private Diagramme">
+<awesome-feature-private "Erstellen Sie so viele private Diagramme, wie Sie möchten. Wenn Sie Ihr Abonnement jemals kündigen, bleiben sie privat, und Sie behalten den Zugang.">
 
-<awesome-feature-joinloop-title "Create Loops and Join Branches">
-<awesome-feature-joinloop "Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.">
+<awesome-feature-joinloop-title "Schleifen erstellen und Zweige verbinden">
+<awesome-feature-joinloop "Fügen Sie Zweige zusammen und erstellen Sie Schleifen, um leistungsfähigere und flexiblere Diagramme zu erstellen, die Prozessabläufe und andere fortgeschrittene Dinge darstellen.">
 
-<awesome-feature-multiroot-title "Multiple Starting Points">
-<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+<awesome-feature-multiroot-title "Mehrere Ausgangspunkte">
+<awesome-feature-multiroot "Fügen Sie mehrere zentrale Elemente zu Ihren Diagrammen hinzu, um verwandte Themen in einem einzigen Arbeitsbereich abzubilden.">
 
-<awesome-feature-linestyle-title "Control Line Style">
-<awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
+<awesome-feature-linestyle-title "Linien-Stile einstellen">
+<awesome-feature-linestyle "Passen Sie die Dicke und den Stil der Linien in Ihrem Diagramm an.">
 
-<awesome-feature-bigimages-title "Show Them the Big Picture">
-<awesome-feature-bigimages "Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.">
+<awesome-feature-bigimages-title "Denen das große Ganze zeigen">
+<awesome-feature-bigimages "Fügen Sie Ihren Coggles riesige Bilder hinzu, um Ihre Ideen zu illustrieren: Ziehen Sie einfach ein Bild per Drag & Drop von Ihrem Desktop auf ein Dokument.">
 
-<awesome-feature-colours-title "More Colours">
-<awesome-feature-colours "Unlock a new range of vivid colours to help organise and highlight your ideas.">
+<awesome-feature-colours-title "Mehr Farben">
+<awesome-feature-colours "Schalten Sie eine neue Palette lebendiger Farben frei, um Ihre Ideen zu organisieren und hervorzuheben.">
 
-<awesome-feature-autoarrange-title "Automatic Branch Layout">
-<awesome-feature-autoarrange "Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.">
+<awesome-feature-autoarrange-title "Automatische Verzweigungs-Layoutierung">
+<awesome-feature-autoarrange "Bereinigen Sie die Positionierung Ihrer Zweige mit nur einem Klick mit den automatischen Zweiganordnungsfunktionen von Coggle Awesome.">
 
-<awesome-feature-folders-title "Shared Folders">
-<awesome-feature-folders "Put your diagrams into folders to keep them organised and easily share them all with a group of collaborators.">
+<awesome-feature-folders-title "Gemeinsam genutzte Ordner">
+<awesome-feature-folders "Legen Sie Ihre Diagramme in Ordnern ab, um sie geordnet zu halten, und geben Sie sie leicht an eine Gruppe von Mitarbeitern weiter.">
 
 
 <awesome-hint-orgs """
-  If you're using Coggle for work, check out <a>Coggle Organisations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
+  Wenn Sie Coggle für die Arbeit nutzen, schauen Sie sich <a>Coggle-Organisations</a> an, 
+  das mit allen Vorteilen von Coggle Awesome und geschäftsfreundlichen Verwaltungsfunktionen ausgestattet ist.
 """>
 
 
 /* Organisations Landing Page (/organisations) */
 <orgs-pitch-3 """
   <h2>Coggle Organisations</h2>
-  <p>Each Coggle Organisation comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.</p>
+  <p>Jede Coggle-Organisation verfügt über Funktionen zur Verwaltung großer Personengruppen, 
+  bei denen Mitglieder kommen und gehen und bei denen sensible Informationen geschützt werden müssen.</p>
 """>
 
-<orgs-signup "<a>CREATE ORGANISATION</a>">
+<orgs-signup "<a>ORGANISATION ERSTELLEN</a>">
 
 <orgs-subpitch """
-  <p>When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a>Coggle Organisations</a>.</p>
-  <p>Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.</p>
+  <p>Wenn Informationen für Ihr Team entscheidend sind, benötigen Sie leistungsfähigere Tools und mehr Kontrolle über Ihre Daten. 
+  Deshalb haben wir <a>Coggle-Organisations</a> aufgebaut.</p>
+  <p>Die Preisgestaltung ist einfach, <b>$8 pro Mitglied pro Monat</b>.<br>. <br><b> Alles unbegrenzt</b>.</p>
 """>
 
-<orgs-feature-in-one-place-title "Everything in One Place">
-<orgs-feature-in-one-place "All your organisations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.">
+<orgs-feature-in-one-place-title "Alles an einem Ort">
+<orgs-feature-in-one-place "Alle Diagramme Ihrer Organisationen an einem Ort. Sorgen Sie dafür, dass Ihre Teams sicher arbeiten, an einem einfach zu verwaltenden Ort - damit Sie genau wissen, wo Sie suchen müssen.">
 
-<orgs-feature-control-sharing-title "Control Sharing">
-<orgs-feature-control-sharing "You can make sure that Coggles created in your organisation stay in your organisation. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.">
+<orgs-feature-control-sharing-title "Kontrolle der gemeinsamen Nutzung">
+<orgs-feature-control-sharing "Sie können sicherstellen, dass in Ihrer Organisation erstellte Coggles in Ihrer Organisation bleiben. Dies schützt sensibles Material vor versehentlicher Preisgabe, wenn die falsche E-Mail-Adresse zu einem Dokument eingeladen wird.">
 
-<orgs-feature-manage-users-title "Safely Manage Users">
-<orgs-feature-manage-users "Safely Manage UsersRemove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active">
+<orgs-feature-manage-users-title "Benutzer sicher verwalten">
+<orgs-feature-manage-users "Entfernen Sie Mitglieder aus Ihrer Organisation, ohne die von ihnen geleistete Arbeit zu verlieren. Verwenden Sie das Management-Dashboard, um alle Diagramme anzuzeigen, die in Ihrer Organisation von früheren, gegenwärtigen, gelöschten oder aktiven Mitgliedern erstellt wurden.">
 
-<orgs-feature-export-title "Bulk Export">
-<orgs-feature-export "Organisation admins can download all of the organisations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind.">
+<orgs-feature-export-title "Massenexport">
+<orgs-feature-export "Organisationsadministratoren können alle Coggles der Organisationen in einem maschinenlesbaren, archivierbaren JSON-Format mit einem einzigen Klick herunterladen. Hervorragend geeignet für die Einhaltung gesetzlicher Vorschriften oder einfach nur zur Beruhigung.">
 
-<orgs-feature-branding-title "Show your Brand">
-<orgs-feature-branding "Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.">
+<orgs-feature-branding-title "Ihre Marke zeigen">
+<orgs-feature-branding "Erstellen Sie professionelle, saubere Diagramme mit Ihrem Logo und exportieren Sie sie als PDF oder PNG. Hervorragend geeignet für die Weitergabe von Diagrammen an Kunden oder Mitarbeiter innerhalb Ihres Unternehmens.">
 
-<orgs-feature-editable-links-title "Editable Private Links">
-<orgs-feature-editable-links "Create a private link to share with collaborators outside of your organisation, allowing them to edit a diagram without logging in.">
+<orgs-feature-editable-links-title "Editierbare private Links">
+<orgs-feature-editable-links "Erstellen Sie einen privaten Link, den Sie an Mitarbeiter außerhalb Ihrer Organisation weitergeben können, damit diese ein Diagramm bearbeiten können, ohne sich anmelden zu müssen.">
 
 <orgs-feature-awesome """
-  In addition, all members of your organisation will get the Coggle <a>Awesome</a> features.
+  Darüber hinaus erhalten alle Mitglieder Ihrer Organisation die Coggle <a>Awesome</a> Features.
 """>
 
 /* Organisations Sign-Up Page (/organisations/new) */
-<orgcreate-title2 "Create a <a>Coggle Organisation</a>">
+<orgcreate-title2 "Erstellen Sie eine <a>Coggle-Organisation</a>">
 <orgcreate-nameinput """
-  <input placeholder="Choose Your Organisation Name">
-  <span>Pick something short and recognisable!</span>
+  <input placeholder="Wählen Sie den Namen Ihrer Organisation">
+  <span>Nehmen Sie etwas Kurzes und Wiedererkennbares!</span>
 """>
 
 <faq-orgs-whatare """
-  <div>What are Coggle Organisations?</div>
-  <div><p>Coggle Organisations create a separation between your personal
-  diagrams and those owned by your company. By separating what's personal from
-  what's professional you gain greater control over your businesses data that's
-  stored in Coggle, including when and how it's shared by your
-  employees.</p></div>
+  <div>Was sind Coggle Organisations?</div>
+  <div><p>Coggle Organisations schafft eine Trennung zwischen Ihren persönlichen Diagrammen und denen Ihres Unternehmens. 
+  Indem Sie das Persönliche vom Beruflichen trennen, erhalten Sie eine größere Kontrolle über die Daten Ihres Unternehmens, 
+  die in Coggle gespeichert sind, einschließlich der Frage, wann und wie sie von Ihren Mitarbeitern weitergegeben werden.</p></div>
 """>
 
 <faq-orgs-whofor """
-  <div>Who are Coggle Organisations for?</div>
+  <div>Für wen sind Coggle Organisations?</div>
   <div>
-    <p>Coggle Organisations have been designed for teams that require
-      greater control over the data they enter into Coggle, or need to keep
-      personal data separate. They're being successfully used by private
-      companies, public bodies, schools and universities to help groups
-      collaborate securely.</p> 
-    <p>Any group that need more control over sharing of diagrams, whether for
-      regulatory or internal policy compliance will find Coggle Organisations
-      useful.</p>
+    <p>Coggle Organisations wurde für Teams entwickelt, die eine größere Kontrolle über die Daten benötigen, 
+    die sie in Coggle eingeben, oder die persönliche Daten getrennt halten müssen. Sie werden erfolgreich von privaten Unternehmen, 
+    öffentlichen Einrichtungen, Schulen und Universitäten eingesetzt, um Gruppen bei der sicheren Zusammenarbeit zu unterstützen.</p>
+     <p>Jede Gruppe, die mehr Kontrolle über die gemeinsame Nutzung von Diagrammen benötigt, 
+     sei es für die Einhaltung gesetzlicher oder interner Richtlinien, wird Coggle Organisations nützlich finden.</p>
   </div>
 """>
 
 <faq-orgs-features """
-  <div>What are the main features of a Coggle Organisation?</div>
+  <div>Was sind die Hauptmerkmale einer Coggle-Organisation?</div>
   <div>
-    <p><b>Administrators dashboard</b>: complete control over diagrams created
-      by members of your organisation, including restoration of deleted diagrams.
-    </p>
-    <p><b>Data control</b>: choose to limit sharing of data to within your
-      organisation only.</p>
-    <p><b>Bulk export</b>: export all diagrams in your organisation for backup
-      or regulatory purposes.</p>
-    <p><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
-      one place, and revoke subscriptions when members come and go from your
-      organsiation. </p>
-  </div>
+    <p><b>Administratoren-Dashboard</b>: Vollständige Kontrolle über Diagramme, die von Mitgliedern Ihrer Organisation erstellt wurden, 
+    einschließlich der Wiederherstellung gelöschter Diagramme.</p>
+    <p><b>Datenkontrolle</b>: Beschränken Sie die gemeinsame Nutzung von Daten nur auf Ihre Organisation.</p>
+    <p><b>Massenexport</b>: Exportieren Sie alle Diagramme in Ihrer Organisation zu Sicherungs- oder Regulierungszwecken.</p>
+    <p><b>Zentrale Rechnungsstellung</b>: Bezahlen Sie mehrere Awesome-Abonnements an einem Ort, und widerrufen Sie die Abonnements, 
+    wenn Mitglieder Ihrer Organisation kommen und gehen. </p>
+</div>
 """>
 
 <faq-orgs-awesome """
-  <div>How do Coggle Organisations relate to Coggle Awesome?</div>
+  <div>Wie verhalten sich Coggle-Organisationen zu Coggle Awesome?</div>
   <div>
-    <p>Coggle Organisations are a great way to centralise billing and license
-      management for multiple Coggle Awesome subscriptions.</p>
-    <p>Every user in your Organisation will automatically get Coggle Awesome
-      when they're working on diagrams in your organisation workspace. This means
-      all the great features including private diagrams, presentation mode,
-      extended colour palette and high resolution image uploads.</p>
+    <p>Coggle-Organisationen sind eine hervorragende Möglichkeit, 
+    die Rechnungsstellung und das Lizenzmanagement für mehrere Coggle Awesome-Abonnements zu zentralisieren.</p>
+    <p>Jeder Benutzer in Ihrer Organisation wird automatisch Coggle Awesome erhalten, 
+    wenn er an Diagrammen in Ihrem Organisationsarbeitsbereich arbeitet. Das bedeutet all die großartigen Funktionen, 
+    einschließlich privater Diagramme, Präsentationsmodus, erweiterter Farbpalette und hochauflösender Bild-Uploads.</p>
   </div>
 """>
 
 <faq-orgs-billing """
-  <div>How does billing work for Coggle Organisations?</div>
-  <div>Coggle Organisations are charged at $8 per member per month. You can add
-  and remove members at any time from the dashboard for your
-  organisation.</div>
+  <div>Wie funktioniert die Rechnungsstellung für Coggle-Organisationen?</div>
+  <div>Coggle-Organisationen werden mit $8 pro Mitglied pro Monat berechnet. 
+  Sie können jederzeit Mitglieder über das Dashboard für Ihre Organisation hinzufügen und entfernen.</div>
 """>
 
 <faq-orgs-edu """
-  <div>Are there any education pricing options?</div>
-  <div>Yes! Contact us at education@coggle.it to find out more.</div>
+  <div>Gibt es Preisoptionen für den Bildungsbereich?</div>
+  <div>Ja! Kontaktieren Sie uns unter education@coggle.it, um mehr zu erfahren.</div>
 """>
 
 <faq-orgs-more """
-  <div>I've still got some questions...</div>
-  <div>Ask us! Send us an email to orgs@coggle.it and we'll be happy to help :)</div>
+  <div>Ich habe noch einige Fragen...</div>
+  <div>Fragen Sie uns! Schicken Sie uns eine E-Mail an orgs@coggle.it und wir helfen Ihnen gerne weiter :)</div>
 """>
 
 /* About Coggle (/about) */
 <about-hello2 """
-  <h1>Hello!</h1>
-  <p><b>Coggle gives you a clear way to share and understand complex information.
-  It's a collaborative document that simplifies complex things and
-  a shared workspace to help your team work more effectively together.</b></p>
-  <p>It's free, and we promise it always will be, but we still promise to look
-  after your data the best we know how, to keep backups, and to take security
-  seriously.</p>
-  <p>Our mission is to change the way that people work and collaborate forever,
-  to make you more productive, to make it easier to share information with
-  others, and to do it in a way that's beautiful, and a pleasure to use.</p>
+  <h1>Guten Tag!</h1>
+  <p><b>Coggle gibt Ihnen eine klare Möglichkeit, komplexe Informationen zu teilen und zu verstehen. 
+  Es ist ein Dokument für die Zusammenarbeit, das komplexe Dinge vereinfacht, und ein gemeinsamer Arbeitsbereich, 
+  der Ihrem Team hilft, effektiver zusammenzuarbeiten.</b><</p>
+  <p>Es ist kostenlos, und wir versprechen, dass es das immer sein wird, aber wir versprechen trotzdem, 
+  uns nach bestem Wissen und Gewissen um Ihre Daten zu kümmern, Backups aufzubewahren und die Sicherheit ernst zu nehmen.</p>
+  <p>Unsere Mission ist es, die Art und Weise, wie Menschen arbeiten und zusammenarbeiten, für immer zu verändern, 
+  Sie produktiver zu machen, es einfacher zu machen, Informationen mit anderen zu teilen, und dies auf eine Art und Weise zu tun, 
+  die schön und angenehm zu nutzen ist.</p>
 """>
 
 <about-getintouch """
   <h1>Get in Touch</h1>
-  <p>Got a question? Want to tell us how you're using Coggle? Or maybe just
-  give us some feedback? You can find us on <a>facebook </a>and on <a>Twitter
-  </a>and if you prefer you can always send an email to <a>hello@coggle.it
-  </a>— we love to chat!</p>
+  <p>Haben Sie eine Frage? Möchten Sie uns sagen, wie Sie Coggle verwenden? Oder uns vielleicht einfach nur ein Feedback geben? 
+  Sie finden uns auf <a>facebook </a>und auf <a>Twitter</a> und wenn Sie es vorziehen, 
+  können Sie uns jederzeit eine E-Mail an <a>hello@coggle.it</a>- wir lieben es zu chatten!</p>
 """>
 
 <about-spreadtheword """
-  <h1>Spread the Word</h1>
-  <p>If you love Coggle, then help us break even more people free from the
-  confines of lists, spreadsheets and conventional documents! You can share
-  Coggle <a>on Twitter </a>or <a>on Facebook</a>.</p>
+  <h1>Die Botschaft verbreiten</h1>
+  <p>Wenn Sie Coggle lieben, dann helfen Sie uns, noch mehr Menschen aus der Enge von Listen, 
+  Tabellenkalkulationen und konventionellen Dokumenten zu befreien! 
+  Sie können Coggle <a>auf Twitter</a>oder <a>auf Facebook</a> teilen.</p>
 """>
 
 <about-press """
