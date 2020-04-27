@@ -20,9 +20,11 @@
 <index-signupnow "Jetzt registrieren.">
 <index-login "Bereits registriert? Hier anmelden.">
 
+<index-nav-login "Login">
 <index-nav-pricing "Preise">
 <index-nav-features "Features">
 <index-nav-gallery "Galerie">
+<index-nav-home "Home">
 
 <index-unleash "Entfessle deine Kreativität">
 <index-blurb "Erstellen Sie schnell und einfach schöne Notizen. Teilen Sie sie mit Ihren Freunden und Kollegen, um gemeinsam an Ideen zu arbeiten.">
@@ -81,10 +83,13 @@
 <features-history "Sehen Sie sich alle Änderungen eines Diagrams an und machen Sie eine Kopie von jedem Punkt um zu einer vorherigen Version zurück zu gelangen.">
 
 <features-labels-title "Fügen Sie Fließtext und Bilder hinzu">
-<features-labels "Fügen Sie Textbeschriftungen und Bilder hinzu, die nicht Teil der Diagrammstruktur sind, um Teile Ihres Diagramms mit Anmerkungen zu versehen.
+<features-labels "Fügen Sie Textbeschriftungen und Bilder hinzu, die nicht Teil der Diagrammstruktur sind, um Teile Ihres Diagramms mit Anmerkungen zu versehen.">
 
 <features-blame-title "Verantwortlichkeit nachverfolgen">
 <features-blame "Sehen Sie die Änderungshistorie Ihres Diagramms durch um zu sehen, wer was und wann geändert hat. Über den Diagrammverlauf-Modus finden Sie es heraus.">
+
+<awesome-feature-multiroot-title "Mehrere Ausgangspunkte">
+<awesome-feature-multiroot "Fügen Sie mehrere zentrale Elemente zu Ihren Diagrammen hinzu, um verwandte Themen in einem einzigen Arbeitsbereich abzubilden.">
 
 <features-colours-title "Nutzen Sie die richtige Farbe">
 <features-colours "Klicken Sie auf einen Zweig um den Farbkreis zu öffnen und die gewünschte Farbe auszuwählen.">
@@ -100,9 +105,9 @@
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
  * also on the homepage)
  */
- <plans-title-freeforever "Coggle ist zur Verwendung kostenlos und wird immer kostenlos bleiben. Erstellen Sie unlimitiert öffentliche Diagramme und teilen Sie sie kostenlos.">
+<plans-title-freeforever "Coggle ist zur Verwendung kostenlos und wird immer kostenlos bleiben. Erstellen Sie unlimitiert öffentliche Diagramme und teilen Sie sie kostenlos.">
 
-<plans-free-forever-title "Forever Free">
+<plans-free-forever-title "Free Forever">
 <plans-free-description "Ideal um Coggle kennenzulernen und für die gelegentliche Nutzung.">
 <plans-free-price "Für immer kostenlos">
 <feature-free-private "<b>1</b> privates Diagramm">
@@ -139,6 +144,7 @@
 <feature-bigimages "<b>Hochauflösende Bilder</b> hochladen">
 <feature-linestyles "<b>Linienstil Einstellungsmöglichkeiten</b>">
 <feature-extendedcolours "Mehr Farben">
+<feature-editable-links "Via <b>Link</b> zusammenarbeiten">
 <plans-findoutmore "Erfahren Sie mehr darüber">
 
 <plans-org-title "Organisation">
@@ -150,6 +156,7 @@
 <feature-bulkexport "<b>Massenexport</b>">
 <feature-adminpanel "<b>User- & Daten-</b> Management">
 <feature-branding "Diagramme mit Branding">
+<feature-org-saml-sso "SAML Single Sign On">
 
 <plans-select "Auswahl">
 <continue-free "Mit dem <b>kostenlosen</b> Lizenzmodell fortfahren.">
@@ -167,6 +174,7 @@
 
 <per-month "pro Monat">
 <per-member-per-month "pro User im Monat">
+<forever "für immer">
 
 <awesome-feature "Awesome Lizenz">
 <org-feature "Organisations-Funktion">
@@ -180,7 +188,8 @@
 <footer-press "Presse">
 
 <footer-gdrive "<img/> Google Drive">
-
+<footer-what-is-mindmapping "Was ist Mindmapping?">
+<footer-top-uses "Top Mindmap Anwendungsfälle">
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
@@ -263,6 +272,8 @@
 <settings-recommend-title "Empfehlungen">
 <settings-emails-title "Kommunikation">
 <settings-language-title "Sprache">
+<settings-communication-title "Kommunikation">
+<settings-account-title "Konto schließen">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
@@ -306,7 +317,7 @@
   </div>
   <div>
     <label>Ablauf-Datum</label>
-    <input> <input> <input placeholder="MM/YYYY" title="Ablauf-Datum">
+    <input> <input> <input placeholder="MM/JJJJ" title="Ablauf-Datum">
   </div>
   <div>
     <label>Sicherheitscode</label>
@@ -365,6 +376,32 @@
 <me-language-tip "Helfen Sie uns, Coggle in Ihrer Muttersprache bereitzustellen, oder fügen Sie etwas hinzu, was noch fehlt, indem Sie zu unserem <a>Übersetzungsprojekt</a> auf Github beitragen!">
 <me-language-questions "Wenn Sie Fragen zu Übersetzungen haben - oder wenn Sie Korrekturen oder Verbesserungen haben und sich nicht sicher sind, wie Sie uns helfen können, schreiben Sie uns einfach eine E-Mail an <a>translate@coggle.it</a>.">
 
+<recommend-coggle "Coggle empfehlen">
+<recommend-share-link """
+  <p>Laden Sie entweder Mitarbeiter zu Ihren Diagrammen ein oder geben Sie Ihren Empfehlungslink über
+    <a>Facebook</a>, <a>Twitter</a>, oder <a>E-Mail</a>.
+  </p>
+  <input></input>
+""">
+<invite-n-more[$introduceCount] {
+       1: "Noch eine Einladung, um Awesome kostenlos auszuprobieren!",
+   *many: "Laden Sie <span>{{{ $introduceCount }}}</span> weitere Leute ein, um Awesome kostenlos auszuprobieren!",
+}>
+
+<claim-free-month """
+  <p>Beanspruchen Sie Ihren Gratismonat Coggle Awesome!</p>
+  <div>Jetzt einlösen</div>
+""">
+
+<close-account-title "Ihr Coggle-Konto schließen">
+<close-account "Schließen Sie Ihr kostenloses Coggle-Konto dauerhaft.">
+<close-account-description "Dieser Prozess ist <b>irreversibel</b> und wird sofort wirksam. Sie verlieren den Zugriff auf alle Ihre Diagramme, stellen Sie also sicher, dass Sie alle Diagramme exportiert haben, die Sie behalten möchten.">
+<close-account-button "Mein Konto schließen">
+<close-account-confirmation """
+  <input placeholder='Geben Sie Ihre E-Mail-Adresse ein'/>
+  <button>BESTÄTIGEN</button>
+""">
+
 <we-heart-you "Wir ♥ Sie.">
 <help-discover-coggle "Helfen Sie der Welt, Coggle zu entdecken und erhalten Sie kostenloses Material!">
 <introduce-n-more-friends[$introduceCount] {
@@ -384,11 +421,6 @@
     oder <a>E-Mail</a> werden alle gut funktionieren!
   </p>
   <input/>
-""">
-
-<claim-free-month """
-  <p>Beanspruchen Sie Ihren Freimonat von Coggle Awesome!</p>
-  <div>Jetzt einlösen</div>
 """>
 
 /* Gallery Content (/gallery) */
@@ -417,16 +449,18 @@
 <choose-style "Stil wählen">
 <delete-branch "Zweig löschen"> /* (remove and item *and* all of its children) */
 <remove-item "Eintrag löschen">
-<copy-branch "Zweig kopieren">
 <show-children "Äste zeigen">
 <hide-children "Äste verbergen">
 <drag-to-create-link "Ziehen, um Link zu erstellen">
 <drag-to-transplant-branch "Ziehen, um Zwei zu verpflanzen">
+<delete-connection "Verbindung löschen">
+<reverse-connection "Verbindungs-Richtung umkehren">
+<label-connection "Verbindung kennzeichnen">
 
 <undo "rückgängig">
 <redo "wiederherstellen">
 <paste-branch "Zweig einfügen">
-<zoom-page "Seite zoomen">
+<drag-zoom-page "zum Vergrößern ziehen">
 <add-label "Beschriftung hinzufügen">
 
 <help-gohome "Klicken Sie auf das Coggle-Logo, um zurück zur Startseite zu gelangen, wo Ihre Dokumente automatisch gespeichert werden.">
@@ -463,6 +497,7 @@
 
 <go-awesome "Zu Awesome wechseln">
 <free-awesome "Wollen Sie Awesome kostenlos?">
+<upgrade-now "Jetzt upgraden">
 
 <me-support-awesomethanks """
   <p><b>Danke für die Unterstützung von Coggle!</b></p>
@@ -482,6 +517,7 @@
 <messages-entry placeholder:"Geben Sie eine Nachricht ein. Verwenden Sie @, um Personen zu markieren. Drücken Sie [Enter] zum Senden.">
 <messages-start "Sie haben den Start erreicht!">
 <messages-upgrade "Benötigen Sie mehr als 2 Wochen Geschichtsverlauf? Informieren Sie sich über ein Upgrade auf <a>Awesome</a>, um die vollständige Historie zu erhalten.">
+<messages-comments-notes placeholder:"Kommentare, Diskussionen und Notizen eingeben.">
 
 <diagram-toolbar-history title:"Frühere Versionen anzeigen und kopieren.">
 <diagram-toolbar-messages title:"Kommentare und Chats.">
@@ -489,7 +525,10 @@
 <diagram-toolbar-share title:"Dieses Coggle teilen.">
 <diagram-toolbar-download title:"Dieses Coggle herunterladen.">
 <diagram-toolbar-copy title:"Kopie dieses Coggles erzeugen.">
-<diagram-toolbar-public "Öffentliches Diagramm" title:"Darf in der Coggle Gallery erscheinen">
+<diagram-toolbar-public-detail "Öffentliches Diagramm" title:"Darf in der Coggle Gallery und in Suchergebnissen erscheinen.">
+
+/* history slider content */
+<current-version "aktuell">
 
 /* sharing dialog content */
 <share-newlink "Neuer Link:">
@@ -515,12 +554,13 @@
 <share-open-detail "Öffentliche Diagramme können von jedermann eingesehen werden und können in unserer <a>Galerie</a> erscheinen.">
 
 /* download dialog content */
-<download-pdf "Download PDF">
-<download-png "Download Grafik">
+<download-pdf "PDF Download">
+<download-png "Grafik Download">
 <download-mm ".mm Datei">
 <download-txt "Einfach-Text Gliederung">
 <download-advanced "Erweiterte Typen">
 <download-failed "Dateierzeugung fehlgeschlagen.">
+<download-import-tip "<b>Suchen Sie nach einem Import?</b> Ziehen Sie eine .mm oder .txt Datei auf ein Diagramm, um es zu importieren! <a>Mehr lesen.</a>">
 
 /* access control slider content */
 <access-readonly "Nur Lesen<br/><span>Nur Anzeigen erlauben</span>">
@@ -646,12 +686,22 @@
 <markdown-link "<code>[Titel](example.com)</code> um einen <a>Link</a> zu erzeugen">
 <markdown-checkbox "<code>- [X]</code> um ein <input/> Kontrollkästchen zu erzeugen">
 <markdown-code "<code>`text`</code> um einen Schrifttyp <code>fester Breite</code> zu verwenden">
+<touch-pressitem "<b>Eintrag</b> <b>lange antippen</b> um Einträge zu <b>entfernen</b, <b>Farben</b> zu ändern, zum <b>automatischen Anordnen</b>, für Querverbindungen, zum Kopieren und weiteres mehr.">
+<touch-pressbackground "<b>Hintergrund</b> <b>lange antippen</b>, um <b>Beschriftungen</b> anzufügen, <b>Rückgängig zu machen</b> hinzuzufügen und einzufügen.">
 
 <button-bold title:"Text fett formatieren">
 <button-italic title:"Text kursiv formatieren">
 <button-link title:"Link zu einer Website">
 <button-image title:"Grafik hochladen">
 <button-emoji title:"Symbole suchen">
+<button-formatting title:"Textformatierung">
+<button-back title:"Zurück">
+<button-aligned-left title:"Linksbündig">
+<button-aligned-center title:"Zentriert">
+<button-aligned-right title:"Rechtsbündig">
+<button-aligned-auto title:"Automatisch ausgerichtet">
+<button-upload title:"Bild hinzufügen oder Datei anhängen.">
+<button-attach title:"Datei anhängen.">
 
 /* diagram not-found page */
 <nodiagram-title "Diagramm nicht gefunden!">
@@ -718,6 +768,9 @@
   Deshalb haben wir <a>Coggle-Organisations</a> aufgebaut.</p>
   <p>Die Preisgestaltung ist einfach, <b>$8 pro Mitglied pro Monat</b>.<br>. <br><b> Alles unbegrenzt</b>.</p>
 """>
+
+<orgs-feature-saml-sso-title "SAML Single Sign On">
+<orgs-feature-saml-sso "Authentifizieren Sie Benutzer über Ihren bestehenden Single Sign On-Dienst. Unterstützung für OneLogin, Okta und weitere.">
 
 <orgs-feature-in-one-place-title "Alles an einem Ort">
 <orgs-feature-in-one-place "Alle Diagramme Ihrer Organisationen an einem Ort. Sorgen Sie dafür, dass Ihre Teams sicher arbeiten, an einem einfach zu verwaltenden Ort - damit Sie genau wissen, wo Sie suchen müssen.">
