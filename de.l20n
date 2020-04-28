@@ -616,49 +616,49 @@
 <sidebar-controls "Steuerung">
 <sidebar-addbranch """
   <div>Zweig hinzufügen:</div>
-  <div><span> klicken </span><div></div></div>
+  <div><div></div><span> anklicken</span></div>
 """>
 <sidebar-removebranch """
   <div>Zweig entfernen:</div>
-  <div><div> {{ controls::removeKey }} </div> <span> + klicken </span> <div></div></div>
+  <div><div>{{ controls::removeKey }}</div> + <div></div><span> anklicken</span></div>
 """>
 <sidebar-insertbranch """
   <div>Zweig einfügen:</div>
-  <div><div> Umschaltaste </div> <span> + klicken </span> <div></div></div>
+  <div><div>Shift</div> + <div></div><span> anklicken</span></div>
 """>
 <sidebar-movebranch """
-  <div> Zweig verschieben: </div>
-  <div><div> ziehen Sie beliebiges! </div></div>
+  <div>Zweig verschieben:</div>
+  <div><div>Ziehen Sie beliebig!</div></div>
 """>
 <sidebar-transplantbranch """
-  <div> Zweig verpflanzen: </div>
-  <div><div> Umschalttaste </div> <span> + ziehen </span> <div></div></div>
+  <div>Zweig verpflanzen:</div>
+  <div><div>Shift</div> + <div></div><span> ziehen</span></div>
 """>
 <sidebar-recolourbranch """
-  <div> Farben ändern: </div>
-  <div><span> Klicken Sie einen Zweig an </span></div>
+  <div>Farben ändern:</div>
+  <div><span>Klicken Sie einen Zweig an</span></div>
 """>
 <sidebar-addimages """
-  <div> <a>Grafiken</a> hinzufügen: </div>
-  <div><div> Drag&Drop </div></div>
+  <div><a>Grafiken</a> hinzufügen:</div>
+  <div><div> Drag & Drop </div></div>
 """>
 <sidebar-zoom """
-  <div> Zoom: </div>
+  <div>Zoom:</div>
   <div><div> Strg </div><span> + Mausrad </span></div>
 """>
 <sidebar-shortcuts "Tastaturkürzel">
 <sidebar-undo """
-  <div> Rückgängig: </div>
-  <div><div> Strg </div> <span> + </span> <div> Z </div> </div>
+  <div>Rückgängig:</div>
+  <div><div>Strg</div> <span>+</span> <div>Z</div> </div>
 """>
 <sidebar-redo """
   <div> Wiederherstellen: </div>
-  <div><div> Strg </div> <span> + </span> <div> Umschalttaste </div> <span> + </span> <div> Z </div> </div>
+  <div><div>Strg</div> <span> + </span> <div>Shift</div> <span> + </span> <div>Z</div> </div>
 """>
 <sidebar-whentyping "Beim Tippen">
 <sidebar-sc-newitem """
   <div> Neuer Eintrag: </div>
-  <div><div> Umschalttaste </div><span> + </span><div> Return </div></div>
+  <div><div>Shift</div><span> + </span><div> Return </div></div>
 """>
 <sidebar-sc-newchild """
   <div> Neuer Unter-Eintrag: </div>
@@ -666,7 +666,7 @@
 """>
 <sidebar-sc-parent """
   <div> Zum übergeordneten Eintrag springen: </div>
-  <div><div> Umschalttaste </div><span> + </span><div> Tab </div></div>
+  <div><div>Shift</div><span> + </span><div> Tab </div></div>
 """>
 <sidebar-sc-markdown """
     <div>Text formatieren: </div>
@@ -936,7 +936,7 @@
   Sehen Sie sich <a>diesen Link</a> an, um Hilfe zur Syntax zu erhalten.
 """>
 <fact-move """
-  Wollen Sie diesen Eintrag auf einem anderen Teil des Coggle? Kein Problem! Halten Sie die Umschalttaste gedrückt, 
+  Wollen Sie diesen Eintrag auf einem anderen Teil des Coggle? Kein Problem! Halten Sie die Umschalttaste (Shift) gedrückt, 
   während Sie den (+)-Knopf eines Gegenstandes ziehen, um ihn an einer anderen Stelle wieder anzubringen.
 """>
 <fact-fontsize """
@@ -1034,7 +1034,7 @@
 """>
 <fact-shortcuts-2 """
   Wussten Sie, dass Sie den zu bearbeitenden Zweig mit Tastaturkürzeln auswählen können? 
-  Das geht!<p>Verwenden Sie [alt]+[Umschalt]+Pfeiltasten, um sich entlang der Zweige zu bewegen.
+  Das geht!<p>Verwenden Sie [Alt]+[Umschalt]+Pfeiltasten, um sich entlang der Zweige zu bewegen.
 """>
 <fact-task-lists """
   Wussten Sie, dass Sie <a>Markdown</a> Checklisten zu Coggles hinzufügen können? Es ist möglich, hier ein Beispiel:
