@@ -21,10 +21,10 @@
 <index-login "Déjà inscrit ? Connectez-vous.">
 
 <index-nav-login "Login">
-<index-nav-pricing "Pricing">
-<index-nav-features "Features">
-<index-nav-gallery "Gallery">
-<index-nav-home "Home">
+<index-nav-pricing "Tarifs">
+<index-nav-features "Fonctionnalités">
+<index-nav-gallery "Galerie">
+<index-nav-home "Acceuil">
 
 <index-unleash "Déchaînez votre créativité">
 <index-blurb "Produisez de magnifiques notes, rapidement et simplement. Partagez-les avec vos amis et vos collègues afin d'améliorer collaborativement vos idées.">
@@ -74,23 +74,23 @@
 <features-fullhistory-title "Sauvegarde chaque changement">
 <features-history "Vous avez modifié un document, seulement pour vous apercevoir un jour plus tard que vous n'aimez pas ces changements ? Avec Coggle, ce n'est pas un souci. Entrez simplement dans le mode historique afin de trouver la bonne version, et faites une copie partant de ce point !">
 
-<features-labels-title "Add Floating Text and Images">
-<features-labels "Add text labels and images that aren't part of the diagram tree to annotate parts of your map.">
+<features-labels-title "Ajoutez du texte et des images flottants">
+<features-labels "Ajoutez des champs textes et des images indépendants de votre diagramme pour annoter certaines parties de votre carte.">
 
 <features-blame-title "Suivez les responsabilités">
 <features-blame "Vous-êtes vous déjà demandé qui avait réalisé ces modifications sur un document partagé ? Avec Coggle, vous pouvez regarder dans l'historique de vos diagrammes pour voir qui a changé ça, et quand ! Entrez juste dans le mode historique de votre diagramme pour le savoir.">
 
-<awesome-feature-multiroot-title "Multiple Starting Points">
-<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+<awesome-feature-multiroot-title "Départs multiples">
+<awesome-feature-multiroot "Ajoutez plusieurs noeuds centraux à vos diagrammes pour relier des sujets communs dans un même espace de travail.">
 
 <features-colours-title "Mettez-y des couleurs">
 <features-colours "Pensez-vous visuellement ? Apprenez-vous par mise en page et par couleurs ? Dans ce cas, soyez certains de choisir la bonne couleur pour vos sujets. Un seul clic sur un bouton suffit pour faire apparaître la roue des couleurs et sélectionner la couleur de votre choix.">
 
-<features-notifications-title "Email Notifications">
-<features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
+<features-notifications-title "Notifications par emails">
+<features-notifications "Recevez un email avec un résumé des modifications lorsque des collaborateurs modifient des diagrammes partagés avec vous.">
 
-<features-chat-title "Comments and Chat">
-<features-chat "Add comments to nodes and chat with collaborators without leaving your diagram workspace.">
+<features-chat-title "Commentaires et chat">
+<features-chat "Ajoutez des commentaires aux noeuds et chattez avec vos collaborateurs sans quitter votre diagramme.">
 
 
 /* Plans selection translations (https://coggle.it/plans, when logged in, and
@@ -99,11 +99,11 @@
 <plans-title-freeforever "Coggle est gratuit à utiliser, et il le sera toujours. Créez un nombre illimité de diagrammes publics et partagez-les gratuitement.">
 
 <plans-free-forever-title "Gratuit pour toujours">
-<plans-free-description "Ideal for discovering Coggle and occasional use.">
+<plans-free-description "Idéal pour découvrir Coggle et l'utiliser occasionnellement.">
 <plans-free-price "Gratuit pour toujours">
 
 <feature-realtime "Collaboration en <b>temps réel</b>">
-<feature-emoji "Over <b>1600</b> <a>beautiful icons</a>">
+<feature-emoji "Plus de <b>1600</b> <a>superbes icones</a>">
 <feature-diagrams "Diagrammes publics <b>illimités</b>">
 <feature-nprivate[$privateDiagrams.available] {
        1: "1 diagramme privé",
@@ -121,29 +121,29 @@
 <plans-free-getstarted "Commencez maintenant">
 
 <plans-awesome-title "Awesome">
-<plans-awesome-description "Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.">
+<plans-awesome-description "Idéal pour une utilisation <b>personnelle</b> ou <b>professionelle</b>, avec de la confidentialité et des fonctionnalités avancées.">
 <plans-awesome-price "5$ / mois">
-<feature-include-free "Everything in <b>Free</b>">
-<feature-unlimited-private "<b>Unlimited</b> private diagrams">
-<feature-multiroot "<b>Multiple start points</b>">
-<feature-private "<b>Private diagrams</b>">
+<feature-include-free "Tout ce qu'il y a dans <b>Free</b>">
+<feature-unlimited-private "Diagrammes privés <b>illimités</b>">
+<feature-multiroot "<b>Départs multiples</b>">
+<feature-private "<b>Diagrammes privés</b>">
 <feature-chathistory "Historique de chat <b>complet</b>">
 <feature-rearrange "<b>Auto-arrangement des branches</b>">
-<feature-rejoin "<b>Join Branches</b>">
+<feature-rejoin "<b>Fusion de branches</b>">
 <feature-folders "<b>Dossiers partagés</b>">
 <feature-presentation "Mode présentation">
 <feature-bigimages "Chargement d'<b>images haute résolution</b>">
-<feature-linestyles "<b>Control line style</b>">
+<feature-linestyles "<b>Contrôler le style des lignes</b>">
 <feature-extendedcolours "Plus de couleurs">
-<feature-editable-links "Collaborate by <b>link</b>">
+<feature-editable-links "Collaborer par <b>liens</b>">
 <plans-findoutmore "En apprendre plus">
 
 <plans-org-title "Organisation">
-<plans-org-description "Ideal for <b>teams</b> that want to control access to their data and consolidate billing.">
+<plans-org-description "Idéal pour <b>les équipes</b> qui veulent contrôler l'accès à leurs données et consolider leur facturation.">
 <plans-org-price "8$ / membre / mois">
-<feature-org-awesome "Everything from <b>Awesome</b>">
-<feature-org-separate "Separate Personal workspace">
-<feature-org-billing "Consolidated billing">
+<feature-org-awesome "Tout ce qu'il y a dans <b>Awesome</b>">
+<feature-org-separate "Espaces personnels séparés">
+<feature-org-billing "Facturation consolidée">
 <feature-bulkexport "<b>Exportation en masse</b>">
 <feature-adminpanel "Gestion des <b>utilisateurs et des données</b>">
 <feature-branding "Diagrammes de marque">
@@ -155,13 +155,13 @@
 <cancel-subscription "Annuler l'inscription">
 <awesome-signup-monthly "Inscrivez-vous pour <span>5$</span> par mois">
 <awesome-signup-yearly "Inscrivez-vous pour <span>50$</span> par an">
-<awesome-upgrade-monthly "Upgrade (<b>$5</b>/month)">
-<awesome-upgrade-yearly "Upgrade (<b>$50</b>/year)">
+<awesome-upgrade-monthly "Upgrade (<b>$5</b>/mois)">
+<awesome-upgrade-yearly "Upgrade (<b>$50</b>/an)">
 <product-purchase "ACHETER">
 <yearly-discount "Payez à l'année et obtenez deux mois gratuits !">
 <yearly-discount-percent "Payez à l'année et économisez plus de 15%">
 <switch-yearly "Passez à la souscription annuelle">
-<manage-subscription "Manage Subscription">
+<manage-subscription "Gérer son abonnement">
 
 <per-month "par mois">
 <per-member-per-month "par membre et par mois">
@@ -177,7 +177,7 @@
 <footer-terms "terms">
 <footer-press "presse">
 <footer-gdrive "<img/> Google Drive">
-<footer-what-is-mindmapping "What is Mindmapping?">
+<footer-what-is-mindmapping "Qu'est ce que le  Mindmapping ?">
 <footer-top-uses "Top Mindmap Uses">
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
@@ -195,21 +195,21 @@
 <settings "Paramètres">
 <return-to-diagrams "Retourner à vos diagrammes">
 <upgrade-to-awesome "Optez pour Awesome !">
-<awesome-time-remaining "Awesome trial expires <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
-<awesome-trial-after "Then you'll be moved onto the free plan">
+<awesome-time-remaining "L'essai de Awesome expire dans <time></time>"> /* the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc. */
+<awesome-trial-after "Alors vous passerez dans la formule Free">
 <want-awesome-for-free "Vous voulez Awesome gratuitement ?">
-<personal-org "Personal <span>(<a>what is this?</a>)</span>">
-<help-search placeholder:"Help me to...">
+<personal-org "Personel  <span>(<a>qu'est ce que c'est ?</a>)</span>">
+<help-search placeholder:"Aidez moi à...">
 <my-settings "Mes paramètres & factures">
-<org-name-settings "{{ $orgName }} Settings">
-<org-settings title:"Manage Organisation">
+<org-name-settings "{{ $orgName }} Paramètres">
+<org-settings title:"Gérer l'organisation">
 <user-about "A propos de Coggle">
-<user-contact "Contact Us">
-<user-privacy "Privacy Policy">
-<user-terms "Terms and Conditions">
-<user-link-drive "Link Google Drive">
-<diagrams-limited "<span> {{ $privateDiagrams.used }} sur {{ $privateDiagrams.available }}</span> diagrammes privée utilisé">
-<diagrams-unlimited "<span>Unlimited</span> private diagrams">
+<user-contact "Nous contacter">
+<user-privacy "Politique de confidentialité">
+<user-terms "Termes et conditions">
+<user-link-drive "Lier Google Drive">
+<diagrams-limited "<span> {{ $privateDiagrams.used }} sur {{ $privateDiagrams.available }}</span> diagrammes privés utilisés">
+<diagrams-unlimited "Diagrammes privés <span>illimités</span>">
 
 <limitedaccess "Vous avez un accès limité à {{ $resourceName }} car vous n'en êtes pas membre">
 <doclist-create """
@@ -218,7 +218,7 @@
 """>
 <doclist-shared "<b>Partagé avec vous</b> – les diagrammes créés par d'autres personnes et partagés avec vous sont dans ce dossier.">
 <doclist-folder-empty "<b>C'est un dossier vide !</b> – Créez un nouveau diagramme ici, ou faites glisser des diagrammes dans ce dossier.">
-<doclist-readonly "<b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.">
+<doclist-readonly "<b>Bienvenue chez Coggle !</b> – Demandez un accès au propriétaire pour créer un diagramme ici.">
 <impersonatedaccess "Vous voyez Coggle en tant que membre d'une organisation. <a>Retour au panneau d'administration</a>">
 
 <doclist-loading-failed "Oh-oh! Le chargement du dossier a échoué, rafraîchissez la page pour essayer à nouveau.">
@@ -233,7 +233,7 @@
 <tooltip-duplicate title:"Créer une copie">
 <tooltip-remove title:"Supprimer un diagramme">
 <tooltip-restore title:"Restaurer un diagramme">
-<tooltip-more title:"Diagram options">
+<tooltip-more title:"Options du diagramme">
 
 /* documents list contextual help items */
 <help-searchcoggle-title "Rechercher dans Coggle">
@@ -258,9 +258,9 @@
 <settings-billing-title "Paiement et Factures">
 <settings-recommend-title "Recommander">
 <settings-emails-title "Communication">
-<settings-language-title "Language">
+<settings-language-title "Langue">
 <settings-communication-title "Communication">
-<settings-account-title "Close Account">
+<settings-account-title "Clôturer son compte">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when they
@@ -281,8 +281,8 @@
 }>
 
 <billing-header """
-    <h3>Billing Details</h3>
-    <div>We think you'll love your Coggle subscription, if for any reason you're not completely satisfied, get in touch at <b>hello@coggle.it</b> and we'll make it right.</div>
+    <h3>Détails de facturation</h3>
+    <div>Nous pensons que vous allez adorer votre abonnement Coggle, si pour une quelconque raison vous n'êtes pas totalement satisfait, contactez-nous à <b>hello@coggle.it</b> et nous arrangerons ça.</div>
 """>
 <billing-on-file """
   <p>La carte que vous avez enregistrée se termine par <b>{{ $cardEndsIn }}</b>, elle expirera en <b>{{ $cardExpires }}</b>.</p>
@@ -341,11 +341,11 @@
   <a class='back'>Retour</a>
 """>
 
-<summary-free-plan "You don't have a subscription yet. <a>Upgrade now!</a></p>">
-<summary-active-plan "You're on the <code>{{ $planName }}</code> plan. <a>Cancel subscription</a> or <a href='/plans'>compare plans</a>.</p>">
-<summary-upgrade-yearly "<p>Get two months free (<b>save 15%</b>) by paying annually. <a>Upgrade (<b>$50</b>)</a></p><p>Time remaining on your current plan will be automatically deducted from the cost of the upgrade.</p>">
-<summary-ending-plan "You're currently on the <code>{{ $planName }}</code> plan. It's <b>set to cancel</b> at the end of the current billing period. <a>Resubscribe</a></p>">
-<summary-overdue-plan "Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.</p>">
+<summary-free-plan "Vous n'avez pas encore d'abonnement. <a>Souscrivez maintenant !</a></p>">
+<summary-active-plan "Vous êtes sur l'abonnement <code>{{ $planName }}</code>. <a>Annulez l'abonnement</a> ou <a href='/plans'>comparer les formules</a>.</p>">
+<summary-upgrade-yearly "<p>Recevez deux mois gratuits (<b>économisez 15%</b>) en payant à l'année. <a>Upgrade (<b>$50</b>)</a></p><p>Le temps restant sur votre abonnement actuel sera automatiquement déduit du coût de l'upgrade.</p>">
+<summary-ending-plan "Vous êtes actuellement sur l'abonnement <code>{{ $planName }}</code>. Il va <b>s'interrompre</b> à la fin de la période de facturation actuelle. <a>Prolongez votre abonnement</a></p>">
+<summary-overdue-plan "Votre abonnement est inactif à cause d'un paiement retardé. Vous pouvez régler cela en corrigeant vos informations de carte ou en nous contactant à <b>hello@coggle.it</b>.</p>">
 
 
 <me-communication-title "Communication">
@@ -358,9 +358,9 @@
 <slider-yes "OUI">
 <slider-no "NON">
 
-<me-language-title "Choose Your Preferred Language">
-<me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
-<me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
+<me-language-title "Choisissez votre langue préférée">
+<me-language-tip "Aidez nous à proposer Coggle dans votre langue natale, ou ajouter un élément manquant en contribuant à notre <a>projet de traduction</a> sur Github!">
+<me-language-questions "Si vous avez des questions à propos des traductions – ou si vous avez des corrections ou des améliorations en tête et que vous hésitez, envoyez nous un email à <a>translate@coggle.it</a>.">
 
 <we-heart-you "We ♥ you.">
 <help-discover-coggle "Aidez le monde à découvrir Coggle et obtenez des avantages gratuitement !">
@@ -389,31 +389,31 @@
 """>
 
 /* Gallery Content (/gallery) */
-<gallery-title "la Galerie Coggle">
-<gallery-blurb2 "Une sélection faite main des meilleurs diarammes faits avec Coggle !">
+<gallery-title "La Galerie Coggle">
+<gallery-blurb2 "Une sélection faite main des meilleurs diagrammes faits avec Coggle !">
 <gallery-folder-blurb2 """
-  <b>la Galerie Coggle</b> - Une sélection faite main des meilleurs diarammes faits avec Coggle !<br/>
+  <b>La Galerie Coggle</b> - Une sélection faite main des meilleurs diagrammes faits avec Coggle !<br/>
   Partager sur <a>Twitter</a> ou sur <a>Facebook</a>.
 """>
 
 /* Diagram content */
-<guide-click-here "cliquez ici">
+<guide-click-here "Cliquer ici">
 <guide-or-here "ou ici">
-<click-to-edit "cliquer pour éditer">
+<click-to-edit "Cliquer pour éditer">
 <click-to-edit-title "Cliquer pour modifier le titre">
-<tap-to-edit "toucher pour éditer">
+<tap-to-edit "Toucher pour éditer">
 <tap-to-edit-title "Toucher pour modifier le titre">
 <unnamed-diagram "Diagramme Sans Nom">
 
 <add-branch "ajouter une branche">
-<copy-branch "copy branch">
+<copy-branch "copier la branche">
 <add-to-discussion "ajouter à la discussion">
 <comment-on-this "commenter">
 <auto-arrange "auto-arranger">
 <pick-colour "choisir une couleur">
-<choose-style "choose style">
+<choose-style "choisir un style">
 <delete-branch "supprimer la branche"> /* (remove and item *and* all of its children) */
-<remove-item "suppprimer l'objet">
+<remove-item "supprimer l'objet">
 <copy-branch "copier la branche">
 <show-children "montrer les enfants">
 <hide-children "cacher les enfants">
@@ -424,7 +424,7 @@
 <redo "refaire">
 <paste-branch "coller la branche">
 <zoom-page "zoomer">
-<add-label "add label">
+<add-label "ajouter un label">
 
 <help-gohome "Cliquez sur le logo Coggle pour retourner à la page d'accueil, où vos documents sont automatiquement sauvegardés.">
 <help-add-node "Utilisez les boutons <div>+</div> pour ajouter des branches.">
@@ -432,16 +432,16 @@
 <help-move-node "Faites glisser n'importe quel texte pour le déplacer.">
 <help-node-menu "Faites un clic droit pour accéder au menu. Ici vous pouvez ajouter, supprimer, copier et arranger vos branches.">
 
-<help-multiline "Ajouter plusieurs lignes de texte avec [ctrl] + [entrée], ou en faisant glisser le coin avant de taper votre texte.">
-<help-toolbar-invite-title "Travailler avec d'autres personnes">
+<help-multiline "Ajoutez plusieurs lignes de texte avec [ctrl] + [entrée], ou en faisant glisser le coin avant de taper votre texte.">
+<help-toolbar-invite-title "Travaillez avec d'autres personnes">
 <help-toolbar-invite "Cliquez pour inviter des personnes à voir ou à éditer ce Coggle. Vous pouvez contrôler les permissions en cliquant sur leurs icônes.">
-<help-toolbar-invitemulti-title "Inviter plusieurs personnes">
+<help-toolbar-invitemulti-title "Invitez plusieurs personnes">
 <help-toolbar-invitemulti """
-  Pour gagner du temps, vous pouvez inviter plusieurs personnes d'un coup: rentrez (ou collez) leurs adresses e-mail séparées par des espaces, des virgules<b>,</b> ou des points-virgules<b>;</b>
+  Pour gagner du temps, vous pouvez inviter plusieurs personnes d'un coup: entrez (ou collez) leurs adresses emails séparées par des espaces, des virgules<b>,</b> ou des points-virgules<b>;</b>
 """>
-<help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
-<help-toolbar-inviteflow-title "Entrer l'adresse e-mail d'un collègue">
-<help-inactive-invite "Travaillez avec vos amis pour mener vos idées à bien !<br>Invitez-les par e-mail ici.">
+<help-toolbar-invitedonefaster "Allez plus vite - invitez quelqu'un à travailler avec vous et voyez leurs changements instantanément.">
+<help-toolbar-inviteflow-title "Entrer l'adresse email d'un collègue">
+<help-inactive-invite "Travaillez avec vos amis pour mener vos idées à bien !<br>Invitez-les par email ici.">
 
 <banner-open-getawesome """
     Ceci est un Coggle public — il pourrait apparaître dans la <a>Galerie Coggle.</a> Passez à la formule <a>Awesome</a> pour le rendre privé.
@@ -466,7 +466,7 @@
 
 <me-awesomethanks """
   <p>C'est vous &mdash;<b>Vous êtes Awesome !</b></p>
-  <a>Gérer votre souscription</a>
+  <a>Gérez votre souscription</a>
 """>
 
 
@@ -476,7 +476,7 @@
 <messages-entry placeholder:"Entrez un message. Utilisez @ pour mentionner des personnes. Appuyez sur [entrée] pour envoyer." rows:"3">
 <messages-start "Vous avez atteint le début!">
 <messages-upgrade "Besoin de plus de deux semaines d'historique ? Pensez à mettre à niveau vers la formule <a>Awesome</a> pour obtenir l'historique complet.">
-<messages-comments-notes "Enter comments, discussion and notes.">
+<messages-comments-notes "Insérez des commentaires et des notes ou lancer la discussion.">
 
 <diagram-toolbar-history title:"Voir et copier les versions précédentes.">
 <diagram-toolbar-messages title:"Commentaires et chat.">
@@ -484,7 +484,7 @@
 <diagram-toolbar-share title:"Partager ce Coggle.">
 <diagram-toolbar-download title:"Télécharger ce Coggle.">
 <diagram-toolbar-copy title:"Créer une copie de ce Coggle.">
-<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
+<diagram-toolbar-public "Diagramme public" title:"Peut apparaître dans la Galerie Coggle">
 
 /* sharing dialog content */
 <share-newlink "Nouveau lien:">
@@ -506,7 +506,7 @@
   <a title='Partager sur Twitter'> <img/> </a>
 """>
 <share-open "Tout le monde peut-il voir ce diagramme ?">
-<share-open-detail "Les diagrammes publics peuvent être vus par tout le monde et peuvent être trouvés sur les moteurs de recherche">
+<share-open-detail "Les diagrammes publics peuvent être vus par tout le monde et peuvent être trouvés sur les moteurs de recherche.">
 
 /* download dialog content */
 <download-pdf "Télécharger en tant que PDF">
@@ -591,7 +591,7 @@
   <div><span> cliquez sur une branche </span></div>
 """>
 <sidebar-addimages """
-  <div> Add <a>Images</a>: </div>
+  <div> Ajouter des <a>Images</a>: </div>
   <div><div> cliquer-glisser </div></div>
 """>
 <sidebar-zoom """
@@ -629,25 +629,25 @@
   Lire plus...
 """>
 <sidebar-markdown "Markdown">
-<sidebar-bgmenu "<b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
-<sidebar-bgmenu2 "<b>Zoom</b>, add <b>text labels</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.">
-<sidebar-icons "Icons">
-<markdown-icons "Type <code>:</code> while editing or use the button along the top of the item editor.">
+<sidebar-bgmenu "<b>Zoomez</b>, <b>annulez</b>, et <b>collez des objets copiés</b> par un clic droit sur l'arrière-plan.">
+<sidebar-bgmenu2 "<b>Zoomez</b>, ajoutez des <b>champs texte</b>, <b>annulez</b> et <b>collez des objets copiés</b> par un clic droit sur l'arrière-plan.">
+<sidebar-icons "Icônes">
+<markdown-icons "Tapez <code>:</code> en mode édition ou utilisez le bouton en haut de l'éditeur.">
 <markdown-bold "<code>**texte**</code> pour mettre le texte en <b>gras</b>">
 <markdown-italic "<code>*texte*</code> pour mettre le texte en <i>italique</i>">
 <markdown-link "<code>[Titre](example.com)</code> pour créer un <a>lien</a>">
 <markdown-checkbox "<code>- [X]</code> pour créer une <input/> case à cocher">
 <markdown-code "<code>`texte`</code> pour utiliser une police à <code>largeur fixe</code> (monospace)">
 
-<button-bold title:"Make text bold">
-<button-italic title:"Make text italic">
-<button-link title:"Link to a website">
-<button-image title:"Upload an image">
-<button-emoji title:"Search for icons.">
+<button-bold title:"Gras">
+<button-italic title:"Italique">
+<button-link title:"Lien vers un site web">
+<button-image title:"Envoyez une image">
+<button-emoji title:"Cherchez des icônes.">
 
 /* diagram not-found page */
 <nodiagram-title "Diagramme introuvable !">
-<nodiagram-invalid-link "Ce lien de diagramme est invalide, ou son accès a été révoqué.">
+<nodiagram-invalid-link "Ce lien de diagramme est invalide ou son accès a été révoqué.">
 <nodiagram-logged-in "Vous êtes actuellement connecté en tant que <b>{{ $user.givenName }}</b>, avec l'adresse e-mail <b>{{ $user.email }}</b>. Si ce diagramme existe, ce compte n'a pas les permissions pour y accéder.">
 <nodiagram-not-logged-in "<b>Vous n'êtes actuellement pas connecté.</b>  Si ce diagramme existe, il se peut que vous y ayez accès en vous connectant à votre compte.">
 <nodiagram-may-need-access "Si quelqu'un vous a donné un lien vers ce diagramme, il se peut qu'ils doivent vous donner les permissions nécessaires pour le voir.">
@@ -656,7 +656,7 @@
 /* Awesome Landing Page (/awesome) */
 <awesome-pitch """
   <h2>Coggle Awesome</h2>
-  <p>Dynamisez vos pensées avec Coggle Awesome. Ajouter d'énormes images, présentez vos Coggles, et ctéez des Coggles privés qui ne seront pas référencés par les moteurs de recherche.</p>
+  <p>Dynamisez vos pensées avec Coggle Awesome. Ajouter d'énormes images, présentez vos Coggles, et créez des Coggles privés qui ne seront pas référencés par les moteurs de recherche.</p>
 """>
 
 <awesome-signup """
@@ -667,26 +667,26 @@
 <awesome-feature-private-title "Coggles privés illimités">
 <awesome-feature-private "Créez autant de Coggles privés que vous le souhaitez. Si jamais vous annulez votre abonnement, ils resteront privés et vous y garderez accès.">
 
-<awesome-feature-joinloop-title "Crea bucles y junta las ramas">
-<awesome-feature-joinloop "Une las ramas y crea bucles para hacer diagramas más potentes y flexibles, y así representar los flujos del proceso y otros aspectos más avanzados.">
+<awesome-feature-joinloop-title "Créez des boucles et fusionnez les branches">
+<awesome-feature-joinloop "Fusionnez les branches et créer des boucles pour rendre vos diagrammes plus puissants et plus flexibles, et représentez ainsi des processus de flux ou d'autres aspects plus avancés.">
 
-<awesome-feature-multiroot-title "Multiple Starting Points">
-<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+<awesome-feature-multiroot-title "Départs multiples">
+<awesome-feature-multiroot "Ajoutez des noeuds centraux multiples à vos diagrammes pour relier des sujets communs dans un même espace de travail.">
 
-<awesome-feature-linestyle-title "Control Line Style">
-<awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
+<awesome-feature-linestyle-title "Contrôlez le style des lignes">
+<awesome-feature-linestyle "Customisez l'épaisseur et le style des lignes dans votre diagramme.">
 
 <awesome-feature-bigimages-title "Montrez-leur le tableau complet">
 <awesome-feature-bigimages "Ajoutez d'énormes images à vos Coggles pour illustrer vos idées : il suffit de faire glisser une image depuis votre bureau vers un document.">
 
-<awesome-feature-colours-title "More Colours">
-<awesome-feature-colours "Unlock a new range of vivid colours to help organise and highlight your ideas.">
+<awesome-feature-colours-title "Plus de couleurs">
+<awesome-feature-colours "Débloquez un nouveau panel de couleurs vives pour mieux organiser et promouvoir vos idées.">
 
-<awesome-feature-autoarrange-title "Automatic Branch Layout">
-<awesome-feature-autoarrange "Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.">
+<awesome-feature-autoarrange-title "Arrangement automatique des branches">
+<awesome-feature-autoarrange "Clarifier le positionnement de vos branches en un seul clic grâce à la fonctionnalité d'arrangement automatique des branches de Coggle Awesome.">
 
 <awesome-feature-folders-title "Dossier partagés">
-<awesome-feature-folders "Put your diagrams into folders to keep them organised and easily share them all with a group of collaborators.">
+<awesome-feature-folders "Rangez vos diagrammes dans des dossiers pour les garder organisés et partagez les facilement avec vos collaborateurs.">
 
 
 <awesome-hint-orgs """
@@ -708,7 +708,7 @@
 """>
 
 <orgs-feature-saml-sso-title "SAML Single Sign On">
-<orgs-feature-saml-sso "Authenticate users using your existing Single Sign On service. Support for OneLogin, Okta and more.">
+<orgs-feature-saml-sso "Identifiez vos utilisateurs par votre service existant Single Sign On. Support de OneLogin, Okta et plus.">
 
 <orgs-feature-in-one-place-title "Tout à un seul endroit">
 <orgs-feature-in-one-place "Tous les diagrammes de votre organisation à un seul endroit. Gardez vos travaux en équipe en sécurité, dans un endroit facile à gérer – ainsi vous saurez exactement où regarder.">
@@ -779,7 +779,7 @@
 """>
 
 <faq-orgs-awesome """
-  <div>Comment Coggle Organisations est-il lié à Coggle Awesome?</div>
+  <div>Comment Coggle Organisations est-il lié à Coggle Awesome ?</div>
   <div>
     <p>Les Organisations Coggle sont un moyen parfait de centraliser le paiement et la gestion
       des licences pour plusieurs abonnements Coggle Awesome.</p>
