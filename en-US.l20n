@@ -30,9 +30,9 @@
 <index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
 <index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
 
-<index-colab-mindmaps """
-  <h1>Collaborative Mind Maps</h1>
-  <p>Coggle is an online tool for creating and sharing mindmaps. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start mind-mapping now!</p>
+<index-colab-mindmaps-flowcharts """
+  <h1>Collaborative Mind Maps & Flow Charts</h1>
+  <p>Coggle is an online tool for creating and sharing mindmaps and flow charts. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start diagramming now!</p>
   <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
 """>
 

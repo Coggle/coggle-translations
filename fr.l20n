@@ -24,15 +24,15 @@
 <index-nav-pricing "Tarifs">
 <index-nav-features "Fonctionnalités">
 <index-nav-gallery "Galerie">
-<index-nav-home "Acceuil">
+<index-nav-home "Accueil">
 
 <index-unleash "Déchaînez votre créativité">
 <index-blurb "Produisez de magnifiques notes, rapidement et simplement. Partagez-les avec vos amis et vos collègues afin d'améliorer collaborativement vos idées.">
 <index-viewgallery "Vous pouvez aussi regarder la <a>Galerie Coggle</a>">
 
-<index-colab-mindmaps """
+<index-colab-mindmaps-flowcharts """
   <h1>Des représentations mentales collaboratives</h1>
-  <p>Coggle est un outil en ligne pour créer et partager des représentations mentales. Tout se passe en ligne, il n'y a donc rien à télécharger et rien à mettre à jour. Il suffit de <a>se connecter</a> pour commencer maintenant !</p>
+  <p>Coggle est un outil en ligne pour créer et partager des représentations mentales et des flowcharts. Tout se passe en ligne, il n'y a donc rien à télécharger et rien à mettre à jour. Il suffit de <a>se connecter</a> pour commencer maintenant !</p>
   <p>Peu importe si vous prenez des notes, si vous faites du brainstorming, ou si vous faites quelque chose d'incroyablement créatif, Coggle vous permet de visualiser vos idées plus facilement. Vous pouvez les partager avec autant d'amis ou de collègues que vous le souhaitez. Les modifications que vous apporterez apparaîtront automatiquement sur leur navigateur ; peu importe leur localisation.</p>
 """>
 
