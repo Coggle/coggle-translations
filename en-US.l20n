@@ -165,6 +165,7 @@
 
 <per-month "per month">
 <per-member-per-month "per member per month">
+<forever "forever">
 
 <awesome-feature "Awesome Plan">
 <org-feature "Organisation Feature">
@@ -201,6 +202,7 @@
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
 <help-search placeholder:"Help me to...">
 <my-settings "My Settings & Billing">
+<my-settings-only "My Settings">
 <org-name-settings "{{ $orgName }} Settings">
 <org-settings title:"Manage Organization">
 <user-about "About Coggle">
@@ -362,30 +364,30 @@
 <me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
 <me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
 
-<we-heart-you "We ♥ you.">
-<help-discover-coggle "Help the world discover Coggle and get free stuff!">
-<introduce-n-more-friends[$introduceCount] {
-        1: "Introduce <span>{{ $introduceCount }}</span> more friend to Coggle",
-    *many: "Introduce <span>{{ $introduceCount }}</span> more friends to Coggle",
-}>
-<introduced-n-friends[$introducedCount] {
-        1: "You've introduced <span>{{ $introducedCount }}</span> person to Coggle",
-    *many: "You've introduced <span>{{ $introducedCount }}</span> people to Coggle",
-}>
-
-<share-your-link """
-  <p>Share your special link however you like</p>
-  <p>
-    <a>Facebook</a>, 
-    <a> Twitter</a>, 
-    or <a>email</a> will all work well!
+<recommend-coggle "Recommend Coggle">
+<recommend-share-link """
+  <p>Either invite collaborators to your diagrams, or share your referral link via
+    <a> Facebook</a>, <a> Twitter</a>, or <a>email</a>.
   </p>
-  <input/>
+  <input></input>
 """>
+<invite-n-more[$introduceCount] {
+       1: "One more invite to try Awesome for free!",
+   *many: "Invite <span>{{ $introduceCount }}</span> more people to try Awesome for free!",
+}>
 
 <claim-free-month """
   <p>Claim your free month of Coggle Awesome!</p>
   <div>Redeem Now</div>
+""">
+
+<close-account-title "Close Your Coggle Account">
+<close-account "Permanently close your free Coggle account.">
+<close-account-description "This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.">
+<close-account-button "Close my Account">
+<close-account-confirmation """
+  <input placeholder='Type your email address'/>
+  <button>CONFIRM</button>
 """>
 
 /* Gallery Content (/gallery) */
@@ -459,6 +461,7 @@
 
 <go-awesome "Go Awesome">
 <free-awesome "Want Awesome for free?">
+<upgrade-now "Upgrade Now">
 
 <me-support-awesomethanks """
   <p><b>Thanks for supporting Coggle!</b></p>
@@ -478,7 +481,7 @@
 <messages-entry placeholder:"Enter a message. Use @ to tag people. Press [enter] to send.">
 <messages-start "You've reached the start!">
 <messages-upgrade "Need more than 2 weeks history? Find out about upgrading to <a>Awesome</a> to get the full history.">
-<messages-comments-notes "Enter comments, discussion and notes.">
+<messages-comments-notes placeholder:"Enter comments, discussion and notes.">
 
 <diagram-toolbar-history title:"View and copy previous versions.">
 <diagram-toolbar-messages title:"Comments and chat.">
@@ -486,7 +489,11 @@
 <diagram-toolbar-share title:"Share this Coggle.">
 <diagram-toolbar-download title:"Download this Coggle.">
 <diagram-toolbar-copy title:"Create a copy of this Coggle.">
-<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
+<diagram-toolbar-pubcopy title:"Create your own copy of this diagram.">
+<diagram-toolbar-public-detail "Public Diagram" title:"This diagram may appear in the Coggle Gallery and search results.">
+
+/* history slider content */
+<current-version "current">
 
 /* sharing dialog content */
 <share-newlink "New Link:">
@@ -517,6 +524,7 @@
 <download-txt "Plain-Text Outline">
 <download-advanced "Advanced Types">
 <download-failed "File generation failed.">
+<download-import-tip "<b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a>Read more.</a>">
 
 /* access control slider content */
 <access-readonly "Read only<br/><span>Only allow them to view</span>">

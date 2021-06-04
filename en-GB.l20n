@@ -202,6 +202,7 @@
 <personal-org "Personal <span>(<a>what is this?</a>)</span>">
 <help-search placeholder:"Help me to...">
 <my-settings "My Settings & Billing">
+<my-settings-only "My Settings">
 <org-name-settings "{{ $orgName }} Settings">
 <org-settings title:"Manage Organisation">
 <user-about "About Coggle">
@@ -488,6 +489,7 @@
 <diagram-toolbar-share title:"Share this Coggle.">
 <diagram-toolbar-download title:"Download this Coggle.">
 <diagram-toolbar-copy title:"Create a copy of this Coggle.">
+<diagram-toolbar-pubcopy title:"Create your own copy of this diagram.">
 <diagram-toolbar-public-detail "Public Diagram" title:"This diagram may appear in the Coggle Gallery and search results.">
 
 /* history slider content */
