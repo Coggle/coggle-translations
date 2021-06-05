@@ -68,7 +68,7 @@
 <features-realtime "Realtime Collaboration">
 <features-realtime-desc "Invite your friends and colleagues to work with you, at the same time, on your diagrams.">
 
-<features-images-title "Complete the picture">
+<features-unlimited-images-title "Unlimited Image Uploads">
 <features-images "Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.">
 
 <features-fullhistory-title "Save Every Change">
@@ -690,8 +690,8 @@
 <awesome-feature-joinloop-title "Create Loops and Join Branches">
 <awesome-feature-joinloop "Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.">
 
-<awesome-feature-multiroot-title "Multiple Starting Points">
-<awesome-feature-multiroot "Add multiple central items to your diagrams to map related topics in a single workspace.">
+<awesome-feature-editablelinks-title "No-Setup Collaboration">
+<awesome-feature-editablelinks "Allow any number of people to edit a diagram simply by sharing a secret link with them. No login required.">
 
 <awesome-feature-linestyle-title "Control Line Style">
 <awesome-feature-linestyle "Customise the thickness and style of the lines in your diagram.">
