@@ -165,7 +165,7 @@ Estas son algunas de las aplicaciones de Coggle – <a>Empecemos</a> ¡Descubre 
 
 /* Sesión iniciada contenido de la página de inicio (lista de documentos): https://coggle.it Cuando inicies sesión 
 */
-<create-diagram "<span>Crear diagrama</span>">
+<create-diagram-2 "Crear diagrama">
 <search-diagrams placeholder:"Busca tus diagramas">
 <view-gallery "Galería">
 <create-folder "Crea carpetas">

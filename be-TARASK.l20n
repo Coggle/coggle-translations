@@ -182,7 +182,7 @@
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
-<create-diagram "<span>Стварыць дыяграму</span>">
+<create-diagram-2 "Стварыць дыяграму">
 <search-diagrams placeholder:"Знайсьцьi вашыя дыяграмы">
 <view-gallery "Галерэя">
 <create-folder "Стварыць тэчку">

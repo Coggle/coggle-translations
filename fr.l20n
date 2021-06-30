@@ -182,7 +182,7 @@
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in 
 */
-<create-diagram "<span>Créer un diagramme</span>">
+<create-diagram-2 "Créer un diagramme">
 <search-diagrams placeholder:"Rechercher dans vos diagrammes.">
 <view-gallery "Galerie">
 <create-folder "Créer un dossier">

@@ -175,7 +175,7 @@
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in
 */
-<create-diagram "<span>创建图表</span>">
+<create-diagram-2 "创建图表">
 <search-diagrams placeholder:"搜索你的图表.">
 <view-gallery "画廊">
 <create-folder "创建活页夹">

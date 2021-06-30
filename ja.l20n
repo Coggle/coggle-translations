@@ -173,7 +173,7 @@
 
 /* logged-in homepage content (documents list): https://coggle.it when logged in
 */
-<create-diagram "<span>ダイアグラムを作成する</span>">
+<create-diagram-2 "ダイアグラムを作成する">
 <search-diagrams placeholder:"ダイアグラムを検索する">
 <view-gallery "ギャラリー">
 <create-folder "フォルダーを作成する">
