@@ -841,14 +841,6 @@
   <p>Jetez un œil à notre <a>kit de presse</a>, ou <a>contactez-nous</a> pour plus de détails !</p>
 """>
 
-<about-company """
- <div>
-   <p>Enregistrée en Angleterre et dans le Pays de Galle. No. 9030487</p>
-   <p>Bureau enregistré à: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
-
 /* Coggle Facts */
 <fact-math """
 Saviez-vous que vous pouviez écrire des formules mathématiques dans vos Coggles? (Ça fait intello !) Utilisez \\\\( LaTeX ici \\\\) pour essayer !

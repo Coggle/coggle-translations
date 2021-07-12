@@ -773,14 +773,6 @@ Además, todos los miembros de tu organización tendrán las funciones de Coggle
   <p>Échale un vistazo a nuestro <a>kit de prensa</a>, o <a>pregúntanos</a> para encontrar más</p>
 """>
 
-<about-company """
- <div>
-   <p>Registrado en Inglaterra y País de Gales. No. 9030487</p>
-   <p>Oficina de registro: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
-
 /* Información de Coggle */
 <fact-math """
 ¿Sabías que puedes escribir mates en Coggles? (Sí, geeky!) Usa \\\\( LaTeX aquí \\\\) Para probarlo. 

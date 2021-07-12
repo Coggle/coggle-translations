@@ -842,14 +842,6 @@
   <p>Então verifique nosso <a>kit para a imprensa</a>, ou <a>entre em contato</a> para descobrir mais!</p>
 """>
 
-<about-company """
- <div>
-   <p>Registrada na Inglaterra e País de Gales. No. 9030487</p>
-   <p>Escritório de registro: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
-
 /* Coggle Facts */
 <fact-math """
 Você sabia que pode-se escrever matemática nos Coggles? (Sério, genial!) Use \\\\( LaTeX aqui \\\\) para tentar!

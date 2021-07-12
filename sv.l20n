@@ -337,14 +337,6 @@ Getting Started <a>hide</a><a>show</a>
   <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
 """>
 
-<about-company """
- <div>
-   <p>Registered in England and Wales. No. 9030487</p>
-   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
-
 /* diagram not-found page */
 <nodiagram-title "Diagram not found!">
 <nodiagram-invalid-link "This diagram link is invalid, or access to it has been revoked.">

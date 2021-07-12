@@ -812,14 +812,6 @@
   <p>Тады паспрабуйце наш <a>прэс пакет</a>, або <a>звяжыцеся з намi</a>, каб даведацца больш!</p>
 """>
 
-<about-company """
- <div>
-   <p>Зарэгiстравана ў Англii i Ўэльсе. No. 9030487</p>
-   <p>Зарэгiстраваны офiс: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
-
 /* Coggle Facts */
 <fact-math """
 Вы ведалi, што можаце выкарыстоўваць матэматычныя выразы ў Coggles? (Yeah, geeky!) Выкарыстоўвайце \\\\( LaTeX here \\\\)!

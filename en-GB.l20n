@@ -263,6 +263,10 @@
 <settings-language-title "Language">
 <settings-communication-title "Communication">
 <settings-account-title "Close Account">
+<settings-profile-title "Profile">
+<settings-membership-title "Members">
+<settings-exports-title "Exports">
+<settings-authentication-title "Authentication">
 
 /* The button to save billing details changes its text in different contexts:
  * when a user signs up to awesome they are "purchasing" a subscription, when
@@ -363,6 +367,8 @@
 <me-language-title "Choose Your Preferred Language">
 <me-language-tip "Help us provide Coggle in your native language, or add something that's missing by contributing to our <a>translations project</a> on Github!">
 <me-language-questions "If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a>translate@coggle.it</a>.">
+
+<profile-title "Your Appearance in Coggle">
 
 <recommend-coggle "Recommend Coggle">
 <recommend-share-link """
@@ -860,14 +866,6 @@
   <h1>In the press?</h1>
   <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
 """>
-
-<about-company """
- <div>
-   <p>Registered in England and Wales. No. 9030487</p>
-   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
 
 /* Coggle Facts */
 <fact-math """

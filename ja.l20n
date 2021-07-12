@@ -825,14 +825,6 @@
   <p>私たちの<a>プレス・キット</a>をチェックして下さい。また、もっと詳しくご理解頂くために<a>ご連絡下さい</a>！</p>
 """>
 
-<about-company """
- <div>
-   <p>Registered in England and Wales. No. 9030487</p>
-   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
-
 /* Coggle Facts */
 <fact-math """
 Coggleで数式が書けるのを知っていましたか？（そう、ギークっぽいでしょう！） \\\\( LaTeX here \\\\) と書いて試して下さい！

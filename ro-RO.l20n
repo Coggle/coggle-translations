@@ -830,14 +830,6 @@
   <p>Then check out our <a>press kit</a>, or <a>get in touch</a> to find out more!</p>
 """>
 
-<about-company """
- <div>
-   <p>Registered in England and Wales. No. 9030487</p>
-   <p>Registered office: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
-
 /* Coggle Facts */
 <fact-math """
 Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!

@@ -837,14 +837,6 @@ If you're using Coggle for work, check out <a>Coggle Organisations</a>, which co
   <p>Quindi controlla il <a> kit stampa </a> o <a> contattaci </a> per saperne di più!</p>
 """>
 
-<about-company """
- <div>
-   <p>Registrato in Inghilterra e Galles. No. 9030487</p>
-   <p>Sede legale: William James House, Cowley Road, Cambridge CB4 0WX</p>
- </div>
-""">
-
-
 /* Coggle Facts */
 <fact-math """
 Sapevi che puoi scrivere matematica Coggles? (Yeah, geeky!) Usa \\\\( LaTeX qui \\\\) per provare!
