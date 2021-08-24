@@ -484,7 +484,8 @@
 <diagram-toolbar-share title:" 分享此Coggle.">
 <diagram-toolbar-download title:" 下載此Coggle.">
 <diagram-toolbar-copy title:" 創建此Coggle副本.">
-<diagram-toolbar-public "Public Diagram" title:"May appear in the Coggle Gallery">
+<diagram-toolbar-public-detail "Public Diagram" title:"This diagram may appear in the Coggle Gallery and search results.">
+<public-label "Public" title:"This is a public diagram.">
 
 /* sharing dialog content */
 <share-newlink "新鏈接:">

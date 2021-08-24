@@ -484,7 +484,8 @@
 <diagram-toolbar-share title:"Поделиться этим Coggle.">
 <diagram-toolbar-download title:"Скачать этот Coggle.">
 <diagram-toolbar-copy title:"Создать копию этого Coggle.">
-<diagram-toolbar-public "Публичная диаграмма" title:"Может появиться в Coggle Галерее">
+<diagram-toolbar-public-detail "Публичная диаграмма" title:"This diagram may appear in the Coggle Gallery and search results.">
+<public-label "Public" title:"This is a public diagram.">
 
 /* sharing dialog content */
 <share-newlink "Новая ссылка:">

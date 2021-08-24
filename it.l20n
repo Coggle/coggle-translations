@@ -487,6 +487,7 @@ Per risparmiare tempo, puoi invitare più persone contemporaneamente: digita (o 
 <diagram-toolbar-download title:"Scarica questo Coggle.">
 <diagram-toolbar-copy title:"Crea una copia di questo Coggle.">
 <diagram-toolbar-public-detail "Diagramma pubblico" title:"Potrebbe apparire nella Galleria di Coggle e nei risultati del motore di ricerca.">
+<public-label "Pubblico" title:"This is a public diagram.">
 
 /* history slider content */
 <current-version "current">

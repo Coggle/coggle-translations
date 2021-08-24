@@ -475,7 +475,8 @@
 <diagram-toolbar-share title:"このCoggleをシェア">
 <diagram-toolbar-download title:"このCoggleをダウンロード">
 <diagram-toolbar-copy title:"このCoggleのコピーを作成">
-<diagram-toolbar-public "ダイアグラムを公開" title:"The Coggle Gallery に表示される可能性もあります">
+<diagram-toolbar-public-detail "ダイアグラムを公開" title:"The Coggle Gallery に表示される可能性もあります">
+<public-label "public" title:"This is a public diagram.">
 
 /* sharing dialog content */
 <share-newlink "リンクの新規作成:">

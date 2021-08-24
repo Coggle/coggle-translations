@@ -449,7 +449,8 @@ Te cobraremos
 <diagram-toolbar-share title:"Comparte este Coggle.">
 <diagram-toolbar-download title:"Descarga este Coggle.">
 <diagram-toolbar-copy title:"Crea una copia de este Coggle.">
-<diagram-toolbar-public "Diagrama Público" title:"Podría aparecer en la Galería Coggle">
+<diagram-toolbar-public-detail "Diagrama Público" title:"This diagram may appear in the Coggle Gallery and search results.">
+<public-label "Público" title:"Diagrama Público.">
 
 /* Compartiendo contenido del diálogo */
 <share-newlink "Nuevo enlace:">

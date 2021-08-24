@@ -497,6 +497,7 @@
 <diagram-toolbar-copy title:"Create a copy of this Coggle.">
 <diagram-toolbar-pubcopy title:"Create your own copy of this diagram.">
 <diagram-toolbar-public-detail "Public Diagram" title:"This diagram may appear in the Coggle Gallery and search results.">
+<public-label "Public" title:"This is a public diagram.">
 
 /* history slider content */
 <current-version "current">

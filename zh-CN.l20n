@@ -479,6 +479,7 @@
 <diagram-toolbar-download title:" 下载此Coggle.">
 <diagram-toolbar-copy title:" 创建此Coggle副本.">
 <diagram-toolbar-public-detail "公共图表" title:"该图表可能会出现在Coggle画廊和搜索结果中.">
+<public-label "公共图表" title:"该图表可能会出现在Coggle画廊和搜索结果中.">
 
 /* history slider content */
 <current-version "当前">

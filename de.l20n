@@ -526,6 +526,7 @@
 <diagram-toolbar-download title:"Dieses Coggle herunterladen.">
 <diagram-toolbar-copy title:"Kopie dieses Coggles erzeugen.">
 <diagram-toolbar-public-detail "Öffentliches Diagramm" title:"Darf in der Coggle Gallery und in Suchergebnissen erscheinen.">
+<public-label "Öffentliches" title:"This is a public diagram.">
 
 /* history slider content */
 <current-version "aktuell">
