@@ -17,6 +17,7 @@
  * which is described below
  */
 <index-tagline "The clear way to share complex information.">
+<index-tagline-mm "Make mind map documents that flow like your ideas.">
 <index-signupnow "Sign Up Now">
 <index-login "Already signed up? Log in here.">
 
@@ -32,7 +33,7 @@
 
 <index-colab-mindmaps-flowcharts """
   <h1>Collaborative Mind Maps & Flowcharts</h1>
-  <p>Coggle is an online tool for creating and sharing mindmaps and flowcharts. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start diagramming now!</p>
+  <p>Coggle is online software for creating and sharing mindmaps and flowcharts. It works online in your browser: there's nothing to download or install. <a>Log in</a> to start diagramming now!</p>
   <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
 """>
 
@@ -420,6 +421,7 @@
 <auto-arrange "auto-arrange">
 <pick-colour "pick colour">
 <choose-style "choose style">
+<choose-shape "choose shape">
 <delete-branch "delete branch"> /* (remove and item *and* all of its children) */
 <remove-item "remove item">
 <show-children "show children">
@@ -436,11 +438,17 @@
 <drag-zoom-page "drag to zoom page">
 <add-label "add label">
 
+<help-title-title "The Diagram Title">
+<help-title "<p>This is the center of your diagram, and its title. Your ideas will branch out from here!</p><p>Start by editing it - what is your diagram about?</p>">
 <help-gohome "Click the Coggle logo to go back to the homepage, where your documents are automatically saved.">
 <help-add-node "Use the <div>+</div> buttons to add branches.">
 <help-edit-node "<p>Click any item to edit the text.</p><p>Change the text size by dragging the corner of the editing area.</p>">
 <help-move-node "Drag any text to move it.">
-<help-node-menu "Right click to access the menu. Here you can add, remove, copy, and arrange branches.">
+<help-node-menu "Right click on items to access the menu. Here you can add, remove, copy, and arrange branches.">
+<help-morehelp-touch-title "Shortcuts and Help">
+<help-morehelp2-title "Keyboard Shortcuts and Help">
+<help-morehelp-touch "Open the help sheet to see shortcuts, and quickly search help articles">
+<help-morehelp2 "Open the help sheet to see keyboard shortcuts, and quickly search help articles">
 
 <help-multiline "Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.">
 <help-toolbar-invite-title "Work With Others">
@@ -449,8 +457,10 @@
 <help-toolbar-invitemulti """
   To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
 """>
-<help-toolbar-invitedonefaster "Get things done faster - invite someone to edit with you and see their changes instantly.">
-<help-toolbar-inviteflow-title "Enter a Co-worker's Email">
+<help-toolbar-invitedonefaster-2 "<p>Now you've been editing for a while, try getting things done faster by collaborating!</p><p>Invite people to edit with you, and see their changes instantly.</p>">
+<help-toolbar-inviteflow-title-2 "Invite a Co-worker by Email">
+<help-toolbar-sharing-title "Shareable Links and Publishing">
+<help-toolbar-sharing "You can also publish your diagram, or create secret shareable links to give access only to people with that link.">
 <help-inactive-invite "Work with friends to help bring your ideas to life!<br>Invite by email here.">
 
 <banner-open-getawesome """
