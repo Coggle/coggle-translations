@@ -1,0 +1,75 @@
+
+/* shared email content */
+<emWhatIsCoggle "کاگل یک ابزار مایند مپ (نقشه ذهنی) با امکان همکاری دسته‌جمعی هستش که بهتون کمک میکنه تا چیز‌های پیچیده رو راحت‌تر درک کنید. این ابزار خیلی ساده هست و همچنین رایگانه!">
+<emWelcomeHappyCoggling "این همش برای شماست، به کاگل خوش اومدی جونه دل!">
+<emUnsubscribe "ایمیل هامون زیاده؟ ببخشید، <a>لغو اشتراک</a>.">
+<emSendReason """
+شما این پیام را به علت عضویت در <a>https://coggle.it</a> دریافت کردید. <br> شما می‌توانید در <a>اینجا</a> وضعیت ارتباطی خودتون رو مدیریت کنید.
+""">
+<emBecauseInvited "یکی از اعضای فعلی کاگل شما را به این پلتفرم دعوت کرده است. این پیام به همین منظور برای شما ارسال شده است.">
+<emSignoffCoggleTeam "<b>تیم کاگل</b>">
+
+
+/* welcome email content */
+<emWelcomeSubject "{{ $name }}، به کاگل خوش اومدی!">
+<emWelcomeCoggleFamily "{{ $name }} عزیز به خانواده کاگل خوش اومدی، خیلی خوشحالیم که شما را اینجا داریم.">
+<emWelcomeCoggleDesign """
+ما با تمام عشقمون کاگل رو به سادگی و برای همکاری دسته جمعه طراحی کردیم. ایده‌ها و دانش خودتون رو با همکلاسی‌ها، همکاران یا دوستانتون به اشتراک بگذارید تا بتونید حداکثر استفاده از کاگل رو ببرید.
+""">
+<emWelcomeCreateDiagram "همین الان یک نمودار کاگلی بساز">
+
+
+/* welcome followup email content */
+<emFollowupSubject "{{ $name }} عزیز، شما چطور کاگل رو پیدا کردی؟">
+<emFollowupFindingCoggle "{{ $name }} عزیز، شما چطور کاگل رو پیدا کردی؟">
+<emFollowupTryInvite """
+تاحالا دوستات یا همکارانت رو برای استفاده از کاگل دعوت کردی؟ با استفاده از کلید <b>اشتراک گذاری</b> در بالا سمت راست هر نمودار می‌تونی دوستات رو دعوت کنی و به محض تغییر در نمودار توسط اونها از تغییرات با خبر بشی! جذاب نیست؟
+""">
+<emFollowupInviteNow "همین حالا دوستاتو دعوت کن">
+
+
+/* welcome second followup email content */
+<emFollowup2Subject "آخرین بروزرسانی شما">
+<emFollowup2FirstWeek "{{ $name }} عزیز، اولین هفته‌ی استفاده از کاگل چطور بود؟">
+<emFollowup2ChangeFontSize """
+<b>میدونی چطوری میشه سایز فونت ها رو تغییر داد؟</b> اهمیت آیتم‌هایی که میسازی رو با بزرگتر کردن فونت می‌تونی بهتر نشون بدی. به گوشه‌ی بخش ویرایش متن برو و سایز متن رو تغییر بده:
+""">
+<emFollowup2MoreFeatures "امکانات دیگه‌ای هم میخوای؟">
+<emFollowup2AwesomePitch """
+پلن <a>خفن</a> رو برای قدرتمند‌تر کردن کاگل و استفاده از کلی امکانات کاربردی بررسی کن.
+""">
+<emFollowup2GoAwesome "خفن شو">
+
+
+/* diagram invites email content */
+<emInviteDiagramSubject "{{ $from.full_name }} شما را به یک نمودار کاگلی اضافه کرده است.">
+<emInviteDiagramDescription "{{ $from.name }} شما را به نمودار کاگلی: {{ $title }} اضافه کرده است.">
+<emInviteDiagramView "مشاهده">
+
+/* folder invites email content */
+<emInviteFolderSubject "{{ $from.full_name }} شما را به یک پوشه‌ی کاگلی اضافه کرده است.">
+<emInviteFolderDescription "{{ $from.name }} شما را به پوشه‌ی کاگلی: {{ $title }} اضافه کرده است.">
+<emInviteFolderView "پیوستن">
+
+/* organization invites email content */
+<emInviteOrganisationSubject "{{ $from.full_name }} شما را به کاگل {{ $title }} دعوت کرده است.">
+<emInviteOrganisationDescription """
+  {{ $from.name }} شما را به کاگل <b>{{ $title }}</b> دعوت کرده است, برای قبول کردن درخواست، روی کلید پیوستن کلیک کنید و, یا <a>آموزش سریع فوری انقلابی</a> مارا برای شروع مطالعه کنید.
+""">
+<emInviteOrganisationView "پیوستن">
+
+
+/* summary email content */
+<emSummaryDescription "کاگل {{ $title }} بروزرسانی شد">
+<emSummaryItemsAdded "آیتم‌ها اضافه شدند">
+<emSummaryItemsRemoved "آیتم‌ها حذف شدند">
+<emSummaryItemsChanged "آیتم‌ها تغییر کردند.">
+<emSummaryNewComments "و تعدادی کامنت جدید هم داریم.">
+<emSummaryView "بررسی تغییرات">
+
+
+/* tag email content */
+<emTagSubject "{{ $from.name }} شما را در کاگل {{ $title }} صدا زده است.(تگ کرده است)">
+<emTagDescription "<b>{{ $from.name }}</b>  شما را در کاگل {{ $title }} صدا زده است.(تگ کرده است)">
+<emTagView "READ">
+
