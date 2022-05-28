@@ -17,7 +17,7 @@
  * which is described below
  */
 <index-tagline "Простий спосіб ділитися складною інформацією.">
-/*<index-tagline-mm "Make mind map documents that flow like your ideas.">*/
+<index-tagline-mm "Створіть документи для карт розуму, які стосуються ваших ідей.">
 <index-signupnow "Зареєструватися зараз">
 <index-login "Вже зареєстровано? <a>Увійдіть</a>.">
 
@@ -166,7 +166,7 @@
 
 <per-month "на місяць">
 <per-member-per-month "за учасника на місяць">
-/*<forever "forever">*/
+<forever "назавжди">
 
 <awesome-feature "Awesome передплата">
 <org-feature "Organisation особливості">
@@ -203,7 +203,7 @@
 <personal-org "Personal <span>(<a>що це?</a>)</span>">
 <help-search placeholder:"Допоможіть мені...">
 <my-settings "Мої налаштування та підписка">
-/*<my-settings-only "My Settings">*/
+<my-settings-only "Мої налаштування">
 <org-name-settings "{{ $orgName }} Установки">
 <org-settings title:"Керувати організацією">
 <user-about "Про Coggle">
@@ -221,7 +221,7 @@
 """>
 <doclist-shared "<b>Поділилися з вами</b> – створені іншими людьми діаграми, які доступні вам, будуть відображатися у цій папці.">
 <doclist-folder-empty "<b>Папка порожня!</b> – Створіть нову діаграму тут, або перетягніть та відпустіть діаграми до папок.">
-/*<doclist-readonly "<b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.">*/
+<doclist-readonly "<b>Ласкаво просимо до Coggle!</b> – попросіть власника надати вам доступ для створення діаграми тут.">
 <impersonatedaccess "Ви зайшли в Coggle як член організації. <a>Повернутися до панелі адміністратора</a>">
 
 <doclist-loading-failed "О ні! Завантаження папок не вдалося, оновіть сторінку, щоб спробувати ще раз.">
@@ -264,15 +264,15 @@
 <settings-language-title "Мова">
 <settings-communication-title "Зв'язок">
 <settings-account-title "Закрити обліковий запис">
-/*<settings-profile-title "Profile">*/
-/*<settings-membership-title "Members">*/
-/*<settings-exports-title "Exports">*/
-/*<settings-authentication-title "Authentication">*/
+<settings-profile-title "Профіль">
+<settings-membership-title "Учасники">
+<settings-exports-title "Експорт">
+<settings-authentication-title "Аутентифікація">
 
-/* button to save billing details changes its text in different contexts:
- * when a user signs up to awesome вони є "purchasing" a subscription, when
- * Вони створюють організації, вони є "створення" організації, або коли
- * Вони змінюють розрахункові деталі вони є "updating" them.
+/* Кнопка для збереження платіжних відомостей змінює свій текст у різних контекстах:
+  * коли користувач реєструється в Awesome вони є «купівля» підписки, коли
+  * Вони створюють організацію, вони є "створення" організації, або коли
+  * Вони змінюють розрахункові деталі, вони їх «оновлюють».
  */
 <settingsSubmitButton {
   purchase: "придбати",
@@ -374,13 +374,13 @@
 <recommend-coggle "Recommend Coggle">
 <recommend-share-link """
   <p>Діліться вашим спеціальним посиланням, де вам хочеться</p>
-  <p> <a>Facebook</a>, <a> Twitter</a>, or <a>email</a> все буде працювати добре!
+  <p> <a>Facebook</a>, <a> Twitter</a>, або <a>email</a> все буде працювати добре!
   </p>
   <input/>
 """>
 <invite-n-more[$introduceCount] {
-        1: "Уявіть ще <span>{{ $introduceCount }}</span> друга Coggle",
-    *many: "Уявіть ще <span>{{ $introduceCount }}</span> друзів Coggle",
+        1: "Запросіть ще <span>{{ $introduceCount }}</span> друга Coggle",
+    *many: "Запросіть ще <span>{{ $introduceCount }}</span> друзів Coggle",
 }>
 
 <claim-free-month """
@@ -389,15 +389,15 @@
 """>
 
 
-/* <close-account-title "Close Your Coggle Account"> */
-/* <close-account "Permanently close your free Coggle account."> */
-/* <close-account-description "This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep."> */
-/* <close-account-button "Close my Account"> */
-/* <close-account-confirmation """
- *   <input placeholder='Type your email address'/>
- *   <button>CONFIRM</button> 
- * """>
- */
+ <close-account-title "Закрити свій обліковий запис Coggle">
+ <close-account "Назавжди закрити свій безкоштовний обліковий запис Coggle.">
+ <close-account-description "Цей процес <b>незворотний</b> і почне діяти негайно. Ви втратите доступ до всіх своїх діаграм, тому переконайтеся, що ви експортували всі, які хочете зберегти.">
+ <close-account-button "Закрити мій обліковий запис">
+ <close-account-confirmation """
+    <input placeholder='Введіть свою електронну адресу'/>
+    <button>ПІДТВЕРДИТИ</button> 
+  """>
+
 /* Gallery Content (/gallery) */
 <gallery-title "Галерея Coggle">
 <gallery-blurb2 "Набір найкращих діаграм, зроблених з Coggle!">
@@ -422,16 +422,16 @@
 <auto-arrange "розставити">
 <pick-colour "вибрати колір">
 <choose-style "вибрати стиль">
-/* <choose-shape "choose shape"> */
+<choose-shape "вибрати форму">
 <delete-branch "видалити гілку"> /* (видалити об'єкт *і* усі його дочірні гілки) */
 <remove-item "видалити об'єкт">
 <show-children "показати дочірні">
 <hide-children "сховати дочірні">
 <drag-to-create-link "Перетягніть, щоб створити зв'язок">
 <drag-to-transplant-branch "перетягнути для пересадки гілки">
-/* <delete-connection "delete connection"> */
-/* <reverse-connection "reverse connection"> */
-/* <label-connection "label this connection"> */
+<delete-connection "видалити підключення">
+<reverse-connection "зворотне підключення">
+<label-connection "позначте це з’єднання">
 
 <undo "скасувати">
 <redo "повернути дію">
@@ -439,17 +439,17 @@
 <zoom-page "масштабувати сторінку">
 <add-label "додати напис">
 
-/* <help-title-title "The Diagram Title"> */
-/* <help-title "<p>This is the center of your diagram, and its title. Your ideas will branch out from here!</p><p>Start by editing it - what is your diagram about?</p>"> */
+<help-title-title "Назва діаграми">
+<help-title "<p>Це центр вашої діаграми та її назва. Ваші ідеї будуть розгалужуватися звідси!</p><p>Почніть з редагування – про що ваша діаграма?</p>">
 <help-gohome "Натисніть на логотип Coggle, щоб повернутися до головної сторінки; ваші документи збережуться автоматично.">
 <help-add-node "Використовуйте кнопки <div>+</div>, щоб додавати гілки.">
 <help-edit-node "<p>Натисніть будь-який об'єкт, щоб редагувати текст.</p><p>Змініть розмір тексту, перетягуючи край редагованої області.</p>">
 <help-move-node "Потягніть будь-який текст, щоб перемістити його.">
 <help-node-menu "Натисніть правою кнопкою миші, щоб відкрити меню. Тут ви можете додати, прибрати, скопіювати і розставити гілки.">
-/* <help-morehelp-touch-title "Shortcuts and Help"> */
-/* <help-morehelp2-title "Keyboard Shortcuts and Help"> */
-/* <help-morehelp-touch "Open the help sheet to see shortcuts, and quickly search help articles"> */
-<help-morehelp2 "Open the help sheet to see keyboard shortcuts, and quickly search help articles">
+<help-morehelp-touch-title "Ярлики та довідка">
+<help-morehelp2-title "Комбінації клавіш і довідка">
+<help-morehelp-touch "Відкрийте аркуш довідки, щоб побачити ярлики та швидко знайти довідкові статті">
+<help-morehelp2 "Відкрийте аркуш довідки, щоб побачити комбінації клавіш і швидко знайти довідкові статті">
 
 <help-multiline "Додайте кілька рядків тексту, використовуючи [ctrl] + [enter], або перетягуючи значок розширення області, перш ніж почати писати.">
 <help-toolbar-invite-title "Працюйте з іншими">
@@ -458,10 +458,10 @@
 <help-toolbar-invitemulti """
   Щоб зберегти час, ви можете запрошувати кілька людей за раз: наберіть (або вставте) email адреси, розділяючи їх пробілами, комами, точками з комою <b>;</b>
 """>
-/* <help-toolbar-invitedonefaster-2 "<p>Now you've been editing for a while, try getting things done faster by collaborating!</p><p>Invite people to edit with you, and see their changes instantly.</p>"> */
-/* <help-toolbar-inviteflow-title-2 "Invite a Co-worker by Email"> */
-/* <help-toolbar-sharing-title "Shareable Links and Publishing"> */
-/* <help-toolbar-sharing "You can also publish your diagram, or create secret shareable links to give access only to people with that link."> */
+<help-toolbar-invitedonefaster-2 "<p>Тепер ви вже деякий час редагуєте, спробуйте швидше виконувати завдання, співпрацюючи!</p><p>Запросіть людей редагувати разом із вами та миттєво перегляньте їхні зміни.</p>">
+<help-toolbar-inviteflow-title-2 "Запросіть колегу електронною поштою">
+<help-toolbar-sharing-title "Посилання для спільного доступу та публікація">
+<help-toolbar-sharing "Ви також можете опублікувати свою діаграму або створити секретні посилання для спільного доступу, щоб надати доступ лише людям із цим посиланням.">
 <help-inactive-invite "Працюйте з друзями, щоб втілити свої ідеї в життя!<br>Запросіть по email тут.">
 
 <banner-open-getawesome """
@@ -478,7 +478,7 @@
 
 <go-awesome "Придбати Awesome">
 <free-awesome "Хочете Awesome безкоштовно?">
-/* <upgrade-now "Upgrade Now"> */
+<upgrade-now "Оновити зараз">
 
 <me-support-awesomethanks """
   <p><b>Дякую, що допомагаєте Coggle!</b></p>
@@ -506,12 +506,12 @@
 <diagram-toolbar-share title:"Поділитися цим Coggle.">
 <diagram-toolbar-download title:"Завантажити цей Coggle.">
 <diagram-toolbar-copy title:"Створити копію цього Coggle.">
-/* <diagram-toolbar-pubcopy title:"Create your own copy of this diagram."> */
+<diagram-toolbar-pubcopy title:"Створіть власну копію цієї діаграми.">
 <diagram-toolbar-public-detail "Публічна діаграма" title:"Цей diagram може appear in the Coggle Gallery and search results.">
 <public-label "Public" title:"This is a public diagram.">
 
 /* history slider content */
-/* <current-version "current"> */
+<current-version "поточний">
 
 /* sharing dialog content */
 <share-newlink "Нове посилання:">
@@ -542,7 +542,7 @@
 <download-txt "Простий текст">
 <download-advanced "Додаткові формати">
 <download-failed "Помилка створення файлу.">
-/* <download-import-tip "<b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a>Read more.</a>"> */
+<download-import-tip "<b>Шукаєте імпорт?</b> Перетягніть файл .mm або .txt на діаграму, щоб імпортувати його! <a>Докладніше.</a>">
 
 /* access control slider content */
 <access-readonly "Тільки читання<br/><span>Дозволити лише перегляд</span>">
@@ -666,22 +666,22 @@
 <markdown-link "<code>[Title](example.com)</code> створити <a>посилання</a>">
 <markdown-checkbox "<code>-[X]</code> додати <input/> чекбокс">
 <markdown-code "<code>`text`</code> використовувати <code>фіксовану ширину</code> шрифту">
-/* <touch-pressitem "<b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more."> */
-/* <touch-pressbackground "<b>Long-press</b> on the <b>background</b> to add <b>labels</b>, <b>undo</b>, and paste."> */
+<touch-pressitem "<b>Утримуйте</b> на <b>елементі</b>, щоб <b>видалити</b> елементи, змінити <b>колір</b>, <b>автоматично впорядкувати</b> >, перехресне посилання, копіювання тощо.">
+<touch-pressbackground "<b>Утримуйте</b> на <b>фоні</b>, щоб додати <b>мітки</b>, <b>скасувати</b> та вставити.">
 
 <button-bold title:"Зробити текст жирним">
 <button-italic title:"Виділити текст курсивом">
 <button-link title:"Посилатися на сайт">
 <button-image title:"Завантажити зображення">
 <button-emoji title:"Шукати іконки.">
-/* <button-formatting title:"Text formatting"> */
-/* <button-back title:"Back"> */
-/* <button-aligned-left title:"Aligned left"> */
-/* <button-aligned-center title:"Aligned center"> */
-/* <button-aligned-right title:"Aligned right"> */
-/* <button-aligned-auto title:"Aligned automatically"> */
-/* <button-upload title:"Add image or attach file."> */
-/* <button-attach title:"Attach a file."> */
+<button-formatting title:"Форматування тексту">
+<button-back title:"Назад">
+<button-aligned-left title:"Вирівняно ліворуч">
+<button-aligned-center title:"Вирівняний центр">
+<button-aligned-right title:"Вирівняно праворуч">
+<button-aligned-auto title:"Вирівнюється автоматично">
+<button-upload title:"Додайте зображення або прикріпіть файл.">
+<button-attach title:"Прикріпіть файл.">
 
 /* diagram not-found page */
 <nodiagram-title "Діаграма не знайдена!">
