@@ -437,9 +437,9 @@ share-email-hints =
 
 viewers-can-edit = 
     .title = 查看者可以編輯圖表。
-viewers-readonly
+viewers-readonly = 
     .title = 查看者只能查看圖表。
-viewers-can-copy
+viewers-can-copy =
     .title = 觀看者可以創建自己的副本。
 viewers-nocopy = 
     .title = 觀看者不得創建副本。

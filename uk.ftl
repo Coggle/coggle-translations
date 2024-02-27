@@ -437,9 +437,9 @@ share-email-hints =
 
 # viewers-can-edit = 
 #     .title = Viewers can edit the diagram.
-# viewers-readonly
+# viewers-readonly =
 #     .title = Viewers can only view the diagram.
-# viewers-can-copy
+# viewers-can-copy =
 #     .title = Viewers may create their own copies.
 # viewers-nocopy = 
 #     .title = Viewers may not create copies.
