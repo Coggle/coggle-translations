@@ -191,8 +191,8 @@ user-contact =  Зв'язатися з нами
 user-privacy = Політика конфіденційності
 user-terms = Умови та положення
 user-link-drive = Зв'язати Google Drive
-diagrams-limited = <span> { $privateDiagrams_used } з { $privateDiagrams_available }</span> особистих діаграм використано
-diagrams-unlimited = <span>Нескінченна кількість</span> особистих діаграм
+diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_used } з { $privateDiagrams_available }</span> особистих діаграм використано
+diagrams-unlimited = <span data-l10n-name="count">Нескінченна кількість</span> особистих діаграм
 
 limitedaccess = У вас обмежений доступ до {$resourceName}, тому що ви не є учасником
 doclist-create = <b>Ласкаво просимо в Coggle!</b> – Все, що ви створите, з'явиться тут.

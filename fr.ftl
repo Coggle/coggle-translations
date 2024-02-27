@@ -191,8 +191,8 @@ user-contact = Nous contacter
 user-privacy = Politique de confidentialité
 user-terms = Termes et conditions
 user-link-drive = Lier Google Drive
-diagrams-limited = <span> { $privateDiagrams_used } sur { $privateDiagrams_available }</span> diagrammes privés utilisés
-diagrams-unlimited = Diagrammes privés <span>illimités</span>
+diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_used } sur { $privateDiagrams_available }</span> diagrammes privés utilisés
+diagrams-unlimited = Diagrammes privés <span data-l10n-name="count">illimités</span>
 
 limitedaccess = Vous avez un accès limité à { $resourceName } car vous n'en êtes pas membre
 doclist-create = <b>Bienvenue dans Coggle !</b> – Les diagrammes que vous créerez seront listés ici.

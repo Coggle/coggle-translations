@@ -191,8 +191,8 @@ user-contact = 聯繫我們
 user-privacy = 隱私政策
 user-terms = 條款和條件
 user-link-drive = 鏈接Google雲端硬盤
-diagrams-limited = <span>使用了{ $privateDiagrams_available }個中的{ $privateDiagrams_used }個</span>私人圖表
-diagrams-unlimited = <span>無限</span>私人圖表
+diagrams-limited = <span data-l10n-name="count">使用了{ $privateDiagrams_available }個中的{ $privateDiagrams_used }個</span>私人圖表
+diagrams-unlimited = <span data-l10n-name="count">無限</span>私人圖表
 
 limitedaccess = 你的訪問權限有限{ $resourceName } 因為你不是一個會員
 doclist-create = <b>歡迎來到Coggle!</b> – 你創建的圖表將在這裡列出.
