@@ -2,51 +2,45 @@
 Help translate [Coggle](https://coggle.it) into your native language!
 
 This repository holds translations of Coggle's interface into different
-languages, what's in the
-[production](https://github.com/coggle/translations/tree/production) branch
-should match what's live on the site – so if you see a mistake, submit a [pull
+languages, what's here should match what's live on the site – so if you see a
+mistake, submit a [pull
 request](https://help.github.com/articles/using-pull-requests/) to fix it!
 
-We use [l20n](http://l20n.org) for our translations, so for a guide to the
-syntax of our l20n files you can read the [l20n
-tutorial](http://l20n.org/learn/). We use some html in our translations, 
+We now use [fluent](https://projectfluent.org) for our translations, so for a
+guide to the syntax of our .ftl files you can read the [fluent
+tutorial](https://projectfluent.org/fluent/guide/). We use some html in our
+translations, 
+
+The legacy l20n translations are no longer used, but they can be found in the
+legacy folder for reference.
 
 ## Found a problem?
-
 If you've found a problem with an existing translation, please open a [new
 issue](https://github.com/Coggle/coggle-translations/issues) to report it!
 
 ## Contributing Improvements
-
-We accept pull-requests to the `master` branch, which we'll then test and merge
-into the `production` branch (at which point they will automatically be
-deployed to the live site).
+We accept pull-requests to the `main` branch, which we'll then test and merge.
 
 To make a pull-request you'll first have to fork this repository, make and
 commit your changes back to github. If you're new to Github here's a [great
 guide](https://help.github.com/articles/using-pull-requests/) to the process.
 
 ## Creating a new Language
-
 To create a new language, in your own fork of the repository:
 
  1. Create a new file, named after the [language
     code](http://www.lingoes.net/en/translator/langcode.htm) for
     the language you want to translate, for example the British-English
-    translation is in a file called `en-GB.l20n`.
+    translation is in a file called `en-GB.ftl`.
 
- 2. Add your language to the locales list in the `manifest.json` file.
-
- 3. Start adding translations to your file!
+ 2. Start adding translations to your file! The en.ftl file contains the
+    generic english translations, and is a good template.
  
  4. Then submit a pull request for us to add the language. You can do this as
     soon as your file has any translations (it doesn't have to be complete!).
-    Before your pull-request can be accepted you need to agree to our
-    [contributor
-    agreement](https://www.clahub.com/agreements/Coggle/coggle-translations), which
-    gives us the necessary permissions to use your translations on the live
-    site.
- 
+    When you submit a pull request you are authorising us to use your
+    contributions on Coggle.
+
  5. As you make and commit new changes, they will appear on the existing pull
     request (until that is merged), after that you should open a new [pull
     requests](https://help.github.com/articles/using-pull-requests/) to update
@@ -54,32 +48,28 @@ To create a new language, in your own fork of the repository:
     [sync your fork](https://help.github.com/articles/syncing-a-fork/) to pull
     in other people's changes, too.
 
+ 6. For significant contributions we'll happily upgrade your Coggle account for
+    free, just drop us an email from the address you use to sign in ;)
+
 ## Translating Text
 If there's a specific bit of text in Coggle that you want to translate, first
-find that in the en-GB or en-US translations (which we maintain), then copy and
-paste it into your own translation file.
+find that in the `en.ftl` translations, then copy and paste it into your own
+translation file.
 
 For example, to translate the "Unleash Your Creativity" section from the
-homepage, you would copy this:
+homepage, you would copy these items:
 
 ```
-<index-description """
-  <h1>Unleash your creativity</h1>
-  <p>
-     Produce beautiful notes, quickly and easily.
-     Share them with friends and colleagues to enhance your ideas collaboratively.
-     All for free!
-  </p>
-  <p>
-     <a><span><b>Get started now! </b></span></a>
-     <a><span>Or, read more.</span></a>
-  </p>
-""">
+index-unleash = Unleash your creativity
+index-blurb = Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.
+index-viewgallery = Or take a look at the <a data-l10n-name='gallery'>Coggle Gallery</a> for inspiration.
 ```
 
-This is a fairly complex translation element, with bits of html mixed in - when
-you translate you need to leave the same html elements in there, but you can
-change any of the text.
+Each html element generally has a separate translation. Where items like `<a>`
+link anchor elements occur in a translation, they must have a data-l10n-name
+that matches a name in the html. In general, new html should not be added to
+translated text (only very basic text elements like `<b>` and `<br>` are
+supported)
  
 ## Questions? Feedback?
 

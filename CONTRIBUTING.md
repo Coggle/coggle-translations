@@ -1,4 +1,2 @@
-To get started, please [sign](https://www.clahub.com/agreements/Coggle/coggle-translations) the Contributor License Agreement. We use [CLA Hub](https://www.clahub.com/) to make it as simple as filling in a form.
-
-We know it's a pain, but this makes sure we have all the necessary rights to host and serve your translations to Coggle users!
+By contributing translations you agree that we have permission to use them on Coggle, and warrant you have the necessary rights to give us that permission.
 
