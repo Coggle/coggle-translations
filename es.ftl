@@ -616,7 +616,7 @@ awesome-hint-orgs =
 
 
 # Login Page /login
-index-loginwithgoogle = Iniciar sesión con Apple
+index-loginwithgoogle = Iniciar sesión con Google
 index-signinwithapple = Iniciar sesión con Apple
 
 login-no-acc-q = ¿No tienes una cuenta de Google o Microsoft?
