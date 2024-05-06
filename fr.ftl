@@ -13,7 +13,7 @@ index-tagline-mm = Une façon claire de partager des informations complexes.
 index-signupnow = Inscrivez-vous maintenant
 index-login = Déjà inscrit ? Connectez-vous.
 
-index-nav-login = Login
+index-nav-login = Connexion
 index-nav-pricing = Tarifs
 index-nav-features = Fonctionnalités
 index-nav-gallery = Galerie
@@ -21,14 +21,14 @@ index-nav-home = Accueil
 
 index-unleash = Déchaînez votre créativité
 index-blurb = Produisez de magnifiques notes, rapidement et simplement. Partagez-les avec vos amis et vos collègues afin d'améliorer collaborativement vos idées.
-index-viewgallery = ous pouvez aussi regarder la <a data-l10n-name='gallery'>Galerie Coggle</a>
+index-viewgallery = Vous pouvez aussi regarder la <a data-l10n-name='gallery'>Galerie Coggle</a>
 
 index-colab-mindmaps-flowcharts-h = Des représentations mentales collaboratives
 index-colab-mindmaps-flowcharts-p1 = Coggle est un outil en ligne pour créer et partager des représentations mentales et des flowcharts. Tout se passe en ligne, il n'y a donc rien à télécharger et rien à mettre à jour. Il suffit de <a data-l10n-name='login'>se connecter</a> pour commencer maintenant !
 index-colab-mindmaps-flowcharts-p2 = Peu importe si vous prenez des notes, si vous faites du brainstorming, ou si vous faites quelque chose d'incroyablement créatif, Coggle vous permet de visualiser vos idées plus facilement. Vous pouvez les partager avec autant d'amis ou de collègues que vous le souhaitez. Les modifications que vous apporterez apparaîtront automatiquement sur leur navigateur ; peu importe leur localisation.
 
 index-use-notes-h = Prenez des notes
-index-use-notes-p = Ouvrez Coggle durant une réunion, vos révisions ou dès que votre inspiration vous prendra afin de créer de magnifiques notes structurées.
+index-use-notes-p = Ouvrez Coggle pendant une réunion, vos révisions ou dès que votre inspiration vous prendra afin de créer de magnifiques notes structurées.
     
 index-use-brainstorm-h = Brainstorm
 index-use-brainstorm-p = Prenez le début d'une idée, arrosez-la avec Coggle et regardez-la germer en un plan complet, clairement défini et prêt à être partagé.
@@ -39,20 +39,20 @@ index-use-share-p = Condensez vos sujets dans un Coggle, incluez tous les détai
 index-coggle-flow-title = De puissants organigrammes
 index-coggle-flow-description = Utilisez Coggle pour cartographier vos processus, systèmes et algorithmes à l'aide de nos nouvelles <a data-l10n-name='flowcharts'>fonctionnalités d'organigramme</a>.
 
-features-realtime = Realtime Collaboration
+features-realtime = Collaboration en temps réel
 features-realtime-desc = Nous travaillons souvent mieux en équipe, et les équipes opèrent plus efficacement lorsqu'elles peuvent collaborer librement. Coggle vous laisse inviter vos amis et vos collègues à travailler avec vous, en même temps, sur vos diagrammes.
 
 features-unlimited-images-title = Complétez le tableau
 features-images = Une image vaut mieux qu'un millier de mots. Coggle vous laisse déposer vos images directement de votre bureau vers vos diagrammes. C'est aussi simple que ça ! Le gros plus étant qu'il n'y a pas de limite au nombre d'images que vous pouvez ajouter.
 
-features-fullhistory-title = Sauvegarde chaque changement
+features-fullhistory-title = Sauvegardez chaque changement
 features-history = Vous avez modifié un document, seulement pour vous apercevoir un jour plus tard que vous n'aimez pas ces changements ? Avec Coggle, ce n'est pas un souci. Entrez simplement dans le mode historique afin de trouver la bonne version, et faites une copie partant de ce point !
 
 features-labels-title = Ajoutez du texte et des images flottants
 features-labels = Ajoutez des champs textes et des images indépendants de votre diagramme pour annoter certaines parties de votre carte.
 
 features-blame-title = Suivez les responsabilités
-features-blame = Vous-êtes vous déjà demandé qui avait réalisé ces modifications sur un document partagé ? Avec Coggle, vous pouvez regarder dans l'historique de vos diagrammes pour voir qui a changé ça, et quand ! Entrez juste dans le mode historique de votre diagramme pour le savoir.
+features-blame = Vous êtes-vous déjà demandé qui avait réalisé ces modifications sur un document partagé ? Avec Coggle, vous pouvez regarder dans l'historique de vos diagrammes pour voir qui a changé ça, et quand ! Entrez juste dans le mode historique de votre diagramme pour le savoir.
 
 features-colours-title = Mettez-y des couleurs
 features-colours = Pensez-vous visuellement ? Apprenez-vous par mise en page et par couleurs ? Dans ce cas, soyez certains de choisir la bonne couleur pour vos sujets. Un seul clic sur un bouton suffit pour faire apparaître la roue des couleurs et sélectionner la couleur de votre choix.
