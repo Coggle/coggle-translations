@@ -176,7 +176,7 @@ settings = Налаштування
 return-to-diagrams = Повернутися до ваших діаграм
 upgrade-to-awesome = Поліпшити до <b>Awesome</b>!
 # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc.
-awesome-time-remaining = Статус Awesome закінчиться <time></time>
+awesome-time-remaining = Статус Awesome закінчиться <time data-l10n-name="remaining"></time>
 awesome-trial-after = Потім у вас увімкнеться безкоштовний план
 want-awesome-for-free = Хочете Awesome безкоштовно?
 help-search =

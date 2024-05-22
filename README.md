@@ -8,8 +8,7 @@ request](https://help.github.com/articles/using-pull-requests/) to fix it!
 
 We now use [fluent](https://projectfluent.org) for our translations, so for a
 guide to the syntax of our .ftl files you can read the [fluent
-tutorial](https://projectfluent.org/fluent/guide/). We use some html in our
-translations, 
+tutorial](https://projectfluent.org/fluent/guide/).
 
 The legacy l20n translations are no longer used, but they can be found in the
 legacy folder for reference.

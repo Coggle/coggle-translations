@@ -176,7 +176,7 @@ settings = 設置
 return-to-diagrams = 返回到你的圖表
 upgrade-to-awesome = 升級為好棒棒會員！
 # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" 
-awesome-time-remaining = 好棒棒會員試用到期<time></time>
+awesome-time-remaining = 好棒棒會員試用到期<time data-l10n-name="remaining"></time>
 awesome-trial-after = 然後您將會回復為免費會員
 want-awesome-for-free = 希望免費獲得好棒棒會員的資格嗎？
 help-search =
