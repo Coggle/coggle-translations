@@ -257,7 +257,7 @@ settings-exports-title = Экспорт
 settings-authentication-title = Аутентификация
 
 billig-card = Ваша карта заканчивается <b>{ $cardEndsIn }</b>, срок её действия истекает <b>{ $cardExpires }</b>.
-billin-addr = Почтовый индекс для выставления счёта: <b>{ $addressZip }</b>. <a>Изменить данные карты</a>
+billing-addr = Почтовый индекс для выставления счёта: <b>{ $addressZip }</b>. <a data-l10n-name="edit">Изменить данные карты</a>
 
 billing-remove = Удалить
 billing-nocard = В Вашем аккаунте нет ни одного способа оплаты. <a data-l10n-name='setup-card'>Настроить данные карты</a>
@@ -447,7 +447,7 @@ revoke-link =
     .title = Удалить эту ссылку.
 
 share-open = Могут ли все просматривать эту диаграмму?
-share-open-detail = Публичные диаграммы могут просматривать все желающие, и они могут появиться в нашей <a>Галерее</a>.
+share-open-detail = Публичные диаграммы могут просматривать все желающие, и они могут появиться в нашей <a data-l10n-name="gallery">Галерее</a>.
 
 # download dialog content
 download-pdf = Скачать PDF

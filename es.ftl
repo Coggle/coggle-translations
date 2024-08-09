@@ -257,7 +257,7 @@ settings-language-title = Idioma
 # settings-authentication-title = Authentication
 
 billing-card = La tarjeta que tenemos guardada para ti termina en <b>{ $cardEndsIn }</b>, caduca el <b>{ $cardExpires }</b>.
-billing-addr = El código de publicación de la facturación que tenemos para ti es <b>{ $addressZip }</b>. <a>Editar los datos de la tarjeta</a>
+billing-addr = El código de publicación de la facturación que tenemos para ti es <b>{ $addressZip }</b>. <a data-l10n-name="edit">Editar los datos de la tarjeta</a>
 
 # billing-remove = Remove
 billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
@@ -447,7 +447,7 @@ share-email-hints =
 #     .title = Delete this link.
 
 share-open = ¿Puede todo el mundo ver este diagrama?
-share-open-detail = Los diagramas abiertos pueden verse por todo el mundo y puede que aparezcan en nuestra <a>Galería</a>
+share-open-detail = Los diagramas abiertos pueden verse por todo el mundo y puede que aparezcan en nuestra <a data-l10n-name="gallery">Galería</a>
 
 # download dialog content 
 download-pdf = Descargar PDF

@@ -257,7 +257,7 @@ settings-exports-title = エクスポート
 settings-authentication-title = 認証
 
 billig-card = 私たちが登録しているあなたのカードの末尾は <b>{ $cardEndsIn }</b>で、有効期限は <b>{ $cardExpires }</b>です。
-billin-addr = 登録されている請求先の郵便番号は <b>{ $addressZip }</b>です。 <a>カード情報を編集する</a>
+billing-addr = 登録されている請求先の郵便番号は <b>{ $addressZip }</b>です。 <a data-l10n-name="edit">カード情報を編集する</a>
 
 billing-remove = 削除
 billing-nocard = あなたのアカウントには保存された請求方法がありません。 <a data-l10n-name='setup-card'>カード情報を設定する</a>
@@ -447,7 +447,7 @@ revoke-link =
     .title = このリンクを削除する。
 
 share-open = 誰でもこのダイアグラムを閲覧できますか？
-share-open-detail = 公開ダイアグラムは誰でも閲覧可能で、 <a>ギャラリー</a> に表示される可能性があります。
+share-open-detail = 公開ダイアグラムは誰でも閲覧可能で、 <a data-l10n-name="gallery">ギャラリー</a> に表示される可能性があります。
 
 # download dialog content 
 download-pdf = PDFをダウンロード

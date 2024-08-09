@@ -257,7 +257,7 @@ settings-exports-title = Exports
 settings-authentication-title = Authentication
 
 billig-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
-billin-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a>Edit card details</a>
+billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
 
 billing-remove = Remove
 billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
@@ -447,7 +447,7 @@ revoke-link =
     .title = Delete this link.
 
 share-open = Can everyone view this diagram?
-share-open-detail = Public diagrams can be viewed by anyone and may appear in our <a>Gallery</a>
+share-open-detail = Public diagrams can be viewed by anyone and may appear in our <a data-l10n-name="gallery">Gallery</a>
 
 # download dialog content 
 download-pdf = Download PDF

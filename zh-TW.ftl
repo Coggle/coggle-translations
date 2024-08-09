@@ -257,7 +257,7 @@ settings-exports-title = 匯出所有檔
 settings-authentication-title = 認證
 
 # billing-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
-# billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a>Edit card details</a>
+# billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
 
 billing-remove = 刪除我的信用卡資料
 # billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>

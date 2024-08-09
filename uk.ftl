@@ -257,7 +257,7 @@ settings-exports-title = Експорт
 settings-authentication-title = Аутентифікація
 
 billing-card = Інформація про вашу картку буде зберігатися у нас до <b>{ $cardEndsIn }</b>, вона закінчується <b>{ $cardExpires }</b>.
-billing-addr = Платіжний поштовий код, який є у нас: <b>{ $addressZip }</b>. <a>Змінити дані картки</a>
+billing-addr = Платіжний поштовий код, який є у нас: <b>{ $addressZip }</b>. <a data-l10n-name="edit">Змінити дані картки</a>
 
 # billing-remove = Remove
 billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
@@ -447,7 +447,7 @@ share-email-hints =
 #     .title = Delete this link.
 
 share-open = Кожен може переглядати цю діаграму?
-share-open-detail = Відкриті діаграми доступні всім і можуть з'явитися в нашій <a>Галереї</a>
+share-open-detail = Відкриті діаграми доступні всім і можуть з'явитися в нашій <a data-l10n-name="gallery">Галереї</a>
 
 # download dialog content 
 download-pdf = Завантажити як PDF

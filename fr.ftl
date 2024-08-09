@@ -257,7 +257,7 @@ settings-exports-title = Exportations
 settings-authentication-title = Authentication
 
 billing-card = La carte que vous avez enregistrée se termine par <b>{ $cardEndsIn }</b>, elle expirera en <b>{ $cardExpires }</b>.
-billing-addr = Votre code postal de facturation est <b>{ $addressZip }</b>. <a data-l10n-name='edit' class='edit'>Changer mes informations</a>
+billing-addr = Votre code postal de facturation est <b>{ $addressZip }</b>. <a data-l10n-name='edit'>Changer mes informations</a>
 
 billing-remove = Supprimer
 billing-nocard = Aucun mode de facturation n'est enregistré sur votre compte. <a data-l10n-name='setup-card'>Configurez les détails de la carte.</a>
