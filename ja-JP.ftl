@@ -28,7 +28,7 @@ index-colab-mindmaps-flowcharts-p1 = Coggleはマインドマップやフロー�
 index-colab-mindmaps-flowcharts-p2 = Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.
 
 index-use-notes-h = メモを取る
-index-use-notes-p =会議中、修正中、またはインスピレーションが湧いた場所でCoggleを開いて、美しく構造化されたノートを作成しましょう。
+index-use-notes-p = 会議中、修正中、またはインスピレーションが湧いた場所でCoggleを開いて、美しく構造化されたノートを作成しましょう。
 
 index-use-brainstorm-h = ブレインストーム
 index-use-brainstorm-p = アイデアの始まりを取り上げ、それをCoggleで育てると、はっきりと整理され、共有する準備が整った完全な計画に成長します。
