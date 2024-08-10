@@ -261,7 +261,7 @@ settings-membership-title = メンバー
 settings-exports-title = エクスポート
 settings-authentication-title = 認証
 
-billig-card = 私たちが登録しているあなたのカードの末尾は <b>{ $cardEndsIn }</b>で、有効期限は <b>{ $cardExpires }</b>です。
+billing-card = 私たちが登録しているあなたのカードの末尾は <b>{ $cardEndsIn }</b>で、有効期限は <b>{ $cardExpires }</b>です。
 billing-addr = 登録されている請求先の郵便番号は <b>{ $addressZip }</b>です。 <a data-l10n-name="edit">カード情報を編集する</a>
 
 billing-remove = 削除
