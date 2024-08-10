@@ -25,7 +25,7 @@ index-viewgallery = または <a data-l10n-name='gallery'>Coggle ギャラリー
 
 index-colab-mindmaps-flowcharts-h = コラボレーション・マインドマップとフローチャート
 index-colab-mindmaps-flowcharts-p1 = Coggleはマインドマップやフローチャートを簡単に作成、共有できます。ダウンロードやインストールは一切必要ありません。 <a data-l10n-name='login'>ログイン</a> して今すぐダイアグラムを開始!!
-index-colab-mindmaps-flowcharts-p2 = Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.
+index-colab-mindmaps-flowcharts-p2 = メモを取る時も、ブレインストーミングをする時も、計画を立てる時も、クリエイティブなことをする時も、Coggleを使えばあなたのアイデアを視覚化するのがとても簡単です。好きなだけ多くの友達や同僚と共有しましょう。あなたが加えた変更は、世界中どこにいても即座に相手のブラウザに表示されます。
 
 index-use-notes-h = メモを取る
 index-use-notes-p = 会議中、修正中、またはインスピレーションが湧いた場所でCoggleを開いて、美しく構造化されたノートを作成しましょう。
@@ -84,9 +84,11 @@ feature-markdown = <b>Markdown</b> サポート
 feature-downloads = <b>PDF & Image</b> ダウンロード
 feature-labels = 未バインド <b>テキストボックス</b>
 feature-exports = <b>.mm とテキスト</b>でエクスポート
+feature-visio = <b>Microsoft Visio</b>でエクスポート
 feature-imports = <b>.mm とテキスト</b>でインポート
 feature-chat = コメント & チャット
 feature-embed = 埋め込み可能なダイアグラム
+feature-embed2 = マインドマップをどこにでも埋め込める
 plans-free-getstarted = 始める
 
 plans-awesome-title = すごいプラン
@@ -94,6 +96,7 @@ plans-awesome-description = プライバシーの保護と高度な機能を備�
 plans-awesome-price = 5ドル / 月
 feature-include-free = <b>ずっと無料</b>プランの全て
 feature-unlimited-private = <b>無制限の</b> 非公開 ダイアグラム
+feature-feature-shapes = <b>その他のアイテムシェイプ</b>
 feature-multiroot = <b>複数のスタート地点</b>
 feature-chathistory = <b>全ての</b> チャット履歴
 feature-rearrange = <b>ブランチの自動整列</b>
@@ -102,6 +105,8 @@ feature-folders = <b>共有フォルダ</b>
 feature-presentation = プレゼンテーション・モード
 feature-bigimages = <b>高解像度画像</b> アップロード
 feature-linestyles = <b>コントロールのラインスタイル</b>
+feature-controlpoints = <b>コントロールのラインパス</b>
+feature-feature-textalign = <b>テキスト配置</b>の変更
 feature-extendedcolours = より多くのカラー
 feature-editable-links = <b>リンク</b>で共同作業
 plans-findoutmore = 詳細はこちら
@@ -111,7 +116,7 @@ plans-org-description = データへのアクセスを管理し、請求を一�
 plans-org-price = $8 / メンバー/ 月
 feature-org-awesome = <b>すごい</b>プランの全て
 feature-org-separate = 独立した個人ワークスペース
-feature-org-billing = 統合請求
+feature-org-billing = 請求一元化
 feature-bulkexport = <b>一括エクスポート</b>
 feature-adminpanel = <b>ユーザーとデータ</b> の管理
 feature-branding = ブランドダイアグラム
@@ -138,7 +143,7 @@ org-feature = 組織プラン
 
 footer-help = ヘルプとドキュメント
 footer-about = 私たちについて
-footer-contact = Contact
+footer-contact = お問合せ
 footer-privacy = プライバシーポリシー
 footer-examples = テンプレートと例
 footer-api = 開発者向け API
@@ -197,10 +202,10 @@ diagrams-unlimited = <span data-l10n-name="count">無制限の</span> 非公開 
 limitedaccess = あなたはメンバーではないので、 { $resourceName } へのアクセスは制限されています。
 doclist-create = <b>Coggleへようこそ!</b> – 作成したダイアグラムはここにリストアップされます。
 
-doclist-shared = <b>あなたと共有</b> – 他の人が作成し、あなたと共有された図は、このフォルダにあります。
+doclist-shared = <b>あなたと共有</b> – 他の人が作成し、あなたと共有されたダイアグラムは、このフォルダにあります。
 doclist-folder-empty = <b>これは空のフォルダです!</b> – ここで新しいダイアグラムを作成するか、ダイアグラムをフォルダにドラッグ＆ドロップします。
 doclist-folder-recent = <b>最近更新されたダイアグラム</b> – 直近1ヶ月以内に変更されたフォルダのダイアグラムがここに表示されます。
-doclist-readonly = <b>Coggle へようこそ!</b> – オーナーに、ここで図を作成するためのアクセス権を許可してもらう。
+doclist-readonly = <b>Coggle へようこそ!</b> – オーナーに、ここでダイアグラムを作成するためのアクセス権を許可してもらう。
 impersonatedaccess = 組織メンバーとしてCoggleを表示しています。 <a data-l10n-name='back'>管理画面に戻る</a>
 
 doclist-loading-failed = あらあら！ フォルダの読み込みに失敗しました。ページを更新して再試行してください。
@@ -229,7 +234,7 @@ tooltip-more =
 
 # documents list contextual help items 
 help-searchcoggle-title = Coggleを検索
-help-searchcoggle = ドキュメントを見つけるには入力してください &mdash; 図中の単語をすばやく検索できます！
+help-searchcoggle = ドキュメントを見つけるには入力してください &mdash; ダイアグラム中の単語をすばやく検索できます！
 help-hide-for-now = 非表示にする
 help-ok-got-it = 了解しました！
 help-creatediagram-title = 新しいダイアグラムを作成する
@@ -284,7 +289,7 @@ slider-no = いいえ
 
 me-language-title = 希望する言語を選択
 me-language-tip = Coggleを母国語で利用できるようにするためにご協力ください。または、Githubで私たちの <a data-l10n-name='translate-link'>翻訳プロジェク</a> に参加して、足りない部分を追加してください！
-me-language-questions = I翻訳について質問がある場合や – 修正や改善案があり、どう手伝えばよいか分からない場合は、 <a data-l10n-name='translate-email'>translate@coggle.it</a>までお気軽にメールしてください。
+me-language-questions = 翻訳について質問がある場合や – 修正や改善案があり、どう手伝えばよいか分からない場合は、 <a data-l10n-name='translate-email'>translate@coggle.it</a>までお気軽にメールしてください。
 
 profile-title = Coggleでのあなたの表示名
 
@@ -301,10 +306,10 @@ claim-free-month = Coggle すごいプランの無料月を獲得する！
 claim-redeem = 今すぐ引き換える
 
 
-close-account-title = Coggleアカウントを閉じる
-close-account = 無料のCoggleアカウントを永久に閉じる。
-close-account-description = このプロセスは <b>元に戻せません</b> し、即時に実施されます。すべてのダイアグラムへのアクセスを失うため、保存したいダイアグラムをエクスポートしておいてください。
-close-account-button = アカウントを閉じる
+close-account-title = Coggleアカウントを削除する
+close-account = Coggleアカウントを完全に削除する。
+close-account-description = このプロセスは <b>元に戻せず</b> 、即時に実施されます。すべてのダイアグラムへのアクセスを失うため、保存したいダイアグラムをエクスポートしておいてください。
+close-account-button = アカウントを削除する
 close-account-enteremail =
     .placeholder = メールアドレスを入力
 close-account-confirm = 確認
@@ -401,23 +406,23 @@ messages-comments-notes =
 
 
 diagram-toolbar-history =
-    .title = 以前のバージョンを表示してコピーする。
+    .title = 以前のバージョンを表示してコピーする
 diagram-toolbar-messages =
-    .title = コメントとチャット。
+    .title = コメントとチャット
 diagram-toolbar-present =
-    .title = プレゼンテーションとレビュー。
+    .title = プレゼンテーションとレビュー
 diagram-toolbar-share =
-    .title = このCoggleを共有する。
+    .title = このCoggleを共有する
 diagram-toolbar-download =
-    .title = このCoggleをダウンロードする。
+    .title = このCoggleをダウンロードする
 diagram-toolbar-copy =
-    .title = このCoggleのコピーを作成する。
+    .title = このCoggleのコピーを作成する
 diagram-toolbar-public-detail = 公開ダイアグラム
     .title = このダイアグラムはCoggleギャラリーや検索結果に表示される可能性があります。
 diagram-toolbar-pubcopy = テンプレートとして使用
     .title = このダイアグラムのコピーを作成する。
 public-label = 公開
-    .title = これは公開ダイアグラムです。
+    .title = これは公開ダイアグラムです
 
 # history slider content 
 current-version = 現在のバージョン
@@ -747,8 +752,8 @@ about-hello2-p3 =
 about-what-is-mindmapping-title = マインドマッピングとは？
 about-what-is-mindmapping =
     マインドマップは、トピックを自然な形で視覚的にマッピングするシンプルな方法です。
-    1つ以上の中央のトピックから始まり、繰り返し分岐して情報をその構成要素の階層に分解していきます。
-    <br> マインドマップ内のアイテムは、空間的に配置され、サイズや色でフォーマットされることで、
+    1つ以上の中心のトピックから始まり、繰り返し分岐して情報をその構成要素の階層に分解していきます。
+    <br> マインドマップ内のアイテムは、空間的に配置され、サイズやカラーでフォーマットされることで、
     記憶や想起を助けます。
     異なる名前:マインドマッピングは、コンセプトマッピング、スパイダーダイアグラム、
     ブレインストームダイアグラムなど、多くの異なる名前で呼ばれることがありますが、
@@ -768,11 +773,11 @@ about-who-is-mindmapping-for =
 
 about-getintouch-title = お問い合わせ
 about-getintouch =
-    質問がありますか？Coggleの使い方を教えてくれますか？それとも、フィードバックをお聞かせください。
+    質問がありますか？Coggleをどのように使っていますか？または、フィードバックをお聞かせください。
     <a data-l10n-name="facebook">facebook
     </a>や <a data-l10n-name="x">X </a>で見つけることができますし、
     <a data-l10n-name="email">hello@coggle.it </a>にメールを送ることもできます。
-    — お話しするのが大好きです！
+    — チャットが大好きです！
 
 
 about-share-title = 広めよう
