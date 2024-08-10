@@ -579,7 +579,7 @@ nodiagram-may-need-access = 誰かがこのダイアグラムへのリンクを�
 awesome-pitch-title = Coggle すごいプラン
 awesome-pitch = Coggle すごいプランで思考を強化しましょう。大きな画像を追加し、Coggleをプレゼンテーションしたり、検索エンジンにインデックスされない非公開なCoggleを作成できます。
 awesome-signup = 今すぐサインアップ
-awesome-price = ${$monthlyPrice} / 月
+awesome-price = {$monthlyPrice} ドル / 月
 
 awesome-feature-cp-title = ラインパスのコントロール
 awesome-feature-cp = ブランチパス上のコントロールポイントを使用して、接続を必要な場所に正確に配置します。
@@ -588,7 +588,7 @@ awesome-feature-shapes-title = 高度なアイテムシェイプ
 awesome-feature-shapes = すべてのアイテムシェイプを使用してフローチャートをカスタマイズします。フローチャートの決定ノードにはひし形を使用し、組織図にはインラインでテキストを配置します。
 
 awesome-feature-private-title = 無制限の非公開ダイアグラム
-awesome-feature-private = 好きなだけ非公開ダイアグラムを作成します。サブスクリプションをキャンセルしても、それらは非公開なままで、アクセスを保持できます。
+awesome-feature-private = 好きなだけ非公開ダイアグラムを作成できます。サブスクリプションをキャンセルしても、それらは非公開なままで、アクセスを保持できます。
 
 awesome-feature-joinloop-title = ループを作成してブランチを結合
 awesome-feature-joinloop = ブランチを結合し、ループを作成して、プロセスフローやその他の高度な内容を表現する強力で柔軟なダイアグラムを作成します。
@@ -603,7 +603,7 @@ awesome-feature-linestyle-title = ラインスタイルのコントロール
 awesome-feature-linestyle = ダイアグラム内のラインの太さとスタイルをカスタマイズします。
 
 awesome-feature-bigimages-title = 大きな画像でアイデアを視覚化
-awesome-feature-bigimages = Coggleに大きな画像を追加してアイデアを説明します。: デスクトップから文書に画像をドラッグ＆ドロップするだけ。
+awesome-feature-bigimages = Coggleに大きな画像を追加してアイデアを説明します。デスクトップから文書に画像をドラッグ＆ドロップするだけ。
 
 awesome-feature-colours-title = より多くのカラー
 awesome-feature-colours = アイデアを整理し、強調するための新しい鮮やかなカラーを解放します。
@@ -615,7 +615,7 @@ awesome-feature-folders-title = 共有フォルダ
 awesome-feature-folders = ダイアグラムをフォルダに入れて整理し、グループで簡単に共有できます。
 
 awesome-feature-flow-title = 強力なフローチャート機能
-awesome-feature-flow = 豊富な形状から選択して、表現力豊かで強力なフローチャート、プロセスマップ、その他のダイアグラムを作成します。
+awesome-feature-flow = 豊富なシェイプから選択して、表現力豊かで強力なフローチャート、プロセスマップ、その他のダイアグラムを作成します。
 
 awesome-hint-orgs =
   仕事でCoggleを使用している場合は、 <a data-l10n-name="orglink">Coggle 組織プラン</a>をチェックしてください。すべてのCoggle すごいプランの利点に加え、ビジネス向けの管理機能も備えています。
@@ -653,23 +653,23 @@ orgs-pitch = Coggle 組織プラン は、大規模なグループを管理す�
 orgs-signup = 組織を作成する
 
 orgs-subpitch-p1 = チームにとって情報が重要な場合、より強力なツールとデータの管理が必要です。だからこそ、<a data-l10n-name="orglink">Coggle 組織プラン</a>を開発しました。
-orgs-subpitch-p2 = 料金はシンプルで、< <b>月額 8ドル /メンバー</b>です<br><b>すべて無制限</b>。
+orgs-subpitch-p2 = 料金はシンプルで、<b>月額 8ドル /メンバー</b>です<br><b>すべて無制限</b>。
 
 
 orgs-feature-saml-sso-title = SAML SSO
 orgs-feature-saml-sso = 既存のシングルサインオンサービスを使用してユーザーを認証します。OneLogin、Oktaなどに対応しています。
 
-orgs-feature-in-one-place-title = すべてを一か所に
-orgs-feature-in-one-place = 組織のすべてのダイアグラムを一か所にまとめます。チームの作業を安全に保ち、管理が容易な場所で管理することで – どこを探せばよいかが正確にわかります。
+orgs-feature-in-one-place-title = すべてを一元管理
+orgs-feature-in-one-place = 組織のすべてのダイアグラムを一元管理。チームの作業を安全に保ち、管理を容易にすることで – どこを探せばよいかが正確にわかります。
 
 orgs-feature-control-sharing-title = 共有の管理
 orgs-feature-control-sharing =  組織内で作成されたCoggleが組織内に留まるようにすることができます。これにより、間違ったメールアドレスがドキュメントに招待された場合でも、機密資料の漏洩を防ぐことができます。
 
 orgs-feature-manage-users-title = ユーザーを安全に管理
-orgs-feature-manage-users = 組織からメンバーを削除しても、その人が作成した作業は失われません。管理ダッシュボードを使用して、過去と現在のメンバーが組織で作成したすべてのダイアグラムを表示できます。
+orgs-feature-manage-users = 組織からメンバーを削除しても、その人が作成した作業は失われません。管理ダッシュボードを使用して、メンバーが組織で作成した過去と現在のすべてのダイアグラムを表示できます。
 
 orgs-feature-export-title = 一括エクスポート
-orgs-feature-export = 組織の管理者は、組織のすべてのCoggleを機械読取り可能なアーカイブ可能なJSON形式で、ワンクリックでダウンロードできます。規制遵守や安心のために最適です。
+orgs-feature-export = 組織の管理者は、組織のすべてのCoggleを機械可読、アーカイブ可能なJSON形式で、ワンクリックでダウンロードできます。規制遵守や安心のために最適です。
 
 orgs-feature-branding-title = ブランドを表示
 orgs-feature-branding = あなたのロゴを使ったプロフェッショナルでクリーンなダイアグラムを作成し、それをPDFやPNGとしてエクスポートします。クライアントや会社の協力者とダイアグラムを共有するのに最適です。
@@ -722,7 +722,7 @@ faq-orgs-awesome-a =
       すべての優れた機能を利用できます。</p>
 
 faq-orgs-billing-q = Coggle 組織プランの請求はどのように行われますか？
-faq-orgs-billing-a = Coggle 組織プラン の料金は、メンバーごとに月額 ${$pricePerMemberPerMonth} です。
+faq-orgs-billing-a = Coggle 組織プラン の料金は、メンバーごとに月額 {$pricePerMemberPerMonth} ドル です。
     組織のダッシュボードから、いつでもメンバーを追加および削除できます。
 
 faq-orgs-edu-q = 教育機関向けの料金オプションはありますか？
