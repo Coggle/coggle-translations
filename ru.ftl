@@ -256,7 +256,7 @@ settings-membership-title = Участники
 settings-exports-title = Экспорт
 settings-authentication-title = Аутентификация
 
-billig-card = Ваша карта заканчивается <b>{ $cardEndsIn }</b>, срок её действия истекает <b>{ $cardExpires }</b>.
+billing-card = Ваша карта заканчивается <b>{ $cardEndsIn }</b>, срок её действия истекает <b>{ $cardExpires }</b>.
 billing-addr = Почтовый индекс для выставления счёта: <b>{ $addressZip }</b>. <a data-l10n-name="edit">Изменить данные карты</a>
 
 billing-remove = Удалить
