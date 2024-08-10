@@ -256,7 +256,7 @@ settings-membership-title = Members
 settings-exports-title = Exports
 settings-authentication-title = Authentication
 
-billig-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
+billing-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
 billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
 
 billing-remove = Remove
