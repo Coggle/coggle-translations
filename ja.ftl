@@ -646,6 +646,42 @@ login-pw-a-p2 = ユーザー名とパスワードを安全に保存するには�
     これらのタスクを外部プロバイダーに任せることが正しい選択だと考えています 
     – その分、私たちは素晴らしいマインドマッピング体験の創造に集中できます。
 
+login-what-q = 私のGoogle/Microsoftアカウントで何をするのですか？
+login-what-a = 私たちは、あなたの基本的なプロフィール情報へのアクセスのみを求めます。
+    これには、名前、プロフィール写真、メールアドレスが含まれます。
+    Coggleを動作させるために必要のない連絡先、メール、Googleドライブのドキュメント、
+    その他の情報へのアクセスは求めません。
+
+login-switch-q = ログイン方法を切り替えることはできますか？
+login-switch-a = はい！Microsoft/Apple/Googleアカウントで同じメールアドレスを使用している限り、
+    いずれの方法でも同じCoggleアカウントにログインできます。
+    ただし、Appleログインで「メールを非表示にする」オプションを選択した場合、
+    そのアカウントはリンクされませんのでご注意ください。
+
+login-emails-q = 私のメールの内容を読むことができますか？
+login-emails-a = いいえ。私たちはあなたのメールにアクセスする必要も、
+    アクセスしたいとも思っていません！私たちはあなたの基本的なプロフィール情報のみを要求します。
+    それ以外のものにはアクセスできず、Google/Microsoftアカウントの設定を変更することもできません。
+
+login-icloud-q = 私のiCloudにアクセスできますか？
+login-icloud-a = いいえ！Appleでサインインすることで、私たちがアクセスできるのはあなたの名前とメールアドレス（共有することを選んだ場合）だけです。
+    それ以外の情報にはアクセスできません。Appleでのサインインの仕組みについては、<a data-l10n-name="applehelp">Appleのウェブサイト</a>で詳しく読むことができます。
+
+login-workschool-q = 仕事用や学校用のMicrosoftアカウントを使用できますか？
+login-workschool-a = はい、どのMicrosoftアカウントでも使用できます。
+    個人用アカウント（旧Windows Live）や、企業管理のAzure Active DirectoryまたはOffice 365アカウントも含まれます。
+    ただし、ITチームが管理するアカウントでこの機能をブロックしている場合は例外です。
+
+login-otherlogin-q = Coggleにアクセスするために別の認証プロバイダーを使用できますか？
+login-otherlogin-a-p1 = 現在、個人アカウントのログインにはGoogle、Microsoft、Appleでのサインインのみをサポートしています。
+login-otherlogin-a-p2 = 
+    Coggle Organizationsには<a data-l10n-name="saml">SAML 2.0ログイン</a>をサポートしています。
+    また、Active DirectoryログインでCoggleの独自バージョンのホスティングに興味がある場合は、
+    私たちの<a data-l10n-name="email">エンタープライズセールスアドレス</a>にご連絡ください。
+
+login-pw-more-q = ログインについてまだ質問があります
+login-pw-more-a = お知らせください！私たちのメールアドレスは<a data-l10n-name="email">hello@coggle.it</a>です。
+
 # Organizations Landing Page (/organizations) 
 orgs-pitch-title = Coggle 組織プラン
 orgs-pitch = Coggle 組織プラン は、大規模なグループを管理するために設計された機能を備えており、メンバーが出入りする場合や、機密情報を保護する必要がある場合に適しています。
