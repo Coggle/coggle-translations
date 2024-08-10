@@ -561,6 +561,18 @@ button-upload =
     .title = Add image or attach file.
 button-attach =
     .title = Attach a file.
+button-resize =
+    .title = Drag to change the text size.
+label-fontsize = Font size <span data-l10n-name="fontsize"></span>px.
+
+hint-toolong = Item too long! Try moving some text to a new item: select the text then press [tab]
+hint-movetext = Try moving some text to a new item: select the text then press [tab]
+
+commentcount = 
+    { $count ->
+        [one] 1 comment
+       *[other] { $count } comments
+    }
 
 # diagram not-found page 
 nodiagram-title = Diagram not found!
