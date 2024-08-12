@@ -84,9 +84,11 @@ feature-markdown = <b>Markdown</b> support
 feature-downloads = <b>PDF & Image</b> download
 feature-labels = Unconnected <b>text boxes</b>
 feature-exports = Export as <b>.mm and text</b>
+feature-visio = Export for <b>Microsoft Visio</b>
 feature-imports = Import <b>.mm and text</b>
 feature-chat = Comments & Chat
 feature-embed = Embeddable diagrams
+feature-embed2 = Embed mindmaps anywhere
 plans-free-getstarted = Get Started
 
 plans-awesome-title = Awesome
@@ -94,6 +96,7 @@ plans-awesome-description = Ideal for <b>personal</b> or <b>professional</b> use
 plans-awesome-price = $5 / month
 feature-include-free = Everything in <b>Free</b>
 feature-unlimited-private = <b>Unlimited</b> private diagrams
+feature-shapes = <b>More Item Shapes</b>
 feature-multiroot = <b>Multiple start points</b>
 feature-chathistory = <b>Full</b> chat history
 feature-rearrange = <b>Auto-arrange branches</b>
@@ -102,6 +105,8 @@ feature-folders = <b>Shared folders</b>
 feature-presentation = Presentation mode
 feature-bigimages = <b>High-res image</b> uploads
 feature-linestyles = <b>Control line style</b>
+feature-controlpoints = <b>Control line paths</b>
+feature-textalign = Change <b>text alignment</b>
 feature-extendedcolours = More colors
 feature-editable-links = Collaborate by <b>link</b>
 plans-findoutmore = Find out more
@@ -653,6 +658,42 @@ login-pw-a-p2 = Storing usernames and passwords securely has a lot of
     the right thing to do – leaving us more time to focus on creating a great
     mind-mapping experience.
 
+login-what-q = What do you do with my Google/Microsoft account?
+login-what-a = We only ask for access to your basic profile information. 
+    This includes your name, profile picture and your email address. 
+    We don't ask for access to your contacts, emails, Google Drive documents, 
+    or anything else that we don't need to make Coggle work.
+
+login-switch-q = Can I switch between login methods?
+login-switch-a = Yes! As long as you use the same email address with your Microsoft/Apple/Google accounts, 
+    then you can use any of them to log in to the same Coggle account. 
+    Note that if you choose the 'hide my email' option in Apple login, then your account won't be linked.
+
+login-emails-q = Can you read my emails?
+login-emails-a = No. We don't need, and don't want, access to your emails! 
+    We just request your basic profile information. We don't have access to anything else, 
+    and we can't change any setting on your Google/Microsoft account.
+
+login-icloud-q = Can you access my iCloud?
+login-icloud-a = No! Sign in with Apple just gives us access to your name, 
+    and your email address (if you choose to share it). We don't have access to anything else. 
+    You can read more about how sign in with apple works on 
+    <a data-l10n-name="applehelp"> Apple's website</a>.
+
+login-workschool-q = Can I use my Work or School Microsoft account?
+login-workschool-a = Yes, you can use any Microsoft account, including both personal accounts (formerly Windows Live), 
+    and business-managed Azure Active Directory or Office-365 accounts, 
+    unless your IT team have blocked this feature for accounts they manage.
+
+login-otherlogin-q = Can I use another Authentication Provider to access Coggle?
+login-otherlogin-a-p1 = Currently we only support Google, Microsoft and Sign in with Apple account login for personal accounts.
+login-otherlogin-a-p2 = We support <a data-l10n-name="saml">SAML 2.0 login</a> for Coggle Organisations, 
+    and if you're interested in hosting your own version of Coggle with Active Directory login then get in 
+    touch with our <a data-l10n-name="email">enterprise sales address</a>.
+
+login-pw-more-q = I've still got a question about login
+login-pw-more-a = Ask us! Our email is <a data-l10n-name="email">hello@coggle.it</a>.
+
 # Organizations Landing Page (/organizations) 
 orgs-pitch-title = Coggle Organizations
 orgs-pitch = Each Coggle Organization comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.
@@ -800,6 +841,9 @@ about-share =
   If you love Coggle, then help us break even more people free from the
   confines of lists, spreadsheets and conventional documents! You can share
   Coggle <a data-l10n-name="x">on X</a> or <a data-l10n-name="facebook">on Facebook</a>.
+
+about-itp-title = In the press?
+about-itp = Then check out our <a data-l10n-name="kit">press kit</a> or, <a data-l10n-name="email">get in touch</a> to find out more!
 
 
 # Coggle Facts 

@@ -96,7 +96,7 @@ plans-awesome-description = プライバシーの保護と高度な機能を備�
 plans-awesome-price = 5ドル / 月
 feature-include-free = <b>ずっと無料</b>プランの全て
 feature-unlimited-private = <b>無制限の</b> 非公開 ダイアグラム
-feature-feature-shapes = <b>その他のアイテムシェイプ</b>
+feature-shapes = <b>その他のアイテムシェイプ</b>
 feature-multiroot = <b>複数のスタート地点</b>
 feature-chathistory = <b>全ての</b> チャット履歴
 feature-rearrange = <b>ブランチの自動整列</b>
@@ -106,7 +106,7 @@ feature-presentation = プレゼンテーション・モード
 feature-bigimages = <b>高解像度画像</b> アップロード
 feature-linestyles = <b>コントロールのラインスタイル</b>
 feature-controlpoints = <b>コントロールのラインパス</b>
-feature-feature-textalign = <b>テキスト配置</b>の変更
+feature-textalign = <b>テキスト配置</b>の変更
 feature-extendedcolours = より多くのカラー
 feature-editable-links = <b>リンク</b>で共同作業
 plans-findoutmore = 詳細はこちら
@@ -566,6 +566,18 @@ button-upload =
     .title = 画像を追加またはファイルを添付
 button-attach =
     .title = ファイルを添付
+button-resize =
+    .title = ドラッグして文字サイズを変更する
+label-fontsize = フォントサイズ <span data-l10n-name="fontsize"></span>px.
+
+hint-toolong = アイテムが長すぎます！テキストを新しいアイテムに移動してみてください。: テキストを選択して [tab] キー
+hint-movetext = テキストを新しいアイテムに移動してみる: テキストを選択して [tab] キー
+
+commentcount = 
+    { $count ->
+        [one] 1 コメント
+       *[other] { $count } コメント
+    }
 
 # diagram not-found page 
 nodiagram-title = ダイアグラムが見つかりません！
@@ -675,7 +687,7 @@ login-workschool-a = はい、どのMicrosoftアカウントでも使用でき�
 login-otherlogin-q = Coggleにアクセスするために別の認証プロバイダーを使用できますか？
 login-otherlogin-a-p1 = 現在、個人アカウントのログインにはGoogle、Microsoft、Appleでのサインインのみをサポートしています。
 login-otherlogin-a-p2 = 
-    Coggle Organizationsには<a data-l10n-name="saml">SAML 2.0ログイン</a>をサポートしています。
+    Coggle 組織プランには<a data-l10n-name="saml">SAML 2.0ログイン</a>をサポートしています。
     また、Active DirectoryログインでCoggleの独自バージョンのホスティングに興味がある場合は、
     私たちの<a data-l10n-name="email">エンタープライズセールスアドレス</a>にご連絡ください。
 
@@ -822,6 +834,9 @@ about-share =
   従来のドキュメントの制約から解放する手助けをしてください！
   Coggleを<a data-l10n-name="x">X</a> や 
   <a data-l10n-name="facebook">Facebook</a>でシェアできます。
+
+about-itp-title = 報道関係者ですか？
+about-itp = 詳しくは <a data-l10n-name="kit">プレスキット</a> ご覧いただくか、 <a data-l10n-name="email">お問い合わせ</a> ください！
 
 
 # Coggle Facts 
