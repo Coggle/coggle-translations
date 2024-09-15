@@ -32,7 +32,7 @@ help-orgs-switch-p2 = Organisations let you control sharing of Coggles and work 
 
 pick-colour = pick colour
 
-me-as-awesome-orgmember-p1 = This is you &mdash; you\'re viewing Coggle as an <b>organisation member</b>.
+me-as-awesome-orgmember-p1 = This is you &mdash; you're viewing Coggle as an <b>organisation member</b>.
 
 touch-pressitem = <b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more.
 
@@ -127,9 +127,9 @@ faq-orgs-billing-a = Coggle Organisations are charged at {$pricePerMemberPerMont
   and remove members at any time from the dashboard for your organisation.
 
 # Coggle Facts 
-fact-math = Did you know you can write maths in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
+fact-math = Did you know you can write maths in Coggles? (Yeah, geeky!) Use \\( LaTeX here \\) to try it out!
 
-fact-latex2 = Did you know Coggle supports LaTeX for maths? It does!<br>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a data-l10n-name='link'>a syntax guide</a>.
+fact-latex2 = Did you know Coggle supports LaTeX for maths? It does!<br>Use \\( \LaTeX here \\) to try it out! Here's <a data-l10n-name='link'>a syntax guide</a>.
 
 fact-organisation = Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
 

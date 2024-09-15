@@ -384,7 +384,7 @@ help-toolbar-sharing-title = Shareable Links and Publishing
 help-toolbar-sharing = You can also publish your diagram, or create secret shareable links to give access only to people with that link.
 help-inactive-invite = Work with friends to help bring your ideas to life!<br>Invite by email here.
 
-me-as-awesome-orgmember-p1 = This is you &mdash; you\'re viewing Coggle as an <b>organization member</b>.
+me-as-awesome-orgmember-p1 = This is you &mdash; you're viewing Coggle as an <b>organization member</b>.
 me-as-awesome-orgmember-p2 = This means you get all the great features from the <a data-l10n-name="awesome">Coggle Awesome</a> plan too!
 
 free-awesome = Want Awesome for free?
@@ -393,7 +393,7 @@ upgrade-now = Upgrade Now
 me-support-awesomethanks-p1 = <b>Thanks for supporting Coggle!</b>
 me-support-awesomethanks-p2 = For being an early Coggle supporter, you get all the benefits of the <a data-l10n-name="awesome">Coggle Awesome</a> plan included in your subscription!
 
-me-awesome = This is you &mdash;<b>You\'re Awesome!</b>
+me-awesome = This is you &mdash;<b>You're Awesome!</b>
 me-manage-plan = Manage your plan
 
 
@@ -847,7 +847,7 @@ about-itp = Then check out our <a data-l10n-name="kit">press kit</a> or, <a data
 
 
 # Coggle Facts 
-fact-math = Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
+fact-math = Did you know you can write math in Coggles? (Yeah, geeky!) Use \\( LaTeX here \\) to try it out!
 
 fact-collaborate = Did you know that you can collaborate in real-time with others? You can! Use the (+) button in the top right.
 
@@ -865,7 +865,7 @@ fact-download = Did you know that you can download your Coggle as a PDF or an im
 
 fact-markdown = Did you know that Coggle uses <a data-l10n-name='link'>markdown syntax</a>? It does!<br>Try out links like this: &lt;http://example.com&gt;
 
-fact-latex = Did you know Coggle supports LaTeX formulae? It does!<br>Use \\\\( LaTeX here \\\\) to try it out! Check out <a data-l10n-name='link'>this link</a> for syntax help.
+fact-latex = Did you know Coggle supports LaTeX formulae? It does!<br>Use \\( LaTeX here \\) to try it out! Check out <a data-l10n-name='link'>this link</a> for syntax help.
 
 fact-move = Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
 
@@ -881,7 +881,7 @@ fact-pdf = You can download your Coggle as a PDF! Look for the download button i
 
 fact-png = You can download your Coggle as an Image! Look for the download button in the top right of the screen.
 
-fact-latex2 = Did you know Coggle supports LaTeX for math? It does!<br>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a data-l10n-name='link'>a syntax guide</a>.
+fact-latex2 = Did you know Coggle supports LaTeX for math? It does!<br>Use \\( \LaTeX here \\) to try it out! Here's <a data-l10n-name='link'>a syntax guide</a>.
 
 fact-history = Did you know you can view the history of who changed what, when in your Coggle? You can! Click the clock icon in the top right.
 
@@ -901,7 +901,7 @@ fact-text-size2 = Did you know you can change the font? You can!<br>Drag the cor
 
 fact-text-size3 = Did you know you can change the text size? You can!<br>Drag the corner of the text editing area.
 
-fact-md-reference = Did you know you can use Markdown in Coggles to add links, images and more? You can!<br>Here\'s the <a data-l10n-name='link'>complete reference</a>.
+fact-md-reference = Did you know you can use Markdown in Coggles to add links, images and more? You can!<br>Here's the <a data-l10n-name='link'>complete reference</a>.
 
 fact-multiline-keys = Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
 
@@ -915,11 +915,11 @@ fact-image-size = Did you know we support a Markdown extension to specify image 
 
 fact-bold-kbshort = Did you know you can use keyboard shortcuts to add **bold text** in Coggles? You can! Just press [ctrl]+[b] (or [cmd]+[b] on macs) with the text you want bold selected.
 
-fact-shortcuts-1 = Did you know you can edit your Coggle using only the keyboard? You can, here\'s how:<br>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
+fact-shortcuts-1 = Did you know you can edit your Coggle using only the keyboard? You can, here's how:<br>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
 
 fact-shortcuts-2 = Did you know you can select which branch to edit using keyboard shortcuts? You can!<br>Use [alt]+[shift]+arrow keys to move along branches.
 
-fact-task-lists = Did you know you can <a data-l10n-name='link'>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<br>- [ ] unchecked checkbox<br>- [X] checked checkbox<br>Clicking on a checkbox automatically changes the markdown, too.
+fact-task-lists = Did you know you can <a data-l10n-name='link'>Markdown</a> to add checklists to Coggles? You can, here's an example:<br>- [ ] unchecked checkbox<br>- [X] checked checkbox<br>Clicking on a checkbox automatically changes the markdown, too.
 
 fact-api-1 = Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
 
