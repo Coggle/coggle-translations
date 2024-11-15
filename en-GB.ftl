@@ -77,7 +77,7 @@ orgs-feature-awesome = In addition, all members of your organisation will get th
 # Organisations Sign-Up Page (/organisations/new)
 orgcreate-title2 = Create a <a data-l10n-name="orgs">Coggle Organisation</a>
 orgcreate-nameinput =
-  .placeholder = Choose Your Organisation Namen
+  .placeholder = Choose Your Organisation Name
 orgcreate-namehint = Pick something short and recognisable!
 orgcreate-createbutton = Create
 
