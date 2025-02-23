@@ -8,138 +8,138 @@
 # frontpage content (https://coggle.it/home), except for the plans section
 # which is described below
 
-index-tagline = The clear way to share complex information.
-index-tagline-mm = Make mind map documents that flow like your ideas.
+index-tagline = Một cách tuyệt vời để chia sẻ những thông tin phức tạp.
+index-tagline-mm = Tạo sơ đồ tư duy mượt như ý tưởng của bạn.
 index-signupnow = Đăng ký ngay
-index-login = Bạn đã đăng ký ư? Đăng nhập ở đây nè.
+index-login = Đã có tài khoản? Đăng nhập tại đây.
 
 index-nav-login = Đăng nhập
 index-nav-pricing = Bảng giá
 index-nav-features = Các tính năng
-index-nav-gallery = Thư viện Coggle
+index-nav-gallery = Thư viện
 index-nav-home = Trang chủ
 
-index-unleash = Unleash your creativity
-index-blurb = Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.
-index-viewgallery = Or take a look at the <a data-l10n-name='gallery'>Coggle Gallery</a> for inspiration.
+index-unleash = Khai phóng sự sáng tạo của bạn
+index-blurb = Tạo các ghi chú đẹp mắt một cách nhanh chóng và dễ dàng. Chia sẻ chúng với bạn bè và đồng nghiệp để cùng phát triển ý tưởng.
+index-viewgallery = Hoặc đảo qua <a data-l10n-name='gallery'>thư viện Coggle</a> để tìm nguồn cảm hứng.
 
-index-colab-mindmaps-flowcharts-h = Collaborative Mind Maps & Flowcharts
-index-colab-mindmaps-flowcharts-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works online in your browser: there's nothing to download or install. <a data-l10n-name='login'>Log in</a> to start diagramming now!
-index-colab-mindmaps-flowcharts-p2 = Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.
+index-colab-mindmaps-flowcharts-h = Cộng tác với mindmap & flowchart
+index-colab-mindmaps-flowcharts-p1 = Coggle giúp bạn dễ dàng tạo và chia sẻ mọi biểu đồ. Cần gì tải ứng dụng khi chúng tớ đã có sẵn trên trình duyệt. <a data-l10n-name='login'>Đăng nhập ngay</a> thôi!
+index-colab-mindmaps-flowcharts-p2 = Dù bạn đang ghi chép, động não (brainstorming), lên kế hoạch hay sáng tạo, Coggle giúp bạn trực quan hóa ý tưởng một cách siêu dễ dàng. Bạn có thể chia sẻ với bao nhiêu bạn bè hay đồng nghiệp tùy thích, mọi thay đổi đều sẽ hiển thị ngay trên trình duyệt của họ dù họ có ở nơi đâu.
 
-index-use-notes-h = Take Notes
-index-use-notes-p = Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.
+index-use-notes-h = Ghi chép
+index-use-notes-p = Dù bạn đang trong cuộc họp, ôn bài hay nảy ra ý tưởng mới mẻ, Coggle ở đây để giúp bạn.
 
 index-use-brainstorm-h = Brainstorm
-index-use-brainstorm-p = Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.
+index-use-brainstorm-p = Coggle là mảnh đất tốt để ươm mầm cho các hạt giống ý tưởng của bạn, hãy chăm sóc cho chúng lớn và thu về trái ngọt nha, nhớ chia sẻ với mọi người nữa đó!
 
-index-use-share-h = Share Information
-index-use-share-p = Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!
+index-use-share-h = Chia sẻ
+index-use-share-p = Bạn có thể chia sẻ mọi đề tài một cách chi tiết tới bạn bè và toàn thế giới!
 
-index-coggle-flow-title = Powerful Online Flowcharts
-index-coggle-flow-description = Use Coggle to map out your processes, systems and algorithms using our powerful new <a data-l10n-name='flowcharts'>flowcharting features</a>.
+index-coggle-flow-title = Lưu đồ trực tuyến mạnh mẽ
+index-coggle-flow-description = Sử dụng Coggle để vạch ra quy trình, hệ thống, thuật toán với <a data-l10n-name='flowcharts'>tính năng lưu đồ</a> mới ra mắt.
 
-features-realtime = Realtime Collaboration
-features-realtime-desc = Invite your friends and colleagues to work with you, at the same time, on your diagrams.
+features-realtime = Cộng tác thời gian thực
+features-realtime-desc = Bạn có thể mời bạn bè hay đồng nghiệp cùng làm việc trên một sơ đồ, trong cùng một thời điểm.
 
-features-unlimited-images-title = Unlimited Image Uploads
-features-images = Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.
+features-unlimited-images-title = Tải lên vô hạn ảnh
+features-images = Chỉ cần kéo-và-thả ảnh trực tiếp từ máy tính lên sơ đồ mà KHÔNG giới hạn số lượng ảnh tải lên.
 
-features-fullhistory-title = Save Every Change
-features-history = Look through all the changes to a diagram and make a copy from any point to revert to a previous version.
+features-fullhistory-title = Lưu mọi thay đổi
+features-history = Xem lại toàn bộ lịch sử chỉnh sửa và tạo một bản sao chép từ bất cứ thời điểm nào để khôi phục phiên bản đó.
 
-features-labels-title = Add Floating Text and Images
-features-labels = Add text labels and images that aren't part of the diagram tree to annotate parts of your map.
+features-labels-title = Thêm văn bản và hình ảnh nổi
+features-labels = Có thể tạo ghi chú hay hình ảnh nổi để chú thích các phần của sơ đồ.
 
-features-blame-title = Track accountability
-features-blame = Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.
+features-blame-title = Theo dõi người chỉnh sửa
+features-blame = Xem ai đã thay đổi gì và khi nào trong lịch sử chỉnh sửa.
 
-features-colours-title = Get the color right
-features-colours = Click on a branch to bring up the color wheel and select the color you want.
+features-colours-title = Tùy chỉnh màu sắc
+features-colours = Nhấp vào một nhánh để mở bảng chọn màu và tùy chọn theo sở thích của bạn.
 
-features-notifications-title = Email Notifications
-features-notifications = Get an email notification with a summary of changes when collaborators edit diagrams shared with you.
+features-notifications-title = Thông báo tới Email
+features-notifications = Nhận email thông báo ngắn gọn về các thay đổi khi cộng tác viên chỉnh sửa biểu đồ được chia sẻ với bạn.
 
-features-chat-title = Comments and Chat
-features-chat = Add comments to nodes and chat with collaborators without leaving your diagram workspace.
+features-chat-title = Bình luận và trò chuyện
+features-chat = Thêm nhận xét và nhắn tin với cộng tác viên của bạn mà không cần rời khỏi không gian làm việc.
 
 
 # Plans selection translations (https://coggle.it/plans, when logged in, and
 # also on the homepage)
-plans-free-forever-title = Free Forever
-plans-free-description = Ideal for discovering Coggle and occasional use.
-plans-free-price = Free forever
+plans-free-forever-title = Gói miễn phí
+plans-free-description = Phiên bản lý tưởng để khám phá Coggle dành cho người không chuyên.
+plans-free-price = Miễn phí vĩnh viễn
 
-feature-realtime = <b>Real-time</b> collaboration
-feature-emoji = Over <b>1600</b> <a data-l10n-name="icons-link">beautiful icons</a>
-feature-diagrams = <b>Unlimited</b> public diagrams
+feature-realtime = Hợp tác trong <b>thời gian thực</b>
+feature-emoji = Hơn <b>1600</b> <a data-l10n-name="icons-link">biểu tượng đẹp</a>
+feature-diagrams = <b>Không giới hạn</b> số biểu đồ công khai
 feature-nprivate =
     { $privateDiagrams_available -> 
-          [one] 1 private diagram
-       *[other] {$privateDiagrams_available} private diagrams
+          [one] 1 biểu đồ riêng tư
+       *[other] {$privateDiagrams_available} biểu đồ riêng tư
     }
-feature-images = <b>Unlimited</b> image uploads
-feature-changes = <b>Full</b> change history
-feature-markdown = <b>Markdown</b> support
-feature-downloads = <b>PDF & Image</b> download
-feature-labels = Unconnected <b>text boxes</b>
-feature-exports = Export as <b>.mm and text</b>
-feature-visio = Export for <b>Microsoft Visio</b>
-feature-imports = Import <b>.mm and text</b>
-feature-chat = Comments & Chat
-feature-embed = Embeddable diagrams
-feature-embed2 = Embed mindmaps anywhere
-plans-free-getstarted = Get Started
+feature-images = <b>Không giới hạn</b> số lượng ảnh tải lên
+feature-changes = <b>Toàn bộ</b> lịch sử chỉnh sửa
+feature-markdown = Hỗ trợ <b>Markdown</b>
+feature-downloads = Tải xuống dưới dạng <b>PDF & Hình ảnh</b>
+feature-labels = Không kết nối <b>hộp văn bản</b>
+feature-exports = Xuất dưới dạng <b>.mm và text</b>
+feature-visio = Xuất sang <b>Microsoft Visio</b>
+feature-imports = Nhập từ <b>.mm và text</b>
+feature-chat = Bình luận và trò chuyện
+feature-embed = Biểu đồ nhúng được
+feature-embed2 = Nhúng sơ đồ ở bất cứ đâu
+plans-free-getstarted = Bắt đầu thôi
 
-plans-awesome-title = Awesome
-plans-awesome-description = Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.
-plans-awesome-price = $5 / month
-feature-include-free = Everything in <b>Free</b>
-feature-unlimited-private = <b>Unlimited</b> private diagrams
-feature-shapes = <b>More Item Shapes</b>
-feature-multiroot = <b>Multiple start points</b>
-feature-chathistory = <b>Full</b> chat history
-feature-rearrange = <b>Auto-arrange branches</b>
-feature-rejoin = <b>Join Branches</b>
-feature-folders = <b>Shared folders</b>
-feature-presentation = Presentation mode
-feature-bigimages = <b>High-res image</b> uploads
-feature-linestyles = <b>Control line style</b>
-feature-controlpoints = <b>Control line paths</b>
-feature-textalign = Change <b>text alignment</b>
-feature-extendedcolours = More colors
-feature-editable-links = Collaborate by <b>link</b>
-plans-findoutmore = Find out more
+plans-awesome-title = Gói xịn xò
+plans-awesome-description = Phiên bản lý tưởng dành cho <b>cá nhân</b> hoặc <b>người dùng chuyên nghiệp</b>, với nhiều tính năng nâng cao và bảo mật.
+plans-awesome-price = $5 / tháng
+feature-include-free = Mọi tính năng của <b>gói miễn phí</b>
+feature-unlimited-private = <b>Không giới hạn</b> số biểu đồ riêng tư
+feature-shapes = <b>Nhiều hình dạng khối hơn</b>
+feature-multiroot = <b>Nhiều nút khởi đầu hơn</b>
+feature-chathistory = <b>Toàn bộ</b> lịch sử trò chuyện
+feature-rearrange = <b>Tự động sắp xếp các nhánh</b>
+feature-rejoin = <b>Tham gia vào nhánh</b>
+feature-folders = <b>Thư mục được chia sẻ</b>
+feature-presentation = Chế độ trình chiếu
+feature-bigimages = Tải lên <b>hình ảnh có độ phân giải cao</b>
+feature-linestyles = <b>Điều chỉnh kiểu đường nối</b>
+feature-controlpoints = <b>Điều chỉnh hướng đi của đường nối</b>
+feature-textalign = Thay đổi <b>căn dòng văn bản</b>
+feature-extendedcolours = Nhiều màu hơn
+feature-editable-links = Cộng tác thông qua <b>liên kết</b>
+plans-findoutmore = Tìm hiểu thêm
 
-plans-org-title = Organization
-plans-org-description = Ideal for <b>teams</b> that want to control access to their data and consolidate billing.
-plans-org-price = $8 / member / month
-feature-org-awesome = Everything from <b>Awesome</b>
-feature-org-separate = Separate Personal workspace
-feature-org-billing = Consolidated billing
-feature-bulkexport = <b>Bulk export</b>
-feature-adminpanel = <b>User & data</b> management
-feature-branding = Branded diagrams
+plans-org-title = Gói doanh nghiệp
+plans-org-description = Phiên bản lý tưởng dành cho <b>đội nhóm</b> muốn kiểm soát quyền truy cập dữ liệu và gộp thanh toán.
+plans-org-price = $8 / thành viên / tháng
+feature-org-awesome = Mọi tính năng của <b>gói xịn xò</b>
+feature-org-separate = Không gian làm việc cá nhân độc lập
+feature-org-billing = Thanh toán chung theo nhóm
+feature-bulkexport = <b>Xuất tệp hàng loạt</b>
+feature-adminpanel = Quản lý <b>người dùng & dữ liệu</b> 
+feature-branding = Biểu đồ có gắn thương hiệu
 feature-org-saml-sso = SAML Single Sign On
 
-plans-select = Select
-continue-free = Continue on <b>Free</b> plan
-current-plan = Your current plan
-cancel-subscription = Cancel Subscription
-awesome-signup-monthly = Sign up <span>$5</span> per month
-awesome-signup-yearly = Sign up <span>$50</span> per year
-awesome-upgrade-monthly = Upgrade (<b>$5</b>/month)
-awesome-upgrade-yearly = Upgrade (<b>$50</b>/year)
-yearly-discount = Pay yearly and get 2 months free!
-switch-yearly = Upgrade to Yearly
-manage-subscription = Manage Subscription
+plans-select = Lựa chọn
+continue-free = Tiếp tục với <b>gói miễn phí</b>
+current-plan = Gói hiện tại của bạn
+cancel-subscription = Hủy gói đăng ký
+awesome-signup-monthly = Đăng ký <span>$5</span> một tháng
+awesome-signup-yearly = Đăng ký <span>$50</span> một năm
+awesome-upgrade-monthly = Nâng cấp (<b>$5</b>/tháng)
+awesome-upgrade-yearly = Nâng cấp (<b>$50</b>/năm)
+yearly-discount = Thanh toán hàng năm và được tặng 2 tháng miễn phí!
+switch-yearly = Nâng cấp lên gói đăng ký theo năm
+manage-subscription = Quản lý gói đăng ký
 
-per-month = per month
-per-member-per-month = per member per month
-forever = forever
+per-month = mỗi tháng
+per-member-per-month = mỗi thàng viên mỗi tháng
+forever = vĩnh viễn
 
-awesome-feature = Awesome Plan
-org-feature = Organization Feature
+awesome-feature = Gói xịn xò
+org-feature = Tính năng dành cho doanh nghiệp
 
 footer-help = Help and Documentation
 footer-about = About
