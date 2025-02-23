@@ -10,14 +10,14 @@
 
 index-tagline = The clear way to share complex information.
 index-tagline-mm = Make mind map documents that flow like your ideas.
-index-signupnow = Sign Up Now
-index-login = Already signed up? Log in here.
+index-signupnow = Đăng ký ngay
+index-login = Bạn đã đăng ký ư? Đăng nhập ở đây nè.
 
-index-nav-login = Login
-index-nav-pricing = Pricing
-index-nav-features = Features
-index-nav-gallery = Gallery
-index-nav-home = Home
+index-nav-login = Đăng nhập
+index-nav-pricing = Bảng giá
+index-nav-features = Các tính năng
+index-nav-gallery = Thư viện Coggle
+index-nav-home = Trang chủ
 
 index-unleash = Unleash your creativity
 index-blurb = Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.
