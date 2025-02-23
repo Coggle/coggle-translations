@@ -10,7 +10,7 @@
 
 index-tagline = Một cách tuyệt vời để chia sẻ những thông tin phức tạp.
 index-tagline-mm = Tạo sơ đồ tư duy mượt như ý tưởng của bạn.
-index-signupnow = Đăng ký ngay
+index-signupnow = Đăng ký đi người đẹp
 index-login = Đã có tài khoản? Đăng nhập tại đây.
 
 index-nav-login = Đăng nhập
@@ -24,7 +24,7 @@ index-blurb = Tạo các ghi chú đẹp mắt một cách nhanh chóng và dễ
 index-viewgallery = Hoặc đảo qua <a data-l10n-name='gallery'>thư viện Coggle</a> để tìm nguồn cảm hứng.
 
 index-colab-mindmaps-flowcharts-h = Cộng tác với mindmap & flowchart
-index-colab-mindmaps-flowcharts-p1 = Coggle giúp bạn dễ dàng tạo và chia sẻ mọi biểu đồ. Cần gì tải ứng dụng khi chúng tớ đã có sẵn trên trình duyệt. <a data-l10n-name='login'>Đăng nhập ngay</a> thôi!
+index-colab-mindmaps-flowcharts-p1 = Coggle giúp bạn dễ dàng tạo và chia sẻ mọi sơ đồ. Cần gì tải ứng dụng khi chúng tôi đã có sẵn trên trình duyệt. <a data-l10n-name='login'>Đăng nhập ngay</a> thôi!
 index-colab-mindmaps-flowcharts-p2 = Dù bạn đang ghi chép, động não (brainstorming), lên kế hoạch hay sáng tạo, Coggle giúp bạn trực quan hóa ý tưởng một cách siêu dễ dàng. Bạn có thể chia sẻ với bao nhiêu bạn bè hay đồng nghiệp tùy thích, mọi thay đổi đều sẽ hiển thị ngay trên trình duyệt của họ dù họ có ở nơi đâu.
 
 index-use-notes-h = Ghi chép
@@ -58,7 +58,7 @@ features-colours-title = Tùy chỉnh màu sắc
 features-colours = Nhấp vào một nhánh để mở bảng chọn màu và tùy chọn theo sở thích của bạn.
 
 features-notifications-title = Thông báo tới Email
-features-notifications = Nhận email thông báo ngắn gọn về các thay đổi khi cộng tác viên chỉnh sửa biểu đồ được chia sẻ với bạn.
+features-notifications = Nhận email thông báo ngắn gọn về các thay đổi khi cộng tác viên chỉnh sửa sơ đồ được chia sẻ với bạn.
 
 features-chat-title = Bình luận và trò chuyện
 features-chat = Thêm nhận xét và nhắn tin với cộng tác viên của bạn mà không cần rời khỏi không gian làm việc.
@@ -72,11 +72,11 @@ plans-free-price = Miễn phí vĩnh viễn
 
 feature-realtime = Hợp tác trong <b>thời gian thực</b>
 feature-emoji = Hơn <b>1600</b> <a data-l10n-name="icons-link">biểu tượng đẹp</a>
-feature-diagrams = <b>Không giới hạn</b> số biểu đồ công khai
+feature-diagrams = <b>Không giới hạn</b> số sơ đồ công khai
 feature-nprivate =
     { $privateDiagrams_available -> 
-          [one] 1 biểu đồ riêng tư
-       *[other] {$privateDiagrams_available} biểu đồ riêng tư
+          [one] 1 sơ đồ riêng tư
+       *[other] {$privateDiagrams_available} sơ đồ riêng tư
     }
 feature-images = <b>Không giới hạn</b> số lượng ảnh tải lên
 feature-changes = <b>Toàn bộ</b> lịch sử chỉnh sửa
@@ -87,7 +87,7 @@ feature-exports = Xuất dưới dạng <b>.mm và text</b>
 feature-visio = Xuất sang <b>Microsoft Visio</b>
 feature-imports = Nhập từ <b>.mm và text</b>
 feature-chat = Bình luận và trò chuyện
-feature-embed = Biểu đồ nhúng được
+feature-embed = sơ đồ nhúng được
 feature-embed2 = Nhúng sơ đồ ở bất cứ đâu
 plans-free-getstarted = Bắt đầu thôi
 
@@ -95,7 +95,7 @@ plans-awesome-title = Gói xịn xò
 plans-awesome-description = Phiên bản lý tưởng dành cho <b>cá nhân</b> hoặc <b>người dùng chuyên nghiệp</b>, với nhiều tính năng nâng cao và bảo mật.
 plans-awesome-price = $5 / tháng
 feature-include-free = Mọi tính năng của <b>gói miễn phí</b>
-feature-unlimited-private = <b>Không giới hạn</b> số biểu đồ riêng tư
+feature-unlimited-private = <b>Không giới hạn</b> số sơ đồ riêng tư
 feature-shapes = <b>Nhiều hình dạng khối hơn</b>
 feature-multiroot = <b>Nhiều nút khởi đầu hơn</b>
 feature-chathistory = <b>Toàn bộ</b> lịch sử trò chuyện
@@ -117,9 +117,9 @@ plans-org-price = $8 / thành viên / tháng
 feature-org-awesome = Mọi tính năng của <b>gói xịn xò</b>
 feature-org-separate = Không gian làm việc cá nhân độc lập
 feature-org-billing = Thanh toán chung theo nhóm
-feature-bulkexport = <b>Xuất tệp hàng loạt</b>
+feature-bulkexport = <b>Trích xuất hàng loạt</b>
 feature-adminpanel = Quản lý <b>người dùng & dữ liệu</b> 
-feature-branding = Biểu đồ có gắn thương hiệu
+feature-branding = sơ đồ có gắn thương hiệu
 feature-org-saml-sso = SAML Single Sign On
 
 plans-select = Lựa chọn
@@ -130,526 +130,526 @@ awesome-signup-monthly = Đăng ký <span>$5</span> một tháng
 awesome-signup-yearly = Đăng ký <span>$50</span> một năm
 awesome-upgrade-monthly = Nâng cấp (<b>$5</b>/tháng)
 awesome-upgrade-yearly = Nâng cấp (<b>$50</b>/năm)
-yearly-discount = Thanh toán hàng năm và được tặng 2 tháng miễn phí!
+yearly-discount = Thanh toán gói năm và được tặng 2 tháng miễn phí!
 switch-yearly = Nâng cấp lên gói đăng ký theo năm
 manage-subscription = Quản lý gói đăng ký
 
 per-month = mỗi tháng
-per-member-per-month = mỗi thàng viên mỗi tháng
+per-member-per-month = mỗi thành viên mỗi tháng
 forever = vĩnh viễn
 
 awesome-feature = Gói xịn xò
 org-feature = Tính năng dành cho doanh nghiệp
 
-footer-help = Help and Documentation
-footer-about = About
-footer-contact = Contact
-footer-privacy = Privacy
-footer-examples = Templates and Examples
-footer-api = Developer API
+footer-help = Hỗ trợ và Hướng dẫn
+footer-about = Về chúng tôi
+footer-contact = Liên hệ
+footer-privacy = Chính sách
+footer-examples = Mẫu và Minh họa
+footer-api = API dành cho nhà phát triển
 footer-blog = Bloggle
-footer-terms = Terms
-footer-press = Press
-footer-what-is-mindmapping = What is Mindmapping?
-footer-top-uses = Top Mindmap Uses
-footer-company = Company
-footer-legal = Legal
+footer-terms = Điều khoản
+footer-press = Truyền thông
+footer-what-is-mindmapping = Sơ đồ tư duy là gì?
+footer-top-uses = Ứng dụng hàng đầu của mindmap
+footer-company = Về công ty
+footer-legal = Pháp lý
 
 # logged-in homepage content (documents list): https://coggle.it when logged in
-create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Create Diagram</span>
-    .title = Create a Coggle Diagram
-create-diagram-2-nothere = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Create Diagram</span>
-    .title = You cannot create new diagrams here, select a different folder first.
+create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Tạo sơ đồ</span>
+    .title = Tạo một sơ đồ Coggle
+create-diagram-2-nothere = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Tạo sơ đồ</span>
+    .title = Không thể tạo sơ đồ ở đây, vui lòng chọn thư mục khác.
 search-diagrams =
-    .placeholder = Search your diagrams
+    .placeholder = Tìm sơ đồ của bạn
 search-public-diagrams = 
-    .placeholder = Search public diagrams
-view-gallery = Gallery
-create-folder = Create Folder
-shared-folders = Shared Folders
+    .placeholder = Tìm sơ đồ công khai
+view-gallery = Thư viện
+create-folder = Tạo thư mục
+shared-folders = Chia sẻ thư mục
 created-by-you = 
-    .value = Created By You
+    .value = Được tạo bởi bạn
 shared-with-you =
-    .value = Shared With You
+    .value = Được chia sẻ với bạn
 folder-title =
-    .placeholder = Enter a folder name
+    .placeholder = Điền tên thư mục
     .value = { $name }
-folder-areyousure = are you sure?
-folder-sure = I&#39;m sure
-logout = Logout
-settings = Settings
-return-to-diagrams = Return to your diagrams
-upgrade-to-awesome = Upgrade to <b>Awesome</b>!
+folder-areyousure = Bạn chắc chưa?
+folder-sure = Chắc chắn
+logout = Đăng xuất
+settings = Cài đặt
+return-to-diagrams = Trở về sơ đồ của bạn
+upgrade-to-awesome = Nâng cấp lên <b>gói xịn xò</b>!
 # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc.:
-awesome-time-remaining = Awesome trial expires <time data-l10n-name="remaining"></time>
-awesome-trial-after = Then you'll be moved onto the free plan
-want-awesome-for-free = Want Awesome for free?
+awesome-time-remaining = Bản dùng thử sẽ hết hạn trong <time data-l10n-name="remaining"></time>
+awesome-trial-after = Bạn sẽ được chuyển về bản miễn phí
+want-awesome-for-free = Thử gói xịn xò miễn phí?
 help-search =
-    .placeholder = Help me to...
-my-settings = My Settings & Billing
-my-settings-only = My Settings
+    .placeholder = Hãy giúp tôi...
+my-settings = Cài đặt & Thanh toán
+my-settings-only = Cài đặt
 org-settings =
-    .title = Manage Organization
-org-admin = Administrator of {$orgName}
-user-about = About Coggle
-user-contact = Contact Us
-user-privacy = Privacy Policy
-user-terms = Terms and Conditions
-user-link-drive = Link Google Drive
-diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_used } of { $privateDiagrams_available }</span> private diagrams used
-diagrams-unlimited = <span data-l10n-name="count">Unlimited</span> private diagrams
+    .title = Quản lý tổ chức
+org-admin = Người quản trị của {$orgName}
+user-about = Về Coggle
+user-contact = Liên hệ với chúng tôi
+user-privacy = Chính sách về quyền riêng tư
+user-terms = Điều khoản sử dụng
+user-link-drive = Liên kết Google Drive
+diagrams-limited = Đã dùng <span data-l10n-name="count"> { $privateDiagrams_used } trên { $privateDiagrams_available }</span> sơ đồ riêng tư
+diagrams-unlimited = sơ đồ riêng tư <span data-l10n-name="count">không giới hạn</span>
 
-limitedaccess = You have limited access to { $resourceName } as you're not a member
-doclist-create = <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
+limitedaccess = Bạn bị giới hạn quyền truy cập vào { $resourceName } vì bạn không phải thành viên.
+doclist-create = <b>Chào mừng tới Coggle!</b> – Mọi sơ đồ của bạn sẽ hiển thị ở đây.
 
-doclist-shared = <b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.
-doclist-folder-empty = <b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.
-doclist-folder-recent = <b>Recently Updated Diagrams</b> – Diagrams from any of your folders that were modified within the last month will appear here.
-doclist-readonly = <b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.
-impersonatedaccess = You're viewing Coggle as an Organization member. <a data-l10n-name='back'>Return to admin panel</a>
+doclist-shared = <b>Được chia sẻ với bạn</b> – sơ đồ được tạo bởi người khác và chia sẻ với bạn hiển thị ở đây.
+doclist-folder-empty = <b>Ôi, thư mục trống trơn...</b> – Hãy tạo thêm sơ đồ, hoặc kéo và thả chúng vào đây.
+doclist-folder-recent = <b>sơ đồ được cập nhật mới đây</b> – sơ đồ từ bất cứ thư mục nào mới được chỉnh sửa trong vòng một tháng trở lại sẽ hiển thị ở đây.
+doclist-readonly = <b>Chào mừng tới Coggle!</b> – Hãy yêu cầu chủ sở hữu cấp quyền truy cập để tạo sơ đồ ở đây.
+impersonatedaccess = Bạn đang xem Coggle với tư cách thành viên của tổ chức. <a data-l10n-name='back'>Quay lại bảng điều chỉnh của quản trị viên</a>
 
-doclist-loading-failed = Uh-oh! Loading folder failed, refresh the page to try again.
-doclist-discover-whatspossible = Want to get more from Coggle? Discover <a data-l10n-name='link'>what's possible</a>.
+doclist-loading-failed = Ôi không! Tải thư mục thất bại, hãy thử làm mới trang xem sao.
+doclist-discover-whatspossible = Muốn nhiều hơn từ Coggle? Hãy khám phá <a data-l10n-name='link'>mọi thứ</a>.
 
 tooltip-createorg =
-    .title = Create an Organization
+    .title = Tạo một tổ chức
 tooltip-invite-folder =
-    .title = Add people to this folder by email
+    .title = Thêm mọi người vào thư mục này qua Email
 tooltip-invite =
-    .title = Invite people to join this Coggle.
+    .title = Mời mọi người tham gia Coggle này.
 tooltip-private-icon =
-    .title = Diagram is private
+    .title = sơ đồ này là riêng tư
 tooltip-unsubscribe =
-    .title = Unsubscribe from notifications
+    .title = Hủy đăng ký nhận thông báo
 tooltip-subscribe =
-    .title = Subscribe to notifications
+    .title = Đăng ký nhận thông báo
 tooltip-duplicate =
-    .title = Create a copy
+    .title = Tạo một bản sao
 tooltip-remove =
-    .title = Remove diagram
+    .title = Xóa sơ đồ
 tooltip-restore =
-    .title = Restore diagram
+    .title = Khôi phục sơ đồ
 tooltip-more =
-    .title = Diagram options
+    .title = Tùy chọn sơ đồ
 
 # documents list contextual help items 
-help-searchcoggle-title = Search Coggle
-help-searchcoggle = Type to find your documents &mdash; quickly search for any word in a diagram!
-help-hide-for-now = Hide for now
-help-ok-got-it = OK, got it!
-help-creatediagram-title = Create a New Diagram
-help-creatediagram = Create a new Coggle Diagram to get started.
+help-searchcoggle-title = Tìm trong Coggle
+help-searchcoggle = Nhập để tìm tài liệu của bạn &mdash; tìm kiếm nhanh bất kỳ từ nào trong sơ đồ!
+help-hide-for-now = Ẩn ngay bây giờ
+help-ok-got-it = OK, biết rồi!
+help-creatediagram-title = Tạo sơ đồ mới
+help-creatediagram = Tạo một Coggle mới để bắt đầu.
 
-help-createfolder-title = Create a Folder
-help-createfolder = Create folders to share with groups of people, or categorize Coggles.
+help-createfolder-title = Tạo một thư mục
+help-createfolder = Tạo thư mục để chia sẻ với người khác hoặc phân loại các Coggle.
 
-help-orgs-switch-title = Switch Between Organizations
-help-orgs-switch-p1 = Click to switch between Organizations.
-help-orgs-switch-p2 = Organizations let you control sharing of Coggles and work with larger teams.
+help-orgs-switch-title = Chuyển đổi giữa các tổ chức
+help-orgs-switch-p1 = Nhấn để chuyển đổi giữa các tổ chức
+help-orgs-switch-p2 = Tổ chức cho phép bạn kiểm soát việc chia sẻ các Coggle và làm việc với các nhóm lớn hơn.
 
 
 # Settings page content 
-settings-plans-title = Plans
-settings-billing-title = Billing & Invoices
-settings-recommend-title = Recommend
-settings-emails-title = Communication
-settings-language-title = Language
-settings-communication-title = Communication
-settings-account-title = Close Account
-settings-profile-title = Profile
-settings-membership-title = Members
-settings-exports-title = Exports
-settings-authentication-title = Authentication
+settings-plans-title = Gói đăng ký
+settings-billing-title = Thanh toán & Hóa đơn
+settings-recommend-title = Đề xuất
+settings-emails-title = Liên lạc
+settings-language-title = Ngôn ngữ
+settings-communication-title = Liên lạc
+settings-account-title = Xóa tài khoản
+settings-profile-title = Hồ sơ
+settings-membership-title = Hội viên
+settings-exports-title = Xuất
+settings-authentication-title = Xác thực
 
-billing-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
-billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
+billing-card = Thẻ thanh toán trong hồ sơ của bạn kết thúc vào <b>{ $cardEndsIn }</b>, hết hạn trong <b>{ $cardExpires }</b>.
+billing-addr = Mã bưu chính là <b>{ $addressZip }</b>. <a data-l10n-name="edit">Chỉnh sửa thẻ của tôi</a>
 
-billing-remove = Remove
-billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
+billing-remove = Xóa
+billing-nocard = Không có phương thức thanh toán nào được lưu trong tài khoản của bạn. <a data-l10n-name='setup-card'>Setup card details</a>
 
-summary-free-plan = You don't have a subscription yet. <a data-l10n-name="subscribe">Upgrade now!</a>
-summary-active-plan = You're on the <code>{ $planName }</code> plan. <a data-l10n-name="cancel">Cancel subscription</a> or <a data-l10n-name="compare">compare plans</a>.
-summary-uy-1 = Get two months free (<b>save 15%</b>) by paying annually. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
-summary-uy-2 = Time remaining on your current plan will be automatically deducted from the cost of the upgrade.
-summary-uy-c1 = Confirm upgrade? We'll charge your card on file between $45 and $50 based on the remaining time on your monthly plan. Your new subscription renewal date will be in one year.
-summary-confirm = Confirm Upgrade
-summary-ending-2 = You have cancelled your <code>{$planName}</code> subscription</b>, and will not be billed again. You can continue to use the paid features until the end of the period you've already paid for.<br> <a data-l10n-name='resub'>Resubscribe</a>
-summary-overdue-plan = Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.
-complete-payment = You can <a data-l10n-name='invoice-link'>view and complete</a> the outstanding payment, or <a data-l10n-name='cancel'>cancel subscription</a>.
+summary-free-plan = Bạn chưa đăng ký gói nào :( <a data-l10n-name="subscribe">Đăng ký ngay!</a>
+summary-active-plan = Bạn đang dùng gói <code>{ $planName }</code>. <a data-l10n-name="cancel">Hủy đăng ký</a> or <a data-l10n-name="compare">so sánh các gói</a>.
+summary-uy-1 = Nhận hai tháng miễn phí (<b>tiết kiệm 15%</b>) bằng cách thanh toán theo năm. <a data-l10n-name="upgrade">Nâng cấp ngay (<b>$50</b>)</a>
+summary-uy-2 = Thời gian còn lại trong gói hiện tại của bạn sẽ được tự động khấu trừ vào chi phí nâng cấp.
+summary-uy-c1 = Xác nhận nâng cấp? Chúng tôi sẽ tính phí thẻ của bạn từ $40 đến $50 dựa trên thời gian còn lại trong gói hàng tháng của bạn. Ngày gia hạn đăng ký mới của bạn là sau một năm.
+summary-confirm = Xác nhận nâng cấp
+summary-ending-2 = Bạn đã hủy <code>{$planName}</code> đăng ký</b>, và sẽ không bị tính thêm phí. Bạn có thể tiếp tục sử dụng các tính năng trả phí cho tới ngày hết hạn.<br> <a data-l10n-name='resub'>Đăng ký lại</a>
+summary-overdue-plan = Gói đăng ký của bạn không được kích hoạt lại do đã quá hạn thanh toán. Bạn có thể khắc phục bằng cách cập nhật thẻ thanh toán hoặc liên hệ với chúng tôi theo địa chỉ <b>hello@coggle.it</b>.
+complete-payment = Bạn có thể <a data-l10n-name='invoice-link'>xem và hoàn tất</a> khoản thanh toán còn nợ, hoặc <a data-l10n-name='cancel'>hủy đăng ký</a>.
 
-me-communication-title = Communication
-me-emails-title = Email Addresses
-me-emails-primary = (primary)
-me-emailstip = We'll only email your primary address, but you can receive invites to any of the others.
-me-talktome = Talk to me: 
-me-diagram-notifications = Diagram notifications: 
+me-communication-title = Liên lạc
+me-emails-title = Địa chỉ Email
+me-emails-primary = (chính)
+me-emailstip = Chúng tôi sẽ chỉ gửi thông báo đến địa chỉ email chính của bạn, nhưng bạn có thể nhận được lời mời đến bất kỳ địa chỉ nào khác.
+me-talktome = Nói chuyện với tôi: 
+me-diagram-notifications = Thông báo về sơ đồ: 
 
 slider-yes = YES
 slider-no = NO
 
-me-language-title = Choose Your Preferred Language
-me-language-tip = Help us provide Coggle in your native language, or add something that's missing by contributing to our <a data-l10n-name='translate-link'>translations project</a> on Github!
-me-language-questions = If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a data-l10n-name='translate-email'>translate@coggle.it</a>.
+me-language-title = Chọn ngôn ngữ yêu thích của bạn
+me-language-tip = Giúp chúng tôi thêm ngôn ngữ mẹ đẻ của bạn, hoặc thêm các nội dung còn thiếu bằng việc đóng góp vào <a data-l10n-name='translate-link'>dự án dịch thuật</a> của chúng tôi trên Github!
+me-language-questions = Nếu có bất kỳ câu hỏi về bản dịch, hoặc bạn có bản sửa lỗi và cải tiến mà không biết cách nào để đóng góp, hãy gửi email cho chúng tôi theo địa chỉ <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
-profile-title = Your Appearance in Coggle
+profile-title = Giao diện của bạn trong Coggle
 
 invite-n-more =
     { $introduceCount ->
-           [one] One more invite to try Awesome for free!
-        *[other] Invite <span>{$introduceCount}</span> more people to try Awesome for free!
+           [one] Mời thêm một người nữa để trải nghiệm gói xịn xò miễn phí!
+        *[other] Mời <span>{$introduceCount}</span> thêm nhiều người nữa để trải nghiệm gói xịn xò miễn phí!
     }
 
-recommend-coggle = Recommend Coggle
-recommend-share-link = Either invite collaborators to your diagrams, or share your referral link via <a data-l10n-name='email'>email</a>.
+recommend-coggle = Giới thiệu Coggle
+recommend-share-link = Mời thêm cộng tác viên cho sơ đồ của bạn, hoặc chia sẻ liên kết giới thiệu của bạn qua <a data-l10n-name='email'>email</a>.
 
-claim-free-month = Claim your free month of Coggle Awesome!
-claim-redeem = Redeem Now
+claim-free-month = Nhận ngay gói xịn xò miễn phí trong một tháng!
+claim-redeem = Đổi ngay
 
 
-close-account-title = Close Your Coggle Account
-close-account = Permanently close your free Coggle account.
-close-account-description = This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.
-close-account-button = Close my Account
+close-account-title = Đóng tài khoản của bạn
+close-account = Đóng vĩnh viễn tài khoản Coggle miễn phí của bạn.
+close-account-description = Quá trình này <b>không thể đảo ngược</b> và sẽ có hiệu lực ngay lập tức. Bạn sẽ mất quyền truy cập vào mọi sơ đồ của mình nên hãy đảm bảo đã xuất bất kỳ sơ đồ nào bạn muốn giữ lại.
+close-account-button = Đóng tài khoản của tôi
 close-account-enteremail =
-    .placeholder = Type your email address
-close-account-confirm = CONFIRM
+    .placeholder = Nhập địa chỉ email
+close-account-confirm = XÁC NHẬN
 
 # Gallery Content (/gallery) 
-gallery-title = The Coggle Gallery
-gallery-blurb2 = A selection of the best diagrams made with Coggle!
-gallery-blurb3 = Find inspiration, templates and examples from our selection of the best public diagrams and mind maps made with Coggle.
-gallery-folder-blurb3 = <b>The Coggle Gallery</b> - A selection of the best diagrams made with Coggle!
+gallery-title = Thư viện Coggle
+gallery-blurb2 = Tuyển tập những sơ đồ đẹp nhất tạo bởi Coggle!
+gallery-blurb3 = Tìm nguồn cảm hứng, mẫu và minh họa từ bộ sưu tập những sơ đồ đẹp nhất tạo bởi Coggle.
+gallery-folder-blurb3 = <b>The Coggle Gallery</b> - Tuyển tập những sơ đồ đẹp nhất tạo bởi Coggle!
 
 
 # Diagram content 
-guide-click-here = click here
-guide-or-here = or here
-click-to-edit = click to edit
-click-to-edit-title = Click to edit title
-tap-to-edit = tap to edit
-tap-to-edit-title = Tap to edit title
-unnamed-diagram = Unnamed Diagram
+guide-click-here = Nhấp vào đây
+guide-or-here = hoặc đây
+click-to-edit = Nhấp để chỉnh sửa
+click-to-edit-title = Nhấp để chỉnh sửa tiêu đề
+tap-to-edit = Chạm để chỉnh sửa
+tap-to-edit-title = Chạm để chỉnh sửa tiêu đề
+unnamed-diagram = Chưa có tên
 
-add-branch = add branch
-copy-branch = copy branch
-add-to-discussion = add to discussion
-comment-on-this = comment on this
-auto-arrange = auto-arrange
-pick-colour = pick color
-choose-style = choose style
-choose-shape = choose shape
+add-branch = thêm nhánh
+copy-branch = sao chép nhánh
+add-to-discussion = thêm vào thảo luận
+comment-on-this = nhận xét ở đây
+auto-arrange = tự động sắp xếp
+pick-colour = chọn màu
+choose-style = chọn kiểu
+choose-shape = chọn hình dạng
 
 # (remove and item *and* all of its children)
-delete-branch = delete branch
+delete-branch = xóa nhánh
 
-remove-item = remove item
-show-children = show children
-hide-children = hide children
-drag-to-create-link = drag to create link
-drag-to-transplant-branch = drag to transplant branch
-delete-connection = delete connection
-reverse-connection = reverse connection
-label-connection = label this connection
+remove-item = xóa khối
+show-children = hiện nhánh con
+hide-children = ẩn nhánh con
+drag-to-create-link = kéo để tạo liên kết
+drag-to-transplant-branch = kéo để dịch chuyển nhánh
+delete-connection = xóa liên kết
+reverse-connection = đảo ngược liên kết
+label-connection = đặt tên cho liên kết
 
-undo = undo
-redo = redo
-paste-branch = paste branch
-drag-zoom-page = drag to zoom page
-add-label = add label
+undo = hoàn tác
+redo = làm lại
+paste-branch = dán nhánh
+drag-zoom-page = kéo để thu phóng trang
+add-label = gán nhãn
 
-help-title-title = The Diagram Title
-help-title-p1 = This is the center of your diagram, and its title. Your ideas will branch out from here!
-help-title-p2 = Start by editing it - what is your diagram about?
-help-gohome = Click the Coggle logo to go back to the homepage, where your documents are automatically saved.
-help-add-node = Use the <div data-l10n-name='plus'>+</div> buttons to add branches.
-help-edit-node-p1 = Click any item to edit the text.
-help-edit-node-p2 = Change the text size by dragging the corner of the editing area.
-help-move-node = Drag any text to move it.
-help-node-menu = Right click on items to access the menu. Here you can add, remove, copy, and arrange branches.
-help-morehelp-touch-title = Shortcuts and Help
-help-morehelp2-title = Keyboard Shortcuts and Help
-help-morehelp-touch = Open the help sheet to see shortcuts, and quickly search help articles
-help-morehelp2 = Open the help sheet to see keyboard shortcuts, and quickly search help articles
+help-title-title = Tên sơ đồ
+help-title-p1 = Đây là trung tâm của sơ đồ và tiêu đề của nó. Các ý tưởng của bạn sẽ phân nhánh từ đây!
+help-title-p2 = Bắt đầu bằng cách chỉnh sửa nó - sơ đồ của bạn nói về cái gì?
+help-gohome = Nhấp vào logo của Coggle để quay về trang chủ, nơi tài liệu của bạn được tự động lưu trữ.
+help-add-node = Sử dụng nút <div data-l10n-name='plus'>+</div> để tạo nhánh.
+help-edit-node-p1 = Nhấp vào bất kỳ khối nào để chỉnh sửa văn bản.
+help-edit-node-p2 = Thay đổi kích thước văn bản bằng cách kéo vào góc dưới của khối.
+help-move-node = Kéo bất kỳ văn bản nào để dịch chuyển nó.
+help-node-menu = Nhấp chuột phải vào các khối để mở danh sách. Ở đây bạn có thể thêm, xóa, sao chép và sắp xếp các nhánh.
+help-morehelp-touch-title = Phím tắt và Trợ giúp
+help-morehelp2-title = Phím tắt bàn phím và Trợ giúp
+help-morehelp-touch = Mở trang trợ giúp để xem phím tắt và tìm kiếm nhanh các bài viết hỗ trợ
+help-morehelp2 = Mở trang trợ giúp để xem phím tắt và tìm kiếm nhanh các bài viết hỗ trợ
 
-help-multiline = Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.
-help-toolbar-invite-title = Work With Others
-help-toolbar-invite = Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.
-help-toolbar-invitemulti-title = Invite Multiple People
-help-toolbar-invitemulti = To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+help-multiline = Xuống dòng văn bản bằng tổ hợp phím [ctrl] + [enter], hoặc thay đổi kích thước khối.
+help-toolbar-invite-title = Làm việc với người khác
+help-toolbar-invite = Nhấp để mời mọi người chỉnh sửa hoặc xem Coggle này. Bạn có thể kiểm soát quyền chỉnh sửa bằng cách nhấp vào biểu tượng của họ.
+help-toolbar-invitemulti-title = Mời nhiều người
+help-toolbar-invitemulti = Bạn có thể mời nhiều người cùng lúc bằng cách nhập (hoặc dán) địa chỉ email được phân cách bằng dấu phẩy<b>,</b> hoặc dấu chấm phẩy<b>;</b>
 
-help-toolbar-invitedonefaster-p1 = Now you've been editing for a while, try getting things done faster by collaborating!
-help-toolbar-invitedonefaster-p2 = Invite people to edit with you, and see their changes instantly.
-help-toolbar-inviteflow-title-2 = Invite a Co-worker by Email
-help-toolbar-sharing-title = Shareable Links and Publishing
-help-toolbar-sharing = You can also publish your diagram, or create secret shareable links to give access only to people with that link.
-help-inactive-invite = Work with friends to help bring your ideas to life!<br>Invite by email here.
+help-toolbar-invitedonefaster-p1 = Có vẻ bạn đã biết cách chỉnh sửa rồi, hãy thử hoàn thành công việc nhanh hơn bằng cộng tác nhé!
+help-toolbar-invitedonefaster-p2 = Mời mọi người cùng chỉnh sửa và xem những thay đổi của họ ngay lập tức.
+help-toolbar-inviteflow-title-2 = Mời cộng sự qua email
+help-toolbar-sharing-title = Cho phép chia sẻ và công bố liên kết
+help-toolbar-sharing = Bạn cũng có thể công bố sơ đồ của mình, hoặc tạo các liên kết bí mật chỉ cấp quyền truy cập cho người có liên kết.
+help-inactive-invite = Hợp tác với bạn bè để biến mọi ý tưởng thành hiện thực!<br>Mời qua email tại đây.
 
-me-as-awesome-orgmember-p1 = This is you &mdash; you're viewing Coggle as an <b>organization member</b>.
-me-as-awesome-orgmember-p2 = This means you get all the great features from the <a data-l10n-name="awesome">Coggle Awesome</a> plan too!
+me-as-awesome-orgmember-p1 = Đây là bạn &mdash; bạn đang xem Coggle với tư cách <b>thành viên của tổ chức</b>.
+me-as-awesome-orgmember-p2 = Điều này cũng có nghĩa là bạn nhận được mọi tính năng tuyệt vời từ <a data-l10n-name="awesome">gói xịn xò</a>!
 
-free-awesome = Want Awesome for free?
-upgrade-now = Upgrade Now
+free-awesome = Muốn gói xịn xò miễn phí?
+upgrade-now = Nâng cấp ngay thôi!
 
-me-support-awesomethanks-p1 = <b>Thanks for supporting Coggle!</b>
-me-support-awesomethanks-p2 = For being an early Coggle supporter, you get all the benefits of the <a data-l10n-name="awesome">Coggle Awesome</a> plan included in your subscription!
+me-support-awesomethanks-p1 = <b>Cảm ơn bạn vì đã ủng hộ Coggle!</b>
+me-support-awesomethanks-p2 = Vì là một trong những người ủng hộ Coggle sớm nhất, bạn sẽ nhận được tất cả lợi ích từ <a data-l10n-name="awesome">gói xịn xò</a> có trong gói đăng ký của bạn!
 
-me-awesome = This is you &mdash;<b>You're Awesome!</b>
-me-manage-plan = Manage your plan
+me-awesome = Đây là bạn &mdash;<b>Bạn thật xịn xò!</b>
+me-manage-plan = Quản lý gói đăng ký của bạn
 
 
-messages-title = Messages
+messages-title = Tin nhắn
 messages-search =
-    .placeholder = Search
-messages-start = You've reached the start!
+    .placeholder = Tìm kiếm
+messages-start = Bạn đang ở đầu danh sách!
 messages-comments-notes =
-    .placeholder = Enter comments, discussion and notes.
+    .placeholder = Nhập nhận xét, hội thoại và ghi chú.
 
 
 diagram-toolbar-history =
-    .title = View and copy previous versions.
+    .title = Xem và sao y các phiên bản trước.
 diagram-toolbar-messages =
-    .title = Comments and chat.
+    .title = Bình luận và trò chuyện.
 diagram-toolbar-present =
-    .title = Present and Review.
+    .title = Trình chiếu và xem lại.
 diagram-toolbar-share =
-    .title = Share this Coggle.
+    .title = Chia sẻ Coggle này.
 diagram-toolbar-download =
-    .title = Download this Coggle.
+    .title = Tải về Coggle này.
 diagram-toolbar-copy =
-    .title = Create a copy of this Coggle.
-diagram-toolbar-public-detail = Public Diagram
-    .title = This diagram may appear in the Coggle Gallery and search results.
-diagram-toolbar-pubcopy = Use as Template
-    .title = Create your own copy of this diagram.
-public-label = Public
-    .title = This is a public diagram.
+    .title = Tạo bản sao từ Coggle này.
+diagram-toolbar-public-detail = sơ đồ công khai
+    .title = sơ đồ này có thể xuất hiện trên thư viện Coggle và kết quả tìm kiếm.
+diagram-toolbar-pubcopy = Sử dụng làm bản mẫu
+    .title = Tạo bản sao của riêng bạn từ sơ đồ này.
+public-label = Công khai
+    .title = Đây là một sơ đồ công khai.
 
 # history slider content 
 current-version = current
 
 # sharing dialog content 
-share-newlink = New Link:
-share-newlink-tip = These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+share-newlink = Tạo link mới:
+share-newlink-tip = Điều này cho phép bạn chia sẻ sơ đồ với những người chưa đăng nhập, nhưng hãy cẩn thận, nó cho phép <strong>bất kỳ ai</strong> có liên kết cũng có thể xem tác phẩm của bạn!
 
-share-tag-user = user
-share-tag-embed = embed
-share-tag-writable = editable
-share-send-email = SEND
+share-tag-user = người dùng
+share-tag-embed = nhúng
+share-tag-writable = có thể chỉnh sửa
+share-send-email = GỬI
 share-email-hints =
-  <span>to invite, type an email</span>
-  <span>then hit enter</span>
-  <span>friend@example.com</span>
+  <span>để mời, nhập một địa chỉ email</span>
+  <span>sau đó nhấn enter</span>
+  <span>banbe@example.com</span>
 
 viewers-can-edit = 
-    .title = Viewers can edit the diagram.
+    .title = Người xem có thể chỉnh sửa sơ đồ.
 viewers-readonly =
-    .title = Viewers can only view the diagram.
+    .title = Người xem chỉ được xem sơ đồ.
 viewers-can-copy =
-    .title = Viewers may create their own copies.
+    .title = Người xem có thể tạo bản sao của riêng họ.
 viewers-nocopy = 
-    .title = Viewers may not create copies.
+    .title = Người xem không được quyền tạo bản sao.
 revoke-link = 
-    .title = Delete this link.
+    .title = Xóa liên kết này.
 
-share-open = Can everyone view this diagram?
-share-open-detail = Public diagrams can be viewed by anyone and may appear in our <a data-l10n-name="gallery">Gallery</a>
+share-open = Mọi người đều có thể xem sơ đồ này?
+share-open-detail = Sơ đồ công khai có thể được xem bởi bất cứ ai và có thể xuất hiện trong <a data-l10n-name="gallery">thư viện</a>
 
 # download dialog content 
-download-pdf = Download PDF
-download-png = Download Image
+download-pdf = Tải xuống PDF
+download-png = Tải xuống hình ảnh
 download-mm = .mm File
-download-txt = Plain-Text Outline
+download-txt = văn bản thuần túy
 download-visio = Visio Flowchart (.vsdx) 
-download-failed = File generation failed.
-    .title = Click to retry
-download-import-tip = <b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a data-l10n-name="import-link">Read more.</a>
+download-failed = Tải xuống thất bại.
+    .title = Nhấp để thử lại
+download-import-tip = <b>Bạn đang tìm kiếm mục nhập?</b> Kéo file dạng .mm hay .txt vào sơ đồ để nhập tệp đó! <a data-l10n-name="import-link">Xem thêm.</a>
 
 # access control slider content 
-access-readonly = Read only<br/><span data-l10n-name="tip" >Only allow them to view</span>
-access-readclone = Read & create copies<br/><span data-l10n-name="tip" >Also allow downloading and copying</span>
-access-author = Author<br/><span data-l10n-name="tip" >Allow creating and editing documents</span>
+access-readonly = Chỉ đọc<br/><span data-l10n-name="tip" >Chỉ cấp quyền đọc</span>
+access-readclone = Đọc & tạo bản sao<br/><span data-l10n-name="tip" >Cấp quyền tải về và tạo bản sao</span>
+access-author = Chủ sở hữu<br/><span data-l10n-name="tip" >Cấp quyền tạo và chỉnh sửa tài liệu</span>
 
-access-folder-readonly = Read only<br/><span data-l10n-name="tip">Only allow them to view</span>
-access-folder-readclone = Read & create copies<br/><span data-l10n-name="tip">Also allow downloading and copying</span>
-access-folder-author = Author<br/><span data-l10n-name="tip">Allow creating and editing documents</span>
-access-folder-admin = Administer<br/><span data-l10n-name="tip">Add and remove people and documents</span>
+access-folder-readonly = Chỉ đọc<br/><span data-l10n-name="tip">Chỉ cấp quyền đọc</span>
+access-folder-readclone = Đọc & tạo bản sao<br/><span data-l10n-name="tip">Cấp quyền tải về và tạo bản sao</span>
+access-folder-author = Chủ sở hữu<br/><span data-l10n-name="tip">Cấp quyền tạo và chỉnh sửa tài liệu</span>
+access-folder-admin = Quản trị viên<br/><span data-l10n-name="tip">Thêm và xóa người dùng và tài liệu</span>
 
-access-remove = Remove { $user_givenName }
+access-remove = Xóa { $user_givenName }
 
 # Notification Messages 
-readonly-warning = You cannot edit this diagram. <div data-l10n-name="suggestion">If you need to edit it, ask the author to give you permission.</div>
+readonly-warning = Bạn không thể chỉnh sửa sơ đồ này. <div data-l10n-name="suggestion">Hãy hỏi chủ sở hữu để được cấp quyền chỉnh sửa.</div>
 
-websocket-offline = Changes may be slow due to network issues. <a data-l10n-name="helpfix">Help me fix this!</a>
+websocket-offline = Thay đổi có thể chậm trễ do vấn đề về mạng. <a data-l10n-name="helpfix">Giúp tôi sửa lỗi này!</a>
 
-disconnect-warning = <b>Connection lost</b>: Changes may not be saved
+disconnect-warning = <b>Connection lost</b>: Thay đổi có thể không được lưu
 
-banner-undo-warning = Nothing more to undo!
-banner-redo-warning = Nothing more to redo!
+banner-undo-warning = Không có gì để hoàn tác!
+banner-redo-warning = Không còn gì để làm lại!
 
 # Image drag-drop messages 
-image-resize-plug = Your image was resized - get <a data-l10n-name='awesome'>Awesome</a> to upload larger images!
+image-resize-plug = Kích thước hình ảnh đã được thay đổi - hãy dùng <a data-l10n-name='awesome'>gói xịn xò</a> để tải lên ảnh có kích thước lớn hơn!
 
 # Help panel
-sidebar-contextmenu = Context Menu
-sidebar-clickformenu = Right click an item or the background to access a menu.
-sidebar-tapformenu = Tap an item or the background to access a menu.
-sidebar-controls = Controls
+sidebar-contextmenu = Menu bối cảnh
+sidebar-clickformenu = Nhấp chuột phải vào một khối hoặc nền để mở danh sách.
+sidebar-tapformenu = Chạm vào một khối hay liên kết để mở danh sách.
+sidebar-controls = Điều khiển
 
-sidebar-removebranch = Remove Branch:
-sidebar-insertbranch = Insert Branch:
-sidebar-transplantbranch = Transplant Branch:
-sidebar-addimages-title = Add <a data-l10n-name='images'>Images</a>:
+sidebar-removebranch = Xóa nhánh:
+sidebar-insertbranch = Thêm nhánh:
+sidebar-transplantbranch = Di chuyển nhánh:
+sidebar-addimages-title = Thêm <a data-l10n-name='images'>hình ảnh</a>:
 
-sidebar-zoom = Zoom:
+sidebar-zoom = Thu phóng:
 
-sidebar-shortcuts = Shortcuts
-sidebar-undo = Undo:
-sidebar-redo = Redo:
+sidebar-shortcuts = Phím tắt
+sidebar-undo = Hoàn tác:
+sidebar-redo = Làm lại:
 
-touch-pressitem = <b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more.
-touch-pressbackground = <b>Long-press</b> on the <b>background</b> to add <b>labels</b>, <b>undo</b>, and paste.
+touch-pressitem = <b>Giữ</b> một <b>khối</b> để <b>xóa</b> khối, đổi <b>màu</b>, <b>tự động xếp nhánh</b>, liên kết chéo, sao chép, và nhiều thứ khác.
+touch-pressbackground = <b>Giữ</b> trong <b>nền</b> để <b>thêm nhãn</b>, <b>hoàn tác</b>, và dán.
 
-sc-and-click = + click
-sc-and-drag = + drag
-sc-and-mousewheel = + mousewheel
+sc-and-click = + nhấp
+sc-and-drag = + kéo
+sc-and-mousewheel = + lăn chuột
 sc-shift = shift
 sc-ret = enter
 sc-tab = tab
 sc-ctrl = ctrl
 sc-alt = alt
-sc-dragdrop = drag and drop
+sc-dragdrop = kéo và thả
 
-sidebar-whentyping = When typing
-sidebar-sc-newitem = New Item:
+sidebar-whentyping = Trong khi nhập
+sidebar-sc-newitem = Tạo khối mới:
 
-sidebar-sc-newchild = New Child Item:
+sidebar-sc-newchild = Tạo nhánh con:
 
-sidebar-sc-parent = Jump to Parent:
+sidebar-sc-parent = Tới nhánh lớn:
 
-sidebar-sc-markdown-title = Format text:
-sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
+sidebar-sc-markdown-title = Định dạng văn bản:
+sidebar-sc-markdown = sử dụng <a data-l10n-name="link">Markdown</a>
 
-another-fact = another!
-cogglefacts-more = Read more...
+another-fact = khác!
+cogglefacts-more = Đọc thêm...
 
 sidebar-markdown = Markdown
-sidebar-bgmenu = <b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.
-sidebar-bgmenu2 = <b>Zoom</b>, add <b>text labels</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.
-sidebar-icons = Icons
-markdown-icons = Type <code>:</code> while editing or use the button along the top of the item editor.
+sidebar-bgmenu = <b>Thu phóng</b>, <b>hoàn tác</b>, và <b>dán khối đã chép</b> bằng cách nhấp chuột phải vào nền.
+sidebar-bgmenu2 = <b>Thu phóng</b>, tạo <b>nhãn cho văn bản</b>, <b>hoàn tác</b>, và <b>dán khối đã chép</b> bằng cách nhấp chuột phải vào nền.
+sidebar-icons = Biểu tượng
+markdown-icons = Nhập <code>:</code> trong khi chỉnh sửa hoặc sử dụng nút khi chỉnh sửa văn bản.
 markdown-checkbox = <code>- [X]</code> to create a <input data-l10n-name="checkbox"/> checkbox
-markdown-code = <code>`text`</code> to use a <code>fixed width</code> font
+markdown-code = <code>`văn bản`</code> để sử dụng font chữ có <code>kích thước cố định</code>
 
 button-bold =
-    .title = Make text bold
+    .title = Làm đậm
 button-italic =
-    .title = Make text italic
+    .title = In nghiêng
 button-link =
-    .title = Link to a website
+    .title = Liên kết đến
 button-image =
-    .title = Upload an image
+    .title = Tải lên ảnh
 button-emoji =
-    .title = Search for icons.
+    .title = Tìm kiếm biểu tượng
 button-formatting =
-    .title = Text formatting
+    .title = Định dạng văn bản
 button-back =
-    .title = Back
+    .title = Quay lại
 button-aligned-left =
-    .title = Aligned left
+    .title = Căn trái
 button-aligned-center =
-    .title = Aligned center
+    .title = Căn giữa
 button-aligned-right =
-    .title = Aligned right
+    .title = Căn phải
 button-aligned-auto =
-    .title = Aligned automatically
+    .title = Căn chỉnh tự động
 button-upload =
-    .title = Add image or attach file.
+    .title = Thêm hình ảnh hoặc đính kèm tập tin.
 button-attach =
-    .title = Attach a file.
+    .title = Đính kèm một tập tin.
 button-resize =
-    .title = Drag to change the text size.
-label-fontsize = Font size <span data-l10n-name="fontsize"></span>px.
+    .title = Kéo để thay đổi kích thước văn bản.
+label-fontsize = Cỡ chữ <span data-l10n-name="fontsize"></span>px.
 
-hint-toolong = Item too long! Try moving some text to a new item: select the text then press [tab]
-hint-movetext = Try moving some text to a new item: select the text then press [tab]
+hint-toolong = Khối đã quá lớn! Thử dịch chuyển một đoạn văn bản sang khối mới: chọn văn bản sau đó bấm [tab]
+hint-movetext = Thử dịch chuyển một đoạn văn bản sang khối mới: chọn văn bản sau đó bấm [tab]
 
 commentcount = 
     { $count ->
-        [one] 1 comment
-       *[other] { $count } comments
+        [one] 1 bình luận
+       *[other] { $count } bình luận
     }
 
 # diagram not-found page 
-nodiagram-title = Diagram not found!
-nodiagram-invalid-link = This diagram link is invalid, or access to it has been revoked.
-nodiagram-logged-in = You are currently logged in as <b>{ $user_givenName }</b>, with the email address <b>{ $user_email }</b>. If this diagram exists, this account does not have permission to access it.
-nodiagram-not-logged-in = <b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.
-nodiagram-may-need-access = If someone gave you a link to this diagram they might also need to give you permission to view it.
+nodiagram-title = Không tìm thấy sơ đồ!
+nodiagram-invalid-link = Liên kết tới sơ đồ này không hợp lệ, hoặc quyền truy cập đã bị thu hồi.
+nodiagram-logged-in = Bạn hiện đăng nhập với tư cách <b>{ $user_givenName }</b>, với địa chỉ email <b>{ $user_email }</b>. Nếu sơ đồ này tồn tại, có vẻ bạn không có quyền truy cập vào nó.
+nodiagram-not-logged-in = <b>Bạn chưa đăng nhập.</b>  Nếu sơ đồ này tồn tại, bạn chỉ có thể truy cập khi bạn đăng nhập vào tài khoản của mình.
+nodiagram-may-need-access = Nếu ai đó cung cấp cho bạn liên kết đến sơ đồ này, họ có thể cũng cần cấp cho bạn quyền xem sơ đồ.
 
 
 # Awesome Landing Page (/awesome) 
-awesome-pitch-title = Coggle Awesome
-awesome-pitch = Supercharge your thinking with Coggle Awesome. Add huge images, present your Coggles, and create private Coggles that won't be indexed by search engines.
-awesome-signup = SIGN UP NOW
-awesome-price = ${$monthlyPrice} / MONTH
+awesome-pitch-title = Gói xịn xò của Coggle
+awesome-pitch = Khai phóng tư duy của bạn cùng gói xịn xò. Thêm hình ảnh với kích cỡ lớn, trình bày Coggle của bạn, và tạo vô số Coggle riêng tư không thể tìm thấy bởi công cụ tìm kiếm.
+awesome-signup = ĐĂNG KÝ NGAY
+awesome-price = ${$monthlyPrice} / THÁNG
 
-awesome-feature-cp-title = Control Line Paths
-awesome-feature-cp = Place connections exactly where you want them using control points on branch paths.
+awesome-feature-cp-title = Điều chỉnh đường nối
+awesome-feature-cp = Đặt đường nối chính xác tại nơi bạn muốn bằng cách sử dụng các điểm điều khiển trên nhánh.
 
-awesome-feature-shapes-title = Advanced Item Shapes
-awesome-feature-shapes = Customise your flowcharts using all the item shapes. Use diamonds for flowchart decision nodes, and place text in-line with connections for org charts.
+awesome-feature-shapes-title = Tùy chỉnh nâng cao hình dạng khối
+awesome-feature-shapes = Tùy chỉnh lưu đồ của bạn bằng cách sử dụng tất cả các hình dạng khối. Sử dụng hình thoi cho các nút chính của lưu đồ và đặt văn bản cùng dòng với các kết nối cho sơ đồ tổ chức.
 
-awesome-feature-private-title = Unlimited Private Diagrams
-awesome-feature-private = Create as many private diagrams as you like. If you do ever cancel your subscription they stay private, and you keep access.
+awesome-feature-private-title = Không giới hạn sơ đồ riêng tư
+awesome-feature-private = Tạo vô số sơ đồ riêng tùy thích và ngay cả khi hủy đăng ký, chúng vẫn ở chế độ riêng tư và bạn vẫn có quyền truy cập.
 
-awesome-feature-joinloop-title = Create Loops and Join Branches
-awesome-feature-joinloop = Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.
+awesome-feature-joinloop-title = Tạo vòng lặp và tham gia vào nhánh
+awesome-feature-joinloop = Nối các nhánh và tạo vòng lặp để tạo ra các sơ đồ với tùy biến mạnh mẽ và linh hoạt để thể hiện quy trình và các thứ nâng cao khác
 
-awesome-feature-multiroot-title = Multiple Starting Points
-awesome-feature-multiroot = Add multiple central items to your diagrams to map related topics in a single workspace.
+awesome-feature-multiroot-title = Nhiều trung tâm
+awesome-feature-multiroot = Thêm nhiều trung tâm vào sơ đồ của bạn để tạo nhiều chủ đề liên quan chỉ trong một sơ đồ duy nhất.
 
-awesome-feature-editablelinks-title = No-Setup Collaboration
-awesome-feature-editablelinks = Allow any number of people to edit a diagram simply by sharing a secret link with them. No login required.
+awesome-feature-editablelinks-title = Cộng tác viên tự do
+awesome-feature-editablelinks = Cho phép bất kỳ ai có liên kết chỉnh sửa sơ đồ mà không cần đăng nhập.
 
-awesome-feature-linestyle-title = Control Line Style
-awesome-feature-linestyle = Customise the thickness and style of the lines in your diagram.
+awesome-feature-linestyle-title = Điều chỉnh kiểu đường
+awesome-feature-linestyle = Điều chỉnh độ dày và kiểu dáng của các đường trong sơ đồ của bạn.
 
-awesome-feature-bigimages-title = Show Them the Big Picture
-awesome-feature-bigimages = Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.
+awesome-feature-bigimages-title = Cho họ thấy bức tranh toàn cảnh
+awesome-feature-bigimages = Thêm hình ảnh với kích cỡ lớn vào Coggle để minh họa cho ý tưởng của bạn: chỉ cần kéo và thả hình ảnh từ thiết bị đến tài liệu
 
-awesome-feature-colours-title = More Colors
-awesome-feature-colours = Unlock a new range of vivid colors to help organize and highlight your ideas.
+awesome-feature-colours-title = Làm màu
+awesome-feature-colours = Mở khóa một loạt các màu sắc để làm sinh động các ý tưởng của bạn.
 
-awesome-feature-autoarrange-title = Automatic Branch Layout
-awesome-feature-autoarrange = Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.
+awesome-feature-autoarrange-title = Tự động sắp xếp bố cục nhánh
+awesome-feature-autoarrange = Tự động sắp xếp vị trí các nhánh của bạn chỉ với một cú nhấp chuột.
 
-awesome-feature-folders-title = Shared Folders
-awesome-feature-folders = Put your diagrams into folders to keep them organized and easily share them all with a group of collaborators.
+awesome-feature-folders-title = Chia sẻ thư mục
+awesome-feature-folders = Kéo sơ đồ của bạn vào các thư mục và dễ dàng chia sẻ chúng với các cộng sự.
 
-awesome-feature-flow-title = Powerful Flowcharting
-awesome-feature-flow = Pick from a range of shapes to create expressive, powerful flowcharts, process maps, and other diagrams.
+awesome-feature-flow-title = Lưu đồ mạnh mẽ
+awesome-feature-flow = Chọn nhiều kiểu dáng khác nhau để tạo lưu đồ, sơ đồ quy trình và bất cứ sơ đồ nào khác một cách mạnh mẽ.
 
 awesome-hint-orgs =
-  If you're using Coggle for work, check out <a data-l10n-name="orglink">Coggle Organizations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
+  Nếu bạn sử dụng Coggle cho công việc, hãy xem <a data-l10n-name="orglink">Coggle doanh nghiệp</a>, có đầy đủ các tính năng của gói xịn xò và các tính năng quản trị thân thiện với doanh nghiệp.
 
 
 # Login Page /login
-index-loginwithgoogle = Sign in with Google
-index-signinwithapple = Sign in with Apple
+index-loginwithgoogle = Đăng nhập với Google
+index-signinwithapple = Đăng nhập với Apple
 
-login-no-acc-q = Don't have a Google or Microsoft Account?
-login-no-acc-a = No problem! You can create a Google or Microsoft Account with any email address. A Gmail or Outlook account is <b>not</b> required.
+login-no-acc-q = Bạn không có tài khoản Google hay Microsoft?
+login-no-acc-a = Đừng lo! Bạn có thể tạo tài khoản Google hoặc Microsoft bằng bất kỳ địa chỉ email nào. Một địa chỉ Gmail hay Outlook là <b>không</b> cần thiết.
 
-login-saml = We also support enterprise grade login for Coggle Organizations with OneLogin, Okta, and other SAML 2.0 identity providers.
-login-saml-where = If you're a single-sign on user, log in using the page shared by your Organization's administrator.
-login-saml-more = Read more about Single Sign On.
+login-saml = Chúng tôi cũng hỗ trợ cổng đăng nhập cho các doanh nghiệp với OneLogin, Okta, và các nhà cung cấp phương thức SAML 2.0 khác.
+login-saml-where = Nếu bạn là người dùng single-sign on, hãy đăng nhập bằng trang được chia sẻ bởi người quản lý tổ chức của bạn.
+login-saml-more = Đọc thêm về Single Sign On.
 
-login-faq = Frequently Asked Questions
-login-pw-q = Why can't I create a username and password?
-login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-    Sign in with Apple. We believe this is the best way to keep your data safe,
-    as these companies all provide very secure sign-in services, which support
-    two-factor authentication and other account protection options.
+login-faq = Câu hỏi thường gặp
+login-pw-q = Tại sao tôi không thể tạo tên người dùng và mật khẩu?
+login-pw-a-p1 = Coogle chỉ hỗ trợ đăng nhập bằng tài khoản Google, Microsoft hoặc
+    đăng nhập với Apple. Chúng tôi tỉn rằng đây là cách tốt nhất để bảo vệ dữ liệu của bạn,
+    vì các công ty này đều cung cấp dịch vụ đăng nhập rất an toàn, hỗ trợ
+    xác thực hai yếu tố và các tùy chọn bảo vệ tài khoản khác.
 
 login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
     intricacy: password recovery, 2-factor authentication, fraud detection,
@@ -658,24 +658,24 @@ login-pw-a-p2 = Storing usernames and passwords securely has a lot of
     the right thing to do – leaving us more time to focus on creating a great
     mind-mapping experience.
 
-login-what-q = What do you do with my Google/Microsoft account?
-login-what-a = We only ask for access to your basic profile information. 
-    This includes your name, profile picture and your email address. 
-    We don't ask for access to your contacts, emails, Google Drive documents, 
-    or anything else that we don't need to make Coggle work.
+login-what-q = Bạn sẽ làm gì với tài khoản Google/Microsoft của tôi?
+login-what-a = Chúng tôi chỉ yêu cầu quyền truy cập vào các thông tin cơ bản của bạn. 
+    Nó bao gồm tên, ảnh đại diện và địa chỉ email của bạn. 
+    Chúng tôi không thể truy cập vào danh bạn, email và các tài liệu Google Drive của bạn, 
+    và bất cứ điều gì không cần thiết để Coggle hoạt động.
 
-login-switch-q = Can I switch between login methods?
-login-switch-a = Yes! As long as you use the same email address with your Microsoft/Apple/Google accounts, 
-    then you can use any of them to log in to the same Coggle account. 
-    Note that if you choose the 'hide my email' option in Apple login, then your account won't be linked.
+login-switch-q = Tôi có thể chuyển đổi giữa các phương thức đăng nhập không?
+login-switch-a = Có chứ! Miễn là bạn sử dụng cùng một địa chỉ email với tài khoản Microsoft/Google/Apple của mình, 
+    bạn có thể sử dụng bất kỳ cách nào để đăng nhập vào cùng một tài khoản Coggle. 
+    Tuy nhiên, nếu bạn chọn "ẩn email của tôi" khi đăng nhập Apple, tài khoản của bạn sẽ không được liên kết.
 
-login-emails-q = Can you read my emails?
-login-emails-a = No. We don't need, and don't want, access to your emails! 
-    We just request your basic profile information. We don't have access to anything else, 
-    and we can't change any setting on your Google/Microsoft account.
+login-emails-q = Bạn có thể đọc email của tôi không?
+login-emails-a = Không. Chúng tôi không cần cũng chẳng muốn truy cập vào email của bạn! 
+    Chúng tôi chỉ yêu cầu các thông tin cơ bản của bạn mà không có quyền truy cập vào bất cứ điều gì khác,
+    và chúng tôi không thể thay đổi cài đặt nào trên tài khoản Google/Microsoft của bạn.
 
-login-icloud-q = Can you access my iCloud?
-login-icloud-a = No! Sign in with Apple just gives us access to your name, 
+login-icloud-q = Bạn có thể truy cập iCloud của tôi không?
+login-icloud-a = Không hề! Sign in with Apple just gives us access to your name, 
     and your email address (if you choose to share it). We don't have access to anything else. 
     You can read more about how sign in with apple works on 
     <a data-l10n-name="applehelp"> Apple's website</a>.
