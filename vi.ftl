@@ -10,7 +10,7 @@
 
 index-tagline = Một cách tuyệt vời để chia sẻ những thông tin phức tạp.
 index-tagline-mm = Tạo sơ đồ tư duy mượt như ý tưởng của bạn.
-index-signupnow = Đăng ký đi người đẹp
+index-signupnow = Đăng ký ngay!
 index-login = Đã có tài khoản? Đăng nhập tại đây.
 
 index-nav-login = Đăng nhập
@@ -670,261 +670,258 @@ login-switch-a = Có chứ! Miễn là bạn sử dụng cùng một địa ch�
     Tuy nhiên, nếu bạn chọn "ẩn email của tôi" khi đăng nhập Apple, tài khoản của bạn sẽ không được liên kết.
 
 login-emails-q = Bạn có thể đọc email của tôi không?
-login-emails-a = Không. Chúng tôi không cần cũng chẳng muốn truy cập vào email của bạn! 
+login-emails-a = Không. Chúng tôi không cần và cũng không muốn truy cập vào email của bạn! 
     Chúng tôi chỉ yêu cầu các thông tin cơ bản của bạn mà không có quyền truy cập vào bất cứ điều gì khác,
     và chúng tôi không thể thay đổi cài đặt nào trên tài khoản Google/Microsoft của bạn.
 
 login-icloud-q = Bạn có thể truy cập iCloud của tôi không?
-login-icloud-a = Không hề! Sign in with Apple just gives us access to your name, 
-    and your email address (if you choose to share it). We don't have access to anything else. 
-    You can read more about how sign in with apple works on 
-    <a data-l10n-name="applehelp"> Apple's website</a>.
+login-icloud-a = Không hề! chúng tôi chỉ có thể đọc thông tin về tên, 
+    và địa chỉ email của bạn (nếu bạn đồng ý chia sẻ nó). Còn lại, chúng tôi không có quyền truy cập vào bất cứ điều gì khác. 
+    Bạn có thể biết cách chúng tôi truy cập vào thông tin của bạn qua 
+    <a data-l10n-name="applehelp">trang web của Apple</a>.
 
-login-workschool-q = Can I use my Work or School Microsoft account?
-login-workschool-a = Yes, you can use any Microsoft account, including both personal accounts (formerly Windows Live), 
-    and business-managed Azure Active Directory or Office-365 accounts, 
-    unless your IT team have blocked this feature for accounts they manage.
+login-workschool-q = Tôi có thể sử dụng tài khoản Microsoft doanh nghiệp hoặc trường học không?
+login-workschool-a = Có nha, bạn có thể sử dụng bất kỳ loại tài khoản Microsoft nào, bao gồm tài khoản cá nhân (trước đây là Windows Live), 
+    và tài khoản Azure Active Directory hoặc tài khoản Office-365 do doanh nghiệp quản lý, 
+    trừ khi bộ phận CNTT của doanh nghiệp đã chặn tính năng này đối với các tài khoản họ quản lý.
 
-login-otherlogin-q = Can I use another Authentication Provider to access Coggle?
-login-otherlogin-a-p1 = Currently we only support Google, Microsoft and Sign in with Apple account login for personal accounts.
-login-otherlogin-a-p2 = We support <a data-l10n-name="saml">SAML 2.0 login</a> for Coggle Organisations, 
-    and if you're interested in hosting your own version of Coggle with Active Directory login then get in 
-    touch with our <a data-l10n-name="email">enterprise sales address</a>.
+login-otherlogin-q = Tôi có thể đăng ký bằng các phương thức khác để sử dụng Coggle không?
+login-otherlogin-a-p1 = Rất tiếc, chúng tôi hiện chỉ hỗ trợ đăng nhập qua tài khoản Google, Microsoft hay tài khoản Apple của cá nhân.
+login-otherlogin-a-p2 = Chúng tôi cũng hỗ trợ phương thức <a data-l10n-name="saml">SAML 2.0 login</a> với gói doanh nghiệp, 
+    anếu bạn quan tâm đến việc tự cấu trúc phiên bản Coggle của riêng tổ chức với Active Directory thì hãy
+    liên hệ với chúng tôi qua <a data-l10n-name="email">enterprise sales address</a>.
 
-login-pw-more-q = I've still got a question about login
-login-pw-more-a = Ask us! Our email is <a data-l10n-name="email">hello@coggle.it</a>.
+login-pw-more-q = Tôi vẫn còn thắc mắc về cách đăng nhập!
+login-pw-more-a = Cứ liên lạc với chúng tôi qua địa chỉ này <a data-l10n-name="email">hello@coggle.it</a> ha.
 
 # Organizations Landing Page (/organizations) 
-orgs-pitch-title = Coggle Organizations
-orgs-pitch = Each Coggle Organization comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.
+orgs-pitch-title = Coggle cho doanh nghiệp
+orgs-pitch = Mọi tổ chức trong Coggle đều có các tính năng riêng được thiết kế để quản lý đội nhóm và các thông tin nhạy cảm đều được bảo vệ nghiêm ngặt.
 
-orgs-signup = CREATE ORGANIZATION
+orgs-signup = TẠO TỔ CHỨC CỦA BẠN
 
-orgs-subpitch-p1 = When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a data-l10n-name="orglink">Coggle Organizations</a>.
-orgs-subpitch-p2 = Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.
+orgs-subpitch-p1 = Khi thông tin trở nên quan trọng với đội nhóm của bạn và bạn cần các công cụ mạnh mẽ hơn để kiểm soát dữ liệu. Đó là lý do chúng tôi xây dựng <a data-l10n-name="orglink">Gói Coggle doanh nghiệp</a>.
+orgs-subpitch-p2 = Giá cả không là vấn đề, chỉ với <b>$8 mỗi thành viên mỗi tháng</b> mà <br><b>mọi tài nguyên là vô hạn</b>.
 
 
 orgs-feature-saml-sso-title = SAML Single Sign On
-orgs-feature-saml-sso = Authenticate users using your existing Single Sign On service. Support for OneLogin, Okta and more.
+orgs-feature-saml-sso = Authenticate users using your existing Single Sign On service. Chúng tôi hỗ trợ OneLogin, Okta và nhiều dịch vụ khác.
 
-orgs-feature-in-one-place-title = Everything in One Place
-orgs-feature-in-one-place = All your organizations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.
+orgs-feature-in-one-place-title = Tất cả trong một
+orgs-feature-in-one-place = Mọi sơ đồ của tổ chức đều được sắp xếp ở cùng một nơi. Sắp xếp cho nhóm của bạn hoạt động an toàn, ở vị trí dễ quản lý để bạn biết chính xác nơi cần tìm.
 
-orgs-feature-control-sharing-title = Control Sharing
-orgs-feature-control-sharing = You can make sure that Coggles created in your organization stay in your organization. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.
+orgs-feature-control-sharing-title = Kiểm soát truy cập
+orgs-feature-control-sharing = Coggle đảm bảo rằng mọi tài nguyên được tạo ra bởi tổ chức luôn thuộc quyền kiểm soát của tổ chức, mọi vị khách không mời đều không thể đọc, tải và chỉnh sửa tài liệu.
 
-orgs-feature-manage-users-title = Safely Manage Users
-orgs-feature-manage-users = Safely Manage UsersRemove members from your organization without losing the work they've done. Use the management dashboard to view all the diagrams created in your organization by members past and present, deleted or active
+orgs-feature-manage-users-title = Quản lý người dùng an toàn
+orgs-feature-manage-users = Bạn có thể đá thành viên khỏi tổ chức mà không làm mất dữ liệu họ đã tạo. Sử dụng bảng điều khiển để xem tất cả các sơ đồ được tạo ra, đã xóa hay đang hoạt động trong tổ chức của bạn từ trước tới giờ.
 
-orgs-feature-export-title = Bulk Export
-orgs-feature-export = Organization admins can download all of the organizations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind.
+orgs-feature-export-title = Trích xuất hàng loạt
+orgs-feature-export = Quản trị viên của tổ chức có thể tải xuống mọi Coggle ở định dạng JSON, lưu trữ và đọc trên máy chỉ bằng một cú nhấp chuột. Thật đơn giản và tiện lợi!
 
-orgs-feature-branding-title = Show your Brand
-orgs-feature-branding = Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.
+orgs-feature-branding-title = Tỏa sáng cùng thương hiệu của bạn
+orgs-feature-branding = Có thể tạo các sơ đồ có chứa dấu ấn nhận diện của tổ chức và xuất chúng dưới dạng PDF hay PNG. Bạn hoàn toàn có thể chia sẻ với khách hàng hay đối tác của công ty bạn.
 
-orgs-feature-editable-links-title = Editable Private Links
-orgs-feature-editable-links = Create a private link to share with collaborators outside of your organization, allowing them to edit a diagram without logging in.
+orgs-feature-editable-links-title = Chỉnh sửa liên kết riêng tư
+orgs-feature-editable-links = Tạo liên kết bí mật để chia sẻ với cộng sự không thuộc tổ chức của bạn, cho phép họ chỉnh sửa sơ đồ mà không cần đăng nhập.
 
-orgs-feature-awesome = In addition, all members of your organization will get the Coggle <a data-l10n-name="awesome">Awesome</a> features.
+orgs-feature-awesome = Ngoài ra, mọi thành viên của tổ chức đều sẽ nhận được mọi tính năng từ <a data-l10n-name="awesome">Gói xịn xò</a>.
 
 
 # Organizations Sign-Up Page (/organizations/new) 
-orgcreate-title2 = Create a <a data-l10n-name="orgs">Coggle Organization</a>
+orgcreate-title2 = Tạo một <a data-l10n-name="orgs">tổ chức</a>
 orgcreate-nameinput =
-  .placeholder = Choose Your Organization Name
-orgcreate-namehint = Pick something short and recognisable!
-orgcreate-createbutton = Create
+  .placeholder = Đặt tên cho tổ chức
+orgcreate-namehint = Hãy chọn cái tên ngắn gọn và dễ nhận diện!
+orgcreate-createbutton = Tạo
 
-faq-orgs-whatare-q = What are Coggle Organizations?
+faq-orgs-whatare-q = Coggle doanh nghiệp là gì?
 faq-orgs-whatare-a =
-    <p data-l10n-name='p1'>Coggle Organizations create a separation between
-      your personal diagrams and those owned by your company. By separating
-      what's personal from what's professional you gain greater control over
-      your businesses data that's stored in Coggle, including when and how it's
-      shared by your employees.</p>
+    <p data-l10n-name='p1'>Coggle doanh nghiệp tạo ra không gian độc lập cho
+      sơ đồ của cá nhân bạn và sơ đồ thuộc quyền sở hữu của tổ chức. Bằng cách tách bạch
+      rõ cái nào của cá nhân, cái nào thuộc về doanh nghiệp, bạn có thể kiểm soát tốt hơn
+      dữ liệu được lưu trữ trong Coggle, bao gồm thời điểm và cách thức
+      được chia sẻ bởi nhân viên của bạn.</p>
 
-faq-orgs-whofor-q = Who are Coggle Organizations for?
+faq-orgs-whofor-q = Coggle doanh nghiệp dành cho những ai?
 faq-orgs-whofor-a =
-    <p data-l10n-name='p1'>Coggle Organizations have been designed for teams that require
-      greater control over the data they enter into Coggle, or need to keep
-      personal data separate. They're being successfully used by private
-      companies, public bodies, schools and universities to help groups
-      collaborate securely.</p> 
-    <p data-l10n-name='p2'>Any group that need more control over sharing of diagrams, whether for
-      regulatory or internal policy compliance will find Coggle Organizations
-      useful.</p>
+    <p data-l10n-name='p1'>Gói doanh nghiệp được thiết kế riêng cho những đội nhóm cần
+      kiểm soát dữ liệu nhập vào Coggle hoặc cần giữ lại,
+      dữ liệu cá nhân riêng biệt. Chúng sẽ được quản lý tốt bởi
+      các công ty, tổ chức công cộng hay trường học để hỗ trợ các đội nhóm
+      hợp tác một cách an toàn.</p> 
+    <p data-l10n-name='p2'>Hoặc bất kỳ nhóm nào cần nhiều quyền kiểm soát hơn với sơ đồ đều sẽ thấy gói doanh nghiệp rất hữu ích.</p>
 
-faq-orgs-features-q =  What are the main features of a Coggle Organization?
+faq-orgs-features-q =  Đâu là những tính năng nổi bật của Coggle doanh nghiệp?
 faq-orgs-features-a =
-    <p data-l10n-name='p1'><b>Administrators dashboard</b>: complete control over diagrams created
-      by members of your organization, including restoration of deleted diagrams.
+    <p data-l10n-name='p1'><b>Bảng điều khiển cho quản trị viên</b>: bạn có toàn quyền kiểm soát các sơ đồ được tạo
+      bởi hội viên, bao gồm cả việc khôi phục các sơ đồ đã bị xóa.
     </p>
-    <p data-l10n-name='p2'><b>Data control</b>: choose to limit sharing of data to within your
-      organization only.</p>
-    <p data-l10n-name='p3'><b>Bulk export</b>: export all diagrams in your organization for backup
-      or regulatory purposes.</p>
-    <p data-l10n-name='p4'><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
-      one place, and revoke subscriptions when members come and go from your
-      organsiation. </p>
+    <p data-l10n-name='p2'><b>Kiểm soát dữ liệu</b>: giới hạn cho sự lưu thông dữ liệu
+      chỉ trong tổ chức.</p>
+    <p data-l10n-name='p3'><b>Trích xuất hàng loạt</b>: Xuất mọi sơ đồ trong tổ chức cùng một lúc để sao lưu
+      hay để quản lý.</p>
+    <p data-l10n-name='p4'><b>Gộp thanh toán</b>: thanh toán cho nhiều gói xịn xò
+      ở cùng một nơi, và thu hồi gói đăng ký khi ai đó rời khỏi
+      tổ chức. </p>
 
-faq-orgs-awesome-q = How do Coggle Organizations relate to Coggle Awesome?
+faq-orgs-awesome-q = Mối liên hệ giữa gói Coggle doanh nghiệp và gói xịn xò là như nào?
 faq-orgs-awesome-a =
-    <p data-l10n-name='p1'>Coggle Organizations are a great way to centralise billing and license
-      management for multiple Coggle Awesome subscriptions.</p>
-    <p data-l10n-name='p2'>Every user in your Organization will automatically get Coggle Awesome
-      when they're working on diagrams in your organization workspace. This means
-      all the great features including private diagrams, presentation mode,
-      extended colour palette and high resolution image uploads.</p>
+    <p data-l10n-name='p1'>Gói Coggle doanh nghiệp là một cách tuyệt vời để thanh toán tập trung và cấp phép
+      quản lý cho nhiều gói xịn xò cùng một lúc.</p>
+    <p data-l10n-name='p2'>Mọi thành viên thuộc tổ chức của bạn đều tự động nhận được gói xịn xò
+      khi họ hoạt động trên không gian làm việc của tổ chức. Điều này bao gồm
+      mọi tính năng tuyệt vời như tạo vô số sơ đồ riêng tư, chế độ trình chiếu,
+      bảng màu mở rộng và tải lên hình ảnh có độ phân giải cao.</p>
 
-faq-orgs-billing-q = How does billing work for Coggle Organizations?
-faq-orgs-billing-a = Coggle Organizations are charged at ${$pricePerMemberPerMonth} per member per month. You can add
-  and remove members at any time from the dashboard for your organization.
+faq-orgs-billing-q = Việc thanh toán gói Coggle doanh nghiệp diễn ra như thế nào?
+faq-orgs-billing-a = Gói doanh nghiệp được tính phí ${$pricePerMemberPerMonth} mỗi thành viên mỗi tháng. Bạn có thể thêm
+  và xóa bất kỳ ai ở bất kỳ thời điểm nào từ bảng điều khiển của tổ chức.
 
-faq-orgs-edu-q = Are there any education pricing options?
-faq-orgs-edu-a = Yes! Contact us at education@coggle.it to find out more.
+faq-orgs-edu-q = Có bất kỳ lựa chọn nào cho giáo dục không?
+faq-orgs-edu-a = Có chứ! Hãy liên hệ với chúng tôi qua education@coggle.it để tìm hiểu thêm.
 
-faq-orgs-more-q = I've still got some questions...
-faq-orgs-more-a = Ask us! Send us an email to orgs@coggle.it and we'll be happy to help :)
+faq-orgs-more-q = Tôi vẫn còn nhiều thắc mắc...
+faq-orgs-more-a = Chill đi bạn ơi! Liên hệ với chúng tôi qua orgs@coggle.it nhé, chúng tôi rất sẵn lòng giúp đỡ bạn :)
 
 
 # About Coggle (/about) 
-about-hello2-title = Hello!
+about-hello2-title = Xin chào người đẹp!
 about-hello2-p1 =
-    <b>Coggle gives you a clear way to share and understand complex
-    information.  It's a collaborative document that simplifies complex things
-    and a shared workspace to help your team work more effectively
-    together.</b>
+    <b>Coggle cung cấp cho bạn một tầm nhìn rõ ràng để chia sẻ và hiểu những
+    thông tin phức tạp. Đây là một nơi để hợp tác nhằm đơn giản hóa những điều phức tạp
+    và chia sẻ không gian làm việc chung để giúp đội nhóm của bạn làm việc hiệu quả hơn,
+    cùng nhau.</b>
 about-hello2-p2 =
-    It's free, and we promise it always will be, but we still promise to look
-    after your data the best we know how, to keep backups, and to take security
-    seriously.
+    Nó miễn phí và sẽ luôn như vậy, và chúng tôi hứa sẽ luôn
+    lưu trữ, bảo mật mọi dữ liệu của bạn một cách an toàn và
+    nghiêm tức, hứa đấy.
 about-hello2-p3 =
-    Our mission is to change the way that people work and collaborate forever,
-    to make you more productive, to make it easier to share information with
-    others, and to do it in a way that's beautiful, and a pleasure to use.
+    Sứ mệnh của chúng tôi là thay đổi cách mọi người làm việc và cộng tác,
+    giúp cho hoạt động của bạn năng suất hơn, dễ dàng chia sẻ thông tin với
+    người khác và luôn thấy thú vị khi sử dụng.
 
   
 
-about-what-is-mindmapping-title = What is Mind Mapping?
+about-what-is-mindmapping-title = Sơ đồ tư duy là gì zạ?
 about-what-is-mindmapping =
-    A mind map is a simple way to visually map out a topic in an organic way.
-    It starts with one or more central topics then repeatedly branches out,
-    breaking down information into a hierarchy of its components.<br>
-    The items in the mindmap can be positioned spatially and formatted for size
-    and colour to help with memory and recall. Mind mapping goes by lots of
-    different names: concept mapping, spider diagrams, brainstorm diagrams and
-    others, but you can use Coggle for all of them!
+    Sơ đồ tư duy là một cách đơn giản để trực quan hóa một chủ đề một cách hữu cơ.
+    Nó bắt đầu với một hay nhiều trung tâm, sau đó phân làm nhiều nhánh,
+    tổ chức thông tin theo thứ bậc với nhiều thành phần.<br>
+    Một khối (item) trong sơ đồ tư duy có thể điều chỉnh theo không gian, kích thước
+    và màu sắc để hỗ trợ việc ghi nhớ dễ dàng hơn. Sơ đồ tư duy có nhiều tên gọi
+    như: biểu đồ khái niệm, biểu đồ mạng nhện, sơ đồ động não (brainstorm diagram)
+    và nhiều biến thể khác, không cần lo vì mọi dạng sơ đồ Coggle đều có!
 
 
 
-about-who-is-mindmapping-for-title = Who are Mind Maps for?
+about-who-is-mindmapping-for-title = Sơ đồ tư duy hữu ích với những ai?
 about-who-is-mindmapping-for =
-    Mindmaps are useful for anyone to plan, take notes, visualise information,
-    brainstorm, solve problems, study, and share information (to name just a
-    few). There's really no limit to their uses!<br>
-    Everyone who values visual thinking, in business, education, or just in
-    their personal life can find mind maps useful to organise information.
+    Sơ đồ tư duy hữu dụng với bất kỳ ai muốn lập kế hoạch, ghi chép, trực quan hóa thông tin,
+    động não, giải quyết vấn đề, học tập, chia sẻ thông tin,
+    (vân vân mây mây). Ái chà, thật sự không thể kể hết những công dụng của nó!<br>
+    Những người thiên về tư duy bằng hình ảnh, trong kinh doanh, giáo dục hay
+    kể cả cuộc sống cá nhân đều thấy nó hữu ích để sắp xếp thông tin.
 
 
 
-about-getintouch-title = Get in Touch
+about-getintouch-title = Liên hệ với chúng tôi
 about-getintouch =
-    Got a question? Want to tell us how you're using Coggle? Or maybe just give
-    us some feedback? You can find us on <a data-l10n-name="facebook">facebook
-    </a>and on <a data-l10n-name="x">X </a>and if you prefer you can always
-    send an email to <a data-l10n-name="email">hello@coggle.it </a>— we love to
-    chat!
+    Bạn có thắc mắc hở? Hay muốn chia sẻ cách bạn sử dụng Coggle? Hay cung cấp
+    một số phản hồi? Hãy tìm chúng tôi ở <a data-l10n-name="facebook">facebook
+    </a> hoặc <a data-l10n-name="x">X </a> và nếu muốn,
+    gửi meo qua đây <a data-l10n-name="email">hello@coggle.it </a> nha — chúng tôi
+    rất thích trò chuyện với bạn!
 
 
-about-share-title = Spread the Word
+about-share-title = Một hành động hơn cả ngàn lời nói
 about-share =
-  If you love Coggle, then help us break even more people free from the
-  confines of lists, spreadsheets and conventional documents! You can share
-  Coggle <a data-l10n-name="x">on X</a> or <a data-l10n-name="facebook">on Facebook</a>.
+  Nếu bạn yêu mến Coggle, hãy giúp chúng tôi được tiếp cận nhiều hơn với nhiều người! 
+  Bạn có thể chia sẻ Coggle qua <a data-l10n-name="x">X</a> hoặc <a data-l10n-name="facebook">Facebook</a>.
 
 about-itp-title = In the press?
 about-itp = Then check out our <a data-l10n-name="kit">press kit</a> or, <a data-l10n-name="email">get in touch</a> to find out more!
 
 
 # Coggle Facts 
-fact-math = Did you know you can write math in Coggles? (Yeah, geeky!) Use \\( LaTeX here \\) to try it out!
+fact-math = Bạn có biết có thể viết công thức toán học trong sơ đồ không? (Có á? Ngầu đấy!) Sử dụng \\( LaTeX here \\) xem sao!
 
-fact-collaborate = Did you know that you can collaborate in real-time with others? You can! Use the (+) button in the top right.
+fact-collaborate = Bạn có biết mình có thể cộng tác với người khác không? Hoàn toàn có thể! Hãy dùng nút (+) ở góc trên bên phải nhé.
 
-fact-share = Did you know that you can edit a Coggle at the same time as someone else? You can! Use the (+) button in the top right to invite others.
+fact-share = Bạn có biết mình có thể chỉnh sửa biểu đồ cùng một lúc với người khác? Có chứ! Ấn nút (+) ở góc trên bên phải để mời họ nha.
 
 fact-font = Did you know you can use a fixed-width code font in Coggles? You can!<br>Just use `backticks` around the text, it also stops other special syntax from being interpreted.
 
-fact-bold = Did you know you can use **bold text** in Coggles?<br>Just use **double asterisks** where you want the emphasis!
+fact-bold = Bạn có biết bạn có thể **in đậm văn bản** trong sơ đồ?<br>Chỉ cần sử dụng **dấu sao đôi** ở đoạn bạn muốn nhấn mạnh!
 
-fact-italic = Did you know you can use *italic text* in Coggles?<br>Just use *asterisks* where you want the emphasis!
+fact-italic = Bạn có biết bạn có thể *in nghiêng văn bản*?<br>I zì, dùng *dấu sao* trên đoạn bạn muốn nhấn mạnh!
 
-fact-links = Did you know you can put links in Coggles? You can!<br>They work like this:<br>[description](http://example.com)
+fact-links = Bạn có biết mình có thể thêm liên kết trong Coggle? <br>Làm dễ lắm, để Viên chỉ cho:<br>[mô tả](http://example.com)
 
-fact-download = Did you know that you can download your Coggle as a PDF or an image? You can! Look for the download button in the top right of the screen.
+fact-download = Bạn có biết có thể tải xuống sơ đồ dưới dạng PDF hay hình ảnh? Yẹt sir! Có nút tải xuống ở góc phải bên trển á.
 
 fact-markdown = Did you know that Coggle uses <a data-l10n-name='link'>markdown syntax</a>? It does!<br>Try out links like this: &lt;http://example.com&gt;
 
-fact-latex = Did you know Coggle supports LaTeX formulae? It does!<br>Use \\( LaTeX here \\) to try it out! Check out <a data-l10n-name='link'>this link</a> for syntax help.
+fact-latex = Bạn có biết Coggle hỗ trợ công thức LaTex không? Câu trả lời là có!<br>Sử dụng \\( LaTeX here \\) coi sao! Truy cập <a data-l10n-name='link'>liên kết này</a> để biết thêm về cú pháp.
 
 fact-move = Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
 
-fact-fontsize = Text too big? Too small? You can zoom!<br> use [ctrl] [+] / [ctrl] [-]
+fact-fontsize = Chữ quá to hay quá bé? Zoom bằng cách <br> sử dụng [ctrl] [+] / [ctrl] [-] nha
 
-fact-zoomin = Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+], or right click and drag the zoom icon!
+fact-zoomin = Bạn có biết mình có thể phóng to sơ đồ để xem rõ hơn không? Hãy<br> sử dụng [ctrl] [+], hoặc nhấp chuột phải và kéo biểu tượng thu phóng!
 
-fact-zoomout = Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-], or right click and drag the zoom icon!
+fact-zoomout = Bạn có biết mình có thể thu nhỏ sơ đồ để nhìn bức tranh toàn cảnh không? <br> Dùng [ctrl] [-], hoặc nhấp chuột phải và kéo biểu tượng thu phóng!
 
 fact-markdown2 = Did you know that <a data-l10n-name='link'>Markdown</a> is awesome? It is, and Coggle supports it!
 
-fact-pdf = You can download your Coggle as a PDF! Look for the download button in the top right of the screen.
+fact-pdf = Bạn có thể tải về các Coggle dưới định dạng PDF! Tìm nút tải xuống ở góc trên bên phải màn hình nha.
 
-fact-png = You can download your Coggle as an Image! Look for the download button in the top right of the screen.
+fact-png = Bạn có thể tải về các Coggle dưới dạng hình ảnh! Tìm nút tải xuống ở góc trên bên phải màn hình nha.
 
-fact-latex2 = Did you know Coggle supports LaTeX for math? It does!<br>Use \\( \LaTeX here \\) to try it out! Here's <a data-l10n-name='link'>a syntax guide</a>.
+fact-latex2 = Bạn có biết Coggle hỗ trợ các công thức toán với LaTex? Có nhé!<br>Hãy dùng \\( \LaTeX here \\)! Nếu chưa rõ, đây là <a data-l10n-name='link'>trợ giúp</a>.
 
-fact-history = Did you know you can view the history of who changed what, when in your Coggle? You can! Click the clock icon in the top right.
+fact-history = Bạn có biết mình có thể xem ai đã làm và chỉnh sửa khi nào không? Thấy biểu tượng đồng hồ ở góc trên bên phải không, click vào đó nhá.
 
-fact-images = Did you know you can put images in your Coggle? You can!<br>Just drag and drop an image from your computer to wherever you want it.
+fact-images = Bạn có biết bạn có thể thêm hình ảnh vào các Coggle không? <br>Chỉ cần kéo và thả, kéo và thả, kéo và thả.
 
 fact-images2 = Did you know you can use images in Coggles? You can!<br>Drag and drop an image from your computer to wherever you want it. A mini version of the image is uploaded and saved!
 
-fact-plaintext-in = Did you know you can drag & drop plain text files onto Coggle to import them? You can!<br>If your file has indentation, Coggle will even add structure to the imported text.
+fact-plaintext-in = Bạn có biết bạn có thể nhập các tệp văn bản thuần túy vào một Coggle không, chỉ cần kéo và thả! <br>Nếu tệp của bạn thụt lề, Coggle sẽ tự động nhận diện và thêm cấu trúc vào văn bản được nhập.
 
-fact-freemind-in = Did you know you can drag & drop Freemind .mm files onto Coggle to import them? You can!
+fact-freemind-in = Bạn có biết mình có thể nhập các tài liệu định dạng .mm vào Coggle không? Chỉ cần kéo và thả!
 
-fact-link-drag = Did you know you can drag a URL from your address bar onto a Coggle to make a link to that site? You can!
+fact-link-drag = Bạn có biết bạn có thể kéo URL từ thanh địa chỉ đến một Coggle để tạo liên kết tới trang web đó không? Giờ biết rồi nè!
 
-fact-text-size = Did you know you can change the font? You can!<br>Use #, ##, or ### at the start of a line to make the text bigger.
+fact-text-size = Bạn có biết bạn có thể thay đổi kích cỡ font chữ không? <br>Sử dụng #, ##, hay ### ở đầu văn bản để làm chúng lớn hơn.
 
-fact-text-size2 = Did you know you can change the font? You can!<br>Drag the corner of the text editing area up or down to change the text size.
+fact-text-size2 = Bạn có biết bạn có thể thay đổi cỡ chữ không? <br>Kéo ở góc của vùng chỉnh sửa văn bản lên hoặc xuống để thay đổi kích thước nhá.
 
-fact-text-size3 = Did you know you can change the text size? You can!<br>Drag the corner of the text editing area.
+fact-text-size3 = Bạn có biết bạn có thể thay đổi kích cỡ chữ? Yep!<br>Di chuyển góc ở vùng chỉnh sửa văn bản trong khối (item) nha.
 
-fact-md-reference = Did you know you can use Markdown in Coggles to add links, images and more? You can!<br>Here's the <a data-l10n-name='link'>complete reference</a>.
+fact-md-reference = Bạn có biết bạn có thể dùng Markdown để chèn liên kết, hình ảnh và nhiều thứ khác? <br>Đây là <a data-l10n-name='link'>tài liệu tham khảo</a>.
 
-fact-multiline-keys = Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
+fact-multiline-keys = Bạn có biết bạn có thể ngắt văn bản thành nhiều dòng? Giữ phím [ctrl] trong khi nhấn [return] để chèn một dòng mới. Bạn cũng có thể kéo góc của vùng chỉnh sửa, và sử dụng [return] như bình thường.
 
-fact-multiline-drag = Did you know you can break text over multiple lines? You can! Drag the corner of the edit field, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
+fact-multiline-drag = Bạn có biết bạn có thể ngắt văn bản thành nhiều dòng? Kéo góc của vùng chỉnh sửa, sau đó ấn [return] sẽ chèn một dòng mới. Bạn cũng có thể giữ phím [ctrl] rồi nhấn [return] để chèn dòng mới trong khi đang nhập.
 
-fact-multiline-wrap = Did you know you can break text over multiple lines? You can! Drag the corner of the text editing area left/right to wrap text onto multiple lines.
+fact-multiline-wrap = Bạn có biết bạn có thể ngắt văn bản thành nhiều dòng? Có chớ! Kéo góc của vùng chỉnh sửa văn bản sang trái hoặc phải để ngắt văn bản thành nhiều dòng nhé.
 
-fact-resize-images = Did you know you can resize images? You can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
+fact-resize-images = Bạn có biết mình có thể dễ dàng thay đổi kích thước của hình ảnh? Kéo hình ảnh từ bất cứ đâu vào sơ đồ của bạn (với điều kiện bạn có quyền sử dụng nó nhen), sau đó di chuyển góc dưới bên phải của hình ảnh để thay đổi kích thước á.
 
-fact-image-size = Did you know we support a Markdown extension to specify image size? We do! Specify a 200 by 100 pixel image like this: ![image description](http://url.to.image "optional title" 200x100)
+fact-image-size = Bạn có biết rằng chúng tôi hỗ trợ tiện ích mở rộng Markdown để căn chỉnh kích thước hình ảnh không? Đây là một ví dụ về việc chỉ định kích thước hình ảnh ở 200 x 100 pixel: ![mô tả hình ảnh](http://url.to.image "tùy chọn tiêu đề" 200x100)
 
-fact-bold-kbshort = Did you know you can use keyboard shortcuts to add **bold text** in Coggles? You can! Just press [ctrl]+[b] (or [cmd]+[b] on macs) with the text you want bold selected.
+fact-bold-kbshort = Bạn có biết chỉ cần dùng phím tắt để **in đậm văn bản**? Chỉ cần nhấn [ctrl]+[b] (hoặc [cmd]+[b] trên macs) với đoạn văn bản bạn đã chọn.
 
-fact-shortcuts-1 = Did you know you can edit your Coggle using only the keyboard? You can, here's how:<br>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
+fact-shortcuts-1 = Bạn có biết cách chỉnh sửa sơ đồ mà không cần chuột, chỉ cần bàn phím? Hãy xem đây<br>[tab] để tạo mục con<br>[shift]+[tab] để di chuyển đến mục cha<br>[shift]+[return] để thêm một nhánh đồng cấp
 
-fact-shortcuts-2 = Did you know you can select which branch to edit using keyboard shortcuts? You can!<br>Use [alt]+[shift]+arrow keys to move along branches.
+fact-shortcuts-2 = Bạn có biết bạn có thể chọn nhánh cần chỉnh sửa chỉ dùng phím tắt? <br>Dùng đồng thời tổ hợp phím [alt]+[shift]+phím mũi tên để di chuyển giữa các nhánh.
 
-fact-task-lists = Did you know you can <a data-l10n-name='link'>Markdown</a> to add checklists to Coggles? You can, here's an example:<br>- [ ] unchecked checkbox<br>- [X] checked checkbox<br>Clicking on a checkbox automatically changes the markdown, too.
+fact-task-lists = Bạn có biết mình có thể dùng <a data-l10n-name='link'>Markdown</a> để tạo hộp kiểm trong sơ đồ Coggle? Hãy thử cách này nha:<br>- [ ] unchecked checkbox<br>- [X] checked checkbox<br>Nhấp vào hộp kiểm cũng sẽ tự động thay đổi markdown mà không cần code.
 
 fact-api-1 = Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
 
-fact-organisation = Using Coggle in Business? You can create a Coggle Organization to manage your Company's Coggles.
+fact-organisation = Sử dụng Coggle cho doanh nghiệp? Bạn có thể đăng ký gói doanh nghiệp để quản lý các sơ đồ của công ty bạn.
 
-fact-organisation2 = Did you know Coggle Organizations can put their logo on their Coggles? They can!
+fact-organisation2 = Bạn có biết gói doanh nghiệp cho phép chèn logo thương hiệu trên các Coggle? Điều này làm tăng tính chuyên nghiệp của tổ chức đó!
 
-fact-organisation3 = Did you know you can create a Coggle Organization to organize your businesses Coggles? You can!
+fact-organisation3 = Bạn có biết bạn có thể dùng gói Coggle doanh nghiệp để quản lý mọi sơ đồ của tổ chức? Chần chờ chi, đăng ký ngay thôi!
