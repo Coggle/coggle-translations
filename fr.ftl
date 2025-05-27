@@ -543,6 +543,9 @@ hint-add =
             [Mac] Ajouter une nouvelle branche. Utilisez <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> pour supprimer à la place, ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pour insérer.
            *[Win] Ajouter une nouvelle branche. Utilisez <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> pour supprimer à la place, ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pour insérer.
     }
+hint-delete = Supprimer la branche.
+hint-remove = Supprimer l'élément.
+hint-insert-rp = Insérez l'élément avant celui-ci ou faites-le glisser pour le transplanter.
 
 stat-saving = Épargne
 stat-saved = Toutes les modifications enregistrées
