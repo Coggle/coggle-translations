@@ -211,6 +211,14 @@ impersonatedaccess = You're viewing Coggle as an Organization member. <a data-l1
 doclist-loading-failed = Uh-oh! Loading folder failed, refresh the page to try again.
 doclist-discover-whatspossible = Want to get more from Coggle? Discover <a data-l10n-name='link'>what's possible</a>.
 
+sort-custom = Custom Order
+sort-a-z = A-Z
+sort-z-a = Z-A
+sort-newest-asc = Created most recently
+sort-newest-desc = Created longest ago
+sort-modified-asc = Modified most recently
+sort-modified-desc = Modified least recently
+
 tooltip-createorg =
     .title = Create an Organization
 tooltip-invite-folder =
@@ -360,7 +368,7 @@ add-label = add label
 help-title-title = The Diagram Title
 help-title-p1 = This is the center of your diagram, and its title. Your ideas will branch out from here!
 help-title-p2 = Start by editing it - what is your diagram about?
-help-gohome = Click the Coggle logo to go back to the homepage, where your documents are automatically saved.
+help-gohome-2 = When you have finished editing, click the logo to go back to the homepage. Your documents are automatically saved.
 help-add-node = Use the <div data-l10n-name='plus'>+</div> buttons to add branches.
 help-edit-node-p1 = Click any item to edit the text.
 help-edit-node-p2 = Change the text size by dragging the corner of the editing area.
@@ -512,11 +520,12 @@ touch-pressbackground = <b>Long-press</b> on the <b>background</b> to add <b>lab
 sc-and-click = + click
 sc-and-drag = + drag
 sc-and-mousewheel = + mousewheel
-sc-shift = shift
-sc-ret = enter
-sc-tab = tab
-sc-ctrl = ctrl
+sc-shift = shift ⇧
+sc-ret = enter ⏎
+sc-tab = tab ⇥
+sc-ctrl = ctrl ^
 sc-alt = alt
+sc-option = option ⌥
 sc-dragdrop = drag and drop
 
 sidebar-whentyping = When typing
@@ -528,6 +537,22 @@ sidebar-sc-parent = Jump to Parent:
 
 sidebar-sc-markdown-title = Format text:
 sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
+
+hint-control-line = Drag to adjust line.
+hint-control-remove = Click to remove control point.
+hint-delete-link = Delete cross-link.
+hint-edit-label = Edit cross-link label.
+hint-add-title = Add new branch. This is the diagram's title.
+hint-add =
+    {
+        $os ->
+            [Mac] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
+           *[Win] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
+    }
+
+stat-saving = Saving
+stat-saved = All changes saved
+stat-noaccess = Access denied
 
 another-fact = another!
 cogglefacts-more = Read more...

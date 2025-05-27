@@ -36,6 +36,8 @@ me-as-awesome-orgmember-p1 = This is you &mdash; you're viewing Coggle as an <b>
 
 touch-pressitem = <b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more.
 
+sc-ret = return ⏎
+
 awesome-feature-colours-title = More Colours
 awesome-feature-colours = Unlock a new range of vivid colours to help organise and highlight your ideas.
 

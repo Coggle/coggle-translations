@@ -206,6 +206,14 @@ impersonatedaccess = Vous voyez Coggle en tant que membre d'une organisation. <a
 doclist-loading-failed = Oh-oh! Le chargement du dossier a échoué, rafraîchissez la page pour essayer à nouveau.
 doclist-discover-whatspossible = Vous voulez tirer le meilleur de Coggle ? Découvrez <a data-l10n-name='link'>ce qui est possible</a>.
 
+sort-custom = Ordre Personnalisé
+sort-a-z = A-Z
+sort-z-a = Z-A
+sort-newest-asc = Création la plus récente
+sort-newest-desc = Trier d'abord les plus anciens
+sort-modified-asc = Dernière modification
+sort-modified-desc = Modifié le moins récemment
+
 tooltip-createorg =
     .title = Créer une organisation
 tooltip-invite-folder =
@@ -354,7 +362,7 @@ add-label = ajouter un label
 help-title-title = Le Titre
 help-title-p1 = C'est le centre de votre diagramme, et son titre. Vos idées se ramifieront à partir d'ici !
 help-title-p2 = Commencez par l'éditer - de quoi parle votre diagramme?
-help-gohome = Cliquez sur le logo Coggle pour retourner à la page d'accueil, où vos documents sont automatiquement sauvegardés.
+help-gohome-2 = Lorsque vous avez terminé la modification, cliquez sur le logo Coggle pour retourner à la page d'accueil, où vos documents sont automatiquement sauvegardés.
 help-add-node = Utilisez les boutons <div data-l10n-name='plus'>+</div> pour ajouter des branches.
 help-edit-node-p1 = Cliquez sur un objet pour éditer le texte.
 help-edit-node-p2 = Changez la taille du texte en faisant glisser le coin de la zone d'édition.
@@ -506,11 +514,12 @@ touch-pressbackground = <b>Appuyez longuement</b> sur <b>l'arrière-plan</b> pou
 sc-and-click = + clic
 sc-and-drag = + glisser
 sc-and-mousewheel = + roulette souris
-sc-shift = Maj
-sc-ret = entrée
-sc-tab = tab
-sc-ctrl = ctrl
+sc-shift = Maj ⇧
+sc-ret = entrée ⏎
+sc-tab = tab ⇥
+sc-ctrl = ctrl ^
 sc-alt = alt
+sc-option = alt ⌥
 sc-dragdrop = cliquer-glisser
 
 sidebar-whentyping = En tapant
@@ -522,6 +531,22 @@ sidebar-sc-parent = Retour au parent:
 
 sidebar-sc-markdown-title = Formater le texte:
 sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
+
+hint-control-line = Faites glisser pour ajuster la branche.
+hint-control-remove = Cliquez pour supprimer le point de contrôle.
+hint-delete-link = Supprimer le lien croisé.
+hint-edit-label = Modifier l'étiquette de lien croisé.
+hint-add-title = Ajouter une nouvelle branche. Voici le titre du diagramme.
+hint-add =
+    {
+        $os ->
+            [Mac] Ajouter une nouvelle branche. Utilisez <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> pour supprimer à la place, ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pour insérer.
+           *[Win] Ajouter une nouvelle branche. Utilisez <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> pour supprimer à la place, ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pour insérer.
+    }
+
+stat-saving = Épargne
+stat-saved = Toutes les modifications enregistrées
+stat-noaccess = Accès refusé
 
 another-fact = Un autre !
 cogglefacts-more = Lire plus...
