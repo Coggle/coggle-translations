@@ -9,9 +9,10 @@
 # which is described below
 
 index-tagline = Um jeito simples para compartilhar informações complexas.
-index-tagline-mm = Um jeito simples para compartilhar informações complexas.
+index-tagline-mm = Faça mapas mentais que fluam como suas ideias.
 index-signupnow = Registre-se agora
 index-login = Já tem uma conta? Faça login aqui.
+index-title = Coggle - Mapas Mentais Poderosos: colabore, anote, planeje, estude, faça brainstorming.
 
 index-nav-login = Login
 index-nav-pricing = Planos
@@ -125,7 +126,8 @@ awesome-signup-monthly = Inscreva-se <span>$5 USD</span> por mês
 awesome-signup-yearly = Inscreva-se <span>$50 USD</span> por ano
 awesome-upgrade-monthly = Atualizar(<b>$5 USD</b>/mês)
 awesome-upgrade-yearly = Atualizar (<b>$50 USD</b>/ano
-yearly-discount = Pague anualmente e ganhe 2 meses grátis!
+yearly-discount-months = Pague anualmente e ganhe 2 meses grátis!
+yearly-discount = Economize US$ 10 pagando anualmente
 switch-yearly = Atualizar para uma assinatura anual
 manage-subscription = Gerenciar assinatura.
 
@@ -337,20 +339,22 @@ choose-shape = escolher forma
 # (remove and item *and* all of its children)
 delete-branch = excluir ramificação inteira
 
-# remove-item = remove item
-# show-children = show children
-# hide-children = hide children
-# drag-to-create-link = drag to create link
-# drag-to-transplant-branch = drag to transplant branch
-# delete-connection = delete connection
-# reverse-connection = reverse connection
-# label-connection = label this connection
+remove-item = remover item
+show-children = mostrar ramos filhos
+hide-children = ocultar ramos filhos
+drag-to-create-link = arraste para criar link
+drag-to-transplant-branch = arraste para transplantar o ramo
+delete-connection = excluir conexão
+reverse-connection = conexão reversa
+label-connection = rotule esta conexão
+move-branch-to-diagram = mover ramificação para novo diagrama
+copy-branch-to-diagram = copiar ramificação para novo diagrama
 
 undo = desfazer
 redo = refazer
 paste-branch = colar ramificação
 drag-zoom-page = arrastar para a página de zoom
-# add-label = add label
+add-label = adicionar rótulo
 
 help-title-title = O título do diagrama
 help-title-p1 = Este é o centro do seu diagrama e seu título. Suas ideias vão se ramificar a partir daqui!
@@ -512,6 +516,7 @@ sc-ret = enter
 sc-tab = tab
 sc-ctrl = ctrl
 sc-alt = alt
+sc-option = alt ⌥
 sc-dragdrop = arrastar e soltar
 
 sidebar-whentyping = Quando digitando
@@ -523,6 +528,25 @@ sidebar-sc-parent = Pular para um Pai:
 
 sidebar-sc-markdown-title = Format text:
 sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
+
+hint-control-line = Arraste para ajustar a linha.
+hint-control-remove = Clique para remover o ponto de controle.
+hint-delete-link = Excluir link cruzado.
+hint-edit-label = Editar rótulo de link cruzado.
+hint-add-title = Adicionar nova ramificação. Este é o título do diagrama.
+hint-add =
+    {
+        $os ->
+            [Mac] Adicione uma nova ramificação. Use <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> para excluir ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> para inserir.
+            *[Win] Adicione uma nova ramificação. Use <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> para excluir ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> para inserir.
+    }
+hint-delete = Excluir ramificação.
+hint-remove = Excluir item.
+hint-insert-rp = Insira o item antes deste ou arraste para transplantar.
+
+stat-saving = Salvando
+stat-saved =Todas as alterações foram salvas 
+stat-noaccess = Acesso negado
 
 another-fact = outro!
 cogglefacts-more = Leia mais...

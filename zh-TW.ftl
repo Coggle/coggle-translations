@@ -12,6 +12,7 @@
 index-tagline-mm = 以清楚的方式分享複雜的訊息。
 index-signupnow = 立即註冊
 index-login = 已經註冊了？在這裡登錄。
+index-title = Coggle - 強大的心智圖和流程圖：協作、記錄、計劃、學習、集思廣益。
 
 index-nav-login = 登錄
 index-nav-pricing = 會員
@@ -126,21 +127,23 @@ awesome-signup-yearly = 註冊 每年<span>$50美元</span>
 awesome-upgrade-monthly = 升級 (每月<b>$5美元</b>)
 awesome-upgrade-yearly = 升級 (每年<b>$50美元</b>)
 yearly-discount-percent = 支付全年節省超過15％
+yearly-discount = 按年付款可省 10 美元
 switch-yearly = 升級到每年
 manage-subscription = 管理會員計劃
 
 per-month = 每月
 per-member-per-month = 每人每月
 forever = 永遠
+flexible = 完全靈活
 
 awesome-feature = 好棒棒會員
 org-feature = 組織會員功能
 
-footer-help = Help and Documentation
+footer-help = 幫助和文檔
 footer-about = 關於
 footer-contact = 聯繫
 footer-privacy = 隱私
-footer-examples = Templates and Examples
+footer-examples = 模板和範例
 # footer-api = Developer API
 # footer-blog = Bloggle
 footer-terms = 條款
@@ -345,6 +348,8 @@ drag-to-transplant-branch = 拖移植分支
 delete-connection = 刪除連接
 reverse-connection = 反向連接
 label-connection = 標記此連接
+move-branch-to-diagram = 將分支移動到新圖表
+copy-branch-to-diagram = 將分支複製到新圖
 
 undo = 還原
 redo = 重做
@@ -511,6 +516,7 @@ sc-ret = enter
 sc-tab = tab
 sc-ctrl = ctrl
 sc-alt = alt
+sc-option = option ⌥
 sc-dragdrop =  拖放
 
 sidebar-whentyping = 當正在輸入時
@@ -522,6 +528,25 @@ sidebar-sc-parent = 跳到上層:
 
 sidebar-sc-markdown-title = 格式化文字:
 sidebar-sc-markdown = 使用 <a data-l10n-name="link">Markdown</a> 語法
+
+hint-control-line = 拖曳來調整線條。
+hint-control-remove = 單擊即可刪除控制點。
+hint-delete-link = 刪除交叉連結。
+hint-edit-label = 編輯交叉連結標籤。
+hint-add-title = 新增分支。這是圖表的標題。
+hint-add =
+    {
+        $os ->
+            [Mac] 新增分支。使用 <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> 來刪除，或使用 <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> 來插入。
+            *[Win] 新增分支。使用 <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> 來刪除，或使用 <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> 來插入。
+    }
+hint-delete = 刪除分支。
+hint-remove = 刪除項目。
+hint-insert-rp = 在此項目之前插入項目，或拖曳以進行移植。
+
+stat-saving = 儲存
+stat-saved = 所有變更已儲存
+stat-noaccess = 拒絕訪問
 
 another-fact = 另一個!
 cogglefacts-more = 閱讀更多...

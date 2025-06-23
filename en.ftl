@@ -9,9 +9,10 @@
 # which is described below
 
 index-tagline = The clear way to share complex information.
-index-tagline-mm = Make mind map documents that flow like your ideas.
+index-tagline-mm = Make mind maps that flow like your ideas.
 index-signupnow = Sign Up Now
 index-login = Already signed up? Log in here.
+index-title = Coggle - Powerful Mind Maps & Flowcharts: Collaborate, Note, Plan, Study, Brainstorm.
 
 index-nav-login = Login
 index-nav-pricing = Pricing
@@ -130,13 +131,14 @@ awesome-signup-monthly = Sign up <span>$5</span> per month
 awesome-signup-yearly = Sign up <span>$50</span> per year
 awesome-upgrade-monthly = Upgrade (<b>$5</b>/month)
 awesome-upgrade-yearly = Upgrade (<b>$50</b>/year)
-yearly-discount = Pay yearly and get 2 months free!
+yearly-discount = Save $10 by paying annually
 switch-yearly = Upgrade to Yearly
 manage-subscription = Manage Subscription
 
 per-month = per month
 per-member-per-month = per member per month
 forever = forever
+flexible = fully flexible
 
 awesome-feature = Awesome Plan
 org-feature = Organization Feature
@@ -154,6 +156,7 @@ footer-what-is-mindmapping = What is Mindmapping?
 footer-top-uses = Top Mindmap Uses
 footer-company = Company
 footer-legal = Legal
+footer-access = Accessibility
 
 # logged-in homepage content (documents list): https://coggle.it when logged in
 create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Create Diagram</span>
@@ -358,6 +361,8 @@ drag-to-transplant-branch = drag to transplant branch
 delete-connection = delete connection
 reverse-connection = reverse connection
 label-connection = label this connection
+move-branch-to-diagram = move branch to new diagram
+copy-branch-to-diagram = copy branch to new diagram
 
 undo = undo
 redo = redo
