@@ -12,7 +12,7 @@ index-tagline = Um jeito simples para compartilhar informações complexas.
 index-tagline-mm = Faça mapas mentais que fluam como suas ideias.
 index-signupnow = Registre-se agora
 index-login = Já tem uma conta? Faça login aqui.
-index-title = Coggle - Mapas Mentais Poderosos: colabore, anote, planeje, estude, faça brainstorming.
+index-title = Mapas mentais simples e elegantes: tão rápido quanto seus pensamentos - Coggle
 
 index-nav-login = Login
 index-nav-pricing = Planos

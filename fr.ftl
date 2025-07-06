@@ -12,7 +12,7 @@
 index-tagline-mm = Une façon claire de partager des informations complexes.
 index-signupnow = Inscrivez-vous maintenant
 index-login = Déjà inscrit ? Connectez-vous.
-index-title = Coggle - Cartes mentales puissantes : collaborez, notez, planifiez, étudiez, réfléchissez.
+index-title = Cartes mentales élégantes : aussi vite que vos pensées - Coggle
 
 index-nav-login = Connexion
 index-nav-pricing = Tarifs
