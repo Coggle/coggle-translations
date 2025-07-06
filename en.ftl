@@ -11,8 +11,8 @@
 index-tagline = The clear way to share complex information.
 index-tagline-mm = Make mind maps that flow like your ideas.
 index-signupnow = Sign Up Now
-index-login = Already signed up? Log in here.
-index-title = Coggle - Powerful Mind Maps & Flowcharts: Collaborate, Note, Plan, Study, Brainstorm.
+index-login = Got an account? Log in.
+index-title = Simple Elegant Mind Maps: As fast as your thoughts - Coggle
 
 index-nav-login = Login
 index-nav-pricing = Pricing
@@ -25,7 +25,7 @@ index-blurb = Produce beautiful notes quickly and easily. Share them with friend
 index-viewgallery = Or take a look at the <a data-l10n-name='gallery'>Coggle Gallery</a> for inspiration.
 
 index-colab-mindmaps-flowcharts-h = Collaborative Mind Maps & Flowcharts
-index-colab-mindmaps-flowcharts-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works online in your browser: there's nothing to download or install. <a data-l10n-name='login'>Log in</a> to start diagramming now!
+index-colab-mindmaps-flowcharts-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works online in your browser: there's nothing to download or install. <a data-l10n-name='login'>Sign in</a> to use for free, forever!
 index-colab-mindmaps-flowcharts-p2 = Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.
 
 index-use-notes-h = Take Notes

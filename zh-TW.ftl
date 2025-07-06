@@ -12,7 +12,7 @@
 index-tagline-mm = 以清楚的方式分享複雜的訊息。
 index-signupnow = 立即註冊
 index-login = 已經註冊了？在這裡登錄。
-index-title = Coggle - 強大的心智圖和流程圖：協作、記錄、計劃、學習、集思廣益。
+index-title = 簡單優雅的思維導圖：與您的想法一樣快 - Coggle
 
 index-nav-login = 登錄
 index-nav-pricing = 會員
