@@ -28,6 +28,9 @@ index-colab-mindmaps-flowcharts-h = Collaborative Mind Maps & Flowcharts
 index-colab-mindmaps-flowcharts-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works online in your browser: there's nothing to download or install. <a data-l10n-name='login'>Sign in</a> to use for free, forever!
 index-colab-mindmaps-flowcharts-p2 = Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.
 
+index-trusted-h = Trusted by Over 10,000,000 People and Businesses Like You.
+index-trusted-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works in your browser: there's nothing to download or install, and everything you need to create great mindmaps is <a data-l10n-name='free'>free, forever!</a>
+
 index-use-notes-h = Take Notes
 index-use-notes-p = Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.
 
