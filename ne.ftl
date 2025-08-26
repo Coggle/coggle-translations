@@ -570,8 +570,8 @@ button-resize =
     .title = Drag to change the text size.
 label-fontsize = Font size <span data-l10n-name="fontsize"></span>px.
 
-hint-toolong = Item too long! Try moving some text to a new item: select the text then press [tab]
-hint-movetext = Try moving some text to a new item: select the text then press [tab]
+hint-toolong = Item too long! Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-movetext = Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
 
 commentcount = 
     { $count ->

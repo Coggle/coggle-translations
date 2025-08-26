@@ -597,6 +597,13 @@ button-upload =
     .title = Ajoutez une image ou joignez un fichier
 button-attach =
     .title = Joindre un fichier
+button-resize =
+    .title = Faites glisser pour modifier la taille du texte.
+label-fontsize = Taille de la police <span data-l10n-name="fontsize"></span>px.
+
+hint-toolong = Article trop long ! Essayez de déplacer du texte vers un nouvel élément : sélectionnez le texte puis appuyez sur  <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-movetext = Essayez de déplacer du texte vers un nouvel élément : sélectionnez le texte puis appuyez sur <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> ⌫ à supprimer
 
 # diagram not-found page 
 nodiagram-title = Diagramme introuvable !

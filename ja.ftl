@@ -570,8 +570,9 @@ button-resize =
     .title = ドラッグして文字サイズを変更する
 label-fontsize = フォントサイズ <span data-l10n-name="fontsize"></span>px.
 
-hint-toolong = アイテムが長すぎます！テキストを新しいアイテムに移動してみてください。: テキストを選択して [tab] キー
-hint-movetext = テキストを新しいアイテムに移動してみる: テキストを選択して [tab] キー
+hint-toolong = アイテムが長すぎます！テキストを新しいアイテムに移動してみてください。: テキストを選択して <kb-key data-l10n-name="tab-key">tab</kb-key> キー
+hint-movetext = テキストを新しいアイテムに移動してみる: テキストを選択して <kb-key data-l10n-name="tab-key">tab</kb-key> キー
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> 削除する
 
 commentcount = 
     { $count ->

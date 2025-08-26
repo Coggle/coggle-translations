@@ -12,7 +12,7 @@ index-tagline = The clear way to share complex information.
 index-tagline-mm = Make mind maps that flow like your ideas.
 index-signupnow = Sign Up Now
 index-login = Got an account? Log in.
-index-title = Simple Elegant Mind Maps: As fast as your thoughts - Coggle
+index-title = Coggle - Simple, Fast, and Powerful Mind Maps. Just Coggle it!
 
 index-nav-login = Login
 index-nav-pricing = Pricing
@@ -93,7 +93,7 @@ feature-imports = Import <b>.mm and text</b>
 feature-chat = Comments & Chat
 feature-embed = Embeddable diagrams
 feature-embed2 = Embed mindmaps anywhere
-plans-free-getstarted = Get Started
+plans-free-getstarted = Use Free
 
 plans-awesome-title = Awesome
 plans-awesome-description = Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.
@@ -607,8 +607,9 @@ button-resize =
     .title = Drag to change the text size.
 label-fontsize = Font size <span data-l10n-name="fontsize"></span>px.
 
-hint-toolong = Item too long! Try moving some text to a new item: select the text then press [tab]
-hint-movetext = Try moving some text to a new item: select the text then press [tab]
+hint-toolong = Item too long! Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-movetext = Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> to delete
 
 commentcount = 
     { $count ->

@@ -570,8 +570,9 @@ button-resize =
     .title = Kéo để thay đổi kích thước văn bản.
 label-fontsize = Cỡ chữ <span data-l10n-name="fontsize"></span>px.
 
-hint-toolong = Khối đã quá lớn! Thử dịch chuyển một đoạn văn bản sang khối mới: chọn văn bản sau đó bấm [tab]
-hint-movetext = Thử dịch chuyển một đoạn văn bản sang khối mới: chọn văn bản sau đó bấm [tab]
+hint-toolong = Khối đã quá lớn! Thử dịch chuyển một đoạn văn bản sang khối mới: chọn văn bản sau đó bấm <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-movetext = Thử dịch chuyển một đoạn văn bản sang khối mới: chọn văn bản sau đó bấm <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> để xóa
 
 commentcount = 
     { $count ->
