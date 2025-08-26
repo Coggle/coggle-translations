@@ -12,12 +12,13 @@ index-tagline = La forma fácil de compartir información compleja.
 index-tagline-mm = Haz documentos de mapas mentales que fluyan como tus ideas.
 index-signupnow = Regístrate ahora
 index-login = ¿Ya te registraste? Inicia sesión aquí.
+index-title = Coggle: Mapas mentales sencillos, rápidos y potentes. ¡Solo con Coggle!
 
-# index-nav-login = Login
+index-nav-login = Acceso
 index-nav-pricing = Precios
 index-nav-features = Características
 index-nav-gallery = Galería
-index-nav-home = Home
+index-nav-home = Inicio
 
 index-unleash = Libera tu creatividad
 index-blurb = Produce rápida y fácilmente bonitas notas. Compártelas con amigos y compañeros para trabajar conjuntamente en tus ideas.
@@ -27,29 +28,32 @@ index-colab-mindmaps-flowcharts-h = Mapas mentales colaborativos y diagramas de 
 index-colab-mindmaps-flowcharts-p1 = Coggle es una herramienta en línea para crear y compartir mapas mentales. Funciona en línea con tu buscador: No hay que instalar o descargar nada. <a data-l10n-name='login'>Inicia sesión</a> ¡Para empezar a hacer mapas mentales ahora!
 index-colab-mindmaps-flowcharts-p2 = Si estás tomando notas, haciendo lluvia de ideas, planeando o haciendo algo magníficamente creativo Coggle te permite hacer visualizar tus ideas de una forma muy simple. Compártelas con los amigos o colegas que quieras. Donde quiera que estén, los cambios que hagas les aparecerán instantáneamente en su buscador.
 
+index-trusted-h = Más de 10.000.000 de personas y empresas como usted confían en nosotros.
+index-trusted-p1 = Coggle facilita la creación y el intercambio de mapas mentales y diagramas de flujo. Funciona en tu navegador: no tienes que descargar ni instalar nada, y todo lo que necesitas para crear mapas mentales geniales es <a data-l10n-name='free'>¡gratis para siempre!</a>
+
 index-use-notes-h = Toma notas
-index-use-notes-p1 = Para crear notas estructuradas abre Coggle en una reunión, durante un repaso o cuando sea que estés inspirado para crear algo bonito.
+index-use-notes-p = Abra Coggle en una reunión, durante su revisión o donde sea que le llegue la inspiración para crear notas hermosas y estructuradas.
 
 index-use-brainstorm-h = Lluvia de ideas
-index-use-brainstorm-p1 = Empieza con una idea, riégala con Coggle y la verás desarrollarse como si fuese una planta, bien estructurada y lista para ser compartida. 
+index-use-brainstorm-p = Empieza con una idea, riégala con Coggle y la verás desarrollarse como si fuese una planta, bien estructurada y lista para ser compartida. 
 
 index-use-share-h = Compartir información
-index-use-share-p1 = Sintetiza tu tema en un Coggle, incluye todos los detalles y compártelos con tu equipo, tus compañeros de clase o el mundo.  
+index-use-share-p = Sintetiza tu tema en un Coggle, incluye todos los detalles y compártelos con tu equipo, tus compañeros de clase o el mundo.  
 
-index-coggle-flow-title = Powerful Online Flowcharts
-index-coggle-flow-description = Use Coggle to map out your processes, systems and algorithms using our powerful new <a data-l10n-name='flowcharts'>flowcharting features</a>.
+index-coggle-flow-title = Potentes diagramas de flujo en línea
+index-coggle-flow-description = Use Coggle para mapear sus procesos, sistemas y algoritmos utilizando nuestras nuevas y potentes <a data-l10n-name='flowcharts'>funciones de diagramas de flujo</a>.
 
 features-realtime = Realtime Collaboration
 features-realtime-desc = Invita al mismo tiempo a tus amigos y colegas a trabajar contigo en tus diagramas.
 
-features-images-title = Completa la imagen
+features-unlimited-images-title = Completa la imagen
 features-images = Arrastra y suelta las imágenes en tus diagramas directamente desde tu escritorio. No hay un límite de imágenes a añadir.
 
-features-fullhistory-title = Save Every Change
+features-fullhistory-title = Cada cambio se guarda
 features-history = Mira todos los cambios del diagrama y haz una copia desde cualquier punto para volver a la versión previa.
 
-features-labels-title = Add Floating Text and Images
-features-labels = Add text labels and images that aren't part of the diagram tree to annotate parts of your map.
+features-labels-title = Añade texto o imágenes en cualquier lugar
+features-labels = Añade etiquetas de texto e imágenes que no formen parte del árbol del diagrama para anotar partes de tu mapa.
 
 features-blame-title = Sigue la contabilidad
 features-blame = Mira la historia de tu diagrama para saber cuando alguien cambió algo. Solo tienes que introducir el modo de historia del diagrama para saberlo
@@ -84,9 +88,11 @@ feature-markdown = <b>reducción</b> apoyo
 feature-downloads = <b>PDF e imágenes</b> apoyo
 feature-labels = Unconnected <b>text boxes</b>
 feature-exports = Exporta como <b>.mm y texto</b>
+feature-visio = Exportar para <b>Microsoft Visio</b>
 feature-imports = Importa <b>.mm y texto</b>
 feature-chat = Comentarios y chat
 feature-embed = Diagramas integrados
+feature-embed2 = Diagramas integrados en cualquier lugar
 plans-free-getstarted = Empecemos
 
 plans-awesome-title = Awesome
@@ -94,6 +100,7 @@ plans-awesome-description = Ideal para uso <b>personal</b> o <b>profesional</b> 
 plans-awesome-price = $5 / al mes
 feature-include-free = Todo incluido <b>Gratis</b>
 feature-unlimited-private = Diagramas privados <b>Ilimitados</b>
+feature-shapes = <b>Más formas de artículos</b>
 feature-multiroot = <b>Multiple start points</b>
 feature-chathistory = Historial del chat <b>lleno</b> 
 feature-rearrange = <b>Ramas auto-organizadas</b>
@@ -102,8 +109,10 @@ feature-folders = <b>Compartir carpetas</b>
 feature-presentation = Modo presentación
 feature-bigimages = <b>Imágenes de alta resolución</b> subidas
 feature-linestyles = <b>Control line style</b>
+feature-controlpoints = <b>Trayectorias de línea de control</b>
+feature-textalign = Cambiar la <b>alineación del texto</b>
 feature-extendedcolours = Más colores
-# feature-editable-links = Collaborate by <b>link</b>
+feature-editable-links = Colaborar mediante un <b>enlace/b>
 plans-findoutmore = Encuentra más
 
 plans-org-title = Organización
@@ -115,16 +124,16 @@ feature-org-billing = Consolidar facturas
 feature-bulkexport = <b>Volumen de exportación </b>
 feature-adminpanel = <b>Usuario y datos</b> administración
 feature-branding = Diagramas catalogados
-# feature-org-saml-sso = SAML Single Sign On
+feature-org-saml-sso = Inicio de sesión único SAML
 
 plans-select = Seleccionar
 continue-free = Continuar en <b>Gratis</b> plan
 current-plan = Tu plan actual
 cancel-subscription = Cancelar la suscripción
-awesome-signup-monthly = Regístrate <span>$5 </span> al mes
-awesome-signup-yearly = Regístrate <span>$50 </span> al año
-awesome-upgrade-monthly = Mejora (<b>$5 </b>/mes)
-awesome-upgrade-yearly = Mejora (<b>$50 </b>/año)
+awesome-signup-monthly = Regístrate <span>$5 (USD)</span> al mes
+awesome-signup-yearly = Regístrate <span>$50 (USD)</span> al año
+awesome-upgrade-monthly = Mejora (<b>$5 (USD)</b>/mes)
+awesome-upgrade-yearly = Mejora (<b>$50 (USD)</b>/año)
 yearly-discount = Paga por año y obtén 2 meses gratis!
 switch-yearly = Mejora al pago anual
 manage-subscription = Administra la suscripción
@@ -132,23 +141,25 @@ manage-subscription = Administra la suscripción
 per-month = al mes
 per-member-per-month = por miembro por mes
 forever = para siempre
+flexible = totalmente flexible
 
 awesome-feature = El plan Awesome
 org-feature = Condición de organización
 
-# footer-help = Help and Documentation
+footer-help = Ayuda y documentación
 footer-about = sobre
 footer-contact = contacto
 footer-privacy = privacidad
-# footer-examples = Templates and Examples
-# footer-api = Developer API
-# footer-blog = Bloggle
+footer-examples = Plantillas y ejemplos
+footer-api = API para desarrolladores
+footer-blog = Bloggle
 footer-terms = términos
 footer-press = prensa
 # footer-what-is-mindmapping = What is Mindmapping?
 # footer-top-uses = Top Mindmap Uses
 # footer-company = Company
 # footer-legal = Legal
+# footer-access = Accessibility
 
 # Sesión iniciada contenido de la página de inicio (lista de documentos): https://coggle.it Cuando inicies sesión 
 create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Crear diagrama</span>
@@ -170,14 +181,14 @@ folder-title =
     .placeholder = Introduce un nombre para la carpeta
     .value = { $name }
 folder-areyousure = ¿Estás seguro? 
-folder-sure = I&#39;m sure
+folder-sure = Sí, eliminar
 logout = Salir
 settings = Configuración
 return-to-diagrams = Vuelve a tus diagramas
 upgrade-to-awesome = Mejora a <b>Awesome</b>!
 # # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc.:
-# awesome-time-remaining = Awesome trial expires <time data-l10n-name="remaining"></time>
-# awesome-trial-after = Then you'll be moved onto the free plan
+awesome-time-remaining = La prueba de Awesome vence: <time data-l10n-name="remaining"></time>
+awesome-trial-after = Luego, pasarás al plan gratuito
 want-awesome-for-free = ¿Quieres Awesome gratis?
 help-search =
     .placeholder = Ayúdame...
@@ -185,7 +196,7 @@ my-settings = Configuración y Facturación
 my-settings-only = Configuración
 org-settings =
     .title = Administrar una organización
-# org-admin = Administrator of {$orgName}
+org-admin = Administrador/a de {$orgName}
 user-about = Sobre Coggle
 user-contact = Contáctenos
 user-privacy = Política de privacidad
@@ -199,12 +210,20 @@ doclist-create = <b>Welcome to Coggle!</b> – Los diagramas que hagas aparecer�
 
 doclist-shared = <b>Compartido contigo</b> – Los diagramas hechos por otra gente y compartidos contigo se encuentran en esta carpeta.
 doclist-folder-empty = <b>¡Esta es una carpeta vacía!</b> – Crea un Nuevo diagrama aquí, o arrastra y suelta diagramas en las carpetas.
-# doclist-folder-recent = <b>Recently Updated Diagrams</b> – Diagrams from any of your folders that were modified within the last month will appear here.
-# doclist-readonly = <b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.
+doclist-folder-recent = <b>Diagramas actualizados recientemente</b>: Los diagramas de cualquiera de tus carpetas que se hayan modificado en el último mes aparecerán aquí.
+doclist-readonly = <b>¡Bienvenido a Coggle!</b>: Solicita al propietario que te conceda acceso para crear un diagrama aquí.
 impersonatedaccess = Estás viendo Coggle como un miembro organizador. <a data-l10n-name='back'>Vuelve al panel admin</a>
 
 doclist-loading-failed = ¡Uh-oh! La carga de la carpeta falló, actualiza la página para intentarlo de nuevo.
 doclist-discover-whatspossible = ¿Quieres sacar más partido de Coggle? Descubre <a data-l10n-name='link'>Lo que es posible</a>.
+
+sort-custom = Orden personalizado
+sort-a-z = A-Z
+sort-z-a = Z-A
+sort-newest-asc = Creado más recientemente
+sort-newest-desc = Creado hace más tiempo
+sort-modified-asc = Modificado más recientemente
+sort-modified-desc = Modificado menos recientemente
 
 tooltip-createorg =
     .title = Crea una organización
@@ -249,28 +268,28 @@ settings-billing-title = Facturación y cuentas
 settings-recommend-title = Recomendado
 settings-emails-title = Comunicación
 settings-language-title = Idioma
-# settings-communication-title = Communication
-# settings-account-title = Close Account
-# settings-profile-title = Profile
-# settings-membership-title = Members
-# settings-exports-title = Exportação
-# settings-authentication-title = Authentication
+settings-communication-title = Comunicación
+settings-account-title = Cerrar cuenta
+settings-profile-title = Perfil
+settings-membership-title = Miembros
+settings-exports-title = Exportación
+settings-authentication-title = Autenticación
 
 billing-card = La tarjeta que tenemos guardada para ti termina en <b>{ $cardEndsIn }</b>, caduca el <b>{ $cardExpires }</b>.
 billing-addr = El código de publicación de la facturación que tenemos para ti es <b>{ $addressZip }</b>. <a data-l10n-name="edit">Editar los datos de la tarjeta</a>
 
-# billing-remove = Remove
-billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
+billing-remove = Eliminar
+billing-nocard = No hay métodos de facturación guardados en su cuenta. <a data-l10n-name='setup-card'>Configurar detalles de la tarjeta</a>
 
-# summary-free-plan = You don't have a subscription yet. <a data-l10n-name="subscribe">Upgrade now!</a>
-# summary-active-plan = You're on the <code>{ $planName }</code> plan. <a data-l10n-name="cancel">Cancel subscription</a> or <a data-l10n-name="compare">compare plans</a>.
-# summary-uy-1 = Get two months free (<b>save 15%</b>) by paying annually. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
-# summary-uy-2 = Time remaining on your current plan will be automatically deducted from the cost of the upgrade.
-# summary-uy-c1 = Confirm upgrade? We'll charge your card on file between $45 and $50 based on the remaining time on your monthly plan. Your new subscription renewal date will be in one year.
-# summary-confirm = Confirm Upgrade
-# summary-ending-2 = You have cancelled your <code>{$planName}</code> subscription</b>, and will not be billed again. You can continue to use the paid features until the end of the period you've already paid for.<br> <a data-l10n-name='resub'>Resubscribe</a>
-# summary-overdue-plan = Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.
-# complete-payment = You can <a data-l10n-name='invoice-link'>view and complete</a> the outstanding payment, or <a data-l10n-name='cancel'>cancel subscription</a>.
+summary-free-plan = Aún no tienes una suscripción. <a data-l10n-name="subscribe">¡Mejora ahora!</a>
+summary-active-plan = Tienes el plan <code>{ $planName }</code>. <a data-l10n-name="cancel">Cancela la suscripción</a> o <a data-l10n-name="compare">Compara planes</a>.
+summary-uy-1 = Obtén dos meses gratis (<b>ahorra un 15%</b>) pagando anualmente. <a data-l10n-name="upgrade">Mejora (<b>$50 USD</b>)</a>
+summary-uy-2 = El tiempo restante de tu plan actual se deducirá automáticamente del costo de la actualización.
+summary-uy-c1 = ¿Confirmas la actualización? Cargaremos a tu tarjeta registrada entre $45 y $50 según el tiempo restante de tu plan mensual. La fecha de renovación de tu nueva suscripción será dentro de un año.
+summary-confirm = Confirmar actualización
+summary-ending-2 = Has cancelado tu suscripción a <code>{$planName}</code></b> y no se te volverá a facturar. Puedes seguir usando las funciones de pago hasta que finalice el periodo que ya pagaste.<br> <a data-l10n-name='resub'>Volver a suscribirte</a>
+summary-overdue-plan = Tu suscripción está inactiva debido a un pago vencido. Puedes solucionarlo actualizando tu tarjeta o contactándonos en <b>hello@coggle.it</b>.
+complete-payment = Puedes <a data-l10n-name='invoice-link'>ver y completar</a> el pago pendiente o <a data-l10n-name='cancel'>cancelar la suscripción</a>.
 
 me-communication-title = Comunicación
 me-emails-title = Direcciones de correo electrónico
@@ -286,13 +305,13 @@ me-language-title = Escoge tu idioma preferido
 me-language-tip = Ayúdanos a ofrecer Coggle en tu lengua materna, o añade algo que falte contribuyendo con nuestro <a data-l10n-name='translate-link'>proyecto de traducción</a> en Github!
 me-language-questions = Si tienes alguna pregunta sobre las traducciones – o tienes correciones o mejoras y no estás seguro de cómo ayudar, envíanos un correo electrónico a <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
-# profile-title = Your Appearance in Coggle
+profile-title = Tu apariencia en Coggle
 
-# invite-n-more =
-#     { $introduceCount ->
-#            [one] One more invite to try Awesome for free!
-#         *[other] Invite <span>{$introduceCount}</span> more people to try Awesome for free!
-#     }
+invite-n-more =
+    { $introduceCount ->
+           [one] ¡Una invitación más para probar Awesome gratis!
+        *[other] ¡Invita a <span>{$introduceCount}</span> personas más a probar Awesome gratis!
+    }
 
 recommend-coggle = Recommend Coggle
 recommend-share-link = Either invite collaborators to your diagrams, or share your referral link via <a data-l10n-name='email'>email</a>.
@@ -301,13 +320,13 @@ claim-free-month = ¡Reclama tu mes gratuito de Coggle Awesome!
 claim-redeem = Canjea ahora
 
 
-# close-account-title = Close Your Coggle Account
-# close-account = Permanently close your free Coggle account.
-# close-account-description = This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.
-# close-account-button = Close my Account
-# close-account-enteremail =
-#     .placeholder = Type your email address
-# close-account-confirm = CONFIRM
+close-account-title = Cerrar tu cuenta de Coggle
+close-account = Cerrar permanentemente tu cuenta gratuita de Coggle.
+close-account-description = Este proceso es irreversible y se aplicará de inmediato. Perderás el acceso a todos tus diagramas, así que asegúrate de haber exportado todos los que quieras conservar.
+close-account-button = Cerrar mi cuenta
+close-account-enteremail =
+    .placeholder = Escribe tu dirección de correo electrónico
+close-account-confirm = CONFIRMAR
 
 # Contenido de la galería (/gallery) 
 gallery-title = La galería Coggle
@@ -331,8 +350,8 @@ add-to-discussion = Añade a la discusión
 comment-on-this = Comenta en esto
 auto-arrange = Auto-organización
 pick-colour = Seleccione el color
-choose-style = choose style
-# choose-shape = choose shape
+choose-style = elige estilo
+choose-shape = elige forma
 
 # (Saca el ítem *y* todos sus niños)
 delete-branch = Elimina la rama
@@ -342,15 +361,17 @@ show-children = Enseñar los niños
 hide-children = Esconder los niños
 drag-to-create-link = Arrastra para crear el enlace
 drag-to-transplant-branch = Arrastra para trasplantar rama
-# delete-connection = delete connection
-# reverse-connection = reverse connection
-# label-connection = label this connection
+delete-connection = eliminar conexión
+reverse-connection = invertir conexión
+label-connection = etiquetar esta conexión
+move-branch-to-diagram = mover rama a un nuevo diagrama
+copy-branch-to-diagram = copiar rama a un nuevo diagrama
 
 undo = Deshacer
 redo = Rehacer
 paste-branch = Pegar rama
 drag-zoom-page = Arrastre para ampliar la página
-# add-label = add label
+add-label = añadir etiqueta
 
 help-title-title = El título del diagrama.
 help-title-p1 = Este es el centro de tu diagrama, y su título. ¡Tus ideas se ramificarán a partir de aquí!
@@ -361,10 +382,10 @@ help-edit-node-p1 = Pincha en cualquier ítem para accede al menú.
 help-edit-node-p2 = Cambia el tamaño del texto arrastrando la esquina del área de edición.
 help-move-node = Arrastra cualquier texto para moverlo.
 help-node-menu = Pincha en el botón derecho para acceder al menú. Aquí puedes añadir, quitar, copiar y organizar ramas.
-# help-morehelp-touch-title = Shortcuts and Help
-# help-morehelp2-title = Keyboard Shortcuts and Help
-# help-morehelp-touch = Open the help sheet to see shortcuts, and quickly search help articles
-# help-morehelp2 = Open the help sheet to see keyboard shortcuts, and quickly search help articles
+help-morehelp-touch-title = Atajos y ayuda
+help-morehelp2-title = Atajos de teclado y ayuda
+help-morehelp-touch = Abre la hoja de ayuda para ver atajos y buscar rápidamente artículos de ayuda
+help-morehelp2 = Abre la hoja de ayuda para ver atajos de teclado y buscar rápidamente artículos de ayuda
 
 help-multiline = Añade múltiples líneas de texto usando [ctrl] + [enter], o arrastrando el control de tamaño antes de escribir.
 help-toolbar-invite-title = Trabaja con otros
@@ -372,11 +393,11 @@ help-toolbar-invite = Pincha para invitar gente a editar o ver este Coggle. Pinc
 help-toolbar-invitemulti-title = Invita a múltiple gente
 help-toolbar-invitemulti = Para ahorra tiempo puedes invitar múltiple gente a la vez: escribe (o copia) los correos electrónicos separados por espacios, comas<b>,</b> o punto y coma<b>;</b>
 
-# help-toolbar-invitedonefaster-p1 = Now you've been editing for a while, try getting things done faster by collaborating!
-# help-toolbar-invitedonefaster-p2 = Invite people to edit with you, and see their changes instantly.
+help-toolbar-invitedonefaster-p1 = ¡Ya llevas un tiempo editando, intenta hacer las cosas más rápido colaborando!
+help-toolbar-invitedonefaster-p2 = Invita a otras personas a editar contigo y ve sus cambios al instante.
 help-toolbar-inviteflow-title-2 = Invitar a un compañero de trabajo por correo electrónico
-# help-toolbar-sharing-title = Shareable Links and Publishing
-# help-toolbar-sharing = You can also publish your diagram, or create secret shareable links to give access only to people with that link.
+help-toolbar-sharing-title = Enlaces para compartir y publicación
+help-toolbar-sharing = También puedes publicar tu diagrama o crear enlaces secretos para compartir, para que solo las personas con ese enlace puedan acceder a él.
 help-inactive-invite = ¡Trabaja con amigos para hacer tus ideas realidad!<br>Invítales por correo electrónico aquí.
 
 me-as-awesome-orgmember-p1 = Este eres tú &mdash; tú\estás viendo Coggle como un <b>miembro de la organización</b>.
@@ -420,7 +441,7 @@ public-label = Público
     .title = Este es un diagrama público.
 
 # history slider content
-# current-version = current
+current-version = current
 
 # Compartiendo contenido del diálogo 
 share-newlink = Nuevo enlace:
@@ -435,16 +456,16 @@ share-email-hints =
   <span>después presiona enter</span>
   <span>amigo@example.com</span>
 
-# viewers-can-edit = 
-#     .title = Viewers can edit the diagram.
-# viewers-readonly =
-#     .title = Viewers can only view the diagram. 
-# viewers-can-copy =
-#     .title = Viewers may create their own copies.
-# viewers-nocopy = 
-#     .title = Viewers may not create copies.
-# revoke-link = 
-#     .title = Delete this link.
+viewers-can-edit =
+    .title = Los espectadores pueden editar el diagrama.
+viewers-readonly =
+    .title = Los espectadores solo pueden ver el diagrama.
+viewers-can-copy =
+    .title = Los espectadores pueden crear sus propias copias.
+viewers-nocopy = 
+    .title = Los espectadores no pueden crear copias.
+revoke-link = 
+    .title = Eliminar este enlace.
 
 share-open = ¿Puede todo el mundo ver este diagrama?
 share-open-detail = Los diagramas abiertos pueden verse por todo el mundo y puede que aparezcan en nuestra <a data-l10n-name="gallery">Galería</a>
@@ -473,6 +494,7 @@ access-remove = Quitar { $user_givenName }
 
 # Mensajes de notificación 
 readonly-warning = No puedes editar este diagrama. <div data-l10n-name="suggestion">Si necesitas editarlo, pide al autor que te dé los permisos.
+
 websocket-offline = Los cambios pueden ser lentos debido a problemas de red. <a data-l10n-name="helpfix">¡Ayúdame a arreglar esto!</a>
 
 disconnect-warning = <b>Se perdió la conexión</b>: Los cambios pueden no haber sido guardados
@@ -500,17 +522,18 @@ sidebar-shortcuts = Accesos directos
 sidebar-undo = Deshacer:
 sidebar-redo = Rehacer:
 
-# touch-pressitem = <b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more.
-# touch-pressbackground = <b>Long-press</b> on the <b>background</b> to add <b>labels</b>, <b>undo</b>, and paste.
+touch-pressitem = <b>Mantenga pulsado</b> un <b>elemento</b> para <b>eliminar</b> elementos, cambiar el <b>color</b>, <b>autoorganizar</b>, crear enlaces cruzados, copiar y más.
+touch-pressbackground = <b>Mantenga pulsado</b> el <b>fondo</b> para añadir <b>etiquetas</b>, <b>deshacer</b> y pegar.
 
 sc-and-click = + click
 sc-and-drag = + drag
 sc-and-mousewheel = + rueda del ratón
-sc-shift = shift
-sc-ret = volver
-sc-tab = tab
-sc-ctrl = ctrl
+sc-shift = shift ⇧
+sc-ret = volver ⏎
+sc-tab = tab ⇥
+sc-ctrl = ctrl ^
 sc-alt = alt
+sc-option = opción ⌥
 sc-dragdrop = Arrastra y suelta
 
 sidebar-whentyping = Cuando esté escribiendo
@@ -522,6 +545,40 @@ sidebar-sc-parent = Saltar al padre:
 
 sidebar-sc-markdown-title = Formato del texto:
 sidebar-sc-markdown = use <a data-l10n-name="link">Reducción</a>
+
+hint-control-line = Arrastre para ajustar la línea.
+hint-control-remove = Haga clic para eliminar el punto de control.
+hint-delete-link = Eliminar el enlace cruzado.
+hint-edit-label = Editar la etiqueta del enlace cruzado.
+hint-add-title = Añadir nueva rama. Este es el título del diagrama.
+hint-add =
+    {
+        $os ->
+            [Mac] Añadir nueva rama. Use <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> para eliminar, o <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> para insertar.
+           *[Win] Añadir nueva rama. Utilice <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> para eliminar, o <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> para insertar.
+    }
+hint-delete = Eliminar rama.
+hint-remove = Eliminar elemento.
+hint-insert-rp = Insertar elemento anterior o arrastrar para trasplantar.
+
+toggle-checkbox = Alternar.
+hint-edit-touch = Tocar para editar, arrastrar para mover.
+hint-transplant = Arrastrar para trasplantar.
+hint-drag-only = Arrastrar para mover solo este nodo.
+hint-can-drag-only = 
+    {
+        $os ->
+            [Mac] Mantener presionada la tecla <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> para arrastrar solo este nodo.
+           *[Win] Mantener presionada la tecla <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> para arrastrar solo este nodo.
+    }
+hint-edit = Hacer clic para editar, arrastrar para mover.
+hint-present-touch = Tocar para mostrar y ocultar ramas.
+hint-present-all = Hacer clic para mostrar y ocultar todos los niveles.
+hint-present = Hacer clic para mostrar y ocultar ramas. Mantenga presionada la tecla <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> para expandir todos los niveles.
+
+stat-saving = Guardando.
+stat-saved = Todos los cambios guardados.
+stat-noaccess = Acceso denegado.
 
 another-fact = ¡Otro!
 cogglefacts-more = Lee más...
@@ -544,22 +601,35 @@ button-image =
     .title = Subir una imagen
 button-emoji =
     .title = Búsqueda íconos
-# button-formatting =
-#     .title = Text formatting
-# button-back =
-#     .title = Back
-# button-aligned-left =
-#     .title = Aligned left
-# button-aligned-center =
-#     .title = Aligned center
-# button-aligned-right =
-#     .title = Aligned right
-# button-aligned-auto =
-#     .title = Aligned automatically
-# button-upload =
-#     .title = Add image or attach file.
-# button-attach =
-#     .title = Attach a file.
+button-formatting =
+    .title = Formato de texto
+button-back =
+    .title = Atrás
+button-aligned-left =
+    .title = Alineado a la izquierda
+button-aligned-center =
+    .title = Alineado al centro
+button-aligned-right =
+    .title = Alineado a la derecha
+button-aligned-auto =
+    .title = Alineado automáticamente
+button-upload =
+    .title = Añadir imagen o adjuntar archivo.
+button-attach =
+    .title = Adjuntar un archivo.
+button-resize =
+    .title = Arrastrar para cambiar el tamaño del texto.
+label-fontsize = Tamaño de fuente <span data-l10n-name="fontsize"></span>px.
+
+hint-toolong = ¡Elemento demasiado largo! Intenta mover texto a un nuevo elemento: selecciona el texto y pulsa <kb-key data-l10n-name="tab-key">{sc-tab}</kb-key>
+hint-movetext = Intenta mover texto a un nuevo elemento: selecciona el texto y pulsa <kb-key data-l10n-name="tab-key">{sc-tab}</kb-key>
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> para eliminar
+
+commentcount =
+    { $count ->
+        [one] 1 comentario
+       *[other] { $count } comentarios
+    }
 
 # No se encontró la página del diagrama 
 nodiagram-title = ¡No se encontró el diagrama!
@@ -587,14 +657,14 @@ awesome-feature-private = Crea tantos diagramas privados como quieras. Si alguna
 awesome-feature-joinloop-title = Crea bucles y junta las ramas
 awesome-feature-joinloop = Une las ramas y crea bucles para hacer diagramas más potentes y flexibles, y así representar los flujos del proceso y otros aspectos más avanzados.
 
-# awesome-feature-multiroot-title = Multiple Starting Points
-# awesome-feature-multiroot = Add multiple central items to your diagrams to map related topics in a single workspace.
+awesome-feature-multiroot-title = Múltiples puntos de partida
+awesome-feature-multiroot = Agrega varios elementos centrales a tus diagramas para mapear temas relacionados en un solo espacio de trabajo.
 
-# awesome-feature-editablelinks-title = No-Setup Collaboration
-# awesome-feature-editablelinks = Allow any number of people to edit a diagram simply by sharing a secret link with them. No login required.
+awesome-feature-editablelinks-title = Colaboración sin configuración
+awesome-feature-editablelinks = Permite que cualquier número de personas editen un diagrama simplemente compartiendo un enlace secreto. No se requiere inicio de sesión.
 
-# awesome-feature-linestyle-title = Control Line Style
-# awesome-feature-linestyle = Customise the thickness and style of the lines in your diagram.
+awesome-feature-linestyle-title = Controla el estilo de línea
+awesome-feature-linestyle = Personaliza el grosor y el estilo de las líneas de tu diagrama.
 
 awesome-feature-bigimages-title = Enseña grandes imágenes
 awesome-feature-bigimages = Añade grandes imágenes en tus Coggle para ilustrar tus ideas: desde tu escritorio sólo necesitas arrastrarlas y soltarlas en el documento.
@@ -608,8 +678,8 @@ awesome-feature-autoarrange = Libera la posición de las ramas con un sólo clic
 awesome-feature-folders-title = Carpetas compartidas
 awesome-feature-folders = Pon tus diagramas en carpetas para mantenerlos organizados y compartirlos fácilmente con todo tu grupo de colaboradores.
 
-# awesome-feature-flow-title = Powerful Flowcharting
-# awesome-feature-flow = Pick from a range of shapes to create expressive, powerful flowcharts, process maps, and other diagrams.
+awesome-feature-flow-title = Diagramas de flujo potentes
+awesome-feature-flow = Elija entre una variedad de formas para crear diagramas de flujo, mapas de procesos y otros diagramas expresivos y potentes.
 
 awesome-hint-orgs =
     Si usas Coggle para trabajar, échale un vistazo a <a data-l10n-name="orglink">Coggle Organisations</a>, viene con todos los beneficios de Coggle Awesome, además de unas funciones más encaradas al negocio.
@@ -626,19 +696,55 @@ login-saml = También admitimos el inicio de sesión de nivel empresarial para l
 login-saml-where = Si eres un usuario de inicio de sesión único, inicia sesión con la página compartida por el administrador de tu organización.
 login-saml-more = Más información sobre el inicio de sesión único.
 
-# login-faq = Frequently Asked Questions
-# login-pw-q = Why can't I create a username and password?
-# login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-#     Sign in with Apple. We believe this is the best way to keep your data safe,
-#     as these companies all provide very secure sign-in services, which support
-#     two-factor authentication and other account protection options.
-# 
-# login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-#     intricacy: password recovery, 2-factor authentication, fraud detection,
-#     brute-force attack detection, and securely storing hashed and salted
-#     passwords. We believe that leaving these tasks to an external provider is
-#     the right thing to do – leaving us more time to focus on creating a great
-#     mind-mapping experience.
+login-faq = Preguntas frecuentes
+login-pw-q = ¿Por qué no puedo crear un nombre de usuario y una contraseña?
+login-pw-a-p1 = Coggle solo admite el inicio de sesión con Google, con cuenta
+    Microsoft o con Apple. Creemos que esta es la mejor manera de proteger tus
+    datos, ya que todas estas empresas ofrecen servicios de inicio de sesión muy
+    seguros, que admiten la autenticación de dos factores y otras opciones de protección de la cuenta.
+
+login-pw-a-p2 = Almacenar nombres de usuario y contraseñas de forma segura es
+    muy complejo: recuperación de contraseñas, autenticación de dos factores,
+    detección de fraude, detección de ataques de fuerza bruta y almacenamiento
+    seguro de contraseñas con hash y contraseñas con sal. Creemos que dejar estas
+    tareas en manos de un proveedor externo es lo correcto, ya que nos deja más
+    tiempo para centrarnos en crear una excelente experiencia de mapas mentales.
+
+login-what-q = ¿Qué hacen con mi cuenta de Google/Microsoft?
+login-what-a = Solo solicitamos acceso a la información básica de tu perfil.
+    Esto incluye tu nombre, foto de perfil y correo electrónico.
+    No solicitamos acceso a tus contactos, correos electrónicos, documentos de
+    Google Drive ni a ningún otro dato que no necesitemos para el funcionamiento de Coggle.
+
+login-switch-q = ¿Puedo cambiar de método de inicio de sesión?
+login-switch-a = ¡Sí! Siempre que uses el mismo correo electrónico con tus
+    cuentas de Microsoft/Apple/Google, podrás usar cualquiera de ellas para iniciar sesión en la misma cuenta de Coggle.
+    Ten en cuenta que si seleccionas la opción "Ocultar mi correo electrónico" en el inicio de sesión de Apple, tu cuenta no se vinculará.
+
+login-emails-q = ¿Puedes leer mis correos electrónicos?
+login-emails-a = No. ¡No necesitamos ni queremos acceder a tus correos electrónicos!
+    Solo solicitamos la información básica de tu perfil. No tenemos acceso a
+    nada más y no podemos cambiar ninguna configuración de tu cuenta de Google/Microsoft.
+
+login-icloud-q = ¿Puedes acceder a mi iCloud?
+login-icloud-a = ¡No! Iniciar sesión con Apple solo nos da acceso a tu nombre y
+    a tu dirección de correo electrónico (si decides compartirla). No tenemos
+    acceso a nada más.  Puedes leer más sobre cómo funciona Iniciar sesión con
+    Apple en <a data-l10n-name="applehelp">el sitio web de Apple</a>.
+
+login-workschool-q = ¿Puedo usar mi cuenta Microsoft profesional o educativa?
+login-workschool-a = Sí, puedes usar cualquier cuenta Microsoft, incluidas las
+    personales (anteriormente Windows Live) y las cuentas de Azure Active Directory
+    u Office 365 administradas por la empresa, a menos que tu equipo de TI haya bloqueado esta función para las cuentas que administra.
+
+login-otherlogin-q = ¿Puedo usar otro proveedor de autenticación para acceder a Coggle?
+login-otherlogin-a-p1 = Actualmente solo admitimos el inicio de sesión con cuentas de Google, Microsoft y de Iniciar sesión con Apple para cuentas personales.
+login-otherlogin-a-p2 = Ofrecemos soporte para <a data-l10n-name="saml">inicio de sesión SAML 2.0</a> en organizaciones Coggle.
+    Si le interesa alojar su propia versión de Coggle con inicio de sesión en Active Directory, póngase en contacto con a
+    nuestra <a data-l10n-name="email">dirección de ventas empresarial</a>.
+
+login-pw-more-q = Tengo alguna pregunta sobre el inicio de sesión.
+login-pw-more-a = ¡Consúltenos! Nuestro correo electrónico es <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Página de inicio de organizaciones(/organizaciones) 
 orgs-pitch-title = Coggle Organisations
@@ -650,8 +756,8 @@ orgs-subpitch-p1 = Cuando la información es muy importante para el equipo neces
 orgs-subpitch-p2 = El precio es básico, <b>$8 por miembro y mes</b>.<br><b>Con todo ilimitado</b>.
 
 
-# orgs-feature-saml-sso-title = SAML Single Sign On
-# orgs-feature-saml-sso = Authenticate users using your existing Single Sign On service. Support for OneLogin, Okta and more.
+orgs-feature-saml-sso-title = Inicio de sesión único SAML
+orgs-feature-saml-sso = Autentica a los usuarios con tu servicio de inicio de sesión único. Compatible con OneLogin, Okta y más.
 
 orgs-feature-in-one-place-title = Todo en un sólo lugar
 orgs-feature-in-one-place = Todos tus diagramas de organización en un sólo lugar. Mantén tu equipo de trabajo seguro, simplemente para manejar la ubicación – Para saber exactamente dónde mirar.

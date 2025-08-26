@@ -561,6 +561,20 @@ hint-delete = Delete branch.
 hint-remove = Delete item.
 hint-insert-rp = Insert item before this one, or drag to transplant.
 
+toggle-checkbox = Toggle checkbox.
+hint-edit-touch = Tap to edit, drag to move.
+hint-transplant = Drag to transplant.
+hint-drag-only = Drag to move this node only.
+hint-can-drag-only = 
+    {
+        $os ->
+            [Mac] Hold <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> to drag this node only.
+           *[Win] Hold <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> to drag this node only.
+    }
+hint-edit = Click to edit, drag to move.
+hint-present-touch = Tap to show and hide branches.
+hint-present-all = Click to show and hide all levels.
+hint-present = Click to show and hide branches. Hold <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> to expand all levels.
 
 stat-saving = Saving
 stat-saved = All changes saved
