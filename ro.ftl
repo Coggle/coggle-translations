@@ -8,40 +8,40 @@
 # frontpage content (https://coggle.it/home), except for the plans section
 # which is described below
 
-index-tagline = Modalitatea ușoară de a transmite infomații complexe.
-index-tagline-mm = Creează hărți conceptuale care urmează cursul ideilor tale.
+index-tagline = Modalitatea ușoară de a transmite informații complexe.
+index-tagline-mm = Creează hărți mentale care urmează cursul ideilor tale.
 index-signupnow = Înregistrează-te Acum
 index-login = Ai un cont? Autentifică-te.
-index-title = Coggle - Hărți Conceptuale Simple, Rapide și Puternice. Doar Coggle!
+index-title = Coggle - Hărți Mentale Simple, Rapide și Puternice. Doar Coggle!
 
-index-nav-login = Login
-index-nav-pricing = Pricing
-index-nav-features = Features
-index-nav-gallery = Gallery
-index-nav-home = Home
+index-nav-login = Autentificare
+index-nav-pricing = Prețuri
+index-nav-features = Funcționalități
+index-nav-gallery = Galerie
+index-nav-home = Acasă
 
-index-unleash = Unleash your creativity
-index-blurb = Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.
-index-viewgallery = Or take a look at the <a data-l10n-name='gallery'>Coggle Gallery</a> for inspiration.
+index-unleash = Dezlănțuie-ți creativitatea
+index-blurb = Creează rapid și ușor notițe frumoase. Partajează-le cu prietenii și colegii pentru a lucra împreună la ideile tale.
+index-viewgallery = Sau aruncă o privire la <a data-l10n-name='gallery'>Galeria Coggle</a> pentru inspirație.
 
-index-colab-mindmaps-flowcharts-h = Collaborative Mind Maps & Flowcharts
-index-colab-mindmaps-flowcharts-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works online in your browser: there's nothing to download or install. <a data-l10n-name='login'>Sign in</a> to use for free, forever!
-index-colab-mindmaps-flowcharts-p2 = Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.
+index-colab-mindmaps-flowcharts-h = Hărți Mentale și Organigrame Colaborative
+index-colab-mindmaps-flowcharts-p1 = Cu Coggle, e simplu să creezi și să partajezi hărți mentale și organigrame. Totul funcționează online în browser-ul tău, nu trebuie să descarci sau să instalezi nimic. <a data-l10n-name='login'>Autentifică-te</a> și folosește-l gratuit, pentru totdeauna!
+index-colab-mindmaps-flowcharts-p2 = Fie că iei notițe, faci brainstorming, planifici sau lucrezi la ceva creativ, este extrem de ușor să-ți vizualizezi ideile cu Coggle. Împarte-le cu câți prieteni sau colegi dorești. Modificările pe care le faci apar instantaneu în browser-ul lor, oriunde s-ar afla în lume.
 
-index-trusted-h = Trusted by Over 10,000,000 People and Businesses Like You.
-index-trusted-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works in your browser: there's nothing to download or install, and everything you need to create great mindmaps is <a data-l10n-name='free'>free, forever!</a>
+index-trusted-h = Folosit cu Încredere de Peste 10,000,000 de Oameni și Afaceri ca tine.
+index-trusted-p1 = Cu Coggle, e simplu să creezi şi să partajezi hărți mentale și organigrame. Totul funcționează online în browser-ul tău, nu trebuie dă descarci sau să instalezi nimic, iar tot ce ai nevoie pentru a crea hărți mentale grozave este <a data-l10n-name='free'>gratuit, pentru totdeauna!</a>
 
-index-use-notes-h = Take Notes
-index-use-notes-p = Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.
+index-use-notes-h = Ia Notițe
+index-use-notes-p = Deschide Coggle într-o ședință, în timpul unei recapitulări sau oricând îți vine inspirația să creezi notițe frumoase, bine structurate.
 
 index-use-brainstorm-h = Brainstorm
-index-use-brainstorm-p = Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.
+index-use-brainstorm-p = Ia începutul unei idei, ud-o cu Coggle și privește cum crește într-un plan complet, bine structurat și gata de partajat.
 
-index-use-share-h = Share Information
-index-use-share-p = Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!
+index-use-share-h = Partajează Informații
+index-use-share-p = Transformă-ți subiectul într-o hartă Coggle, include toate detaliile și distribuie-l echipei tale, colegilor de clasă sau chiar lumii întregi!
 
-index-coggle-flow-title = Powerful Online Flowcharts
-index-coggle-flow-description = Use Coggle to map out your processes, systems and algorithms using our powerful new <a data-l10n-name='flowcharts'>flowcharting features</a>.
+index-coggle-flow-title = Organigrame Online Puternice
+index-coggle-flow-description = Folosește Coggle pentru a reprezenta vizual procesele, sistemele și algoritmii tăi cu ajutorul noilor noastre <a data-l10n-name='flowcharts'>funcționalități pentru organigrame</a>.
 
 features-realtime = Realtime Collaboration
 features-realtime-desc = Invite your friends and colleagues to work with you, at the same time, on your diagrams.
