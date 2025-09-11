@@ -43,123 +43,123 @@ index-use-share-p = Transformă-ți subiectul într-o hartă Coggle, include toa
 index-coggle-flow-title = Organigrame Online Puternice
 index-coggle-flow-description = Folosește Coggle pentru a reprezenta vizual procesele, sistemele și algoritmii tăi cu ajutorul noilor noastre <a data-l10n-name='flowcharts'>funcționalități pentru organigrame</a>.
 
-features-realtime = Realtime Collaboration
-features-realtime-desc = Invite your friends and colleagues to work with you, at the same time, on your diagrams.
+features-realtime = Colaborare în Timp Real
+features-realtime-desc = Invită-ți prietenii și colegii să lucreze alături de tine, în același timp, la diagramele tale.
 
-features-unlimited-images-title = Unlimited Image Uploads
-features-images = Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.
+features-unlimited-images-title = Încărcare Nelimitată de Imagini
+features-images = Adaugă imagini prin metoda "drag and drop" direct de pe desktop-ul tău în diagramele tale. Nu există limită pentru numărul de imagini pe care le poți adăuga.
 
-features-fullhistory-title = Save Every Change
-features-history = Look through all the changes to a diagram and make a copy from any point to revert to a previous version.
+features-fullhistory-title = Salvează Fiecare Modificare
+features-history = Răsfoiește toate modificările făcute asupra unei diagrame și realizează o copie din orice moment pentru a te putea întoarce la o versiune anterioară.
 
-features-labels-title = Add Floating Text and Images
-features-labels = Add text labels and images that aren't part of the diagram tree to annotate parts of your map.
+features-labels-title = Adaugă Texte și Imagini Plutitoare
+features-labels = Adaugă etichete text și imagini care nu fac parte din diagrama de tip arbore pentru a adăuga comentarii unor părți din harta ta.
 
-features-blame-title = Track accountability
-features-blame = Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.
+features-blame-title = Ține evidența responsabilităților
+features-blame = Răsfoiește istoricul diagramei tale pentru a vedea cine a schimbat ce, și când! Doar intră în modul "istoricul diagramei" pentru a descoperi.
 
-features-colours-title = Get the color right
-features-colours = Click on a branch to bring up the color wheel and select the color you want.
+features-colours-title = Alege culoarea potrivită
+features-colours = Dă clic pe o ramură pentru a deschide paleta de culori și selectează culoarea pe care o dorești.
 
-features-notifications-title = Email Notifications
-features-notifications = Get an email notification with a summary of changes when collaborators edit diagrams shared with you.
+features-notifications-title = Notificări prin Email
+features-notifications = Primește o notificare prin email cu un rezumat al schimbărilor atunci când colaboratorii editează diagramele partajate cu tine.
 
-features-chat-title = Comments and Chat
-features-chat = Add comments to nodes and chat with collaborators without leaving your diagram workspace.
+features-chat-title = Comentarii și Discuții
+features-chat = Adaugă comentarii nodurilor și discută cu colaboratorii fără a părăsi spațiul de lucru al diagramei tale.
 
 
 # Plans selection translations (https://coggle.it/plans, when logged in, and
 # also on the homepage)
-plans-free-forever-title = Free Forever
-plans-free-description = Ideal for discovering Coggle and occasional use.
-plans-free-price = Free forever
+plans-free-forever-title = Gratuit Pentru Totdeauna
+plans-free-description = Ideal pentru a descoperi Coggle și pentru utilizare ocazională.
+plans-free-price = Gratuit pentru totdeauna
 
-feature-realtime = <b>Real-time</b> collaboration
-feature-emoji = Over <b>1600</b> <a data-l10n-name="icons-link">beautiful icons</a>
-feature-diagrams = <b>Unlimited</b> public diagrams
+feature-realtime = Colaborare <b>în timp real</b>
+feature-emoji = Peste <b>1600</b> de <a data-l10n-name="icons-link">pictograme frumoase</a>
+feature-diagrams = Diagrame publice <b>nelimitate</b>
 feature-nprivate =
     { $privateDiagrams_available -> 
-          [one] 1 private diagram
-       *[other] {$privateDiagrams_available} private diagrams
+          [one] 1 diagramă privată
+       *[other] {$privateDiagrams_available} diagrame private
     }
-feature-images = <b>Unlimited</b> image uploads
-feature-changes = <b>Full</b> change history
-feature-markdown = <b>Markdown</b> support
-feature-downloads = <b>PDF & Image</b> download
-feature-labels = Unconnected <b>text boxes</b>
-feature-exports = Export as <b>.mm and text</b>
-feature-visio = Export for <b>Microsoft Visio</b>
-feature-imports = Import <b>.mm and text</b>
-feature-chat = Comments & Chat
-feature-embed = Embeddable diagrams
-feature-embed2 = Embed mindmaps anywhere
-plans-free-getstarted = Use Free
+feature-images = Încărcări de imagini <b>nelimitate</b>
+feature-changes = Istoric al modificărilor <b>complet</b>
+feature-markdown =  Compatibil cu <b>Markdown</b>
+feature-downloads = Descarcă <b>PDF și imagini</b>
+feature-labels = <b>Căsuțe de text</b> independente
+feature-exports = Exportă ca <b>.mm și text</b>
+feature-visio = Exportă pentru <b>Microsoft Visio</b>
+feature-imports = Importă <b>.mm și text</b>
+feature-chat = Comentarii și Discuții
+feature-embed = Diagrame încorporabile
+feature-embed2 = Încorporează hărți mentale oriunde
+plans-free-getstarted = Utilizează planul Gratuit
 
 plans-awesome-title = Awesome
-plans-awesome-description = Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.
-plans-awesome-price = $5 / month
-feature-include-free = Everything in <b>Free</b>
-feature-unlimited-private = <b>Unlimited</b> private diagrams
-feature-shapes = <b>More Item Shapes</b>
-feature-multiroot = <b>Multiple start points</b>
-feature-chathistory = <b>Full</b> chat history
-feature-rearrange = <b>Auto-arrange branches</b>
-feature-rejoin = <b>Join Branches</b>
-feature-folders = <b>Shared folders</b>
-feature-presentation = Presentation mode
-feature-bigimages = <b>High-res image</b> uploads
-feature-linestyles = <b>Control line style</b>
-feature-controlpoints = <b>Control line paths</b>
-feature-textalign = Change <b>text alignment</b>
-feature-extendedcolours = More colors
-feature-editable-links = Collaborate by <b>link</b>
-plans-findoutmore = Find out more
+plans-awesome-description = Ideal pentru uz <b>personal</b> sau <b>profesional</b>, beneficiază de confidențialitate și de funcționalități avansate.
+plans-awesome-price = $5 / lună
+feature-include-free = Tot ce este inclus în planul <b>Gratuit</b>
+feature-unlimited-private =  Diagrame private <b>nelimitate</b>
+feature-shapes = <b> Mai multe forme pentru obiecte</b>
+feature-multiroot = <b>Multiple puncte de start</b>
+feature-chathistory =  Istoric al discuțiilor <b>complet</b>
+feature-rearrange = <b>Aranjare automată a ramurilor</b>
+feature-rejoin = <b>Unirea ramurilor</b>
+feature-folders = <b>Directoare partajate</b>
+feature-presentation = Modul prezentare
+feature-bigimages = Încărcări de <b>imagini la rezoluție înaltă</b>
+feature-linestyles = <b>Controlează stilul liniilor</b>
+feature-controlpoints = <b>Controlează traiectoria liniilor</b>
+feature-textalign = Schimbă <b>alinierea textului</b>
+feature-extendedcolours = Mai multe culori
+feature-editable-links = Colaborează prin <b>link</b>
+plans-findoutmore = Află mai multe
 
-plans-org-title = Organization
-plans-org-description = Ideal for <b>teams</b> that want to control access to their data and consolidate billing.
-plans-org-price = $8 / member / month
-feature-org-awesome = Everything from <b>Awesome</b>
-feature-org-separate = Separate Personal workspace
-feature-org-billing = Consolidated billing
-feature-bulkexport = <b>Bulk export</b>
-feature-adminpanel = <b>User & data</b> management
-feature-branding = Branded diagrams
-feature-org-saml-sso = SAML Single Sign On
+plans-org-title = Organizație
+plans-org-description = Ideal pentru <b>echipe</b> care vor să controleze accesul la datele lor și să unifice facturarea.
+plans-org-price = $8 / membru / lună
+feature-org-awesome = Tot ce este inclus în planul <b>Awesome</b>
+feature-org-separate = Spațiu de lucru personal separat
+feature-org-billing = Facturare unificată
+feature-bulkexport = <b>Exportare în masă</b>
+feature-adminpanel = Gestionarea <b>utilizatorilor și a datelor</b>
+feature-branding = Diagrame personalizate cu brandul tău
+feature-org-saml-sso = Autentificare unică (Single Sign On) prin SAML
 
-plans-select = Select
-continue-free = Continue on <b>Free</b> plan
-current-plan = Your current plan
-cancel-subscription = Cancel Subscription
-awesome-signup-monthly = Sign up <span>$5</span> per month
-awesome-signup-yearly = Sign up <span>$50</span> per year
-awesome-upgrade-monthly = Upgrade (<b>$5</b>/month)
-awesome-upgrade-yearly = Upgrade (<b>$50</b>/year)
-yearly-discount = Save $10 by paying annually
-switch-yearly = Upgrade to Yearly
-manage-subscription = Manage Subscription
+plans-select = Selectează
+continue-free = Continuă cu planul <b>Gratuit</b>
+current-plan = Planul tău actual
+cancel-subscription = Anulează Abonamentul
+awesome-signup-monthly = Abonează-te pentru <span>$5</span> pe lună
+awesome-signup-yearly = Abonează-te pentru <span>$50</span> pe an
+awesome-upgrade-monthly = Upgrade (<b>$5</b>/lună)
+awesome-upgrade-yearly = Upgrade (<b>$50</b>/an)
+yearly-discount = Economisește $10 plătind anual
+switch-yearly = Treci la plata anuală
+manage-subscription = Gestionează Abonamentul
 
-per-month = per month
-per-member-per-month = per member per month
-forever = forever
-flexible = fully flexible
+per-month = pe lună
+per-member-per-month = pe membru pe lună
+forever =  pentru totdeauna
+flexible = complet flexibil
 
-awesome-feature = Awesome Plan
-org-feature = Organization Feature
+awesome-feature = Planul Awesome
+org-feature = Funcționalitatea pentru organizații
 
-footer-help = Help and Documentation
-footer-about = About
+footer-help = Ajutor și Documentație
+footer-about =  Despre
 footer-contact = Contact
-footer-privacy = Privacy
-footer-examples = Templates and Examples
-footer-api = Developer API
+footer-privacy =  Confidențialitate
+footer-examples = Șabloane și Exemple
+footer-api = API pentru Dezvoltatori
 footer-blog = Bloggle
-footer-terms = Terms
-footer-press = Press
-footer-what-is-mindmapping = What is Mindmapping?
-footer-top-uses = Top Mindmap Uses
-footer-company = Company
+footer-terms = Termeni
+footer-press = Presă
+footer-what-is-mindmapping = Ce este harta mentală?
+footer-top-uses = Pricipalele utilizări alte hărților mentale
+footer-company = Companie
 footer-legal = Legal
-footer-access = Accessibility
+footer-access = Accesibilitate
 
 # logged-in homepage content (documents list): https://coggle.it when logged in
 create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Create Diagram</span>
