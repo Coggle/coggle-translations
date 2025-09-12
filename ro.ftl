@@ -162,171 +162,171 @@ footer-legal = Legal
 footer-access = Accesibilitate
 
 # logged-in homepage content (documents list): https://coggle.it when logged in
-create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Create Diagram</span>
-    .title = Create a Coggle Diagram
-create-diagram-2-nothere = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Create Diagram</span>
-    .title = You cannot create new diagrams here, select a different folder first.
+create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Creează o Diagramă</span>
+    .title = Creează o diagramă Coggle
+create-diagram-2-nothere = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Creează o Diagramă</span>
+    .title = Nu poți crea diagrame noi aici, selectează mai întâi un director diferit.
 search-diagrams =
-    .placeholder = Search your diagrams
+    .placeholder = Caută diagramele tale
 search-public-diagrams = 
-    .placeholder = Search public diagrams
-view-gallery = Gallery
-create-folder = Create Folder
-shared-folders = Shared Folders
+    .placeholder = Caută diagrame publice
+view-gallery = Galerie
+create-folder = Creează Director
+shared-folders = Directoare Partajate
 created-by-you = 
-    .value = Created By You
+    .value =  Create de tine
 shared-with-you =
-    .value = Shared With You
+    .value =  Partajate cu tine
 folder-title =
-    .placeholder = Enter a folder name
+    .placeholder = Introdu numele unui director
     .value = { $name }
-folder-areyousure = are you sure?
-folder-sure = I&#39;m sure
-logout = Logout
-settings = Settings
-return-to-diagrams = Return to your diagrams
-upgrade-to-awesome = Upgrade to <b>Awesome</b>!
+folder-areyousure = ești sigur(ă)?
+folder-sure = Sunt sigur(ă)
+logout = Deconectare
+settings = Setări
+return-to-diagrams = Întoarce-te la diagrame tale
+upgrade-to-awesome = Upgrade la planul <b>Awesome</b>!
 # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc.:
-awesome-time-remaining = Awesome trial expires <time data-l10n-name="remaining"></time>
-awesome-trial-after = Then you'll be moved onto the free plan
-want-awesome-for-free = Want Awesome for free?
+awesome-time-remaining = Încercarea planului Awesome expiră în <time data-l10n-name="remaining"></time>
+awesome-trial-after = Apoi vei trece la planul Gratuit
+want-awesome-for-free = Vrei planul Awesome gratis?
 help-search =
-    .placeholder = Help me to...
-my-settings = My Settings & Billing
-my-settings-only = My Settings
+    .placeholder = Ajută-mă cu...
+my-settings = Setările mele și facturarea
+my-settings-only = Setările mele
 org-settings =
-    .title = Manage Organization
-org-admin = Administrator of {$orgName}
-user-about = About Coggle
-user-contact = Contact Us
-user-privacy = Privacy Policy
-user-terms = Terms and Conditions
-user-link-drive = Link Google Drive
-diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_used } of { $privateDiagrams_available }</span> private diagrams used
-diagrams-unlimited = <span data-l10n-name="count">Unlimited</span> private diagrams
+    .title = Gestionează Organizația
+org-admin = Administratorul {$orgName}
+user-about = Despre Coggle
+user-contact = Contactează-ne
+user-privacy = Politica de Confidențialitate
+user-terms = Termeni și Condiții
+user-link-drive = Link către Google Drive
+diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_used } din { $privateDiagrams_available }</span> diagrame private utilizate
+diagrams-unlimited = Diagrame private <span data-l10n-name="count">nelimitate</span>
 
-limitedaccess = You have limited access to { $resourceName } as you're not a member
-doclist-create = <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
+limitedaccess = Ai acces limitat la { $resourceName } pentru că nu ești un membru.
+doclist-create = <b>Bun venit la Coggle!</b> – Diagramele pe care le creezi vor fi listate aici.
 
-doclist-shared = <b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.
-doclist-folder-empty = <b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.
-doclist-folder-recent = <b>Recently Updated Diagrams</b> – Diagrams from any of your folders that were modified within the last month will appear here.
-doclist-readonly = <b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.
-impersonatedaccess = You're viewing Coggle as an Organization member. <a data-l10n-name='back'>Return to admin panel</a>
+doclist-shared = <b>Partajate cu tine</b> – diagramele create de alte persoane și apoi partajate cu tine se află în acest director.
+doclist-folder-empty = <b>Acesta este un director gol!</b> – Creează o diagramă nouă aici sau adaugă diagrame în directoare prin metoda "drag and drop".
+doclist-folder-recent = <b>Diagrame Actualizate Recent</b> – Diagramele din orice director al tău care au fost modificate în ultima lună vor apărea aici.
+doclist-readonly = <b>Bun venit la Coggle!</b> – Roagă proprietarul să-ți dea acces pentru a crea o diagramă aici.
+impersonatedaccess = Vizualizezi Coggle ca un membru al organizației. <a data-l10n-name='back'>Revino la panoul de administrare</a>
 
-doclist-loading-failed = Uh-oh! Loading folder failed, refresh the page to try again.
-doclist-discover-whatspossible = Want to get more from Coggle? Discover <a data-l10n-name='link'>what's possible</a>.
+doclist-loading-failed = Uh-oh! Încărcarea directorului a eșuat, reîncarcă pagina și încearcă din nou.
+doclist-discover-whatspossible = Vrei să obții mai mult de la Coggle? Descoperă <a data-l10n-name='link'>ce este posibil</a>.
 
-sort-custom = Custom Order
+sort-custom =  Ordine Personalizată
 sort-a-z = A-Z
 sort-z-a = Z-A
-sort-newest-asc = Created most recently
-sort-newest-desc = Created longest ago
-sort-modified-asc = Modified most recently
-sort-modified-desc = Modified least recently
+sort-newest-asc = Cel mai recent creat
+sort-newest-desc = Cel mai demult creat
+sort-modified-asc = Cel mai recent modificat
+sort-modified-desc = Cel mai demult modificat
 
 tooltip-createorg =
-    .title = Create an Organization
+    .title = Creează o organizație
 tooltip-invite-folder =
-    .title = Add people to this folder by email
+    .title = Adaugă persoane la acest director prin email
 tooltip-invite =
-    .title = Invite people to join this Coggle.
+    .title = Invită persoane să se alăture acestui proiect Coggle.
 tooltip-private-icon =
-    .title = Diagram is private
+    .title = Diagrama este privată
 tooltip-unsubscribe =
-    .title = Unsubscribe from notifications
+    .title = Dezabonează-te de la notificări
 tooltip-subscribe =
-    .title = Subscribe to notifications
+    .title = Abonează-te la notificări
 tooltip-duplicate =
-    .title = Create a copy
+    .title = Creează o copie
 tooltip-remove =
-    .title = Remove diagram
+    .title = Șterge diagrama
 tooltip-restore =
-    .title = Restore diagram
+    .title = Restaurează diagrama
 tooltip-more =
-    .title = Diagram options
+    .title = Opțiuni pentru diagramă
 
 # documents list contextual help items 
-help-searchcoggle-title = Search Coggle
-help-searchcoggle = Type to find your documents &mdash; quickly search for any word in a diagram!
-help-hide-for-now = Hide for now
-help-ok-got-it = OK, got it!
-help-creatediagram-title = Create a New Diagram
-help-creatediagram = Create a new Coggle Diagram to get started.
+help-searchcoggle-title = Caută prin Coggle
+help-searchcoggle = Tastează pentru a găsi documentele tale &mdash; caută rapid orice cuvânt dintr-o diagramă!
+help-hide-for-now = Ascunde momentan
+help-ok-got-it = OK, am înțeles!
+help-creatediagram-title = Creează o Nouă Diagramă
+help-creatediagram = Creează o nouă diagramă Coggle pentru a începe.
 
-help-createfolder-title = Create a Folder
-help-createfolder = Create folders to share with groups of people, or categorize Coggles.
+help-createfolder-title = Creează un Director
+help-createfolder = Creează directoare pentru a partaja cu grupuri de persoane sau pentru a organiza pe categorii diagramele Coggle.
 
-help-orgs-switch-title = Switch Between Organizations
-help-orgs-switch-p1 = Click to switch between Organizations.
-help-orgs-switch-p2 = Organizations let you control sharing of Coggles and work with larger teams.
+help-orgs-switch-title = Schimbă Între Organizații
+help-orgs-switch-p1 = Dă clic pentru a schimba între organizații.
+help-orgs-switch-p2 = Organizațiile îți permit să controlezi partajarea diagramelor Coggle și să lucrezi cu echipe mai mari.
 
 
 # Settings page content 
-settings-plans-title = Plans
-settings-billing-title = Billing & Invoices
-settings-recommend-title = Recommend
-settings-emails-title = Communication
-settings-language-title = Language
-settings-communication-title = Communication
-settings-account-title = Close Account
-settings-profile-title = Profile
-settings-membership-title = Members
-settings-exports-title = Exports
-settings-authentication-title = Authentication
+settings-plans-title = Planuri
+settings-billing-title = Plăți și Facturi
+settings-recommend-title = Recomandări
+settings-emails-title = Comunicare
+settings-language-title = Limbă
+settings-communication-title = Comunicare
+settings-account-title = Închide Contul
+settings-profile-title = Profil
+settings-membership-title = Membri
+settings-exports-title = Exporturi
+settings-authentication-title = Autentificare
 
-billing-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
-billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
+billing-card = Cardul pe care îl avem înregistrat pe numele tău de termină în <b>{ $cardEndsIn }</b>, expiră în <b>{ $cardExpires }</b>.
+billing-addr = Codul poștal pentru facturare pe care îl avem este <b>{ $addressZip }</b>. <a data-l10n-name="edit">Editează detaliile cardului</a>
 
-billing-remove = Remove
-billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
+billing-remove = Șterge
+billing-nocard = Nu există metode de plată salvate în contul tău. <a data-l10n-name='setup-card'>Introdu detaliile cardului</a>
 
-summary-free-plan = You don't have a subscription yet. <a data-l10n-name="subscribe">Upgrade now!</a>
-summary-active-plan = You're on the <code>{ $planName }</code> plan. <a data-l10n-name="cancel">Cancel subscription</a> or <a data-l10n-name="compare">compare plans</a>.
-summary-uy-1 = Get two months free (<b>save 15%</b>) by paying annually. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
-summary-uy-2 = Time remaining on your current plan will be automatically deducted from the cost of the upgrade.
-summary-uy-c1 = Confirm upgrade? We'll charge your card on file between $45 and $50 based on the remaining time on your monthly plan. Your new subscription renewal date will be in one year.
-summary-confirm = Confirm Upgrade
-summary-ending-2 = You have cancelled your <code>{$planName}</code> subscription</b>, and will not be billed again. You can continue to use the paid features until the end of the period you've already paid for.<br> <a data-l10n-name='resub'>Resubscribe</a>
-summary-overdue-plan = Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.
-complete-payment = You can <a data-l10n-name='invoice-link'>view and complete</a> the outstanding payment, or <a data-l10n-name='cancel'>cancel subscription</a>.
+summary-free-plan = Nu ai încă niciun abonament. <a data-l10n-name="subscribe">Fă upgrade acum!</a>
+summary-active-plan = Folosești planul <code>{ $planName }</code>. <a data-l10n-name="cancel">Anulează abonamentul</a> sau <a data-l10n-name="compare">compară planurile</a>.
+summary-uy-1 = Obține 2 luni gratuite (<b>economisește 15%</b>) plătind anual. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
+summary-uy-2 = Timpul rămas din planul tău curent va fi scăzut automat din costul upgrade-ului.
+summary-uy-c1 = Confirmi upgrade-ul? Vom retrage de pe cardul înregistrat între $45 și $50 în funcție de timpul rămas din planul tău lunar. Data reînnoirii noului tău abonament va fi într-un an.
+summary-confirm = Confirmă Upgrade-ul
+summary-ending-2 = Ai anulat abonamentul tău <code>{$planName}</code>, nu vei mai fi facturat(ă). Poți folosi în continuare funcționalitățile plătite până la finalul perioadei pentru care ai plătit deja.<br> <a data-l10n-name='resub'>Reabonează-te</a>
+summary-overdue-plan = Abonamentul tău este inactiv din cauza unei plăți restante. Poți rezolva asta actualizând cardul tău sau contactându-ne la adresa <b>hello@coggle.it</b>.
+complete-payment = Poți <a data-l10n-name='invoice-link'>vedea și efectua</a> plata restantă, sau poți <a data-l10n-name='cancel'>anula abonamentul</a>.
 
-me-communication-title = Communication
-me-emails-title = Email Addresses
-me-emails-primary = (primary)
-me-emailstip = We'll only email your primary address, but you can receive invites to any of the others.
-me-talktome = Talk to me: 
-me-diagram-notifications = Diagram notifications: 
+me-communication-title = Comunicare
+me-emails-title = Adrese de Email
+me-emails-primary = (primară)
+me-emailstip = Vom trimite mail-uri numai către adresa ta primară, dar poți primi invitații pe oricare dintre celelalte.
+me-talktome = Vorbește cu mine: 
+me-diagram-notifications = Notificări privind diagrame: 
 
-slider-yes = YES
-slider-no = NO
+slider-yes = DA
+slider-no = NU
 
-me-language-title = Choose Your Preferred Language
-me-language-tip = Help us provide Coggle in your native language, or add something that's missing by contributing to our <a data-l10n-name='translate-link'>translations project</a> on Github!
-me-language-questions = If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a data-l10n-name='translate-email'>translate@coggle.it</a>.
+me-language-title = Alege Limba Ta Preferată
+me-language-tip = Ajută-ne să punem la dispoziție Coggle în limba ta maternă, sau adaugă ceva ce lipsește printr-o contribuție la <a data-l10n-name='translate-link'>proiectul nostru de traduceri</a> pe Github!
+me-language-questions = Dacă ai întrebări despre traduceri – sau ai de făcut corecturi sau îmbunătățiri și nu ești sigur(ă) cum să ajuți, trimite-ne un email la adresa <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
-profile-title = Your Appearance in Coggle
+profile-title = Aspectul Tău pe Coggle
 
 invite-n-more =
     { $introduceCount ->
-           [one] One more invite to try Awesome for free!
-        *[other] Invite <span>{$introduceCount}</span> more people to try Awesome for free!
+           [one] Mai ai încă o invitație până să încerci planul Awesome pe gratis!
+        *[other] Invită încă <span>{$introduceCount}</span> persoane ca să încerci planul Awesome pe gratis!
     }
 
-recommend-coggle = Recommend Coggle
-recommend-share-link = Either invite collaborators to your diagrams, or share your referral link via <a data-l10n-name='email'>email</a>.
+recommend-coggle = Recomandă Coggle
+recommend-share-link = Fie invită colaboratori pentru diagramele tale, fie partajează link-ul tău de recomandare prin <a data-l10n-name='email'>email</a>.
 
-claim-free-month = Claim your free month of Coggle Awesome!
-claim-redeem = Redeem Now
+claim-free-month = Revendică o lună gratuită de Coggle Awesome!
+claim-redeem = Revendică Acum
 
 
-close-account-title = Close Your Coggle Account
-close-account = Permanently close your free Coggle account.
-close-account-description = This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.
-close-account-button = Close my Account
+close-account-title = Închide Contul Tău Coggle
+close-account = Închide permanent contul tău gratuit Coggle.
+close-account-description = Acest proces este <b>ireversibil</b> și se va efectua imediat. Vei pierde accesul la toate diagramele tale, așa că asigură-te că le-ai exportat pe cele pe care vrei să le păstrezi.
+close-account-button = Închide contul meu
 close-account-enteremail =
-    .placeholder = Type your email address
-close-account-confirm = CONFIRM
+    .placeholder = Introdu adresa ta de email
+close-account-confirm = CONFIRMĂ
 
 # Gallery Content (/gallery) 
 gallery-title = The Coggle Gallery
