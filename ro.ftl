@@ -47,7 +47,7 @@ features-realtime = Colaborare în Timp Real
 features-realtime-desc = Invită-ți prietenii și colegii să lucreze alături de tine, în același timp, la diagramele tale.
 
 features-unlimited-images-title = Încărcare Nelimitată de Imagini
-features-images = Adaugă imagini prin metoda "drag and drop" direct de pe desktop-ul tău în diagramele tale. Nu există limită pentru numărul de imagini pe care le poți adăuga.
+features-images = Adaugă imagini prin metoda drag and drop direct de pe desktop-ul tău în diagramele tale. Nu există limită pentru numărul de imagini pe care le poți adăuga.
 
 features-fullhistory-title = Salvează Fiecare Modificare
 features-history = Răsfoiește toate modificările făcute asupra unei diagrame și realizează o copie din orice moment pentru a te putea întoarce la o versiune anterioară.
@@ -61,8 +61,8 @@ features-blame = Răsfoiește istoricul diagramei tale pentru a vedea cine a sch
 features-colours-title = Alege culoarea potrivită
 features-colours = Dă clic pe o ramură pentru a deschide paleta de culori și selectează culoarea pe care o dorești.
 
-features-notifications-title = Notificări prin Email
-features-notifications = Primește o notificare prin email cu un rezumat al schimbărilor atunci când colaboratorii editează diagramele partajate cu tine.
+features-notifications-title = Notificări prin E-mail
+features-notifications = Primește o notificare prin e-mail cu un rezumat al schimbărilor atunci când colaboratorii editează diagramele partajate cu tine.
 
 features-chat-title = Comentarii și Discuții
 features-chat = Adaugă comentarii nodurilor și discută cu colaboratorii fără a părăsi spațiul de lucru al diagramei tale.
@@ -209,10 +209,10 @@ limitedaccess = Ai acces limitat la { $resourceName } pentru că nu ești un mem
 doclist-create = <b>Bun venit la Coggle!</b> – Diagramele pe care le creezi vor fi listate aici.
 
 doclist-shared = <b>Partajate cu tine</b> – diagramele create de alte persoane și apoi partajate cu tine se află în acest director.
-doclist-folder-empty = <b>Acesta este un director gol!</b> – Creează o diagramă nouă aici sau adaugă diagrame în directoare prin metoda "drag and drop".
+doclist-folder-empty = <b>Acesta este un director gol!</b> – Creează o diagramă nouă aici sau adaugă diagrame în directoare prin metoda drag and drop.
 doclist-folder-recent = <b>Diagrame Actualizate Recent</b> – Diagramele din orice director al tău care au fost modificate în ultima lună vor apărea aici.
 doclist-readonly = <b>Bun venit la Coggle!</b> – Roagă proprietarul să-ți dea acces pentru a crea o diagramă aici.
-impersonatedaccess = Vizualizezi Coggle ca un membru al organizației. <a data-l10n-name='back'>Revino la panoul de administrare</a>
+impersonatedaccess = Vizualizezi Coggle ca membru al unei organizații. <a data-l10n-name='back'>Revino la panoul de administrare</a>
 
 doclist-loading-failed = Uh-oh! Încărcarea directorului a eșuat, reîncarcă pagina și încearcă din nou.
 doclist-discover-whatspossible = Vrei să obții mai mult de la Coggle? Descoperă <a data-l10n-name='link'>ce este posibil</a>.
@@ -228,7 +228,7 @@ sort-modified-desc = Cel mai demult modificat
 tooltip-createorg =
     .title = Creează o organizație
 tooltip-invite-folder =
-    .title = Adaugă persoane la acest director prin email
+    .title = Adaugă persoane la acest director prin e-mail
 tooltip-invite =
     .title = Invită persoane să se alăture acestui proiect Coggle.
 tooltip-private-icon =
@@ -292,7 +292,7 @@ summary-overdue-plan = Abonamentul tău este inactiv din cauza unei plăți rest
 complete-payment = Poți <a data-l10n-name='invoice-link'>vedea și efectua</a> plata restantă, sau poți <a data-l10n-name='cancel'>anula abonamentul</a>.
 
 me-communication-title = Comunicare
-me-emails-title = Adrese de Email
+me-emails-title = Adrese de E-mail
 me-emails-primary = (primară)
 me-emailstip = Vom trimite mail-uri numai către adresa ta primară, dar poți primi invitații pe oricare dintre celelalte.
 me-talktome = Vorbește cu mine: 
@@ -303,7 +303,7 @@ slider-no = NU
 
 me-language-title = Alege Limba Ta Preferată
 me-language-tip = Ajută-ne să punem la dispoziție Coggle în limba ta maternă, sau adaugă ceva ce lipsește printr-o contribuție la <a data-l10n-name='translate-link'>proiectul nostru de traduceri</a> pe Github!
-me-language-questions = Dacă ai întrebări despre traduceri – sau ai de făcut corecturi sau îmbunătățiri și nu ești sigur(ă) cum să ajuți, trimite-ne un email la adresa <a data-l10n-name='translate-email'>translate@coggle.it</a>.
+me-language-questions = Dacă ai întrebări despre traduceri – sau ai de făcut corecturi sau îmbunătățiri și nu ești sigur(ă) cum să ajuți, trimite-ne un e-mail la adresa <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
 profile-title = Aspectul Tău pe Coggle
 
@@ -314,7 +314,7 @@ invite-n-more =
     }
 
 recommend-coggle = Recomandă Coggle
-recommend-share-link = Fie invită colaboratori pentru diagramele tale, fie partajează link-ul tău de recomandare prin <a data-l10n-name='email'>email</a>.
+recommend-share-link = Fie invită colaboratori pentru diagramele tale, fie partajează link-ul tău de recomandare prin <a data-l10n-name='email'>e-mail</a>.
 
 claim-free-month = Revendică o lună gratuită de Coggle Awesome!
 claim-redeem = Revendică Acum
@@ -325,185 +325,185 @@ close-account = Închide permanent contul tău gratuit Coggle.
 close-account-description = Acest proces este <b>ireversibil</b> și se va efectua imediat. Vei pierde accesul la toate diagramele tale, așa că asigură-te că le-ai exportat pe cele pe care vrei să le păstrezi.
 close-account-button = Închide contul meu
 close-account-enteremail =
-    .placeholder = Introdu adresa ta de email
+    .placeholder = Introdu adresa ta de e-mail
 close-account-confirm = CONFIRMĂ
 
 # Gallery Content (/gallery) 
-gallery-title = The Coggle Gallery
-gallery-blurb2 = A selection of the best diagrams made with Coggle!
-gallery-blurb3 = Find inspiration, templates and examples from our selection of the best public diagrams and mind maps made with Coggle.
-gallery-folder-blurb3 = <b>The Coggle Gallery</b> - A selection of the best diagrams made with Coggle!
+gallery-title = Galeria Coggle
+gallery-blurb2 = O selecție a celor mai bune diagrame făcute folosind Coggle!
+gallery-blurb3 = Găsește inspirație, șabloane și exemple din selecția noastră a celor mai bune diagrame publice și hărți mentale făcute folosind Coggle.
+gallery-folder-blurb3 = <b>Galeria Coggle</b> - O selecție a celor mai bune diagrame făcute folosind Coggle!
 
 
 # Diagram content 
-guide-click-here = click here
-guide-or-here = or here
-click-to-edit = click to edit
-click-to-edit-title = Click to edit title
-tap-to-edit = tap to edit
-tap-to-edit-title = Tap to edit title
-unnamed-diagram = Unnamed Diagram
+guide-click-here = dă clic aici
+guide-or-here = sau aici
+click-to-edit = dă clic pentru a edita
+click-to-edit-title = Dă clic pentru a edita titlul
+tap-to-edit = apasă pentru a edita
+tap-to-edit-title = Apasă pentru a edita titlul
+unnamed-diagram = Diagramă Fără Nume
 
-add-branch = add branch
-copy-branch = copy branch
-add-to-discussion = add to discussion
-comment-on-this = comment on this
-auto-arrange = auto-arrange
-pick-colour = pick color
-choose-style = choose style
-choose-shape = choose shape
+add-branch = adaugă o ramură
+copy-branch = copiază ramura
+add-to-discussion = adaugă la discuție
+comment-on-this = comentează acest lucru
+auto-arrange = aranjează automat
+pick-colour = alege o culoare
+choose-style = alege un stil
+choose-shape = alege o formă
 
 # (remove and item *and* all of its children)
-delete-branch = delete branch
+delete-branch = șterge ramura
 
-remove-item = remove item
-show-children = show children
-hide-children = hide children
-drag-to-create-link = drag to create link
-drag-to-transplant-branch = drag to transplant branch
-delete-connection = delete connection
-reverse-connection = reverse connection
-label-connection = label this connection
-move-branch-to-diagram = move branch to new diagram
-copy-branch-to-diagram = copy branch to new diagram
+remove-item = elimină elementul
+show-children = afișează copiii
+hide-children = ascunde copiii
+drag-to-create-link = glisează pentru a crea un link
+drag-to-transplant-branch = glisează pentru a transplant ramura
+delete-connection = șterge conexiunea
+reverse-connection = inversează conexiunea
+label-connection = etichetează această conexiune
+move-branch-to-diagram = mută ramura într-o diagramă nouă
+copy-branch-to-diagram = copiază ramura într-o diagramă nouă
 
-undo = undo
-redo = redo
-paste-branch = paste branch
-drag-zoom-page = drag to zoom page
-add-label = add label
+undo = anulează
+redo = reface
+paste-branch = inserează ramura
+drag-zoom-page = glisează pentru a mări pagina
+add-label = adaugă o etichetă
 
-help-title-title = The Diagram Title
-help-title-p1 = This is the center of your diagram, and its title. Your ideas will branch out from here!
-help-title-p2 = Start by editing it - what is your diagram about?
-help-gohome-2 = When you have finished editing, click the logo to go back to the homepage. Your documents are automatically saved.
-help-add-node = Use the <div data-l10n-name='plus'>+</div> buttons to add branches.
-help-edit-node-p1 = Click any item to edit the text.
-help-edit-node-p2 = Change the text size by dragging the corner of the editing area.
-help-move-node = Drag any text to move it.
-help-node-menu = Right click on items to access the menu. Here you can add, remove, copy, and arrange branches.
-help-morehelp-touch-title = Shortcuts and Help
-help-morehelp2-title = Keyboard Shortcuts and Help
-help-morehelp-touch = Open the help sheet to see shortcuts, and quickly search help articles
-help-morehelp2 = Open the help sheet to see keyboard shortcuts, and quickly search help articles
+help-title-title = Titlul Diagramei
+help-title-p1 = Acesta este centrul diagramei tale, și titlul său. Ideile tale se vor ramifica de aici!
+help-title-p2 = Începe prin a-l edita - despre ce este diagrama ta?
+help-gohome-2 = Când ai terminat eidtarea, dă clic pe logo pentru a te întoarce pe pagina principală. Documentele tale sunt salvate automat.
+help-add-node = Folosește butoanele <div data-l10n-name='plus'>+</div> pentru a adăuga ramuri.
+help-edit-node-p1 = Dă clic pe orice element pentru a edita textul.
+help-edit-node-p2 = Schimbă dimensiunea textului glisând colțul zonei de editare.
+help-move-node = Trage orice text pentru a-l muta.
+help-node-menu = Dă clic dreapta pe elemente pentru a accesa meniul. Aici poți adăuga, șterge, copia și aranja ramurile.
+help-morehelp-touch-title = Scurtături și Ajutor
+help-morehelp2-title = Comenzi Rapide și Ajutor
+help-morehelp-touch = Deschide ghidul de ajutor pentru a vedea scurtăturile și pentru a căuta rapid articole de ajutor
+help-morehelp2 = Deschide ghidul de ajutor pentru a vedea comenzile rapide și pentru a căuta rapid articole de ajutor
 
-help-multiline = Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.
-help-toolbar-invite-title = Work With Others
-help-toolbar-invite = Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.
-help-toolbar-invitemulti-title = Invite Multiple People
-help-toolbar-invitemulti = To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+help-multiline = Adaugă mai multe linii de text folosind [ctrl] + [enter], sau glisând mânerul de redimensionare înainte de a tasta.
+help-toolbar-invite-title = Lucrează Cu Alții
+help-toolbar-invite = Dă clic pentru a invita persoane să editeze sau să vizualizeze aceast Coggle. Poți controla permisiunile persoanelor dând clic pe iconița lor.
+help-toolbar-invitemulti-title = Invită Mai Multe Persoane
+help-toolbar-invitemulti = Pentru a economisi timp, poți invita mai multe persoane deodată: tastează (sau inserează) adresele de e-mail separate prin spații, virgule<b>,</b> sau puncte și virgule<b>;</b>
 
-help-toolbar-invitedonefaster-p1 = Now you've been editing for a while, try getting things done faster by collaborating!
-help-toolbar-invitedonefaster-p2 = Invite people to edit with you, and see their changes instantly.
-help-toolbar-inviteflow-title-2 = Invite a Co-worker by Email
-help-toolbar-sharing-title = Shareable Links and Publishing
-help-toolbar-sharing = You can also publish your diagram, or create secret shareable links to give access only to people with that link.
-help-inactive-invite = Work with friends to help bring your ideas to life!<br>Invite by email here.
+help-toolbar-invitedonefaster-p1 = Acum că ai editat de ceva timp, încearcă să faci lucrurile să meargă mai repede prin colaborare!
+help-toolbar-invitedonefaster-p2 = Invită persoane să editeze cu tine și vezi instant schimbările făcute de ele.
+help-toolbar-inviteflow-title-2 = Invită un Coleg de Muncă prin E-mail
+help-toolbar-sharing-title = Link-uri Partajabile și Publicări
+help-toolbar-sharing = De asemenea, îți poți publica diagrama sau crea link-uri secrete partajabile pentru a oferi acces doar persoanelor care au acel link.
+help-inactive-invite = Lucrează cu prietenii pentru a-ți aduce la viață ideile!<br>Invită prin e-mail aici.
 
-me-as-awesome-orgmember-p1 = This is you &mdash; you're viewing Coggle as an <b>organization member</b>.
-me-as-awesome-orgmember-p2 = This means you get all the great features from the <a data-l10n-name="awesome">Coggle Awesome</a> plan too!
+me-as-awesome-orgmember-p1 = Acesta ești tu &mdash; vizualizei Coggle ca <b>membru al unei organizații</b>.
+me-as-awesome-orgmember-p2 = Asta înseamnă că te bucuri și de toate funcționalitățile grozave ale planului <a data-l10n-name="awesome">Coggle Awesome</a>!
 
-free-awesome = Want Awesome for free?
-upgrade-now = Upgrade Now
+free-awesome = Vrei planul Awesome pe gratis?
+upgrade-now = Fă Upgrade Acum
 
-me-support-awesomethanks-p1 = <b>Thanks for supporting Coggle!</b>
-me-support-awesomethanks-p2 = For being an early Coggle supporter, you get all the benefits of the <a data-l10n-name="awesome">Coggle Awesome</a> plan included in your subscription!
+me-support-awesomethanks-p1 = <b>Mulțumesc pentru că sprijini Coggle!</b>
+me-support-awesomethanks-p2 = Pentru că ai fost un susținător de la început al Coggle, primești toate beneficiile planului <a data-l10n-name="awesome">Coggle Awesome</a> incluse în abonamentul tău!
 
-me-awesome = This is you &mdash;<b>You're Awesome!</b>
-me-manage-plan = Manage your plan
+me-awesome = Acesta ești tu &mdash;<b>Ești Awesome!</b>
+me-manage-plan = Gestionează-ți planul
 
 
-messages-title = Messages
+messages-title = Mesaje
 messages-search =
-    .placeholder = Search
-messages-start = You've reached the start!
+    .placeholder = Caută
+messages-start = Ai ajuns la început!
 messages-comments-notes =
-    .placeholder = Enter comments, discussion and notes.
+    .placeholder = Introdu comentarii, discuții sau notițe.
 
 
 diagram-toolbar-history =
-    .title = View and copy previous versions.
+    .title = Vizualizează și copiază versiuni anterioare.
 diagram-toolbar-messages =
-    .title = Comments and chat.
+    .title = Comentarii și discuții.
 diagram-toolbar-present =
-    .title = Present and Review.
+    .title = Prezintă și Revizuiește.
 diagram-toolbar-share =
-    .title = Share this Coggle.
+    .title = Partajează acest Coggle.
 diagram-toolbar-download =
-    .title = Download this Coggle.
+    .title = Descarcă acest Coggle.
 diagram-toolbar-copy =
-    .title = Create a copy of this Coggle.
-diagram-toolbar-public-detail = Public Diagram
-    .title = This diagram may appear in the Coggle Gallery and search results.
-diagram-toolbar-pubcopy = Use as Template
-    .title = Create your own copy of this diagram.
-public-label = Public
-    .title = This is a public diagram.
+    .title = Creează o copie a acestui Coggle.
+diagram-toolbar-public-detail = Diagramă Publică
+    .title = Această diagramă ar putea să apară în Galeria Coggle și în rezultatele unor căutări.
+diagram-toolbar-pubcopy = Folosește ca Șablon
+    .title = Creează propria ta copie a acestei diagrame.
+public-label = Publică
+    .title = Aceasta este o diagramă publică.
 
 # history slider content 
-current-version = current
+current-version = curent
 
 # sharing dialog content 
-share-newlink = New Link:
-share-newlink-tip = These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+share-newlink = Link Nou:
+share-newlink-tip = Acestea îți permit să partajezi diagrama ta cu persoane care nu sunt autentificate, dar ai grijă, ele permit <strong>oricui</strong> are link-ul să vadă munca ta!
 
-share-tag-user = user
-share-tag-embed = embed
-share-tag-writable = editable
-share-send-email = SEND
+share-tag-user = utilizator
+share-tag-embed = încorporează
+share-tag-writable = editabil
+share-send-email = TRIMITE
 share-email-hints =
-  <span>to invite, type an email</span>
-  <span>then hit enter</span>
-  <span>friend@example.com</span>
+  <span>pentru a invita, introdu un e-mail</span>
+  <span>apoi apasă enter</span>
+  <span>prieten@exemplu.com</span>
 
 viewers-can-edit = 
-    .title = Viewers can edit the diagram.
+    .title = Vizualizatorii pot edita diagrama.
 viewers-readonly =
-    .title = Viewers can only view the diagram.
+    .title = Vizualizatorii pot doar să vadă diagrama.
 viewers-can-copy =
-    .title = Viewers may create their own copies.
+    .title = Vizualizatorii pot crea propriile lor copii.
 viewers-nocopy = 
-    .title = Viewers may not create copies.
+    .title = Vizualizatorii nu pot crea propriile lor copii.
 revoke-link = 
-    .title = Delete this link.
+    .title = Șterge acest link.
 
-share-open = Can everyone view this diagram?
-share-open-detail = Public diagrams can be viewed by anyone and may appear in our <a data-l10n-name="gallery">Gallery</a>
+share-open = Poate toată lumea să vizualizeze această diagramă?
+share-open-detail = Diagramele publice pot fi vizualizate de oricine și pot apărea în <a data-l10n-name="gallery">Galeria</a> noastră
 
 # download dialog content 
-download-pdf = Download PDF
-download-png = Download Image
-download-mm = .mm File
-download-txt = Plain-Text Outline
-download-visio = Visio Flowchart (.vsdx) 
-download-failed = File generation failed.
-    .title = Click to retry
-download-import-tip = <b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a data-l10n-name="import-link">Read more.</a>
+download-pdf = Descarcă PDF
+download-png = Descarcă Imagine
+download-mm = Fișier .mm
+download-txt = Structură Text Simplu
+download-visio = Organigramă Visio (.vsdx) 
+download-failed = Generarea fișierului a eșuat.
+    .title = Dă clic pentru a reîncerca
+download-import-tip = <b>Cauți importuri?</b> Trage un fișier .mm sau .txt pe o diagramă pentru a-l importa! <a data-l10n-name="import-link">Citește mai mult.</a>
 
 # access control slider content 
-access-readonly = Read only<br/><span data-l10n-name="tip" >Only allow them to view</span>
-access-readclone = Read & create copies<br/><span data-l10n-name="tip" >Also allow downloading and copying</span>
-access-author = Author<br/><span data-l10n-name="tip" >Allow creating and editing documents</span>
+access-readonly = Doar citire<br/><span data-l10n-name="tip" >Permite-le doar să vizualizeze</span>
+access-readclone = Citire și copiere<br/><span data-l10n-name="tip" >Permite și descărcarea, și copierea</span>
+access-author = Autor<br/><span data-l10n-name="tip" >Permite crearea și editarea documentelor</span>
 
-access-folder-readonly = Read only<br/><span data-l10n-name="tip">Only allow them to view</span>
-access-folder-readclone = Read & create copies<br/><span data-l10n-name="tip">Also allow downloading and copying</span>
-access-folder-author = Author<br/><span data-l10n-name="tip">Allow creating and editing documents</span>
-access-folder-admin = Administer<br/><span data-l10n-name="tip">Add and remove people and documents</span>
+access-folder-readonly = Doar citire<br/><span data-l10n-name="tip">Permite-le doar să vizualizeze</span>
+access-folder-readclone = Citire și copiere<br/><span data-l10n-name="tip">Permite și descărcarea, și copierea</span>
+access-folder-author = Autor<br/><span data-l10n-name="tip">Permite crearea și editarea documentelor</span>
+access-folder-admin = Administrator<br/><span data-l10n-name="tip">Adaugă și înlătură persoane și documente</span>
 
-access-remove = Remove { $user_givenName }
+access-remove = Înlătură pe { $user_givenName }
 
 # Notification Messages 
-readonly-warning = You cannot edit this diagram. <div data-l10n-name="suggestion">If you need to edit it, ask the author to give you permission.</div>
+readonly-warning = Nu poți edita această diagramă. <div data-l10n-name="suggestion">Dacă ai nevoie s-o editezi, roagă autorul să-ți acorde permisiunea.</div>
 
-websocket-offline = Real-time changes are unavailable due to the network. <a data-l10n-name='helpfix'>More information</a>
+websocket-offline = Schimbările în timp real sunt indisponibile din cauza rețelei. <a data-l10n-name='helpfix'>Mai multe informații</a>
 
-disconnect-warning = <b>Connection lost</b>: Changes may not be saved
+disconnect-warning = <b>Conexiune pierdută</b>: S-ar putea ca schimbările să nu se salveze
 
-banner-undo-warning = Nothing more to undo!
-banner-redo-warning = Nothing more to redo!
+banner-undo-warning = Nu mai există acțiuni de anulat!
+banner-redo-warning = Nu mai există acțiuni de refăcut!
 
 # Image drag-drop messages 
-image-resize-plug = Your image was resized - get <a data-l10n-name='awesome'>Awesome</a> to upload larger images!
+image-resize-plug = Imaginea ta a fost redimensionată - obține planul <a data-l10n-name='awesome'>Awesome</a> pentru a încărca imagini mai mari!
 
 # Help panel
 sidebar-contextmenu = Context Menu
