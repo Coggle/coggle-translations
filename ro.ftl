@@ -360,7 +360,7 @@ remove-item = elimină elementul
 show-children = afișează copiii
 hide-children = ascunde copiii
 drag-to-create-link = glisează pentru a crea un link
-drag-to-transplant-branch = glisează pentru a transplant ramura
+drag-to-transplant-branch = glisează pentru a transplanta ramura
 delete-connection = șterge conexiunea
 reverse-connection = inversează conexiunea
 label-connection = etichetează această conexiune
@@ -506,129 +506,129 @@ banner-redo-warning = Nu mai există acțiuni de refăcut!
 image-resize-plug = Imaginea ta a fost redimensionată - obține planul <a data-l10n-name='awesome'>Awesome</a> pentru a încărca imagini mai mari!
 
 # Help panel
-sidebar-contextmenu = Context Menu
-sidebar-clickformenu = Right click an item or the background to access a menu.
-sidebar-tapformenu = Tap an item or the background to access a menu.
-sidebar-controls = Controls
+sidebar-contextmenu = Meniu Contextual
+sidebar-clickformenu = Dă clic dreapta pe un element sau pe fundal pentru a accesa un meniu.
+sidebar-tapformenu = Apasă pe un element sau pe fundal pentru a accesa un meniu.
+sidebar-controls = Comenzi
 
-sidebar-removebranch = Remove Branch:
-sidebar-insertbranch = Insert Branch:
-sidebar-transplantbranch = Transplant Branch:
-sidebar-addimages-title = Add <a data-l10n-name='images'>Images</a>:
+sidebar-removebranch = Înlătură Ramura:
+sidebar-insertbranch = Inserează Ramura:
+sidebar-transplantbranch = Transplantează Ramura:
+sidebar-addimages-title = Adaugă <a data-l10n-name='images'>Imagini</a>:
 
 sidebar-zoom = Zoom:
 
-sidebar-shortcuts = Shortcuts
-sidebar-undo = Undo:
-sidebar-redo = Redo:
+sidebar-shortcuts = Comenzi Rapide
+sidebar-undo = Anulează:
+sidebar-redo = Reface:
 
-touch-pressitem = <b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more.
-touch-pressbackground = <b>Long-press</b> on the <b>background</b> to add <b>labels</b>, <b>undo</b>, and paste.
+touch-pressitem = <b>Apasă lung</b> pe un <b>element</b> pentru a <b>înlătura</b> elemente, a schimba <b>culoarea</b>, a <b>aranja automat</b>, a crea un link încrucișat, a copia și multe altele.
+touch-pressbackground = <b>Apasă lung</b> pe <b>fundal</b> pentru a adăuga <b>etichete</b>, a <b>anula</b> și a lipi.
 
-sc-and-click = + click
-sc-and-drag = + drag
-sc-and-mousewheel = + mousewheel
+sc-and-click = + clic
+sc-and-drag = + trage
+sc-and-mousewheel = + roata mouse-ului
 sc-shift = shift ⇧
 sc-ret = enter ⏎
 sc-tab = tab ⇥
 sc-ctrl = ctrl ^
 sc-alt = alt
-sc-option = option ⌥
+sc-option = opțiune ⌥
 sc-dragdrop = drag and drop
 
-sidebar-whentyping = When typing
-sidebar-sc-newitem = New Item:
+sidebar-whentyping = Când tastezi
+sidebar-sc-newitem = Element Nou:
 
-sidebar-sc-newchild = New Child Item:
+sidebar-sc-newchild = Element Copil Nou:
 
-sidebar-sc-parent = Jump to Parent:
+sidebar-sc-parent = Sari la Părinte:
 
-sidebar-sc-markdown-title = Format text:
-sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
+sidebar-sc-markdown-title = Formatează textul:
+sidebar-sc-markdown = folosește <a data-l10n-name="link">Markdown</a>
 
-hint-control-line = Drag to adjust line.
-hint-control-remove = Click to remove control point.
-hint-delete-link = Delete cross-link.
-hint-edit-label = Edit cross-link label.
-hint-add-title = Add new branch. This is the diagram's title.
+hint-control-line = Trage pentru a ajusta linia.
+hint-control-remove = Dă clic pentru a elimina punctul de control.
+hint-delete-link = Șterge link-ul încrucișat.
+hint-edit-label = Editează eticheta link-ului încrucișat.
+hint-add-title = Adaugă o ramură nouă. Acesta este titlul diagramei.
 hint-add =
     {
         $os ->
-            [Mac] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
-           *[Win] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
+            [Mac] Adaugă o ramură nouă. Folosește în schimb <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> pentru a șterge, sau <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pentru a insera.
+           *[Win] Adaugă o ramură nouă. Folosește în schimb <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> pentru a șterge, sau <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pentru a insera.
     }
-hint-delete = Delete branch.
-hint-remove = Delete item.
-hint-insert-rp = Insert item before this one, or drag to transplant.
+hint-delete = Șterge ramura.
+hint-remove = Șterge elementul.
+hint-insert-rp = Inserează un element înaintea acestuia, sau trage pentru a transplanta.
 
-toggle-checkbox = Toggle checkbox.
-hint-edit-touch = Tap to edit, drag to move.
-hint-transplant = Drag to transplant.
-hint-drag-only = Drag to move this node only.
+toggle-checkbox = Comută caseta de selectare.
+hint-edit-touch = Apasă pentru a edita, trage pentru a muta.
+hint-transplant = Trage pentru a transplanta.
+hint-drag-only = Trage pentru a muta doar acest nod.
 hint-can-drag-only = 
     {
         $os ->
-            [Mac] Hold <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> to drag this node only.
-           *[Win] Hold <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> to drag this node only.
+            [Mac] Ține apăsat pe <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> pentru a trage doar acest nod.
+           *[Win] Ține apăsat pe <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> pentru a trage doar acest nod.
     }
-hint-edit = Click to edit, drag to move.
-hint-present-touch = Tap to show and hide branches.
-hint-present-all = Click to show and hide all levels.
-hint-present = Click to show and hide branches. Hold <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> to expand all levels.
+hint-edit = Dă clic pentru a edita, trage pentru a muta.
+hint-present-touch = Apasă pentru a afișa și a ascunde ramurile.
+hint-present-all = Dă clic pentru a afișa și a ascunde toate nivelurile.
+hint-present = Dă clic pentru a afișa și a ascunde ramurile. Ține apăsat pe <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> pentru a extinde toate nivelurile.
 
-stat-saving = Saving
-stat-saved = All changes saved
-stat-noaccess = Access denied
+stat-saving = Se Salvează
+stat-saved = Toate schimbările s-au salvat
+stat-noaccess = Acces respins
 
-another-fact = another!
-cogglefacts-more = Read more...
+another-fact = încă unul!
+cogglefacts-more = Citește mai mult...
 
 sidebar-markdown = Markdown
-sidebar-bgmenu = <b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.
-sidebar-bgmenu2 = <b>Zoom</b>, add <b>text labels</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.
-sidebar-icons = Icons
-markdown-icons = Type <code>:</code> while editing or use the button along the top of the item editor.
-markdown-checkbox = <code>- [X]</code> to create a <input data-l10n-name="checkbox"/> checkbox
-markdown-code = <code>`text`</code> to use a <code>fixed width</code> font
+sidebar-bgmenu = <b>Dă zoom</b>, <b>anulează</b> și <b>lipește elementele copiate</b> dând clic dreapta pe fundal.
+sidebar-bgmenu2 = <b>Dă zoom</b>, adaugă <b>etichete text</b>, <b>anulează</b> și <b>lipește elementele copiate</b> dând clic dreapta pe fundal.
+sidebar-icons = Pictograme
+markdown-icons = Tastează <code>:</code> în timp ce editezi sau folosește butonul din partea de sus a editorului de elemente.
+markdown-checkbox = <code>- [X]</code> pentru a crea o <input data-l10n-name="checkbox"/> casetă de selectare
+markdown-code = <code>`text`</code> pentru a folosi un font cu <code>lățime fixă</code>
 
 button-bold =
-    .title = Make text bold
+    .title = Îngroașă textul
 button-italic =
-    .title = Make text italic
+    .title = Italicizează textul
 button-link =
-    .title = Link to a website
+    .title = Link către un website
 button-image =
-    .title = Upload an image
+    .title = Încarcă o imagine
 button-emoji =
-    .title = Search for icons.
+    .title = Caută pictograme.
 button-formatting =
-    .title = Text formatting
+    .title = Formatează textul
 button-back =
-    .title = Back
+    .title = Înapoi
 button-aligned-left =
-    .title = Aligned left
+    .title = Aliniat la stânga
 button-aligned-center =
-    .title = Aligned center
+    .title = Aliniat la centru
 button-aligned-right =
-    .title = Aligned right
+    .title = Aliniat la dreapta
 button-aligned-auto =
-    .title = Aligned automatically
+    .title = Aliniiat automat
 button-upload =
-    .title = Add image or attach file.
+    .title = Adaugă o imagine sau atașează un fișier.
 button-attach =
-    .title = Attach a file.
+    .title = Atașează un fișier.
 button-resize =
-    .title = Drag to change the text size.
-label-fontsize = Font size <span data-l10n-name="fontsize"></span>px.
+    .title = Trage pentru a schimba dimensiunea textului.
+label-fontsize = Dimensiunea fontului <span data-l10n-name="fontsize"></span>px.
 
-hint-toolong = Item too long! Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
-hint-movetext = Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
-hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> to delete
+hint-toolong = Elementul este prea lung! Încearcă să muți din text într-un element nou: selectează textul și apoi apasă <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-movetext = Încearcă să muți din text într-un element nou: selectează textul și apoi apasă <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> pentru a șterge
 
 commentcount = 
     { $count ->
-        [one] 1 comment
-       *[other] { $count } comments
+        [one] 1 comentariu
+       *[other] { $count } comentarii
     }
 
 # diagram not-found page 
