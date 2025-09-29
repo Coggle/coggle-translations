@@ -612,7 +612,7 @@ button-aligned-center =
 button-aligned-right =
     .title = Aliniat la dreapta
 button-aligned-auto =
-    .title = Aliniiat automat
+    .title = Aliniat automat
 button-upload =
     .title = Adaugă o imagine sau atașează un fișier.
 button-attach =
@@ -632,119 +632,119 @@ commentcount =
     }
 
 # diagram not-found page 
-nodiagram-title = Diagram not found!
-nodiagram-invalid-link = This diagram link is invalid, or access to it has been revoked.
-nodiagram-logged-in = You are currently logged in as <b>{ $user_givenName }</b>, with the email address <b>{ $user_email }</b>. If this diagram exists, this account does not have permission to access it.
-nodiagram-not-logged-in = <b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.
-nodiagram-may-need-access = If someone gave you a link to this diagram they might also need to give you permission to view it.
+nodiagram-title = Diagrama nu a fost găsită!
+nodiagram-invalid-link = Acest link către diagramă este invalid, sau accesul la aceasta a fost revocat.
+nodiagram-logged-in = Ești autentificat(ă) în prezent ca <b>{ $user_givenName }</b>, cu adresa de e-mail <b>{ $user_email }</b>. Dacă această diagramă există, acest cont nu are permisiunea să o acceseze.
+nodiagram-not-logged-in = <b>Nu ești autentificat(ă) în prezent.</b> Dacă această diagramă există, s-ar putea să ai acces la ea dacă te autentifici în contul tău.
+nodiagram-may-need-access = Dacă cineva ți-a dat dat un link către această diagramă, s-ar putea să fie nevoie să-ți dea și permisiunea de a o vizualiza.
 
 
 # Awesome Landing Page (/awesome) 
 awesome-pitch-title = Coggle Awesome
-awesome-pitch = Supercharge your thinking with Coggle Awesome. Add huge images, present your Coggles, and create private Coggles that won't be indexed by search engines.
-awesome-signup = SIGN UP NOW
-awesome-price = ${$monthlyPrice} / MONTH
+awesome-pitch = Supraîncarcă-ți gândirea cu Coggle Awesome. Adaugă imagini imense, prezintă Coggle-urile tale și creează Coggle-uri private care nu vor indexate de motoarele de căutare.
+awesome-signup = ABONEAZĂ-TE ACUM
+awesome-price = ${$monthlyPrice} / LUNĂ
 
-awesome-feature-cp-title = Control Line Paths
-awesome-feature-cp = Place connections exactly where you want them using control points on branch paths.
+awesome-feature-cp-title = Controlează Traseul Liniilor
+awesome-feature-cp = Plasează conexiunile exact unde dorești, folosind puncte de control pe traseele ramurilor.
 
-awesome-feature-shapes-title = Advanced Item Shapes
-awesome-feature-shapes = Customise your flowcharts using all the item shapes. Use diamonds for flowchart decision nodes, and place text in-line with connections for org charts.
+awesome-feature-shapes-title = Forme de Elemente Avansate
+awesome-feature-shapes = Personalizează-ți organigramele folosind toate formele pentru elemente. Folosește romburi pentru nodurile de decizie din diagramele de flux și plasează textul pe linia conexiunilor pentru organigrame.
 
-awesome-feature-private-title = Unlimited Private Diagrams
-awesome-feature-private = Create as many private diagrams as you like. If you do ever cancel your subscription they stay private, and you keep access.
+awesome-feature-private-title = Diagrame Private Nelimitate
+awesome-feature-private = Creează câte diagrame private dorești. Dacă îți anulezi vreodată abonamentul, ele vor rămâne private și tu vei păstra accesul.
 
-awesome-feature-joinloop-title = Create Loops and Join Branches
-awesome-feature-joinloop = Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.
+awesome-feature-joinloop-title = Creează Bucle și Alătură Ramuri
+awesome-feature-joinloop = Alătură ramuri și creează bucle pentru a crea diagrame mai puternice și mai flexibile care să reprezinte fluxul unui proces și alte lucruri avansate.
 
-awesome-feature-multiroot-title = Multiple Starting Points
-awesome-feature-multiroot = Add multiple central items to your diagrams to map related topics in a single workspace.
+awesome-feature-multiroot-title = Puncte de Pornire Multiple
+awesome-feature-multiroot = Adaugă multiple elemente centrale diagramelor tale pentru a organiza subiecte corelate într-un singur spațiu de lucru.
 
-awesome-feature-editablelinks-title = No-Setup Collaboration
-awesome-feature-editablelinks = Allow any number of people to edit a diagram simply by sharing a secret link with them. No login required.
+awesome-feature-editablelinks-title = Colaborare Fără Configurare
+awesome-feature-editablelinks = Permite oricâtor persoane să editeze o diagramă pur și simplu partajându-le un link secret. Nu e necesară autentificarea.
 
-awesome-feature-linestyle-title = Control Line Style
-awesome-feature-linestyle = Customise the thickness and style of the lines in your diagram.
+awesome-feature-linestyle-title = Controlează Stilul Liniilor
+awesome-feature-linestyle = Personalizează grosimea și stilul liniilor din diagrama ta.
 
-awesome-feature-bigimages-title = Show Them the Big Picture
-awesome-feature-bigimages = Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.
+awesome-feature-bigimages-title = Arată-le Imaginea de Ansamblu
+awesome-feature-bigimages = Adaugă imagini imense Coggle-urilor tale pentru a-ți ilustra ideile: doar trage și plasează o imagine de pe desktop-ul tău pe un document.
 
-awesome-feature-colours-title = More Colors
-awesome-feature-colours = Unlock a new range of vivid colors to help organize and highlight your ideas.
+awesome-feature-colours-title = Mai Multe Culori
+awesome-feature-colours = Deblochează o nouă paletă de culori vii pentru a ajuta la organizarea și la evidențierea ideilor tale.
 
-awesome-feature-autoarrange-title = Automatic Branch Layout
-awesome-feature-autoarrange = Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.
+awesome-feature-autoarrange-title = Aranjare Automată a Ramurilor
+awesome-feature-autoarrange = Rezolvă poziționarea ramurilor tale într-un singur clic folosind funcționalitățile Coggle Awesome de aranjare automată a ramurilor.
 
-awesome-feature-folders-title = Shared Folders
-awesome-feature-folders = Put your diagrams into folders to keep them organized and easily share them all with a group of collaborators.
+awesome-feature-folders-title = Directoare Partajate
+awesome-feature-folders = Pune-ți diagramele în directoare pentru a le păstra organizate și partajează-le ușor pe toate cu un grup de colaboratori.
 
-awesome-feature-flow-title = Powerful Flowcharting
-awesome-feature-flow = Pick from a range of shapes to create expressive, powerful flowcharts, process maps, and other diagrams.
+awesome-feature-flow-title = Diagrame de Flux Avansate
+awesome-feature-flow = Alege dintr-o selecție de forme pentru a crea diagrame de flux, hărți de proces și alte diagrame expresive și puternice.
 
 awesome-hint-orgs =
-  If you're using Coggle for work, check out <a data-l10n-name="orglink">Coggle Organizations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
+  Dacă folosești Coggle pentru muncă, aruncă o privire la secțiunea <a data-l10n-name="orglink">Organizații Coggle</a>, care vine cu toate beneficiile Coggle Awesome și funcții de administrator potrivite pentru afaceri.
 
 
 # Login Page /login
-index-loginwithgoogle = Sign in with Google
-index-signinwithapple = Sign in with Apple
+index-loginwithgoogle = Autentifică-te cu Google
+index-signinwithapple = Autentifică-te cu Apple
 
-login-no-acc-q = Don't have a Google or Microsoft Account?
-login-no-acc-a = No problem! You can create a Google or Microsoft Account with any email address. A Gmail or Outlook account is <b>not</b> required.
+login-no-acc-q = Nu ai un cont Google sau Microsoft?
+login-no-acc-a = Nicio problemă! Poți crea un cont Google sau Microsoft folosind orice adresă de e-mail. Un cont Gmail sau Outlook <b>nu</b> este necesar.
 
-login-saml = We also support enterprise grade login for Coggle Organizations with OneLogin, Okta, and other SAML 2.0 identity providers.
-login-saml-where = If you're a single-sign on user, log in using the page shared by your Organization's administrator.
-login-saml-more = Read more about Single Sign On.
+login-saml = De asemenea, oferim suport pentru autentificarea de nivel enterprise pentru Organizații Coggle folosind OneLogin, Okta și alți furnizori de identitate SAML 2.0.
+login-saml-where = Dacă ești un utilizator cu autentificare unică, autentifică-te folosind pagina partajată de administratorul Organizației tale.
+login-saml-more = Citește mai mult despre autentificarea unică.
 
-login-faq = Frequently Asked Questions
-login-pw-q = Why can't I create a username and password?
-login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-    Sign in with Apple. We believe this is the best way to keep your data safe,
-    as these companies all provide very secure sign-in services, which support
-    two-factor authentication and other account protection options.
+login-faq = Întrebări Frecvente
+login-pw-q = De ce nu pot crea un nume de utilizator și o parolă?
+login-pw-a-p1 = Coggle oferă doar autentificarea de tip Google Login, Microsoft Account Login sau 
+    folosind Apple. Noi credem că acesta este cel mai bun mod de a-ți păstra datele în siguranță, 
+    deoarece aceste companii oferă toate servicii de autentificare foarte sigure, care oferă 
+    autentificarea prin doi pași și alte opțiuni de protejare a contului.
 
-login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-    intricacy: password recovery, 2-factor authentication, fraud detection,
-    brute-force attack detection, and securely storing hashed and salted
-    passwords. We believe that leaving these tasks to an external provider is
-    the right thing to do – leaving us more time to focus on creating a great
-    mind-mapping experience.
+login-pw-a-p2 = Stocarea sigură a numelor de utilizator și a parolelor are multe 
+    subtilități: recuperarea parolelor, autentificarea în doi pași, detectarea fraudelor, 
+    detectarea atacurilor de tip brute-force și stocarea securizată a parolelor criptate prin 
+    hash și salt. Credem că e alegerea corectă să lăsăm aceste sarcini în seama unui 
+    furnizor extern – rămânem astfel cu mai mult timp pentru a ne concentra asupra creării 
+    unei experiențe grozave de elaboorare a hărților mentale.
 
-login-what-q = What do you do with my Google/Microsoft account?
-login-what-a = We only ask for access to your basic profile information. 
-    This includes your name, profile picture and your email address. 
-    We don't ask for access to your contacts, emails, Google Drive documents, 
-    or anything else that we don't need to make Coggle work.
+login-what-q = Ce faceți cu contul meu Google/Microsoft?
+login-what-a = Noi cerem acces doar la informațiile de bază ale profilului tău. 
+    Acestea includ numele tău, poza de profil și adresa ta de e-mail. 
+    Nu cerem acces la contactele, e-mail-urile, documentele tale Google Drive 
+    sau orice altceva de care nu avem nevoie pentru a face Coggle să meargă.
 
-login-switch-q = Can I switch between login methods?
-login-switch-a = Yes! As long as you use the same email address with your Microsoft/Apple/Google accounts, 
-    then you can use any of them to log in to the same Coggle account. 
-    Note that if you choose the 'hide my email' option in Apple login, then your account won't be linked.
+login-switch-q = Pot schimba metoda de autentificare?
+login-switch-a = Da! Atâta timp cât folosești aceeași adresă de e-mail cu conturile tale Microsoft/Apple/Google, 
+    poți să o folosești pe oricare din ele pentru a te autentifica în același cont Coggle. 
+    Ține cont că dacă alegi opțiunea 'ascunde e-mail-ul meu' în autentificarea cu Apple, atunci contul tău nu va fi conectat.
 
-login-emails-q = Can you read my emails?
-login-emails-a = No. We don't need, and don't want, access to your emails! 
-    We just request your basic profile information. We don't have access to anything else, 
-    and we can't change any setting on your Google/Microsoft account.
+login-emails-q = Puteți citi e-mail-urile mele?
+login-emails-a = Nu. Nu avem nevoie și nu vrem să avem acces la e-mail-urile tale! 
+    Noi doar cerem informațiile de bază ale profilului tău. Nu avem acces la nimic altceva 
+    și nu putem schimba nicio setare de pe contul tău Google/Microsoft.
 
-login-icloud-q = Can you access my iCloud?
-login-icloud-a = No! Sign in with Apple just gives us access to your name, 
-    and your email address (if you choose to share it). We don't have access to anything else. 
-    You can read more about how sign in with apple works on 
-    <a data-l10n-name="applehelp"> Apple's website</a>.
+login-icloud-q = Puteți accesa iCloud-ul meu?
+login-icloud-a = Nu! Autentificarea cu Apple ne oferă acces doar la numele tău și adresa ta 
+    de e-mail (dacă alegi să o partajezi). Nu avem acces la nimic altceva. 
+    Poți citi mai multe despre cum funcționează autentificarea cu Apple pe 
+    <a data-l10n-name="applehelp">website-ul Apple</a>.
 
-login-workschool-q = Can I use my Work or School Microsoft account?
-login-workschool-a = Yes, you can use any Microsoft account, including both personal accounts (formerly Windows Live), 
-    and business-managed Azure Active Directory or Office-365 accounts, 
-    unless your IT team have blocked this feature for accounts they manage.
+login-workschool-q = Îmi pot folosi contul Microsoft de Muncă sau de Școală?
+login-workschool-a = Da, poți folosi orice cont Microsoft, incluzând și conturi personale (înainte Windows Live), 
+    și conturi gestionate de afaceri Azure Active Directory sau Office-365, dacă echipa ta 
+    de IT nu a blocat această funcție pentru conturile pe care le gestionează.
 
-login-otherlogin-q = Can I use another Authentication Provider to access Coggle?
-login-otherlogin-a-p1 = Currently we only support Google, Microsoft and Sign in with Apple account login for personal accounts.
-login-otherlogin-a-p2 = We support <a data-l10n-name="saml">SAML 2.0 login</a> for Coggle Organisations, 
-    and if you're interested in hosting your own version of Coggle with Active Directory login then get in 
-    touch with our <a data-l10n-name="email">enterprise sales address</a>.
+login-otherlogin-q = Pot folosi un alt Furnizor de Autentificare pentru a accesa Coggle?
+login-otherlogin-a-p1 = În prezent, pentru conturile personale oferim suport doar pentru autentificarea folosind Google, Microsoft și Apple.
+login-otherlogin-a-p2 = Acceptăm <a data-l10n-name="saml">autentificare SAML 2.0</a> pentru Organizații Coggle, 
+    iar dacă ești interesat(ă) să găzduiești propria versiune de Coggle cu autentificare prin Active Directory, atunci 
+    contactează <a data-l10n-name="email">adresa pentru vânzări corporate</a>.
 
-login-pw-more-q = I've still got a question about login
-login-pw-more-a = Ask us! Our email is <a data-l10n-name="email">hello@coggle.it</a>.
+login-pw-more-q = Mai am o întrebare despre autentificare
+login-pw-more-a = Întreabă-ne! E-mail-ul nostru este <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Organizations Landing Page (/organizations) 
 orgs-pitch-title = Coggle Organizations
