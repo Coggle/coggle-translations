@@ -360,7 +360,7 @@ remove-item = elimină elementul
 show-children = afișează copiii
 hide-children = ascunde copiii
 drag-to-create-link = glisează pentru a crea un link
-drag-to-transplant-branch = glisează pentru a transplant ramura
+drag-to-transplant-branch = glisează pentru a transplanta ramura
 delete-connection = șterge conexiunea
 reverse-connection = inversează conexiunea
 label-connection = etichetează această conexiune
@@ -506,478 +506,477 @@ banner-redo-warning = Nu mai există acțiuni de refăcut!
 image-resize-plug = Imaginea ta a fost redimensionată - obține planul <a data-l10n-name='awesome'>Awesome</a> pentru a încărca imagini mai mari!
 
 # Help panel
-sidebar-contextmenu = Context Menu
-sidebar-clickformenu = Right click an item or the background to access a menu.
-sidebar-tapformenu = Tap an item or the background to access a menu.
-sidebar-controls = Controls
+sidebar-contextmenu = Meniu Contextual
+sidebar-clickformenu = Dă clic dreapta pe un element sau pe fundal pentru a accesa un meniu.
+sidebar-tapformenu = Apasă pe un element sau pe fundal pentru a accesa un meniu.
+sidebar-controls = Comenzi
 
-sidebar-removebranch = Remove Branch:
-sidebar-insertbranch = Insert Branch:
-sidebar-transplantbranch = Transplant Branch:
-sidebar-addimages-title = Add <a data-l10n-name='images'>Images</a>:
+sidebar-removebranch = Înlătură Ramura:
+sidebar-insertbranch = Inserează Ramura:
+sidebar-transplantbranch = Transplantează Ramura:
+sidebar-addimages-title = Adaugă <a data-l10n-name='images'>Imagini</a>:
 
 sidebar-zoom = Zoom:
 
-sidebar-shortcuts = Shortcuts
-sidebar-undo = Undo:
-sidebar-redo = Redo:
+sidebar-shortcuts = Comenzi Rapide
+sidebar-undo = Anulează:
+sidebar-redo = Reface:
 
-touch-pressitem = <b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more.
-touch-pressbackground = <b>Long-press</b> on the <b>background</b> to add <b>labels</b>, <b>undo</b>, and paste.
+touch-pressitem = <b>Apasă lung</b> pe un <b>element</b> pentru a <b>înlătura</b> elemente, a schimba <b>culoarea</b>, a <b>aranja automat</b>, a crea un link încrucișat, a copia și multe altele.
+touch-pressbackground = <b>Apasă lung</b> pe <b>fundal</b> pentru a adăuga <b>etichete</b>, a <b>anula</b> și a lipi.
 
-sc-and-click = + click
-sc-and-drag = + drag
-sc-and-mousewheel = + mousewheel
+sc-and-click = + clic
+sc-and-drag = + trage
+sc-and-mousewheel = + roata mouse-ului
 sc-shift = shift ⇧
 sc-ret = enter ⏎
 sc-tab = tab ⇥
 sc-ctrl = ctrl ^
 sc-alt = alt
-sc-option = option ⌥
+sc-option = opțiune ⌥
 sc-dragdrop = drag and drop
 
-sidebar-whentyping = When typing
-sidebar-sc-newitem = New Item:
+sidebar-whentyping = Când tastezi
+sidebar-sc-newitem = Element Nou:
 
-sidebar-sc-newchild = New Child Item:
+sidebar-sc-newchild = Element Copil Nou:
 
-sidebar-sc-parent = Jump to Parent:
+sidebar-sc-parent = Sari la Părinte:
 
-sidebar-sc-markdown-title = Format text:
-sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
+sidebar-sc-markdown-title = Formatează textul:
+sidebar-sc-markdown = folosește <a data-l10n-name="link">Markdown</a>
 
-hint-control-line = Drag to adjust line.
-hint-control-remove = Click to remove control point.
-hint-delete-link = Delete cross-link.
-hint-edit-label = Edit cross-link label.
-hint-add-title = Add new branch. This is the diagram's title.
+hint-control-line = Trage pentru a ajusta linia.
+hint-control-remove = Dă clic pentru a elimina punctul de control.
+hint-delete-link = Șterge link-ul încrucișat.
+hint-edit-label = Editează eticheta link-ului încrucișat.
+hint-add-title = Adaugă o ramură nouă. Acesta este titlul diagramei.
 hint-add =
     {
         $os ->
-            [Mac] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
-           *[Win] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
+            [Mac] Adaugă o ramură nouă. Folosește în schimb <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> pentru a șterge, sau <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pentru a insera.
+           *[Win] Adaugă o ramură nouă. Folosește în schimb <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> pentru a șterge, sau <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pentru a insera.
     }
-hint-delete = Delete branch.
-hint-remove = Delete item.
-hint-insert-rp = Insert item before this one, or drag to transplant.
+hint-delete = Șterge ramura.
+hint-remove = Șterge elementul.
+hint-insert-rp = Inserează un element înaintea acestuia, sau trage pentru a transplanta.
 
-toggle-checkbox = Toggle checkbox.
-hint-edit-touch = Tap to edit, drag to move.
-hint-transplant = Drag to transplant.
-hint-drag-only = Drag to move this node only.
+toggle-checkbox = Comută caseta de selectare.
+hint-edit-touch = Apasă pentru a edita, trage pentru a muta.
+hint-transplant = Trage pentru a transplanta.
+hint-drag-only = Trage pentru a muta doar acest nod.
 hint-can-drag-only = 
     {
         $os ->
-            [Mac] Hold <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> to drag this node only.
-           *[Win] Hold <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> to drag this node only.
+            [Mac] Ține apăsat pe <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> pentru a trage doar acest nod.
+           *[Win] Ține apăsat pe <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> pentru a trage doar acest nod.
     }
-hint-edit = Click to edit, drag to move.
-hint-present-touch = Tap to show and hide branches.
-hint-present-all = Click to show and hide all levels.
-hint-present = Click to show and hide branches. Hold <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> to expand all levels.
+hint-edit = Dă clic pentru a edita, trage pentru a muta.
+hint-present-touch = Apasă pentru a afișa și a ascunde ramurile.
+hint-present-all = Dă clic pentru a afișa și a ascunde toate nivelurile.
+hint-present = Dă clic pentru a afișa și a ascunde ramurile. Ține apăsat pe <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> pentru a extinde toate nivelurile.
 
-stat-saving = Saving
-stat-saved = All changes saved
-stat-noaccess = Access denied
+stat-saving = Se Salvează
+stat-saved = Toate schimbările s-au salvat
+stat-noaccess = Acces respins
 
-another-fact = another!
-cogglefacts-more = Read more...
+another-fact = încă unul!
+cogglefacts-more = Citește mai mult...
 
 sidebar-markdown = Markdown
-sidebar-bgmenu = <b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.
-sidebar-bgmenu2 = <b>Zoom</b>, add <b>text labels</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.
-sidebar-icons = Icons
-markdown-icons = Type <code>:</code> while editing or use the button along the top of the item editor.
-markdown-checkbox = <code>- [X]</code> to create a <input data-l10n-name="checkbox"/> checkbox
-markdown-code = <code>`text`</code> to use a <code>fixed width</code> font
+sidebar-bgmenu = <b>Dă zoom</b>, <b>anulează</b> și <b>lipește elementele copiate</b> dând clic dreapta pe fundal.
+sidebar-bgmenu2 = <b>Dă zoom</b>, adaugă <b>etichete text</b>, <b>anulează</b> și <b>lipește elementele copiate</b> dând clic dreapta pe fundal.
+sidebar-icons = Pictograme
+markdown-icons = Tastează <code>:</code> în timp ce editezi sau folosește butonul din partea de sus a editorului de elemente.
+markdown-checkbox = <code>- [X]</code> pentru a crea o <input data-l10n-name="checkbox"/> casetă de selectare
+markdown-code = <code>`text`</code> pentru a folosi un font cu <code>lățime fixă</code>
 
 button-bold =
-    .title = Make text bold
+    .title = Îngroașă textul
 button-italic =
-    .title = Make text italic
+    .title = Italicizează textul
 button-link =
-    .title = Link to a website
+    .title = Link către un website
 button-image =
-    .title = Upload an image
+    .title = Încarcă o imagine
 button-emoji =
-    .title = Search for icons.
+    .title = Caută pictograme.
 button-formatting =
-    .title = Text formatting
+    .title = Formatează textul
 button-back =
-    .title = Back
+    .title = Înapoi
 button-aligned-left =
-    .title = Aligned left
+    .title = Aliniat la stânga
 button-aligned-center =
-    .title = Aligned center
+    .title = Aliniat la centru
 button-aligned-right =
-    .title = Aligned right
+    .title = Aliniat la dreapta
 button-aligned-auto =
-    .title = Aligned automatically
+    .title = Aliniat automat
 button-upload =
-    .title = Add image or attach file.
+    .title = Adaugă o imagine sau atașează un fișier.
 button-attach =
-    .title = Attach a file.
+    .title = Atașează un fișier.
 button-resize =
-    .title = Drag to change the text size.
-label-fontsize = Font size <span data-l10n-name="fontsize"></span>px.
+    .title = Trage pentru a schimba dimensiunea textului.
+label-fontsize = Dimensiunea fontului <span data-l10n-name="fontsize"></span>px.
 
-hint-toolong = Item too long! Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
-hint-movetext = Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
-hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> to delete
+hint-toolong = Elementul este prea lung! Încearcă să muți din text într-un element nou: selectează textul și apoi apasă <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-movetext = Încearcă să muți din text într-un element nou: selectează textul și apoi apasă <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> pentru a șterge
 
 commentcount = 
     { $count ->
-        [one] 1 comment
-       *[other] { $count } comments
+        [one] 1 comentariu
+       *[other] { $count } comentarii
     }
 
 # diagram not-found page 
-nodiagram-title = Diagram not found!
-nodiagram-invalid-link = This diagram link is invalid, or access to it has been revoked.
-nodiagram-logged-in = You are currently logged in as <b>{ $user_givenName }</b>, with the email address <b>{ $user_email }</b>. If this diagram exists, this account does not have permission to access it.
-nodiagram-not-logged-in = <b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.
-nodiagram-may-need-access = If someone gave you a link to this diagram they might also need to give you permission to view it.
+nodiagram-title = Diagrama nu a fost găsită!
+nodiagram-invalid-link = Acest link către diagramă este invalid, sau accesul la aceasta a fost revocat.
+nodiagram-logged-in = Ești autentificat(ă) în prezent ca <b>{ $user_givenName }</b>, cu adresa de e-mail <b>{ $user_email }</b>. Dacă această diagramă există, acest cont nu are permisiunea să o acceseze.
+nodiagram-not-logged-in = <b>Nu ești autentificat(ă) în prezent.</b> Dacă această diagramă există, s-ar putea să ai acces la ea dacă te autentifici în contul tău.
+nodiagram-may-need-access = Dacă cineva ți-a dat dat un link către această diagramă, s-ar putea să fie nevoie să-ți dea și permisiunea de a o vizualiza.
 
 
 # Awesome Landing Page (/awesome) 
 awesome-pitch-title = Coggle Awesome
-awesome-pitch = Supercharge your thinking with Coggle Awesome. Add huge images, present your Coggles, and create private Coggles that won't be indexed by search engines.
-awesome-signup = SIGN UP NOW
-awesome-price = ${$monthlyPrice} / MONTH
+awesome-pitch = Supraîncarcă-ți gândirea cu Coggle Awesome. Adaugă imagini imense, prezintă Coggle-urile tale și creează Coggle-uri private care nu vor indexate de motoarele de căutare.
+awesome-signup = ABONEAZĂ-TE ACUM
+awesome-price = ${$monthlyPrice} / LUNĂ
 
-awesome-feature-cp-title = Control Line Paths
-awesome-feature-cp = Place connections exactly where you want them using control points on branch paths.
+awesome-feature-cp-title = Controlează Traseul Liniilor
+awesome-feature-cp = Plasează conexiunile exact unde dorești, folosind puncte de control pe traseele ramurilor.
 
-awesome-feature-shapes-title = Advanced Item Shapes
-awesome-feature-shapes = Customise your flowcharts using all the item shapes. Use diamonds for flowchart decision nodes, and place text in-line with connections for org charts.
+awesome-feature-shapes-title = Forme de Elemente Avansate
+awesome-feature-shapes = Personalizează-ți organigramele folosind toate formele pentru elemente. Folosește romburi pentru nodurile de decizie din diagramele de flux și plasează textul pe linia conexiunilor pentru organigrame.
 
-awesome-feature-private-title = Unlimited Private Diagrams
-awesome-feature-private = Create as many private diagrams as you like. If you do ever cancel your subscription they stay private, and you keep access.
+awesome-feature-private-title = Diagrame Private Nelimitate
+awesome-feature-private = Creează câte diagrame private dorești. Dacă îți anulezi vreodată abonamentul, ele vor rămâne private și tu vei păstra accesul.
 
-awesome-feature-joinloop-title = Create Loops and Join Branches
-awesome-feature-joinloop = Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.
+awesome-feature-joinloop-title = Creează Bucle și Alătură Ramuri
+awesome-feature-joinloop = Alătură ramuri și creează bucle pentru a crea diagrame mai puternice și mai flexibile care să reprezinte fluxul unui proces și alte lucruri avansate.
 
-awesome-feature-multiroot-title = Multiple Starting Points
-awesome-feature-multiroot = Add multiple central items to your diagrams to map related topics in a single workspace.
+awesome-feature-multiroot-title = Puncte de Pornire Multiple
+awesome-feature-multiroot = Adaugă multiple elemente centrale diagramelor tale pentru a organiza subiecte corelate într-un singur spațiu de lucru.
 
-awesome-feature-editablelinks-title = No-Setup Collaboration
-awesome-feature-editablelinks = Allow any number of people to edit a diagram simply by sharing a secret link with them. No login required.
+awesome-feature-editablelinks-title = Colaborare Fără Configurare
+awesome-feature-editablelinks = Permite oricâtor persoane să editeze o diagramă pur și simplu partajându-le un link secret. Nu e necesară autentificarea.
 
-awesome-feature-linestyle-title = Control Line Style
-awesome-feature-linestyle = Customise the thickness and style of the lines in your diagram.
+awesome-feature-linestyle-title = Controlează Stilul Liniilor
+awesome-feature-linestyle = Personalizează grosimea și stilul liniilor din diagrama ta.
 
-awesome-feature-bigimages-title = Show Them the Big Picture
-awesome-feature-bigimages = Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.
+awesome-feature-bigimages-title = Arată-le Imaginea de Ansamblu
+awesome-feature-bigimages = Adaugă imagini imense Coggle-urilor tale pentru a-ți ilustra ideile: doar trage și plasează o imagine de pe desktop-ul tău pe un document.
 
-awesome-feature-colours-title = More Colors
-awesome-feature-colours = Unlock a new range of vivid colors to help organize and highlight your ideas.
+awesome-feature-colours-title = Mai Multe Culori
+awesome-feature-colours = Deblochează o nouă paletă de culori vii pentru a ajuta la organizarea și la evidențierea ideilor tale.
 
-awesome-feature-autoarrange-title = Automatic Branch Layout
-awesome-feature-autoarrange = Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.
+awesome-feature-autoarrange-title = Aranjare Automată a Ramurilor
+awesome-feature-autoarrange = Rezolvă poziționarea ramurilor tale într-un singur clic folosind funcționalitățile Coggle Awesome de aranjare automată a ramurilor.
 
-awesome-feature-folders-title = Shared Folders
-awesome-feature-folders = Put your diagrams into folders to keep them organized and easily share them all with a group of collaborators.
+awesome-feature-folders-title = Directoare Partajate
+awesome-feature-folders = Pune-ți diagramele în directoare pentru a le păstra organizate și partajează-le ușor pe toate cu un grup de colaboratori.
 
-awesome-feature-flow-title = Powerful Flowcharting
-awesome-feature-flow = Pick from a range of shapes to create expressive, powerful flowcharts, process maps, and other diagrams.
+awesome-feature-flow-title = Diagrame de Flux Avansate
+awesome-feature-flow = Alege dintr-o selecție de forme pentru a crea diagrame de flux, hărți de proces și alte diagrame expresive și puternice.
 
 awesome-hint-orgs =
-  If you're using Coggle for work, check out <a data-l10n-name="orglink">Coggle Organizations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
+  Dacă folosești Coggle pentru muncă, aruncă o privire la secțiunea <a data-l10n-name="orglink">Organizații Coggle</a>, care vine cu toate beneficiile Coggle Awesome și funcții de administrator potrivite pentru afaceri.
 
 
 # Login Page /login
-index-loginwithgoogle = Sign in with Google
-index-signinwithapple = Sign in with Apple
+index-loginwithgoogle = Autentifică-te cu Google
+index-signinwithapple = Autentifică-te cu Apple
 
-login-no-acc-q = Don't have a Google or Microsoft Account?
-login-no-acc-a = No problem! You can create a Google or Microsoft Account with any email address. A Gmail or Outlook account is <b>not</b> required.
+login-no-acc-q = Nu ai un cont Google sau Microsoft?
+login-no-acc-a = Nicio problemă! Poți crea un cont Google sau Microsoft folosind orice adresă de e-mail. Un cont Gmail sau Outlook <b>nu</b> este necesar.
 
-login-saml = We also support enterprise grade login for Coggle Organizations with OneLogin, Okta, and other SAML 2.0 identity providers.
-login-saml-where = If you're a single-sign on user, log in using the page shared by your Organization's administrator.
-login-saml-more = Read more about Single Sign On.
+login-saml = De asemenea, oferim suport pentru autentificarea de nivel enterprise pentru Organizații Coggle folosind OneLogin, Okta și alți furnizori de identitate SAML 2.0.
+login-saml-where = Dacă ești un utilizator cu autentificare unică, autentifică-te folosind pagina partajată de administratorul Organizației tale.
+login-saml-more = Citește mai mult despre autentificarea unică.
 
-login-faq = Frequently Asked Questions
-login-pw-q = Why can't I create a username and password?
-login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-    Sign in with Apple. We believe this is the best way to keep your data safe,
-    as these companies all provide very secure sign-in services, which support
-    two-factor authentication and other account protection options.
+login-faq = Întrebări Frecvente
+login-pw-q = De ce nu pot crea un nume de utilizator și o parolă?
+login-pw-a-p1 = Coggle oferă doar autentificarea de tip Google Login, Microsoft Account Login sau 
+    folosind Apple. Noi credem că acesta este cel mai bun mod de a-ți păstra datele în siguranță, 
+    deoarece aceste companii oferă toate servicii de autentificare foarte sigure, care oferă 
+    autentificarea prin doi pași și alte opțiuni de protejare a contului.
 
-login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-    intricacy: password recovery, 2-factor authentication, fraud detection,
-    brute-force attack detection, and securely storing hashed and salted
-    passwords. We believe that leaving these tasks to an external provider is
-    the right thing to do – leaving us more time to focus on creating a great
-    mind-mapping experience.
+login-pw-a-p2 = Stocarea sigură a numelor de utilizator și a parolelor are multe 
+    subtilități: recuperarea parolelor, autentificarea în doi pași, detectarea fraudelor, 
+    detectarea atacurilor de tip brute-force și stocarea securizată a parolelor criptate prin 
+    hash și salt. Credem că e alegerea corectă să lăsăm aceste sarcini în seama unui 
+    furnizor extern – rămânem astfel cu mai mult timp pentru a ne concentra asupra creării 
+    unei experiențe grozave de elaboorare a hărților mentale.
 
-login-what-q = What do you do with my Google/Microsoft account?
-login-what-a = We only ask for access to your basic profile information. 
-    This includes your name, profile picture and your email address. 
-    We don't ask for access to your contacts, emails, Google Drive documents, 
-    or anything else that we don't need to make Coggle work.
+login-what-q = Ce faceți cu contul meu Google/Microsoft?
+login-what-a = Noi cerem acces doar la informațiile de bază ale profilului tău. 
+    Acestea includ numele tău, poza de profil și adresa ta de e-mail. 
+    Nu cerem acces la contactele, e-mail-urile, documentele tale Google Drive 
+    sau orice altceva de care nu avem nevoie pentru a face Coggle să meargă.
 
-login-switch-q = Can I switch between login methods?
-login-switch-a = Yes! As long as you use the same email address with your Microsoft/Apple/Google accounts, 
-    then you can use any of them to log in to the same Coggle account. 
-    Note that if you choose the 'hide my email' option in Apple login, then your account won't be linked.
+login-switch-q = Pot schimba metoda de autentificare?
+login-switch-a = Da! Atâta timp cât folosești aceeași adresă de e-mail cu conturile tale Microsoft/Apple/Google, 
+    poți să o folosești pe oricare din ele pentru a te autentifica în același cont Coggle. 
+    Ține cont că dacă alegi opțiunea 'ascunde e-mail-ul meu' în autentificarea cu Apple, atunci contul tău nu va fi conectat.
 
-login-emails-q = Can you read my emails?
-login-emails-a = No. We don't need, and don't want, access to your emails! 
-    We just request your basic profile information. We don't have access to anything else, 
-    and we can't change any setting on your Google/Microsoft account.
+login-emails-q = Puteți citi e-mail-urile mele?
+login-emails-a = Nu. Nu avem nevoie și nu vrem să avem acces la e-mail-urile tale! 
+    Noi doar cerem informațiile de bază ale profilului tău. Nu avem acces la nimic altceva 
+    și nu putem schimba nicio setare de pe contul tău Google/Microsoft.
 
-login-icloud-q = Can you access my iCloud?
-login-icloud-a = No! Sign in with Apple just gives us access to your name, 
-    and your email address (if you choose to share it). We don't have access to anything else. 
-    You can read more about how sign in with apple works on 
-    <a data-l10n-name="applehelp"> Apple's website</a>.
+login-icloud-q = Puteți accesa iCloud-ul meu?
+login-icloud-a = Nu! Autentificarea cu Apple ne oferă acces doar la numele tău și adresa ta 
+    de e-mail (dacă alegi să o partajezi). Nu avem acces la nimic altceva. 
+    Poți citi mai multe despre cum funcționează autentificarea cu Apple pe 
+    <a data-l10n-name="applehelp">website-ul Apple</a>.
 
-login-workschool-q = Can I use my Work or School Microsoft account?
-login-workschool-a = Yes, you can use any Microsoft account, including both personal accounts (formerly Windows Live), 
-    and business-managed Azure Active Directory or Office-365 accounts, 
-    unless your IT team have blocked this feature for accounts they manage.
+login-workschool-q = Îmi pot folosi contul Microsoft de Muncă sau de Școală?
+login-workschool-a = Da, poți folosi orice cont Microsoft, incluzând și conturi personale (înainte Windows Live), 
+    și conturi gestionate de afaceri Azure Active Directory sau Office-365, dacă echipa ta 
+    de IT nu a blocat această funcție pentru conturile pe care le gestionează.
 
-login-otherlogin-q = Can I use another Authentication Provider to access Coggle?
-login-otherlogin-a-p1 = Currently we only support Google, Microsoft and Sign in with Apple account login for personal accounts.
-login-otherlogin-a-p2 = We support <a data-l10n-name="saml">SAML 2.0 login</a> for Coggle Organisations, 
-    and if you're interested in hosting your own version of Coggle with Active Directory login then get in 
-    touch with our <a data-l10n-name="email">enterprise sales address</a>.
+login-otherlogin-q = Pot folosi un alt Furnizor de Autentificare pentru a accesa Coggle?
+login-otherlogin-a-p1 = În prezent, pentru conturile personale oferim suport doar pentru autentificarea folosind Google, Microsoft și Apple.
+login-otherlogin-a-p2 = Acceptăm <a data-l10n-name="saml">autentificare SAML 2.0</a> pentru Organizații Coggle, 
+    iar dacă ești interesat(ă) să găzduiești propria versiune de Coggle cu autentificare prin Active Directory, atunci 
+    contactează <a data-l10n-name="email">adresa pentru vânzări corporate</a>.
 
-login-pw-more-q = I've still got a question about login
-login-pw-more-a = Ask us! Our email is <a data-l10n-name="email">hello@coggle.it</a>.
+login-pw-more-q = Mai am o întrebare despre autentificare
+login-pw-more-a = Întreabă-ne! E-mail-ul nostru este <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Organizations Landing Page (/organizations) 
-orgs-pitch-title = Coggle Organizations
-orgs-pitch = Each Coggle Organization comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.
+orgs-pitch-title = Organizații Coggle
+orgs-pitch = Fiecare Organizație Coggle vine la pachet cu funcții create pentru a gestiona grupuri mari de persoane, unde membrii vin și pleacă, iar informațiile sensibile trebuie protejate.
 
-orgs-signup = CREATE ORGANIZATION
+orgs-signup = CREEAZĂ ORGANIZAȚIE
 
-orgs-subpitch-p1 = When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a data-l10n-name="orglink">Coggle Organizations</a>.
-orgs-subpitch-p2 = Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.
+orgs-subpitch-p1 = Când infromațiile sunt critice pentru echipa ta, ai nevoie de instrumente mai puternice și mai mult control asupra datelor tale. De aceea am construit <a data-l10n-name="orglink">Organizațiile Coggle</a>.
+orgs-subpitch-p2 = Tariful este simplu, <b>$8 pe membru pe lună</b>.<br><b>Totul nelimitat</b>.
 
 
-orgs-feature-saml-sso-title = SAML Single Sign On
-orgs-feature-saml-sso = Authenticate users using your existing Single Sign On service. Support for OneLogin, Okta and more.
+orgs-feature-saml-sso-title = Autentificare Unică SAML
+orgs-feature-saml-sso = Autentifică utilizatorii folosind serviciul tău existent de Autentificare Unică. Suport pentru OneLogin, Okta și altele.
 
-orgs-feature-in-one-place-title = Everything in One Place
-orgs-feature-in-one-place = All your organizations diagrams in one place. Keep your teams work safe, in one easy to manage location – so you know exactly where to look.
+orgs-feature-in-one-place-title = Totul într-un Loc
+orgs-feature-in-one-place = Toate diagramele organizației tale într-un loc. Păstrează în siguranță munca echipei tale, într-o locație ușor de gestionat – astfel știi exact unde să cauți.
 
-orgs-feature-control-sharing-title = Control Sharing
-orgs-feature-control-sharing = You can make sure that Coggles created in your organization stay in your organization. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.
+orgs-feature-control-sharing-title = Controlul Partajării
+orgs-feature-control-sharing = Te poți asigura că diagramele Coggle create în organizația ta stau în organizație. Acest lucru protejează materialele sensibile împotriva expunerii accidentale dacă pe o adresă de e-mail greșită se trimite invitația către un document.
 
-orgs-feature-manage-users-title = Safely Manage Users
-orgs-feature-manage-users = Safely Manage UsersRemove members from your organization without losing the work they've done. Use the management dashboard to view all the diagrams created in your organization by members past and present, deleted or active
+orgs-feature-manage-users-title = Gestionează Sigur Utilizatorii
+orgs-feature-manage-users = Înlătură membri din organizația ta fără a pierde munca făcută de ei. Folosește panoul de control administrativ pentru a vedea toate diagramele create în organizația ta de membrii trecuți și prezenți, șterși sau activi.
 
-orgs-feature-export-title = Bulk Export
-orgs-feature-export = Organization admins can download all of the organizations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind.
+orgs-feature-export-title = Exportare în Masă
+orgs-feature-export = Administratorii organizației pot descărca toate Coggle-urile organizației într-un format JSON arhivabil și citibil pentru un calculator, cu un singur clic. Potrivit pentru conformitate sau pur și simplu pentru liniștea ta.
 
-orgs-feature-branding-title = Show your Brand
-orgs-feature-branding = Create professional, clean diagrams featuring your logo and export them as PDF or PNG. Great for sharing diagrams with clients or associates within your company.
+orgs-feature-branding-title = Arată-ți Brand-ul
+orgs-feature-branding = Creează diagrame profesioniste, curate, care poartă logo-ul tău și exportă-le ca PDF sau PNG. Potrivit pentru partajarea diagramelor cu clienții sau cu asociații din cadrul companiei tale.
 
-orgs-feature-editable-links-title = Editable Private Links
-orgs-feature-editable-links = Create a private link to share with collaborators outside of your organization, allowing them to edit a diagram without logging in.
+orgs-feature-editable-links-title = Link-uri Private Editabile
+orgs-feature-editable-links = Creează un link privat pentru a partaja cu colaboratorii din afara organizației tale, permițându-le să editeze o diagramă fără a se autentifica.
 
-orgs-feature-awesome = In addition, all members of your organization will get the Coggle <a data-l10n-name="awesome">Awesome</a> features.
+orgs-feature-awesome = În plus, toți membrii organizației tale vor primi funcțiile planului Coggle <a data-l10n-name="awesome">Awesome</a>.
 
 
 # Organizations Sign-Up Page (/organizations/new) 
-orgcreate-title2 = Create a <a data-l10n-name="orgs">Coggle Organization</a>
+orgcreate-title2 = Creează o <a data-l10n-name="orgs">Organizație Coggle</a>
 orgcreate-nameinput =
-  .placeholder = Choose Your Organization Name
-orgcreate-namehint = Pick something short and recognisable!
-orgcreate-createbutton = Create
+  .placeholder = Alege Numele Organizației Tale
+orgcreate-namehint = Alege ceva scurt și ușor de recunoscut!
+orgcreate-createbutton = Creează
 
-faq-orgs-whatare-q = What are Coggle Organizations?
+faq-orgs-whatare-q = Ce sunt Organizațiile Coggle?
 faq-orgs-whatare-a =
-    <p data-l10n-name='p1'>Coggle Organizations create a separation between
-      your personal diagrams and those owned by your company. By separating
-      what's personal from what's professional you gain greater control over
-      your businesses data that's stored in Coggle, including when and how it's
-      shared by your employees.</p>
+    <p data-l10n-name='p1'>Organizațiile Coggle creează o separare între 
+      diagramele personale și cele deținute de compania ta. Prin separarea a 
+      ceea ce este personal de ceea ce este profesional, obții un mai bun control 
+      asupra datelor afacerii tale care sunt păstrate în Coggle, incluzând când și 
+      cum sunt partajate de angajații tăi.</p>
 
-faq-orgs-whofor-q = Who are Coggle Organizations for?
+faq-orgs-whofor-q = Pentru cine sunt Organizațiile Coggle?
 faq-orgs-whofor-a =
-    <p data-l10n-name='p1'>Coggle Organizations have been designed for teams that require
-      greater control over the data they enter into Coggle, or need to keep
-      personal data separate. They're being successfully used by private
-      companies, public bodies, schools and universities to help groups
-      collaborate securely.</p> 
-    <p data-l10n-name='p2'>Any group that need more control over sharing of diagrams, whether for
-      regulatory or internal policy compliance will find Coggle Organizations
-      useful.</p>
+    <p data-l10n-name='p1'>Organizațiile Coggle au fost create pentru echipe care necesită 
+      un control mai bun asupra datelor pe care le introduc în Coggle, sau au nevoie să 
+      păstreze datele personale separat. Organizațiile sunt folosite cu succes de companii 
+      private, organisme publice, școli și universități pentru a ajuta grupurile să 
+      colaboreze în siguranță.</p> 
+    <p data-l10n-name='p2'>Orice grup care necesită mai mult control asupra partajării diagramelor, 
+      fie pentru conformitatea cu regulile sau cu politica internă vor găsi Organizațiile Coggle 
+      utile.</p>
 
-faq-orgs-features-q =  What are the main features of a Coggle Organization?
+faq-orgs-features-q = Care sunt principalele funcții ale unei Organizații Coggle?
 faq-orgs-features-a =
-    <p data-l10n-name='p1'><b>Administrators dashboard</b>: complete control over diagrams created
-      by members of your organization, including restoration of deleted diagrams.
+    <p data-l10n-name='p1'><b>Panoul de control al administratorilor</b>: control complet asupra diagramelor create 
+      de membrii organizației tale, incluzând restaurarea diagramelor șterse.
     </p>
-    <p data-l10n-name='p2'><b>Data control</b>: choose to limit sharing of data to within your
-      organization only.</p>
-    <p data-l10n-name='p3'><b>Bulk export</b>: export all diagrams in your organization for backup
-      or regulatory purposes.</p>
-    <p data-l10n-name='p4'><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
-      one place, and revoke subscriptions when members come and go from your
-      organsiation. </p>
+    <p data-l10n-name='p2'><b>Controlul datelor</b>: alege să limitezi partajarea datelor doar în interiorul 
+      organizației.</p>
+    <p data-l10n-name='p3'><b>Exportare în masă</b>: exportă toate diagramele din organizația ta pentru backup
+      sau în scop de reglementare.</p>
+    <p data-l10n-name='p4'><b>Facturare centralizată</b>: plătește pentru multiple abonamente Awesome într-un 
+      singur loc și revocă abonamentele când membrii vin și pleacă din organizația ta. </p>
 
-faq-orgs-awesome-q = How do Coggle Organizations relate to Coggle Awesome?
+faq-orgs-awesome-q = Cum se raportează Organizațiile Coggle la Coggle Awesome?
 faq-orgs-awesome-a =
-    <p data-l10n-name='p1'>Coggle Organizations are a great way to centralise billing and license
-      management for multiple Coggle Awesome subscriptions.</p>
-    <p data-l10n-name='p2'>Every user in your Organization will automatically get Coggle Awesome
-      when they're working on diagrams in your organization workspace. This means
-      all the great features including private diagrams, presentation mode,
-      extended colour palette and high resolution image uploads.</p>
+    <p data-l10n-name='p1'>Organizațiile Coggle sunt un mod grozav de a centraliza facturarea și gestionarea 
+      licențelor pentru mai multe abonamente Coggle Awesome.</p>
+    <p data-l10n-name='p2'>Fiecare utilizator din Organizația ta va primi automat Coggle Awesome
+      când lucrează la diagramele din spațiul de lucru al Organizației tale. Acest lucru înseamnă 
+      toate funcțiile grozave, incluzând diagrame private, modul prezentare,
+      paleta extinsă de culori și încărcări de imagini la rezoluție înaltă.</p>
 
-faq-orgs-billing-q = How does billing work for Coggle Organizations?
-faq-orgs-billing-a = Coggle Organizations are charged at ${$pricePerMemberPerMonth} per member per month. You can add
-  and remove members at any time from the dashboard for your organization.
+faq-orgs-billing-q = Cum funcționează facturarea pentru Organizațiile Coggle?
+faq-orgs-billing-a = Organizațiile Coggle sunt taxate cu ${$pricePerMemberPerMonth} pe membru pe lună. Poți adăuga 
+    și înlătura membri oricând din panoul de control al Organizației tale.
 
-faq-orgs-edu-q = Are there any education pricing options?
-faq-orgs-edu-a = Yes! Contact us at education@coggle.it to find out more.
+faq-orgs-edu-q = Există opțiuni de preț pentru educație?
+faq-orgs-edu-a = Da! Contactează-ne la adresa education@coggle.it pentru a afla mai multe.
 
-faq-orgs-more-q = I've still got some questions...
-faq-orgs-more-a = Ask us! Send us an email to orgs@coggle.it and we'll be happy to help :)
+faq-orgs-more-q = Încă am niște întrebări...
+faq-orgs-more-a = Întrebă-ne! Trimite-ne un e-mail la adresa orgs@coggle.it și te vom ajuta cu bucurie :)
 
 
 # About Coggle (/about) 
-about-hello2-title = Hello!
+about-hello2-title = Salut!
 about-hello2-p1 =
-    <b>Coggle gives you a clear way to share and understand complex
-    information.  It's a collaborative document that simplifies complex things
-    and a shared workspace to help your team work more effectively
-    together.</b>
+    <b>Coggle îți oferă un mod clar de a partaja și de a înțelege informații 
+    complexe. Este un document colaborativ care simplifică lucrurile complexe 
+    și un spațiu de lucru partajat pentru a-ți ajuta echipa să lucreze mai 
+    eficient împreună.</b>
 about-hello2-p2 =
-    It's free, and we promise it always will be, but we still promise to look
-    after your data the best we know how, to keep backups, and to take security
-    seriously.
+    E gratuit, și promitem că va rămâne întotdeauna, dar promitem și să avem grijă 
+    de datele tale așa cum știm mai bine, să păstrăm backup-uri și să luăm în 
+    serios securitatea.
 about-hello2-p3 =
-    Our mission is to change the way that people work and collaborate forever,
-    to make you more productive, to make it easier to share information with
-    others, and to do it in a way that's beautiful, and a pleasure to use.
+    Misiunea noastră este să schimbăm pentru totdeauna modul în care oamenii muncesc și 
+    colaborează, să te facem mai productiv(ă), să ușurăm partajarea informațiilor cu 
+    alții și să o faci într-un mod frumos, care e plăcut de utilizat.
 
   
 
-about-what-is-mindmapping-title = What is Mind Mapping?
+about-what-is-mindmapping-title = Ce Sunt Hărțile Mentale?
 about-what-is-mindmapping =
-    A mind map is a simple way to visually map out a topic in an organic way.
-    It starts with one or more central topics then repeatedly branches out,
-    breaking down information into a hierarchy of its components.<br>
-    The items in the mindmap can be positioned spatially and formatted for size
-    and colour to help with memory and recall. Mind mapping goes by lots of
-    different names: concept mapping, spider diagrams, brainstorm diagrams and
-    others, but you can use Coggle for all of them!
+    O hartă mentală este un mod simplu de a reprezenta vizual un subiect.
+    Începe cu unul sau mai multe subiecte, apoi prinde ramuri în mod repetat,
+    dezvăluind informații printr-o ierarhie a propriilor componente.<br>
+    Elementele din harta mentală pot fi aranjate în spațiu și formatate privind
+    dimensiunea și culoarea pentru a ajuta memoria și amintirea. Hărțile mentale au
+    diferite nume: hartă conceptuală, diagramă păianjen, diagramă brainstorm și
+    altele, dar poți folosi Coggle pentru toate!
 
 
 
-about-who-is-mindmapping-for-title = Who are Mind Maps for?
+about-who-is-mindmapping-for-title = Pentru cine sunt hărțile mentale?
 about-who-is-mindmapping-for =
-    Mindmaps are useful for anyone to plan, take notes, visualise information,
-    brainstorm, solve problems, study, and share information (to name just a
-    few). There's really no limit to their uses!<br>
-    Everyone who values visual thinking, in business, education, or just in
-    their personal life can find mind maps useful to organise information.
+    Hărțile mentale sunt utile pentru oricine ca să plănuiești, să iei notițe, să vizualizezi 
+    informații, să faci brainstorming, să rezolvi probleme, să studiezi și să partajezi 
+    informații (și nu numai). Chiar nu există limită pentru utilizările lor!<br>
+    Oricine apreciază gândirea vizuală, în business, în educație, sau pur și simplu în 
+    viața personală va considera hărțile mentale folositoare în organizarea informațiilor.
 
 
 
-about-getintouch-title = Get in Touch
+about-getintouch-title = Ia Legătura cu Noi
 about-getintouch =
-    Got a question? Want to tell us how you're using Coggle? Or maybe just give
-    us some feedback? You can find us on <a data-l10n-name="facebook">facebook
-    </a>and on <a data-l10n-name="x">X </a>and if you prefer you can always
-    send an email to <a data-l10n-name="email">hello@coggle.it </a>— we love to
-    chat!
+    Ai o întrebare? Vrei să ne spui cum folosești Coggle? Sau poate doar să ne 
+    oferi feedback? Ne poți găsi pe <a data-l10n-name="facebook">facebook
+    </a> și pe <a data-l10n-name="x">X </a>, iar dacă preferi ne poți trimite mereu 
+    un e-mail la adresa <a data-l10n-name="email">hello@coggle.it </a>— ne place să 
+    discutăm!
 
 
-about-share-title = Spread the Word
+about-share-title = Împărtășește cu Alții
 about-share =
-  If you love Coggle, then help us break even more people free from the
-  confines of lists, spreadsheets and conventional documents! You can share
-  Coggle <a data-l10n-name="x">on X</a> or <a data-l10n-name="facebook">on Facebook</a>.
+  Dacă adori Coggle, ajută-ne să eliberăm cât mai mulți oameni de limitările
+  listelor, ale foilor de calcul și ale documentelor convenționale! Poți partaja 
+  Coggle <a data-l10n-name="x">pe X</a> sau <a data-l10n-name="facebook">pe Facebook</a>.
 
-about-itp-title = In the press?
-about-itp = Then check out our <a data-l10n-name="kit">press kit</a> or, <a data-l10n-name="email">get in touch</a> to find out more!
+about-itp-title = De la presă?
+about-itp = Aruncă o privire asupra <a data-l10n-name="kit">kitului de presă</a> sau <a data-l10n-name="email">contactează-ne</a> pentru a afla mai multe!
 
 
 # Coggle Facts 
-fact-math = Did you know you can write math in Coggles? (Yeah, geeky!) Use \\( LaTeX here \\) to try it out!
+fact-math = Știai că poți scrie matematică în Coggle-uri? (Da, tehnic!) Folosește \\( LaTeX aici \\) ca să încerci!
 
-fact-collaborate = Did you know that you can collaborate in real-time with others? You can! Use the (+) button in the top right.
+fact-collaborate = Știai că poți colabora în timp real cu alții? Poți! Folosește butonul (+) din dreapta sus.
 
-fact-share = Did you know that you can edit a Coggle at the same time as someone else? You can! Use the (+) button in the top right to invite others.
+fact-share = Știai că poți edita un Coggle în același timp cu altcineva? Poți! Folosește butonul (+) din dreapta sus pentru a invita pe alții.
 
-fact-font = Did you know you can use a fixed-width code font in Coggles? You can!<br>Just use `backticks` around the text, it also stops other special syntax from being interpreted.
+fact-font = Știai că poți folosi font cu lățime fixă pentru cod în Coggle-uri? Poți!<br>Folosește `apostrof invers` în jurul textului, va preveni ca alte părți sintactice speciale să fie interpretate.
 
-fact-bold = Did you know you can use **bold text** in Coggles?<br>Just use **double asterisks** where you want the emphasis!
+fact-bold = Știai că poți folosi **text îngroșat** în Coggle-uri?<br>Folosește **asterisc duble** acolo unde vrei să evidențiezi!
 
-fact-italic = Did you know you can use *italic text* in Coggles?<br>Just use *asterisks* where you want the emphasis!
+fact-italic = Știai că poți folosi *text italix* în Coggle-uri?<br>Folosește *asteriscuri* acolo unde vrei să evidențiezi!
 
-fact-links = Did you know you can put links in Coggles? You can!<br>They work like this:<br>[description](http://example.com)
+fact-links = Știai că poți pune link-uri în Coggle-uri? Poți!<br>Funcționează astfel:<br>[descriere](http://exemplu.com)
 
-fact-download = Did you know that you can download your Coggle as a PDF or an image? You can! Look for the download button in the top right of the screen.
+fact-download = Știai că poți descărca Coggle-ul tău ca un PDF sau o imagine? Poți! Caută butonul de descărcare în dreapta sus a ecranului.
 
-fact-markdown = Did you know that Coggle uses <a data-l10n-name='link'>markdown syntax</a>? It does!<br>Try out links like this: &lt;http://example.com&gt;
+fact-markdown = Știai că Coggle folosește <a data-l10n-name='link'>sintaxă markdown</a>? Folosește!<br>Încearcă link-uri ca acesta: &lt;http://exemplu.com&gt;
 
-fact-latex = Did you know Coggle supports LaTeX formulae? It does!<br>Use \\( LaTeX here \\) to try it out! Check out <a data-l10n-name='link'>this link</a> for syntax help.
+fact-latex = Știai că Coggle acceptă formule LaTeX? Acceptă!<br>Folosește \\( LaTeX aici \\) ca să încerci! Urmează <a data-l10n-name='link'>acest link</a> pentru ajutor cu sintaxa.
 
-fact-move = Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
+fact-move = Vrei un element într-o parte diferită a Coggle-ului? Nicio problemă! Ține apăsat pe shift while dragging the (+) button of an item to reattach it somewhere else.
 
-fact-fontsize = Text too big? Too small? You can zoom!<br> use [ctrl] [+] / [ctrl] [-]
+fact-fontsize = Textul e prea mare? Prea mic? Poți face zoom!<br> folosește [ctrl] [+] / [ctrl] [-]
 
-fact-zoomin = Did you know you can zoom in for a closer look? You can!<br> use [ctrl] [+], or right click and drag the zoom icon!
+fact-zoomin = Știai că poți mări pentru a privi mai de aproape? Poți!<br> folosește [ctrl] [+], sau clic dreapta și trage pictograma zoom!
 
-fact-zoomout = Did you know you can zoom out to see the big picture? You can!<br> use [ctrl] [-], or right click and drag the zoom icon!
+fact-zoomout = Știai că poți micșora pentru a vedea imaginea de ansamblu? Poți!<br> folosește [ctrl] [-], sau clic dreapta și trage pictograma zoom!
 
-fact-markdown2 = Did you know that <a data-l10n-name='link'>Markdown</a> is awesome? It is, and Coggle supports it!
+fact-markdown2 = Știai că <a data-l10n-name='link'>Markdown</a> este grozav? Este, iar Coggle îl acceptă!
 
-fact-pdf = You can download your Coggle as a PDF! Look for the download button in the top right of the screen.
+fact-pdf = Îți poți descărca Coggle-ul ca PDF! Caută butonul de descărcare în dreapta sus a ecranului.
 
-fact-png = You can download your Coggle as an Image! Look for the download button in the top right of the screen.
+fact-png = Îți poți descărca Coggle-ul ca Imagine! Caută butonul de descărcare în dreapta sus a ecranului.
 
-fact-latex2 = Did you know Coggle supports LaTeX for math? It does!<br>Use \\( \LaTeX here \\) to try it out! Here's <a data-l10n-name='link'>a syntax guide</a>.
+fact-latex2 = Știai că Coggle acceptă LaTeX pentru matematică? Acceptă!<br>Folosește \\( \LaTeX aici \\) ca să încerci! Aici este <a data-l10n-name='link'>un ghid de sintaxă</a>.
 
-fact-history = Did you know you can view the history of who changed what, when in your Coggle? You can! Click the clock icon in the top right.
+fact-history = Știai că poți vedea istoricul modificărilor și al utilizatorilor care le-au făcut asupra Coggle-ului tău? Poți! Dă clic pe pictograma de ceas din dreapta sus.
 
-fact-images = Did you know you can put images in your Coggle? You can!<br>Just drag and drop an image from your computer to wherever you want it.
+fact-images = Știai că poți pune imagini în Coggle-ul tău? Poți!<br>Doar trage și plasează o imagine de pe computerul tău oriunde vrei.
 
-fact-images2 = Did you know you can use images in Coggles? You can!<br>Drag and drop an image from your computer to wherever you want it. A mini version of the image is uploaded and saved!
+fact-images2 = Știai că poți folosi imagini în Coggle-uri? Poți!<br>Trage și plasează o imagine de pe computerul tău oriunde vrei. O versiune în miniatură a imaginii este încărcată și salvată!
 
-fact-plaintext-in = Did you know you can drag & drop plain text files onto Coggle to import them? You can!<br>If your file has indentation, Coggle will even add structure to the imported text.
+fact-plaintext-in = Știai că poți trage și plasa fișiere cu text simplu în Coggle-uri pentru a le importa? Poți!<br>Dacă fișierul tău are indentare, Coggle va adăuga structura textului importat.
 
-fact-freemind-in = Did you know you can drag & drop Freemind .mm files onto Coggle to import them? You can!
+fact-freemind-in = Știai că poți trage și plasa fișiere Freemind .mm în Coggle pentru a le importa? Poți!
 
-fact-link-drag = Did you know you can drag a URL from your address bar onto a Coggle to make a link to that site? You can!
+fact-link-drag = Știai că poți trage un URL de pe bara ta de adrese într-un Coggle pentru a crea un link către acel site? Poți!
 
-fact-text-size = Did you know you can change the font? You can!<br>Use #, ##, or ### at the start of a line to make the text bigger.
+fact-text-size = Știai că poți schimba fontul? Poți!<br>Folosește #, ##, sau ### la începutul unei linii pentru a face textul mai mare.
 
-fact-text-size2 = Did you know you can change the font? You can!<br>Drag the corner of the text editing area up or down to change the text size.
+fact-text-size2 = Știai că poți schimba fontul? Poți!<br>Trage în sus sau în jos de colțul zonei de editare a textului pentru a schimba dimensiunea textului.
 
-fact-text-size3 = Did you know you can change the text size? You can!<br>Drag the corner of the text editing area.
+fact-text-size3 = Știai că poți schimba dimensiunea textului? Poți!<br>Trage de colțul zonei de editare.
 
-fact-md-reference = Did you know you can use Markdown in Coggles to add links, images and more? You can!<br>Here's the <a data-l10n-name='link'>complete reference</a>.
+fact-md-reference = Știai că poți folosi Markdown în Coggle-uri pentru a adăuga link-uri, imagini și multe altele? Poți!<br>Aici se află <a data-l10n-name='link'>referința completă</a>.
 
-fact-multiline-keys = Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
+fact-multiline-keys = Știai că poți împărți textul în mai multe linii? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
 
-fact-multiline-drag = Did you know you can break text over multiple lines? You can! Drag the corner of the edit field, then [return] will insert a newline instead of saving your edits. You can also hold [ctrl] while pressing [return] to insert a newline while typing.
+fact-multiline-drag = Știai că poți împărți textul pe mai multe linii? Poți! Trage de colțul câmpului de editare, apoi [return] va insera sfârșitul de linie în loc să-ți salveze editările. Poți și să ții apăsat pe [ctrl] în timp ce apeși [return] pentru a insera sfârșitul de linie în timp ce tastezi.
 
-fact-multiline-wrap = Did you know you can break text over multiple lines? You can! Drag the corner of the text editing area left/right to wrap text onto multiple lines.
+fact-multiline-wrap = Știai că poți împărți textul pe mai multe linii? Poți! Trage de colțul zonei de editare stânga/dreapta pentru a distribui textul pe multiple linii.
 
-fact-resize-images = Did you know you can resize images? You can! Drag an image onto your Coggle from anywhere on the internet (provided you have permission to use it), and then drag the lower right corner of the image to resize it.
+fact-resize-images = Știai că poți redimensiona imagini? Poți! Trage o imagine în Coggle-ul tău de oriunde de pe internet (dacă ai permisiunea să o folosești), iar apoi trage de colțul dreapta jos al imaginii pentru a o redimensiona.
 
-fact-image-size = Did you know we support a Markdown extension to specify image size? We do! Specify a 200 by 100 pixel image like this: ![image description](http://url.to.image "optional title" 200x100)
+fact-image-size = Știai că acceptăm o extensie Markdown ca să specifici dimensiunea imaginilor? Acceptăm! Specifică o imagine de 200 pe 100 de pixeli astfel: ![descrierea imaginii](http://url.spre.imagine "titlu opțional" 200x100)
 
-fact-bold-kbshort = Did you know you can use keyboard shortcuts to add **bold text** in Coggles? You can! Just press [ctrl]+[b] (or [cmd]+[b] on macs) with the text you want bold selected.
+fact-bold-kbshort = Știai că poți folosi scurtături de tastatură pentru a adăuga **text îngroșat** în Coggle-uri? Poți! Doar apasă [ctrl]+[b] (sau [cmd]+[b] pe mac-uri) având selectat textul pe care îl vrei îngroșat.
 
-fact-shortcuts-1 = Did you know you can edit your Coggle using only the keyboard? You can, here's how:<br>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
+fact-shortcuts-1 = Știai că îți poți edita Coggle-ul folosind doar tastatura? Poți, iată aici cum:<br>[tab] pentru a adăuga un nod copil<br>[shift]+[tab] pentru a te muta la părinte<br>[shift]+[return] pentru a adăuga un frate
 
-fact-shortcuts-2 = Did you know you can select which branch to edit using keyboard shortcuts? You can!<br>Use [alt]+[shift]+arrow keys to move along branches.
+fact-shortcuts-2 = Știai că poți selecta ce ramură să editezi folosind scurtături de tastatură? Poți!<br>Folosește [alt]+[shift]+tastele săgeți pentru a te muta printre ramuri.
 
-fact-task-lists = Did you know you can <a data-l10n-name='link'>Markdown</a> to add checklists to Coggles? You can, here's an example:<br>- [ ] unchecked checkbox<br>- [X] checked checkbox<br>Clicking on a checkbox automatically changes the markdown, too.
+fact-task-lists = Știai că poți folosi <a data-l10n-name='link'>Markdown</a> pentru a adăuga liste de verificare Coggle-urilor? Poți, iată aici un exemplu:<br>- [ ] căsuță nebifată<br>- [X] căsuță bifată<br>A da clic pe o căsuță schimbă automat aspectul ei.
 
-fact-api-1 = Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
+fact-api-1 = Știai că avem un API? Avem! Programele îl pot folosi ca să creeze, să examineze și să manipuleze automat Coggle-uri.
 
-fact-organisation = Using Coggle in Business? You can create a Coggle Organization to manage your Company's Coggles.
+fact-organisation = Folosești Coggle în Business? Poți crea o Organizație Coggle pentru a gestiona Coggle-urile companiei.
 
-fact-organisation2 = Did you know Coggle Organizations can put their logo on their Coggles? They can!
+fact-organisation2 = Știai că Organizațiile Coggle își pot pune logo-ul pe Coggle-uri? Pot!
 
-fact-organisation3 = Did you know you can create a Coggle Organization to organize your businesses Coggles? You can!
+fact-organisation3 = Știai că poți crea o Organizație Coggle pentru a gestiona organize Coggle-urile afacerii tale? Poți!
 
