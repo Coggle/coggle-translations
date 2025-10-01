@@ -396,6 +396,9 @@ me-support-awesomethanks-p2 = Vì là một trong những người ủng hộ Co
 me-awesome = Đây là bạn &mdash;<b>Bạn thật xịn xò!</b>
 me-manage-plan = Quản lý gói đăng ký của bạn
 
+me-free = Đây là bạn &mdash;<b>Bạn đang sử dụng Coggle miễn phí.</b> <a data-l10n-name="settings">Xem cài đặt của bạn.</a>
+upgrade-awesome = Nâng cấp tài khoản của bạn
+
 
 messages-title = Tin nhắn
 messages-search =
@@ -428,8 +431,10 @@ public-label = Công khai
 current-version = current
 
 # sharing dialog content 
-share-newlink = Tạo link mới:
-share-newlink-tip = Điều này cho phép bạn chia sẻ sơ đồ với những người chưa đăng nhập, nhưng hãy cẩn thận, nó cho phép <strong>bất kỳ ai</strong> có liên kết cũng có thể xem tác phẩm của bạn!
+share-by-link = Chia sẻ bằng liên kết
+share-newlink2 = Tạo liên kết có thể chia sẻ
+share-embedlink = Nhúng vào HTML
+    .title = Tạo mã HTML để nhúng vào trang web
 
 share-tag-user = người dùng
 share-tag-embed = nhúng
@@ -451,6 +456,7 @@ viewers-nocopy =
 revoke-link = 
     .title = Xóa liên kết này.
 
+share-publishing = Xuất bản
 share-open = Mọi người đều có thể xem sơ đồ này?
 share-open-detail = Sơ đồ công khai có thể được xem bởi bất cứ ai và có thể xuất hiện trong <a data-l10n-name="gallery">thư viện</a>
 
@@ -635,51 +641,39 @@ awesome-hint-orgs =
 
 
 # Login Page /login
+login-heading = Đăng nhập vào Coggle:
 index-loginwithgoogle = Đăng nhập với Google
 index-signinwithapple = Đăng nhập với Apple
 
-login-no-acc-q = Bạn không có tài khoản Google hay Microsoft?
-login-no-acc-a = Đừng lo! Bạn có thể tạo tài khoản Google hoặc Microsoft bằng bất kỳ địa chỉ email nào. Một địa chỉ Gmail hay Outlook là <b>không</b> cần thiết.
+login-title = Coggle - Đăng nhập để bắt đầu lập bản đồ tư duy
+
+signin-by-email = Đăng nhập bằng địa chỉ email
+sign-in = Đăng nhập
 
 login-saml = Chúng tôi cũng hỗ trợ cổng đăng nhập cho các doanh nghiệp với OneLogin, Okta, và các nhà cung cấp phương thức SAML 2.0 khác.
 login-saml-where = Nếu bạn là người dùng single-sign on, hãy đăng nhập bằng trang được chia sẻ bởi người quản lý tổ chức của bạn.
 login-saml-more = Đọc thêm về Single Sign On.
 
 login-faq = Câu hỏi thường gặp
-login-pw-q = Tại sao tôi không thể tạo tên người dùng và mật khẩu?
-login-pw-a-p1 = Coogle chỉ hỗ trợ đăng nhập bằng tài khoản Google, Microsoft hoặc
-    đăng nhập với Apple. Chúng tôi tỉn rằng đây là cách tốt nhất để bảo vệ dữ liệu của bạn,
-    vì các công ty này đều cung cấp dịch vụ đăng nhập rất an toàn, hỗ trợ
-    xác thực hai yếu tố và các tùy chọn bảo vệ tài khoản khác.
-
-login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-    intricacy: password recovery, 2-factor authentication, fraud detection,
-    brute-force attack detection, and securely storing hashed and salted
-    passwords. We believe that leaving these tasks to an external provider is
-    the right thing to do – leaving us more time to focus on creating a great
-    mind-mapping experience.
+login-free = Coggle có miễn phí không?
+login-free-a = Có, phiên bản miễn phí của Coggle bao gồm mọi thứ bạn cần để
+    tạo ra những bản đồ tư duy tuyệt vời: với tính năng cộng tác theo thời gian thực và không giới hạn kích thước!
+    Phiên bản trả phí <a data-l10n-name="pricing">bao gồm các tính 
+    năng bổ sung</a> dành cho người dùng chuyên nghiệp.
 
 login-what-q = Bạn sẽ làm gì với tài khoản Google/Microsoft của tôi?
 login-what-a = Chúng tôi chỉ yêu cầu quyền truy cập vào các thông tin cơ bản của bạn. 
     Nó bao gồm tên, ảnh đại diện và địa chỉ email của bạn. 
-    Chúng tôi không thể truy cập vào danh bạn, email và các tài liệu Google Drive của bạn, 
-    và bất cứ điều gì không cần thiết để Coggle hoạt động.
+    Chúng tôi không thể truy cập bất kỳ thông tin nào khác.
+
+login-trial = Có bản dùng thử không?
+login-trial-a = Bạn có thể sử dụng phiên bản miễn phí bao lâu tùy thích - không giới hạn thời gian và không cần thẻ!
+login-trial-a2 = Hoặc để dùng thử phiên bản nâng cấp miễn phí trong một tháng, hãy mời ba người bạn cùng chỉnh sửa sơ đồ tư duy!
 
 login-switch-q = Tôi có thể chuyển đổi giữa các phương thức đăng nhập không?
 login-switch-a = Có chứ! Miễn là bạn sử dụng cùng một địa chỉ email với tài khoản Microsoft/Google/Apple của mình, 
     bạn có thể sử dụng bất kỳ cách nào để đăng nhập vào cùng một tài khoản Coggle. 
     Tuy nhiên, nếu bạn chọn "ẩn email của tôi" khi đăng nhập Apple, tài khoản của bạn sẽ không được liên kết.
-
-login-emails-q = Bạn có thể đọc email của tôi không?
-login-emails-a = Không. Chúng tôi không cần và cũng không muốn truy cập vào email của bạn! 
-    Chúng tôi chỉ yêu cầu các thông tin cơ bản của bạn mà không có quyền truy cập vào bất cứ điều gì khác,
-    và chúng tôi không thể thay đổi cài đặt nào trên tài khoản Google/Microsoft của bạn.
-
-login-icloud-q = Bạn có thể truy cập iCloud của tôi không?
-login-icloud-a = Không hề! chúng tôi chỉ có thể đọc thông tin về tên, 
-    và địa chỉ email của bạn (nếu bạn đồng ý chia sẻ nó). Còn lại, chúng tôi không có quyền truy cập vào bất cứ điều gì khác. 
-    Bạn có thể biết cách chúng tôi truy cập vào thông tin của bạn qua 
-    <a data-l10n-name="applehelp">trang web của Apple</a>.
 
 login-workschool-q = Tôi có thể sử dụng tài khoản Microsoft doanh nghiệp hoặc trường học không?
 login-workschool-a = Có nha, bạn có thể sử dụng bất kỳ loại tài khoản Microsoft nào, bao gồm tài khoản cá nhân (trước đây là Windows Live), 

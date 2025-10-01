@@ -396,6 +396,9 @@ me-support-awesomethanks-p2 = 조기에 Coggle을 지원해 주셔서, <a data-l
 me-awesome = 이것은 당신입니다 —<b>당신은 멋진 플랜입니다!</b>
 me-manage-plan = 플랜을 관리하기
 
+me-free = 이것은 당신입니다 &mdash;<b>당신은 Coggle을 무료로 사용하고 있습니다.</b> <a data-l10n-name="settings">설정을 확인하세요.</a>
+upgrade-awesome = Awesome으로 업그레이드하세요
+
 
 messages-title = 메시지
 messages-search =
@@ -428,8 +431,10 @@ public-label = Public
 current-version = current
 
 # sharing dialog content 
-share-newlink = New Link:
-share-newlink-tip = These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
+share-by-link = 링크로 공유
+share-newlink2 = 공유 가능한 링크 만들기
+share-embedlink = HTML에 삽입
+    .title = 웹 페이지에 삽입할 HTML 코드 생성
 
 share-tag-user = user
 share-tag-embed = embed
@@ -451,8 +456,9 @@ viewers-nocopy =
 revoke-link = 
     .title = Delete this link.
 
-share-open = Can everyone view this diagram?
-share-open-detail = Public diagrams can be viewed by anyone and may appear in our <a data-l10n-name="gallery">Gallery</a>
+share-publishing = 출판
+share-open = 모두가 이 다이어그램을 볼 수 있나요?
+share-open-detail = 공개 다이어그램은 누구나 볼 수 있으며 <a data-l10n-name="gallery">갤러리</a>에 나타날 수 있습니다.
 
 # download dialog content 
 download-pdf = Download PDF
@@ -634,51 +640,39 @@ awesome-hint-orgs =
 
 
 # Login Page /login
-index-loginwithgoogle = Sign in with Google
-index-signinwithapple = Sign in with Apple
+login-heading = Coggle에 로그인:
+index-loginwithgoogle = Google 계정으로 로그인
+index-signinwithapple = Apple 계정으로 로그인
 
-login-no-acc-q = Don't have a Google or Microsoft Account?
-login-no-acc-a = No problem! You can create a Google or Microsoft Account with any email address. A Gmail or Outlook account is <b>not</b> required.
+login-title = Coggle - 마인드 매핑을 시작하려면 로그인하세요
+
+signin-by-email = 이메일 주소로 로그인
+sign-in = 로그인
 
 login-saml = We also support enterprise grade login for Coggle Organizations with OneLogin, Okta, and other SAML 2.0 identity providers.
 login-saml-where = If you're a single-sign on user, log in using the page shared by your Organization's administrator.
 login-saml-more = Read more about Single Sign On.
 
-login-faq = Frequently Asked Questions
-login-pw-q = Why can't I create a username and password?
-login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-    Sign in with Apple. We believe this is the best way to keep your data safe,
-    as these companies all provide very secure sign-in services, which support
-    two-factor authentication and other account protection options.
+login-faq = 자주 묻는 질문
+login-free = Coggle은 무료인가요?
+login-free-a = 네, Coggle 무료 버전에는 훌륭한 마인드 맵을 만드는 데 필요한 모든 것이 포함되어 있습니다.
+    실시간 협업 기능과 크기 제한이 없습니다!
+    유료 버전 <a data-l10n-name="pricing">에는 전문가 사용자를 
+    위한 추가 기능</a>이 포함되어 있습니다.
 
-login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-    intricacy: password recovery, 2-factor authentication, fraud detection,
-    brute-force attack detection, and securely storing hashed and salted
-    passwords. We believe that leaving these tasks to an external provider is
-    the right thing to do – leaving us more time to focus on creating a great
-    mind-mapping experience.
+login-what-q = Google/Microsoft 계정은 어떻게 사용되나요?
+login-what-a2 = 저희는 귀하의 기본 프로필 정보에 대한 접근 권한만 
+    요청합니다. 여기에는 이름, 프로필 사진, 이메일 주소가 
+    포함됩니다. 그 외 다른 정보는 접근할 수 없습니다.
 
-login-what-q = What do you do with my Google/Microsoft account?
-login-what-a = We only ask for access to your basic profile information. 
-    This includes your name, profile picture and your email address. 
-    We don't ask for access to your contacts, emails, Google Drive documents, 
-    or anything else that we don't need to make Coggle work.
+login-trial = 체험판이 있나요?
+login-trial-a = 무료 버전은 원하는 기간 동안 사용하실 수 있습니다. 기간 제한도 없고, 카드도 필요 없습니다!
+login-trial-a2 = 업그레이드 버전을 한 달 동안 무료로 체험해 보시려면, 친구 세 명을 초대하여 함께 마인드맵을 편집해 보세요!
 
 login-switch-q = Can I switch between login methods?
 login-switch-a = Yes! As long as you use the same email address with your Microsoft/Apple/Google accounts, 
     then you can use any of them to log in to the same Coggle account. 
     Note that if you choose the 'hide my email' option in Apple login, then your account won't be linked.
-
-login-emails-q = Can you read my emails?
-login-emails-a = No. We don't need, and don't want, access to your emails! 
-    We just request your basic profile information. We don't have access to anything else, 
-    and we can't change any setting on your Google/Microsoft account.
-
-login-icloud-q = Can you access my iCloud?
-login-icloud-a = No! Sign in with Apple just gives us access to your name, 
-    and your email address (if you choose to share it). We don't have access to anything else. 
-    You can read more about how sign in with apple works on 
-    <a data-l10n-name="applehelp"> Apple's website</a>.
 
 login-workschool-q = Can I use my Work or School Microsoft account?
 login-workschool-a = Yes, you can use any Microsoft account, including both personal accounts (formerly Windows Live), 

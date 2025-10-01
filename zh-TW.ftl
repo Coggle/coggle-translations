@@ -396,6 +396,9 @@ me-support-awesomethanks-p2 = 作為一個 Coggle 的早期支持者，你的訂
 me-awesome = 這是你本人和 -;<b>你真棒!</b>
 me-manage-plan = 管理你的方案
 
+me-free = 這是您 &mdash;<b>您正在免費使用 Coggle。 </b> <a data-l10n-name="settings">查看您的設定。 </a>
+upgrade-awesome = 升級您的帳戶
+
 
 messages-title = 討論
 messages-search =
@@ -428,8 +431,10 @@ public-label = 公共
 current-version = 目前版本
 
 # sharing dialog content 
-share-newlink = 新鏈接:
-share-newlink-tip = 這些讓你與沒有登錄的人分享你的圖表，但要小心，他們讓<strong>任何有該鏈接的人</strong> 看到你的作品!
+share-by-link = 透過連結分享
+share-newlink2 = 建立可共享連結
+share-embedlink = 嵌入 HTML
+    .title = 產生 HTML 程式碼以嵌入網頁
 
 share-tag-user = 用戶
 share-tag-embed = 嵌入
@@ -451,6 +456,7 @@ viewers-nocopy =
 revoke-link = 
     .title = 刪除此連結。
 
+share-publishing = 出版
 share-open = 每個人都可以查看此圖嗎?
 share-open-detail = 打開圖表可以被任何人看到，並且可以通過搜索引擎找到
 
@@ -641,29 +647,34 @@ awesome-hint-orgs =
 
 
 # Login Page /login  
+login-heading = 登入 Coggle：
 index-loginwithgoogle = 使用Google帳號登錄
 index-signinwithapple = 通過Apple登錄
 
-login-no-acc-q = 沒有Google或 Microsoft 帳戶？
-login-no-acc-a = 沒關係！您可以使用任何電子郵件地址建立 Google 或 Microsoft 帳戶。<b>不需要 Gmail 或 Outlook 帳戶</b>。
+login-title = Coggle - 登入並開始心智圖
+
+signin-by-email = 使用郵件地址登入
+sign-in = 登入
 
 login-saml = 我哋仲支持使用OneLogin、Okta同其他SAML 2.0身份提供商嘅Coggle組織進行企業級登錄。
 login-saml-where = 如果您是單點登錄使用者，請使用組織管理員共用的頁面登錄。
 login-saml-more = 閱讀有關單點登錄的更多資訊。
 
-# login-faq = Frequently Asked Questions
-# login-pw-q = Why can't I create a username and password?
-# login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-#     Sign in with Apple. We believe this is the best way to keep your data safe,
-#     as these companies all provide very secure sign-in services, which support
-#     two-factor authentication and other account protection options.
-# 
-# login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-#     intricacy: password recovery, 2-factor authentication, fraud detection,
-#     brute-force attack detection, and securely storing hashed and salted
-#     passwords. We believe that leaving these tasks to an external provider is
-#     the right thing to do – leaving us more time to focus on creating a great
-#     mind-mapping experience.
+login-faq = 常見問題
+login-free = Coggle 免費嗎？
+login-free-a = 是的，Coggle 的免費版本包含您創建精彩心智圖所需的一切：
+    即時協作，且無大小限制！
+    付費版本 <a data-l10n-name="pricing">包含額外功能</a>，
+    供專業使用者使用。
+
+login-what-q = 你們如何處理我的 Google/Microsoft 帳號？
+login-what-a2 = 我們僅要求存取您的基本個人資料資訊。
+    這包括您的姓名、個人資料照片和電子郵件地址。
+    我們無法存取任何其他資訊。
+
+login-trial = 有試用版嗎？
+login-trial-a = 免費版可以無限期使用，沒有時間限制，也不用銀行卡！
+login-trial-a2 = 或者，想要免費試用升級版一個月，邀請三位朋友一起編輯你的心智圖！
 
 # Organisations Landing Page (/organisations) 
 orgs-pitch-title = Coggle 組織會員

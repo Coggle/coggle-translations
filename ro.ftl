@@ -412,6 +412,9 @@ me-support-awesomethanks-p2 = Pentru că ai fost un susținător de la început 
 me-awesome = Acesta ești tu &mdash;<b>Ești Awesome!</b>
 me-manage-plan = Gestionează-ți planul
 
+me-free = Acesta ești tu –<b>Folosești Coggle gratuit.</b> <a data-l10n-name="settings">Vizualizează-ți setările.</a>
+upgrade-awesome = Actualizați la Awesome
+
 
 messages-title = Mesaje
 messages-search =
@@ -444,8 +447,10 @@ public-label = Publică
 current-version = curent
 
 # sharing dialog content 
-share-newlink = Link Nou:
-share-newlink-tip = Acestea îți permit să partajezi diagrama ta cu persoane care nu sunt autentificate, dar ai grijă, ele permit <strong>oricui</strong> are link-ul să vadă munca ta!
+share-by-link = Partajare prin link
+share-newlink2 = Creați un link partajabil
+share-embedlink = Încorporare în html
+    .title = Generați cod HTML pentru încorporare într-o pagină web
 
 share-tag-user = utilizator
 share-tag-embed = încorporează
@@ -467,6 +472,7 @@ viewers-nocopy =
 revoke-link = 
     .title = Șterge acest link.
 
+share-publishing = Publicare
 share-open = Poate toată lumea să vizualizeze această diagramă?
 share-open-detail = Diagramele publice pot fi vizualizate de oricine și pot apărea în <a data-l10n-name="gallery">Galeria</a> noastră
 
@@ -686,51 +692,39 @@ awesome-hint-orgs =
 
 
 # Login Page /login
+login-heading = Conectați-vă la Coggle:
 index-loginwithgoogle = Autentifică-te cu Google
 index-signinwithapple = Autentifică-te cu Apple
 
-login-no-acc-q = Nu ai un cont Google sau Microsoft?
-login-no-acc-a = Nicio problemă! Poți crea un cont Google sau Microsoft folosind orice adresă de e-mail. Un cont Gmail sau Outlook <b>nu</b> este necesar.
+login-title = Coggle - Conectați-vă pentru a începe hărțile mentale
+
+signin-by-email = Conectați-vă prin adresa de e-mail
+sign-in = Conectați-vă
 
 login-saml = De asemenea, oferim suport pentru autentificarea de nivel enterprise pentru Organizații Coggle folosind OneLogin, Okta și alți furnizori de identitate SAML 2.0.
 login-saml-where = Dacă ești un utilizator cu autentificare unică, autentifică-te folosind pagina partajată de administratorul Organizației tale.
 login-saml-more = Citește mai mult despre autentificarea unică.
 
 login-faq = Întrebări Frecvente
-login-pw-q = De ce nu pot crea un nume de utilizator și o parolă?
-login-pw-a-p1 = Coggle oferă doar autentificarea de tip Google Login, Microsoft Account Login sau 
-    folosind Apple. Noi credem că acesta este cel mai bun mod de a-ți păstra datele în siguranță, 
-    deoarece aceste companii oferă toate servicii de autentificare foarte sigure, care oferă 
-    autentificarea prin doi pași și alte opțiuni de protejare a contului.
-
-login-pw-a-p2 = Stocarea sigură a numelor de utilizator și a parolelor are multe 
-    subtilități: recuperarea parolelor, autentificarea în doi pași, detectarea fraudelor, 
-    detectarea atacurilor de tip brute-force și stocarea securizată a parolelor criptate prin 
-    hash și salt. Credem că e alegerea corectă să lăsăm aceste sarcini în seama unui 
-    furnizor extern – rămânem astfel cu mai mult timp pentru a ne concentra asupra creării 
-    unei experiențe grozave de elaboorare a hărților mentale.
+login-free = Este Coggle gratuit?
+login-free-a = Da, versiunea gratuită de Coggle include tot ce ai 
+    nevoie pentru a crea hărți mentale excelente: cu colaborare în 
+    timp real și fără limite de dimensiune! Versiunea plătită <a data-l10n-name="pricing">include 
+    funcții suplimentare</a> pentru utilizatorii profesioniști.
 
 login-what-q = Ce faceți cu contul meu Google/Microsoft?
-login-what-a = Noi cerem acces doar la informațiile de bază ale profilului tău. 
+login-what-a2 = Noi cerem acces doar la informațiile de bază ale profilului tău. 
     Acestea includ numele tău, poza de profil și adresa ta de e-mail. 
-    Nu cerem acces la contactele, e-mail-urile, documentele tale Google Drive 
-    sau orice altceva de care nu avem nevoie pentru a face Coggle să meargă.
+    Nu putem accesa nimic altceva.
+
+login-trial = Există o perioadă de probă?
+login-trial-a = Poți folosi versiunea gratuită cât timp dorești - nu există limită de timp și nu este necesar card!
+login-trial-a2 = Sau, pentru a încerca gratuit versiunea actualizată timp de o lună, invită trei prieteni să-ți editeze harta mentală împreună cu tine!
 
 login-switch-q = Pot schimba metoda de autentificare?
 login-switch-a = Da! Atâta timp cât folosești aceeași adresă de e-mail cu conturile tale Microsoft/Apple/Google, 
     poți să o folosești pe oricare din ele pentru a te autentifica în același cont Coggle. 
     Ține cont că dacă alegi opțiunea 'ascunde e-mail-ul meu' în autentificarea cu Apple, atunci contul tău nu va fi conectat.
-
-login-emails-q = Puteți citi e-mail-urile mele?
-login-emails-a = Nu. Nu avem nevoie și nu vrem să avem acces la e-mail-urile tale! 
-    Noi doar cerem informațiile de bază ale profilului tău. Nu avem acces la nimic altceva 
-    și nu putem schimba nicio setare de pe contul tău Google/Microsoft.
-
-login-icloud-q = Puteți accesa iCloud-ul meu?
-login-icloud-a = Nu! Autentificarea cu Apple ne oferă acces doar la numele tău și adresa ta 
-    de e-mail (dacă alegi să o partajezi). Nu avem acces la nimic altceva. 
-    Poți citi mai multe despre cum funcționează autentificarea cu Apple pe 
-    <a data-l10n-name="applehelp">website-ul Apple</a>.
 
 login-workschool-q = Îmi pot folosi contul Microsoft de Muncă sau de Școală?
 login-workschool-a = Da, poți folosi orice cont Microsoft, incluzând și conturi personale (înainte Windows Live), 

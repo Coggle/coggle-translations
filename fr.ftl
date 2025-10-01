@@ -407,6 +407,9 @@ me-support-awesomethanks-p2 = Comme vous êtes un des premiers à supporter Cogg
 me-awesome = C'est vous &mdash;<b>Vous êtes Awesome !</b>
 me-manage-plan = Gérer votre souscription
 
+me-free = C'est vous –<b>Vous utilisez Coggle gratuitement.</b> <a data-l10n-name="settings">Affichez vos paramètres.</a>
+upgrade-awesome = Passez à Awesome
+
 
 messages-title = Messages
 messages-search =
@@ -439,8 +442,10 @@ public-label = Public
 # current-version = current
 
 # sharing dialog content 
-share-newlink = Nouveau lien:
-share-newlink-tip = Vous pouvez partager vos diagrammes avec les personnes qui ne sont pas connectées, mais faites attention, <strong>n'importe qui</strong> ayant ce lien pourra voir votre travail!
+share-by-link = Partage par lien
+share-newlink2 = Nouveau lien de partage
+share-embedlink = Intégrer dans HTML
+    .title = Générer du code HTML à intégrer dans une page Web
 
 share-tag-user = utilisateur
 share-tag-embed = intégrer
@@ -459,9 +464,10 @@ viewers-can-copy =
     .title = Les utilisateurs peuvent créer leurs propres copies.
 viewers-nocopy =
     .title = Les utilisateurs ne peuvent pas créer de copies.
-# revoke-link = 
-#     .title = Delete this link
+revoke-link = 
+    .title = Supprimer ce lien
 
+share-publishing = Publication
 share-open = Tout le monde peut-il voir ce diagramme ?
 share-open-detail = Les diagrammes publics peuvent être vus par tout le monde et peuvent être trouvés sur les moteurs de recherche.
 
@@ -660,32 +666,53 @@ awesome-hint-orgs =
 
 
 # Login Page /login
+login-heading = Connectez-vous à Coggle :
 index-loginwithgoogle = Se connecter avec Google
 index-signinwithapple = Se connecter avec Apple
 
-login-no-acc-q = Vous n'avez pas de compte Google ou Microsoft?
-login-no-acc-a = Aucun problème! Vous pouvez créer un compte Google ou Microsoft avec n'importe quelle adresse e-mail. Il <b>n'est pas nécessaire</b> d'avoir un compte Gmail ou Outlook.
+login-title = Coggle - Sign in to Start Mind Mapping
+
+signin-by-email = Se connecter avec e-mail
+sign-in = Se connecter
 
 login-saml = Nous prenons également en charge la connexion de niveau entreprise pour les organisations Coggle avec OneLogin, Okta et d'autres fournisseurs d'identité SAML 2.0.
 login-saml-where = Si vous utilisez l'authentification unique, connectez-vous à l'aide de la page partagée par l'administrateur de votre organisation.
 login-saml-more = En savoir plus sur l'authentification unique.
 
 login-faq = Foire Aux Questions
-login-pw-q = Pourquoi ne puis-je pas créer un nom d'utilisateur et un mot de passe?
-login-pw-a-p1 = Coggle ne prend en charge que Google Login, Microsoft Account
-    Login ou Sign in with Apple. Nous pensons que c'est le meilleur moyen
-    d'assurer la sécurité de vos données, car ces entreprises fournissent
-    toutes des services de connexion très sécurisés, qui prennent en charge
-    l'authentification à deux facteurs et d'autres options de protection des
-    comptes.
+login-free = Coggle est-il gratuit ?
+login-free-a = Oui, la version gratuite de Coggle inclut tout ce dont vous avez besoin pour 
+    créer de superbes cartes mentales : collaboration en temps réel et taille illimitée ! 
+    La version payante <a data-l10n-name="pricing">inclut des fonctionnalités 
+    supplémentaires</a> pour les utilisateurs professionnels.
 
-login-pw-a-p2 = Le stockage sécurisé des noms d'utilisateur et des mots de
-    passe présente de nombreuses complexités : récupération de mot de passe,
-    authentification à 2 facteurs, détection des fraudes, force brute détection
-    des attaques et stockage sécurisé des mots de passe hachés et salés. Nous
-    croient que confier ces tâches à un fournisseur externe est la bonne chose
-    à faire ; à faire, ce qui nous laisse plus de temps pour nous concentrer
-    sur la création d'une excellente cartographie mentale expérience.
+login-what-q = Que faites-vous avec mon compte Google/Microsoft ?
+login-what-a2 = Nous ne demandons l'accès qu'aux informations de base de votre profil. 
+    Cela inclut votre nom, votre photo de profil et votre adresse e-mail. 
+    Nous n'avons accès à aucun autre élément.
+
+login-trial = Existe-t-il un essai gratuit ?
+login-trial-a = Vous pouvez utiliser la version gratuite aussi longtemps que vous le souhaitez : il n'y a pas de limite de temps et aucune carte n'est requise !
+login-trial-a2 = Ou pour essayer gratuitement la version mise à niveau pendant un mois, invitez trois amis à éditer votre carte mentale avec vous !
+
+login-switch-q = Puis-je changer de méthode de connexion ?
+login-switch-a = Oui ! Tant que vous utilisez la même adresse e-mail avec vos comptes Microsoft/Apple/Google, 
+    vous pouvez utiliser n'importe lequel d'entre eux pour vous connecter au même compte Coggle.
+    Notez que si vous choisissez l'option « Masquer mon e-mail » dans la connexion Apple, votre compte ne sera pas lié.
+
+login-workschool-q = Puis-je utiliser mon compte Microsoft professionnel ou scolaire ?
+login-workschool-a = Oui, vous pouvez utiliser n'importe quel compte Microsoft, y compris les comptes personnels (anciennement Windows Live) 
+    et les comptes Azure Active Directory ou Office 365 gérés par l'entreprise, 
+    sauf si votre équipe informatique a bloqué cette fonctionnalité pour les comptes qu'elle gère.
+
+login-otherlogin-q = Puis-je utiliser un autre fournisseur d’authentification pour accéder à Coggle ?
+login-otherlogin-a-p1 = Actuellement, nous prenons en charge Google, Microsoft, la connexion avec Apple et la connexion par e-mail pour les comptes personnels.
+login-otherlogin-a-p2 = Nous prenons en charge la <a data-l10n-name="saml">connexion SAML 2.0</a> pour Coggle Organisations.
+    Si vous souhaitez héberger votre propre version de Coggle avec connexion Active Directory, contactez-nous 
+    via notre <a data-l10n-name="email">adresse commerciale d'entreprise</a>.
+
+login-pw-more-q = J'ai encore une question sur la connexion
+login-pw-more-a = Demandez-nous ! Notre adresse e-mail est : <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Organisations Landing Page (/organisations) 
 orgs-pitch-title = Coggle Organisations

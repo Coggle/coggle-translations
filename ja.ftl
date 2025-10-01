@@ -396,6 +396,9 @@ me-support-awesomethanks-p2 = 早期にCoggleをサポートしてくれたお�
 me-awesome = これはあなたです &mdash;<b>あなたは すごいプラン です！</b>
 me-manage-plan = プランを管理する
 
+me-free = これはあなたです &mdash;<b>Coggle は無料でご利用いただけます。</b><a data-l10n-name="settings">設定を表示します。</a>
+upgrade-awesome = アカウントをアップグレードする
+
 
 messages-title = メッセージ
 messages-search =
@@ -428,8 +431,10 @@ public-label = 公開
 current-version = 現在のバージョン
 
 # sharing dialog content 
-share-newlink = 新しいリンク:
-share-newlink-tip = これにより、ログインしていない人ともダイアグラムを共有できますが、注意してください。リンクを知っている <strong>誰でも</strong>あなたの作業を見ることができます！
+share-by-link = リンクによる共有
+share-newlink2 = 共有可能なリンクを作成
+share-embedlink = HTMLに埋め込む
+    .title = ウェブページに埋め込むHTMLコードを生成します
 
 share-tag-user = ユーザー
 share-tag-embed = 埋め込み
@@ -451,6 +456,7 @@ viewers-nocopy =
 revoke-link = 
     .title = このリンクを削除する。
 
+share-publishing = 出版
 share-open = 誰でもこのダイアグラムを閲覧できますか？
 share-open-detail = 公開ダイアグラムは誰でも閲覧可能で、 <a data-l10n-name="gallery">ギャラリー</a> に表示される可能性があります。
 
@@ -635,50 +641,40 @@ awesome-hint-orgs =
 
 
 # Login Page /login
+login-heading = Coggleにサインイン:
 index-loginwithgoogle = Googleでサインイン
 index-signinwithapple = Appleでサインイン
 
-login-no-acc-q = GoogleアカウントやMicrosoftアカウントをお持ちでないですか？
-login-no-acc-a = 問題ありません！どんなメールアドレスでもGoogleアカウントやMicrosoftアカウントを作成できます。GmailやOutlookのアカウントは <b>必要ありません</b>。
+login-title = Coggle - マインドマッピングを始めるにはサインインしてください
+
+signin-by-email = メールアドレスでサインイン
+sign-in = サインイン
 
 login-saml = OneLogin、Okta、その他のSAML 2.0 identity providerを使用したエンタープライズ向けのログインもCoggle 組織プランはサポートしています。
 login-saml-where = シングルサインオンユーザーの場合は、組織の管理者が共有したページを使用してログインしてください。
 login-saml-more = シングルサインオンについて詳しく読む。
 
 login-faq = よくある質問
-login-pw-q = なぜユーザー名とパスワードを作成できないのですか？
-login-pw-a-p1 = CoggleはGoogleログイン、Microsoftアカウントログイン、
-    またはAppleでのサインインのみをサポートしています。
-    これがデータを安全に保つ最善の方法だと考えています。これらの企業はすべて、
-    二要素認証やその他のアカウント保護オプションをサポートする
-    非常に安全なサインインサービスを提供しています。
-
-login-pw-a-p2 = ユーザー名とパスワードを安全に保存するには多くの複雑さがあります: 
-    パスワード回復、二要素認証、詐欺検出、ブルートフォース攻撃の検出、
-    そしてハッシュ化とソルト処理されたパスワードの安全な保存などです。
-    これらのタスクを外部プロバイダーに任せることが正しい選択だと考えています 
-    – その分、私たちは素晴らしいマインドマッピング体験の創造に集中できます。
+login-free = Coggle は無料ですか？
+login-free-a = はい、Coggle の無料版には、優れたマインドマップを作成するために必要なものがすべて含まれています。
+    リアルタイムの共同作業やサイズ制限はありません！
+    有料版には、プロフェッショナルユーザー向けの<a data-l10n-name="pricing">追加機能</a>
+    が含まれています。
 
 login-what-q = 私のGoogle/Microsoftアカウントで何をするのですか？
-login-what-a = 私たちは、あなたの基本的なプロフィール情報へのアクセスのみを求めます。
+login-what-a2 = 私たちは、あなたの基本的なプロフィール情報へのアクセスのみを求めます。
     これには、名前、プロフィール写真、メールアドレスが含まれます。
-    Coggleを動作させるために必要のない連絡先、メール、Googleドライブのドキュメント、
-    その他の情報へのアクセスは求めません。
+    それ以外の情報にはアクセスできません。
+
+login-trial = トライアルはありますか？
+login-trial-a = 無料版は好きなだけご利用いただけます。時間制限はなく、カードも不要です！
+login-trial-a2 = アップグレード版を1ヶ月間無料でお試しいただくには、3人のお友達を招待して一緒にマインドマップを編集してもらいましょう！
 
 login-switch-q = ログイン方法を切り替えることはできますか？
 login-switch-a = はい！Microsoft/Apple/Googleアカウントで同じメールアドレスを使用している限り、
     いずれの方法でも同じCoggleアカウントにログインできます。
     ただし、Appleログインで「メールを非表示にする」オプションを選択した場合、
     そのアカウントはリンクされませんのでご注意ください。
-
-login-emails-q = 私のメールの内容を読むことができますか？
-login-emails-a = いいえ。私たちはあなたのメールにアクセスする必要も、
-    アクセスしたいとも思っていません！私たちはあなたの基本的なプロフィール情報のみを要求します。
-    それ以外のものにはアクセスできず、Google/Microsoftアカウントの設定を変更することもできません。
-
-login-icloud-q = 私のiCloudにアクセスできますか？
-login-icloud-a = いいえ！Appleでサインインすることで、私たちがアクセスできるのはあなたの名前とメールアドレス（共有することを選んだ場合）だけです。
-    それ以外の情報にはアクセスできません。Appleでのサインインの仕組みについては、<a data-l10n-name="applehelp">Appleのウェブサイト</a>で詳しく読むことができます。
 
 login-workschool-q = 仕事用や学校用のMicrosoftアカウントを使用できますか？
 login-workschool-a = はい、どのMicrosoftアカウントでも使用できます。

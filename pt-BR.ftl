@@ -395,6 +395,9 @@ help-toolbar-invitemulti = Para economizar tempo, você pode convidar várias pe
 # me-awesome = This is you &mdash;<b>You\'re Awesome!</b>
 # me-manage-plan = Manage your plan
 
+me-free = Este é você &mdash;<b>Você está usando o Coggle gratuitamente.</b> <a data-l10n-name="settings">Veja suas configurações.</a>
+upgrade-awesome = Atualize para Awesome
+
 
 # messages-title = Messages
 # messages-search =
@@ -427,8 +430,10 @@ public-label = Público
 # current-version = current
 
 # sharing dialog content 
-share-newlink = Novo Link:
-share-newlink-tip = Estes permitem que você compartilhe seu diagrama com pessoas que não estão logadas, mas tenha cuidado, eles permitem que <strong>qualquer um</strong> com o link veja seu trabalho!
+share-by-link = Compartilhando por Link
+share-newlink2 = Criar link compartilhável
+share-embedlink = Incorporar em HTML
+    .title = Gerar código HTML para incorporar em uma página da web
 
 share-tag-user = usuário
 share-tag-embed = incorporado
@@ -450,8 +455,9 @@ share-email-hints =
 # revoke-link = 
 #     .title = Delete this link.
 
-share-open = Can everyone view this diagram?
-share-open-detail = Public diagrams can be viewed by anyone and may appear in our <a data-l10n-name="gallery">Gallery</a>
+share-publishing = Publicação
+share-open = Todos podem visualizar este diagrama?
+share-open-detail = Os diagramas públicos podem ser visualizados por qualquer pessoa e podem aparecer em nossa <a data-l10n-name="gallery">Galeria</a>
 
 # download dialog content 
 download-pdf = Baixar PDF
@@ -641,29 +647,34 @@ awesome-hint-orgs =
 
 
 # Login Page /login
+login-heading = Entre no Coggle:
 index-loginwithgoogle = Faça login com o Google
 index-signinwithapple = Iniciar sessão com a Apple
 
-login-no-acc-q = Não tem uma Conta Google ou Microsoft?
-login-no-acc-a = Não há problema! Você pode criar uma Conta do Google ou da Microsoft com qualquer endereço de e-mail. <b>Não é necessária uma conta do Gmail ou do Outlook</b>.
+login-title = Coggle - Entre para iniciar o Mapeamento Mental
+
+signin-by-email = Entre com o endereço de e-mail
+sign-in = Entre
 
 login-saml = Também oferecemos suporte ao login de nível empresarial para organizações Coggle com OneLogin, Okta e outros provedores de identidade SAML 2.0.
 login-saml-where = Se você for um usuário de logon único, faça login usando a página compartilhada pelo administrador da sua organização.
 login-saml-more = Leia mais sobre Single Sign On.
 
-# login-faq = Frequently Asked Questions
-# login-pw-q = Why can't I create a username and password?
-# login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-#     Sign in with Apple. We believe this is the best way to keep your data safe,
-#     as these companies all provide very secure sign-in services, which support
-#     two-factor authentication and other account protection options.
-# 
-# login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-#     intricacy: password recovery, 2-factor authentication, fraud detection,
-#     brute-force attack detection, and securely storing hashed and salted
-#     passwords. We believe that leaving these tasks to an external provider is
-#     the right thing to do – leaving us more time to focus on creating a great
-#     mind-mapping experience.
+login-faq = Perguntas Frequentes
+login-free = O Coggle é gratuito?
+login-free-a = Sim, a versão gratuita do Coggle inclui tudo o que você precisa para 
+    criar excelentes mapas mentais: com colaboração em tempo real e sem limites de tamanho! A 
+    versão paga <a data-l10n-name="pricing">inclui recursos 
+    extras</a> para usuários profissionais.
+
+login-what-q = O que vocês fazem com minha conta do Google/Microsoft?
+login-what-a2 = Solicitamos acesso apenas às suas informações básicas de perfil.
+    Isso inclui seu nome, foto de perfil e endereço de e-mail.
+    Não podemos acessar mais nada.
+
+login-trial = Existe um período de teste?
+login-trial-a = Você pode usar a versão gratuita pelo tempo que quiser - não há limite de tempo e não é necessário cartão!
+login-trial-a2 = Ou, para experimentar a versão atualizada gratuitamente por um mês, convide três amigos para editar seu mapa mental com você!
 
 # Organisations Landing Page (/organisations) 
 # orgs-pitch-title = Coggle Organizations

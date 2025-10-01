@@ -412,6 +412,9 @@ me-support-awesomethanks-p2 = Por dar apoyo temprano a Coggle tienes todos los b
 me-awesome = Este eres tú &mdash;<b>Tú\eres Awesome!</b>
 me-manage-plan = Administra tu plan
 
+me-free = Este eres tú: estás usando Coggle gratis. <a data-l10n-name="settings">Ver tu configuración.</a>
+upgrade-awesome = Actualízate a ¡Awesome!
+
 
 messages-title = Mensajes
 messages-search =
@@ -444,8 +447,10 @@ public-label = Público
 current-version = current
 
 # Compartiendo contenido del diálogo 
-share-newlink = Nuevo enlace:
-share-newlink-tip = Estos te permiten compartir tu diagrama con gente que no haya iniciado sesión, pero ten cuidado, ya que con este enlace dejan ver tu trabajo a <strong>todo el mundo</strong>.
+share-by-link = Compartir por enlace
+share-newlink2 = Crear un enlace para compartir
+share-embedlink = Incrustar en HTML
+    .title = Generar código HTML para incrustar en una página web
 
 share-tag-user = usuario
 share-tag-embed = insertado
@@ -467,6 +472,7 @@ viewers-nocopy =
 revoke-link = 
     .title = Eliminar este enlace.
 
+share-publishing = Publicación
 share-open = ¿Puede todo el mundo ver este diagrama?
 share-open-detail = Los diagramas abiertos pueden verse por todo el mundo y puede que aparezcan en nuestra <a data-l10n-name="gallery">Galería</a>
 
@@ -686,51 +692,39 @@ awesome-hint-orgs =
 
 
 # Login Page /login
+login-heading = Iniciar sesión en Coggle:
 index-loginwithgoogle = Iniciar sesión con Google
 index-signinwithapple = Iniciar sesión con Apple
 
-login-no-acc-q = ¿No tienes una cuenta de Google o Microsoft?
-login-no-acc-a = ¡No hay problema! Puede crear una cuenta de Google o Microsoft con cualquier dirección de correo electrónico. <b>No se requiere</b> una cuenta de Gmail o Outlook.
+login-title = Coggle - Iniciar sesión para empezar a crear mapas mentales
+
+signin-by-email = Iniciar sesión por correo electrónico
+sign-in = Iniciar sesión
 
 login-saml = También admitimos el inicio de sesión de nivel empresarial para las organizaciones de Coggle con OneLogin, Okta y otros proveedores de identidad SAML 2.0.
 login-saml-where = Si eres un usuario de inicio de sesión único, inicia sesión con la página compartida por el administrador de tu organización.
 login-saml-more = Más información sobre el inicio de sesión único.
 
 login-faq = Preguntas frecuentes
-login-pw-q = ¿Por qué no puedo crear un nombre de usuario y una contraseña?
-login-pw-a-p1 = Coggle solo admite el inicio de sesión con Google, con cuenta
-    Microsoft o con Apple. Creemos que esta es la mejor manera de proteger tus
-    datos, ya que todas estas empresas ofrecen servicios de inicio de sesión muy
-    seguros, que admiten la autenticación de dos factores y otras opciones de protección de la cuenta.
-
-login-pw-a-p2 = Almacenar nombres de usuario y contraseñas de forma segura es
-    muy complejo: recuperación de contraseñas, autenticación de dos factores,
-    detección de fraude, detección de ataques de fuerza bruta y almacenamiento
-    seguro de contraseñas con hash y contraseñas con sal. Creemos que dejar estas
-    tareas en manos de un proveedor externo es lo correcto, ya que nos deja más
-    tiempo para centrarnos en crear una excelente experiencia de mapas mentales.
+login-free = ¿Coggle es gratuito?
+login-free-a = Sí, la versión gratuita de Coggle incluye todo lo necesario 
+    para crear mapas mentales fantásticos: ¡con colaboración en tiempo 
+    real y sin límite de tamaño! La versión de pago <a data-l10n-name="pricing">incluye 
+    funciones adicionales</a> para usuarios profesionales.
 
 login-what-q = ¿Qué hacen con mi cuenta de Google/Microsoft?
-login-what-a = Solo solicitamos acceso a la información básica de tu perfil.
+login-what-a2 = Solo solicitamos acceso a la información básica de tu perfil.
     Esto incluye tu nombre, foto de perfil y correo electrónico.
-    No solicitamos acceso a tus contactos, correos electrónicos, documentos de
-    Google Drive ni a ningún otro dato que no necesitemos para el funcionamiento de Coggle.
+    No podemos acceder a nada más.
+
+login-trial = ¿Hay una versión de prueba?
+login-trial-a = Puedes usar la versión gratuita todo el tiempo que quieras: ¡no hay límite de tiempo y no necesitas tarjeta!
+login-trial-a2 = O para probar la versión mejorada gratis durante un mes, ¡invita a tres amigos a editar tu mapa mental contigo!
 
 login-switch-q = ¿Puedo cambiar de método de inicio de sesión?
 login-switch-a = ¡Sí! Siempre que uses el mismo correo electrónico con tus
     cuentas de Microsoft/Apple/Google, podrás usar cualquiera de ellas para iniciar sesión en la misma cuenta de Coggle.
     Ten en cuenta que si seleccionas la opción "Ocultar mi correo electrónico" en el inicio de sesión de Apple, tu cuenta no se vinculará.
-
-login-emails-q = ¿Puedes leer mis correos electrónicos?
-login-emails-a = No. ¡No necesitamos ni queremos acceder a tus correos electrónicos!
-    Solo solicitamos la información básica de tu perfil. No tenemos acceso a
-    nada más y no podemos cambiar ninguna configuración de tu cuenta de Google/Microsoft.
-
-login-icloud-q = ¿Puedes acceder a mi iCloud?
-login-icloud-a = ¡No! Iniciar sesión con Apple solo nos da acceso a tu nombre y
-    a tu dirección de correo electrónico (si decides compartirla). No tenemos
-    acceso a nada más.  Puedes leer más sobre cómo funciona Iniciar sesión con
-    Apple en <a data-l10n-name="applehelp">el sitio web de Apple</a>.
 
 login-workschool-q = ¿Puedo usar mi cuenta Microsoft profesional o educativa?
 login-workschool-a = Sí, puedes usar cualquier cuenta Microsoft, incluidas las
