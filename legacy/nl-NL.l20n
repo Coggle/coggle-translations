@@ -1,0 +1,946 @@
+/* Coggle translations for Dutch */
+
+/* For help with syntax, see http://l20n.org/learn/ or email
+ * translations@coggle.it
+ */
+
+/* frontpage content (https://coggle.it/home), except for the plans section
+ * which is described below
+ */
+<index-tagline "De overzichtelijke manier om complexe informatie te delen.">
+<index-signupnow "Meld je nu aan">
+<index-login "Al geregistreerd? Log hier in.">
+
+<index-nav-pricing "Prijzen">
+<index-nav-features "Functies">
+<index-nav-gallery "Galerij">
+
+<index-unleash "Laat je inspiratie stromen">
+<index-blurb "Maak snel en eenvoudig mooie notities. Deel ze met vrienden en collega’s om samen aan je ideeën te werken.">
+<index-viewgallery "Of neem eens een kijkje in de <a>Coggle Gallery</a> om inspiratie op te doen.">
+
+<index-colab-mindmaps """
+  <h1>Gezamenlijke Mind Maps</h1>
+  <p>Coggle is een online tool voor het maken en delen van mindmaps. Het werkt online in je browser: je hoeft niets te downloaden of te installeren. <a>Log in</a> om nu aan de slag te gaan met mindmapping!</p>
+  <p>Of je nu aantekeningen maakt, brainstormt, plant of iets ontzettend creatiefs doet, met Coggle is het supereenvoudig om je ideeën te visualiseren. Deel ze met zoveel vrienden of collega’s als je wilt. Wijzigingen die je aanbrengt, worden direct weergegeven in hun browser, waar ter wereld ze zich ook bevinden.</p>
+""">
+
+<index-use-notes """
+  <div><img></div>
+  <h2>Maak Notities</h2>
+  <p>Open Coggle tijdens een vergadering, terwijl je aan het studeren bent of wanneer je maar inspiratie krijgt om mooie, overzichtelijke aantekeningen te maken.</p>
+""">
+    
+<index-use-brainstorm """
+  <div><img></div>
+  <h2>Brainstorm</h2>
+  <p>Neem het begin van een idee, voed het met Coggle en zie hoe het uitgroeit tot een volwaardig plan, overzichtelijk weergegeven en klaar om te delen.</p>
+""">
+
+<index-use-share """
+  <div><img></div>
+  <h2>Deel Informatie</h2>
+  <p>Breng je onderwerp samen in een Coggle, neem alle details op en deel het met je team, je klasgenoten of de hele wereld!</p>
+""">
+    
+<index-use-other """
+  Dit zijn slechts enkele voorbeelden waar Coggle handig voor is – <a>ga nu aan de slag</a> en ontdek zelf de mogelijkheden!
+""">
+
+<index-helpteam-orgs-usd """
+  <a><img></a>
+  <h2>Help je team te communiceren met <a>Coggle Organisations</a>.</h2>
+  <p>Geef je team een gedeelde ruimte voor brainstormen, aantekeningen maken en het vastleggen van ideeën. Coggle Organisations biedt alle functies die je nodig hebt om de controle over je gegevens te behouden en te integreren met je bedrijfsworkflow. Lees meer <a>hier</a>.</p>
+  <a>Meld je nu aan<div>Vanaf $8 (US) per lid per maand</div></a>
+""">
+
+<features-realtime "Realtime Samenwerking">
+<features-realtime-desc "Nodig je vrienden en collega's uit om samen met jou, op hetzelfde moment, aan je diagrammen te werken.">
+
+<features-images-title "Maak het plaatje compleet">
+<features-images "Sleep afbeeldingen rechtstreeks vanaf je bureaublad naar je diagrammen. Er geldt geen limiet voor het aantal afbeeldingen dat je kunt toevoegen.">
+
+<features-fullhistory-title "Sla Elke Wijziging op">
+<features-history "Bekijk alle wijzigingen in een diagram en maak vanaf elk willekeurig punt een kopie om terug te keren naar een eerdere versie.">
+
+<features-labels-title "Voeg Zwevende Tekst en Afbeeldingen toe">
+<features-labels "Voeg tekstlabels en afbeeldingen toe die geen deel uitmaken van de diagramboom om delen van je kaart te voorzien van aantekeningen.">
+
+<features-blame-title "Verantwoordelijkheid bijhouden">
+<features-blame "Bekijk de geschiedenis van je diagram om te zien wie wat heeft gewijzigd, en wanneer! Ga gewoon naar de diagramgeschiedenismodus om dit te ontdekken.">
+
+<features-colours-title "Kies de juiste kleur">
+<features-colours "Klik op een tak om het kleurenwiel te openen en selecteer de gewenste kleur.">
+
+<features-notifications-title "E-mailmeldingen">
+<features-notifications "Ontvang een e-mailmelding met een overzicht van de wijzigingen wanneer medewerkenden diagrammen bewerken die met jou zijn gedeeld.">
+
+<features-chat-title "Reacties en Chat">
+<features-chat "Voeg opmerkingen toe aan knooppunten en chat met je medewerkenden zonder je diagramwerkruimte te verlaten.">
+
+
+/* Plans selection translations (https://coggle.it/plans, when logged in, and
+ * also on the homepage)
+ */
+<plans-title-freeforever "Coggle is gratis te gebruiken en zal dat altijd blijven. Maak een onbeperkt aantal openbare diagrammen en deel ze gratis.">
+
+<plans-free-forever-title "Altijd Gratis">
+<plans-free-description "Ideaal om Coggle te ontdekken en voor incidenteel gebruik.">
+<plans-free-price "Altijd Gratis">
+<feature-free-private "<b>1</b> privé-diagram">
+<feature-realtime "<b>Realtime</b> samenwerking">
+<feature-emoji "Meer dan <b>1600</b> <a>prachtige pictogrammen</a>">
+<feature-diagrams "<b>Onbeperkt</b> openbare diagrammen">
+<feature-nprivate[$privateDiagrams.available] {
+       1: "1 private diagram",
+   *many: "{{ $privateDiagrams.available }} private diagrams"
+}>
+<feature-images "<b>Onbeperkt</b> afbeeldingen uploaden">
+<feature-changes "<b>Volledige</b> wijzigingsgeschiedenis">
+<feature-markdown "<b>Markdown</b>-ondersteuning">
+<feature-downloads "<b>PDF en afbeelding</b> downloaden">
+<feature-labels "Losstaande <b>tekstvakken</b>">
+<feature-exports "Exporteer als <b>.mm en tekst </b>">
+<feature-imports "Importeer <b>.mm en tekst </b>">
+<feature-chat "Reacties & Chat">
+<feature-embed "Insluitbare diagrammen">
+<plans-free-getstarted "Aan de slag">
+
+<plans-awesome-title "Awesome">
+<plans-awesome-description "Ideaal voor <b>privé</b> of <b>zakelijk</b> gebruik, met privacy en geavanceerde functies.">
+<plans-awesome-price "5 $ (VS) per maand">
+<feature-include-free "Alles uit <b>Gratis</b>">
+<feature-unlimited-private "<b>Onbeperkt</b> aantal privédiagrammen">
+<feature-multiroot "<b>Meerdere startpunten</b>">
+<feature-private "<b>Privé-diagrammen</b>">
+<feature-chathistory "<b>Volledige</b> chatgeschiedenis">
+<feature-rearrange "<b>Takken automatisch ordenen</b>">
+<feature-rejoin "<b>Takken Samenvoegen</b>">
+<feature-folders "<b>Gedeelde mappen</b>">
+<feature-presentation "Presentatiemodus">
+<feature-bigimages "<b> Hoge Resolutie afbeelding </b> uploads">
+<feature-linestyles "<b>Controle lijnstijl</b>">
+<feature-extendedcolours "Meer kleuren">
+<plans-findoutmore "Meer informatie">
+
+<plans-org-title "Organisation">
+<plans-org-description "Ideaal voor <b>teams</b> die de toegang tot hun gegevens willen beheren en facturatie willen centraliseren.">
+<plans-org-price "8 $ (VS) / lid / maand">
+<feature-org-awesome "Alles van <b>Awesome</b>">
+<feature-org-separate "Aparte Persoonlijke werkruimte">
+<feature-org-billing "Gezamenlijke facturatie">
+<feature-bulkexport "<b>Bulk export</b>">
+<feature-adminpanel "<b>Gebruikers- & gegevensbeheer</b>">
+<feature-branding "Diagrammen met merklogo’s">
+
+<plans-select "Selecteer">
+<continue-free "Ga verder met het <b>Gratis</b> abonnement">
+<current-plan "Je huidige abonnement">
+<cancel-subscription "Abonnement opzeggen">
+<awesome-signup-monthly "Aanmelden <span>$5 (VS)</span> per maand">
+<awesome-signup-yearly "Aanmelden <span>$50 (VS)</span> per jaar">
+<awesome-upgrade-monthly "Upgrade (<b>$5</b> US / month)">
+<awesome-upgrade-yearly "Upgrade (<b>$50</b> US / year)">
+<product-purchase "AANKOPEN">
+<yearly-discount "Betaal jaarlijks en krijg 2 maanden gratis!">
+<yearly-discount-percent "Betaal jaarlijks en bespaar meer dan 15%">
+<switch-yearly "Upgraden naar Jaarabonnement">
+<manage-subscription "Abonnement beheren">
+
+<per-month "per maand">
+<per-member-per-month "per lid per maand">
+
+<awesome-feature "Awesome Plan">
+<org-feature "Organisation Kenmerk">
+
+<footer-about "over">
+<footer-contact "contact">
+<footer-facebook "facebook">
+<footer-twitter "twitter">
+<footer-privacy "privacy">
+<footer-terms "voorwaarden">
+<footer-press "press">
+<footer-gdrive "<img/> Google Drive">
+
+
+/* logged-in homepage content (documents list): https://coggle.it when logged in 
+*/
+<create-diagram-2 "Diagram maken">
+<search-diagrams placeholder:"Doorzoek uw diagrammen">
+<view-gallery "Galerij">
+<create-folder "Map aanmaken">
+<shared-folders "Gedeelde mappen">
+<created-by-you value:"Gemaakt door u">
+<shared-with-you value:"Gedeeld met u">
+<folder-title placeholder:"Voer een mapnaam in">
+<folder-areyousure "Weet je het zeker? <span>Ja, zeker</span>">
+<logout "Uitloggen">
+<settings "Instellingen">
+<return-to-diagrams "Terug naar je diagrammen">
+<upgrade-to-awesome "Upgrade naar <b>Awesome</b>!">
+<awesome-time-remaining "Awesome proefperiode loopt af <time></time>“> /* het element <time></time> wordt vervangen door een vertaalde tekst zoals ”over 15 dagen“, ”over 1 maand" enz. */
+<awesome-trial-after "Dan word je overgezet naar het gratis abonnement">
+<want-awesome-for-free "Wil je Awesome gratis?">
+<personal-org "Persoonlijk <span>(<a>wat is dit?</a>)</span>">
+<help-search placeholder:"Help me om...">
+<my-settings "Mijn Instellingen & Facturering">
+<org-name-settings "{{ $orgName }} Instellingen">
+<org-settings title:"Beheer Organisatie">
+<user-about "Over Coggle">
+<user-contact "Contacteer ons">
+<user-privacy "Privacybeleid">
+<user-terms "Algemene voorwaarden">
+<user-link-drive "Link Google Drive">
+<diagrams-limited "<span> {{ $privateDiagrams.used }} of {{ $privateDiagrams.available }}</span> private diagrams used">
+<diagrams-unlimited "<span>Onbeperkt</span> aantal privédiagrammen">
+
+<limitedaccess "Je hebt beperkte toegang tot {{ $resourceName }} omdat je geen lid bent">
+<doclist-create """
+    <b>Welkom bij Coggle!</b> – De diagrammen die je maakt, worden hier weergegeven.
+    <div><a>Diagram maken</a></div>
+""">
+<doclist-shared "<b>Met u gedeeld</b> – in deze map staan diagrammen die door anderen zijn gemaakt en vervolgens met u zijn gedeeld.">
+<doclist-folder-empty "<b>Dit is een lege map!</b> – Maak hier een nieuw diagram aan, of sleep diagrammen naar mappen.">
+<impersonatedaccess "Je bekijkt Coggle als lid van de organisatie. <a>Terug naar het admin paneel</a>">
+
+<doclist-loading-failed "Oei! Het laden van de map is mislukt. Vernieuw de pagina om het opnieuw te proberen.">
+<doclist-discover-whatspossible "Wil je meer uit Coggle halen? Ontdek <a>wat er allemaal mogelijk is</a>.<div></div>">
+<doclist-upgrade """
+   <div> <b>Meerdere startpunten!</b> <p>Maak meerdere startpunten aan met <a>Coggle Awesome</a>.</p> <a>Upgrade nu</a> <div></div> </div>
+""">
+
+<tooltip-createorg title:"Maak een Organisatie aan">
+<tooltip-invite-folder title:"Voeg mensen via e-mail toe aan deze map">
+<tooltip-invite title:"Nodig mensen uit om deel te nemen aan deze Coggle.">
+<tooltip-private-icon title:"Het diagram is privé">
+<tooltip-unsubscribe title:"Afmelden voor meldingen">
+<tooltip-subscribe title:"Aanmelden voor meldingen">
+<tooltip-duplicate title:"Een kopie maken”">
+<tooltip-remove title:“Diagram verwijderen”>
+<tooltip-restore title:“Diagram herstellen”>
+<tooltip-more title:“Diagramopties”>
+
+/* documents list contextual help items */
+<help-searchcoggle-title “Zoeken in Coggle”>
+<help-searchcoggle “Typ om je documenten te vinden — zoek snel naar elk woord in een diagram!”>
+<help-hide-for-now “Nu verbergen”>
+<help-ok-got-it “Oké, begrepen!”>
+<help-creatediagram-title “Maak een nieuw diagram”>
+<help-creatediagram “”"
+  <p>Maak een nieuw Coggle-diagram om aan de slag te gaan.</p>
+  <p>De diagrammen die je maakt, worden hier op je startpagina opgeslagen.</p>
+“”">
+
+<help-createfolder-title “Een map aanmaken”>
+<help-createfolder “Maak mappen aan om te delen met groepen mensen, of om Coggles te categoriseren.”>
+
+<help-orgs-switch-title “Schakelen tussen organisaties”>
+<help-orgs-switch “<p>Klik hier om te schakelen tussen organisaties.</p><p>Met organisaties kun je het delen van Coggles beheren en met grotere teams samenwerken.</p>”>
+
+
+/* Inhoud van de instellingenpagina */
+<settings-plans-title “Abonnementen”>
+<settings-billing-title “Facturering & facturen”>
+<settings-recommend-title “Aanbevelen”>
+<settings-emails-title “Communicatie”>
+<settings-language-title “Taal”>
+
+/* De tekst van de knop om factuurgegevens op te slaan verandert afhankelijk van de context:
+ * wanneer een gebruiker zich aanmeldt bij Awesome, „koopt” hij een abonnement; wanneer hij
+ * een Organisatie aanmaakt, „maakt” hij een organisatie aan; en wanneer hij
+ * de factuurgegevens wijzigt, „werkt” hij deze bij.
+ */
+<settingsSubmitButton {
+  purchase: “aankoop”,
+   *submit: “verzenden”,
+    update: “bijwerken”,
+    create: “aanmaken”,
+}>
+
+<billingPeriod {
+           *permonth: “per maand”,
+   permemberpermonth: “per lid per maand”,
+             peryear: “per jaar”
+}>
+
+<billing-header “”"
+    <h3>Factuurgegevens</h3>
+    <div>We denken dat je je Coggle-abonnement geweldig zult vinden, maar mocht je om welke reden dan ook niet helemaal tevreden zijn, neem dan contact op via <b>hello@coggle.it</b> en we lossen het op.</div>
+“”">
+<billing-on-file “”"
+  <p>De kaart die bij ons voor u geregistreerd staat, eindigt op <b>{{ $cardEndsIn }}</b> en verloopt op <b>{{ $cardExpires }}</b>.</p>
+  <p>De postcode die bij ons voor u geregistreerd staat, is <b>{{ $addressZip }}</b>. <a>Kaartgegevens bewerken</a></p>
+“”">
+<billing-ok-button “{{ settingsSubmitButton[$submit] }}”>
+<billing-charge-description “”"
+    We brengen je het volgende in rekening
+    <span>{{ $product.price }}</span>
+    <span>(VS) {{ billingPeriod[$product.periodKey] }}</span>
+“”">
+<billing-remove-card “Mijn kaartgegevens verwijderen”>
+
+<billing-form “”"
+  <div>
+    <label>Kaartnummer</label>
+    <input>
+  </div>
+  <div>
+    <label>Vervaldatum</label>
+    <input> <input> <input placeholder="MM/JJJJ" title="Vervaldatum">
+  </div>
+  <div>
+    <label>Beveiligingscode</label>
+    <input title="De laatste 3 cijfers van de code in het handtekeningvakje op uw kaart.">
+  </div>
+  <div>
+    <label>Naam op de kaart</label>
+    <input placeholder="Naam op de kaart">
+  </div>
+  <div>
+    <label>Factuuradres</label>
+    <input placeholder="Adresregel 1">
+    <input placeholder="Adresregel 2">
+  </div>
+  <div>
+    <input placeholder="Plaats">
+  </div>
+  <div>
+    <input placeholder="Postcode">
+  </div>
+“”">
+<billing-choose-country “Kies land”>
+<billing-weusestripe “We gebruiken <a>Stripe</a> om betalingen veilig te verwerken: je kaartgegevens worden nooit via onze servers verzonden.”>
+
+<cancel-really “”"
+  <span>Wil je je abonnement echt opzeggen?</span>
+  <div>Echt niet!</div>
+  <div>Ja, abonnement opzeggen</div>
+“”">
+
+<cancel-discount-available “”"
+  <span>Blijf geweldig en ontvang <b>30% korting</b> op je abonnement voor de komende <b>3 maanden</b>!</span>
+  <div>Blijf geweldig!</div>
+  <div>Abonnement opzeggen</div>
+  <a>Terug</a>
+“”">
+
+<summary-free-plan “Je hebt nog geen abonnement. <a>Upgrade nu!</a></p>”>
+<summary-active-plan "Je hebt het <code>{{ $planName }}</code>-abonnement. <a>Abonnement opzeggen</a> of <a href=‘/plans’>abonnementen vergelijken</a>.</p>">
+<summary-upgrade-yearly "<p>Ontvang twee maanden gratis (<b>bespaar 15%</b>) door jaarlijks te betalen. <a>Upgrade (<b>$50</b>)</a></p><p>De resterende looptijd van je huidige abonnement wordt automatisch in mindering gebracht op de kosten van de upgrade.</p>">
+<summary-ending-plan "Je hebt momenteel het <code>{{ $planName }}</code>-abonnement. Dit wordt <b>automatisch opgezegd</b> aan het einde van de huidige factureringsperiode. <a>Opnieuw abonneren</a></p>">
+<summary-overdue-plan “Uw abonnement is inactief vanwege een achterstallige betaling. U kunt dit oplossen door uw kaartgegevens bij te werken of contact met ons op te nemen via <b>hello@coggle.it</b>.</p>”>
+
+
+<me-communication-title “Communicatie”>
+<me-emails-title “E-mailadressen”>
+<me-emails-primary “(primair)”>
+<me-emailstip “We sturen alleen e-mails naar je primaire adres, maar je kunt uitnodigingen ontvangen op elk van de andere adressen.”>
+<me-talktome “Praat met me: ”>
+<me-diagram-notifications “Diagrammeldingen: ”>
+
+<slider-yes “JA”>
+<slider-no “NEE”>
+
+<me-language-title “Kies je voorkeurstaal”>
+<me-language-tip “Help ons om Coggle in je moedertaal aan te bieden, of vul ontbrekende informatie aan door bij te dragen aan ons <a>vertaalproject</a> op GitHub!”>
+<me-language-questions “Als je vragen hebt over vertalingen – of als je correcties of verbeteringen hebt en niet zeker weet hoe je kunt helpen, stuur ons dan gewoon een e-mail op <a>translate@coggle.it</a>.”>
+
+<we-heart-you “We ♥ je.”>
+<help-discover-coggle “Help de wereld Coggle te ontdekken en ontvang gratis spullen!”>
+<introduce-n-more-friends[$introduceCount] {
+        1: “Stel <span>{{ $introduceCount }}</span> vrienden voor aan Coggle”,
+    *many: “Stel <span>{{ $introduceCount }}</span> vrienden voor aan Coggle”,
+}>
+<introduced-n-friends[$introducedCount] {
+        1: “Je hebt <span>{{ $introducedCount }}</span> persoon aan Coggle voorgesteld”,
+    *many: “Je hebt <span>{{ $introducedCount }}</span> mensen aan Coggle voorgesteld”,
+}>
+
+<share-your-link “”"
+  <p>Deel je speciale link op welke manier je maar wilt</p>
+  <p>
+    <a>Facebook</a>,
+    <a> Twitter</a>,
+    of <a>e-mail</a> werken allemaal prima!
+  </p>
+  <input/>
+“”">
+
+<claim-free-month “”"
+  <p>Claim je gratis maand Coggle Awesome!</p>
+  <div>Nu inwisselen</div>
+“”">
+
+/* Gallery Content (/gallery) */
+<gallery-title “De Coggle-galerij”>
+<gallery-blurb2 “Een selectie van de beste diagrammen gemaakt met Coggle!”>
+<gallery-folder-blurb2 “”"
+  <b>De Coggle-galerij</b> - Een selectie van de beste diagrammen gemaakt met Coggle! <br/>
+  Volg ons op <a>Twitter</a> of <a>Facebook</a> voor regelmatige updates.
+“”">
+
+/* Diagram content */
+<guide-click-here “klik hier”>
+<guide-or-here “of hier”>
+<click-to-edit “klik om te bewerken”>
+<click-to-edit-title “Klik om de titel te bewerken”>
+<tap-to-edit “tik om te bewerken”>
+<tap-to-edit-title “Tik om de titel te bewerken”>
+<unnamed-diagram “Diagram zonder naam”>
+
+<add-branch “tak toevoegen”>
+<copy-branch “tak kopiëren”>
+<add-to-discussion “toevoegen aan discussie”>
+<comment-on-this “hierop reageren”>
+<auto-arrange “automatisch ordenen”>
+<pick-colour “kleur kiezen”>
+<choose-style “stijl kiezen”>
+<delete-branch “tak verwijderen”> /* (verwijder een item *en* al zijn onderliggende elementen) */
+<remove-item “item verwijderen”>
+<copy-branch “tak kopiëren”>
+<show-children “onderliggende elementen weergeven”>
+<hide-children “onderliggende elementen verbergen”>
+<drag-to-create-link “sleep om link te maken”>
+<drag-to-transplant-branch “sleep om tak te verplaatsen”>
+
+<undo “ongedaan maken”>
+<redo “opnieuw uitvoeren”>
+<paste-branch “tak plakken”>
+<zoom-page “pagina zoomen”>
+<add-label “label toevoegen”>
+
+<help-gohome “Klik op het Coggle-logo om terug te gaan naar de startpagina, waar je documenten automatisch worden opgeslagen.”>
+<help-add-node “Gebruik de knoppen <div>+</div> om vertakkingen toe te voegen.”>
+<help-edit-node "<p>Klik op een willekeurig item om de tekst te bewerken. </p><p>Pas de tekstgrootte aan door de hoek van het bewerkingsgebied te verslepen.</p>">
+<help-move-node “Versleep willekeurige tekst om deze te verplaatsen.”>
+<help-node-menu “Klik met de rechtermuisknop om het menu te openen. Hier kunt u takken toevoegen, verwijderen, kopiëren en ordenen.”>
+
+<help-multiline “Voeg meerdere regels tekst toe met [Ctrl] + [Enter], of door de aanpassingsgreep te verslepen voordat je begint met typen.”>
+<help-toolbar-invite-title “Samenwerken”>
+<help-toolbar-invite “Klik hier om mensen uit te nodigen om deze Coggle te bewerken of te bekijken. Je kunt de rechten van mensen aanpassen door op hun pictogram te klikken.”>
+<help-toolbar-invitemulti-title “Meerdere mensen uitnodigen”>
+<help-toolbar-invitemulti “”"
+  Om tijd te besparen, kun je meerdere mensen tegelijk uitnodigen: typ (of plak) e-mailadressen gescheiden door spaties, komma's<b>,</b> of puntkomma's<b>;</b>
+“”">
+<help-toolbar-invitedonefaster “Werk sneller – nodig iemand uit om samen met u te bewerken en zie hun wijzigingen direct.”>
+<help-toolbar-inviteflow-title “Voer het e-mailadres van een collega in”>
+<help-inactive-invite “Werk samen met vrienden om uw ideeën tot leven te brengen!<br>Nodig hier iemand uit via e-mail.”>
+
+<banner-open-getawesome “”"
+    Dit is een Open Coggle — het kan verschijnen in de <a>Coggle-galerij.</a> Maak het <a>Awesome</a> om het privé te maken.
+“”">
+<banner-open-awesome “”"
+    Dit is een open Coggle — deze kan verschijnen in de <a>Coggle-galerij.</a> Je kunt deze privé maken via het <a>deelvenster</a>.
+“”">
+
+<me-as-awesome-orgmember “”"
+  <p>Dit ben jij — je bekijkt Coggle als een <b>organisatielid</b>.</p>
+  <p>Dit betekent dat je ook alle geweldige functies van het <a>Coggle Awesome</a>-abonnement krijgt!</p>
+""">
+
+<go-awesome “Ga voor Awesome”>
+<free-awesome “Wil je Awesome gratis?”>
+
+<me-support-awesomethanks “”"
+  <p><b>Bedankt voor je steun aan Coggle!</b></p>
+  <p>Omdat je een vroege Coggle-supporter bent, krijg je alle voordelen van het <a>Coggle Awesome</a>-abonnement inbegrepen bij je abonnement!</p>
+  <a>Beheer je abonnement</a>
+“”">
+
+<me-awesomethanks “”"
+  <p>Dit ben jij —<b>Je bent geweldig!</b></p>
+  <a>Beheer je abonnement</a>
+“”">
+
+
+
+<messages-title “Berichten”>
+<messages-search placeholder:“Zoeken”>
+<messages-entry placeholder:“Voer een bericht in. Gebruik @ om mensen te taggen. Druk op [enter] om te verzenden.”>
+<messages-start “Je bent bij het begin aangekomen!”>
+<messages-upgrade “Heb je meer dan 2 weken geschiedenis nodig? Lees meer over upgraden naar <a>Awesome</a> om de volledige geschiedenis te krijgen.”>
+
+<diagram-toolbar-history title:“Bekijk en kopieer eerdere versies.”>
+<diagram-toolbar-messages title:“Opmerkingen en chat.”>
+<diagram-toolbar-present title:“Presenteren en beoordelen.”>
+<diagram-toolbar-share title:“Deel deze Coggle.”>
+<diagram-toolbar-download title:“Download deze Coggle.”>
+<diagram-toolbar-copy title:“Maak een kopie van deze Coggle.”>
+<diagram-toolbar-public “Openbaar diagram” title:“Kan in de Coggle-galerij verschijnen”>
+
+/* sharing dialog content */
+<share-newlink “Nieuwe link:”>
+<share-newlink-tip “”"
+  Hiermee kun je je diagram delen met mensen die niet zijn ingelogd, maar let op: hierdoor kan <strong>iedereen</strong> met de link je werk zien!
+“”">
+<share-tag-user “gebruiker”>
+<share-tag-embed “insluiten”>
+<share-tag-writable “bewerkbaar”>
+<share-send-email “VERZENDEN”>
+<share-email-hints “”"
+  <div>om uit te nodigen, typ een e-mailadres</div>
+  <div>en druk vervolgens op Enter</div>
+  <div>friend@example.com</div>
+“”">
+<share-social “”"
+  <a title=‘Insluiten in een website’> <img/> </a>
+  <a title=‘Delen op Facebook’> <img/> </a>
+  <a title=‘Delen op Twitter’> <img/> </a>
+“”">
+<share-open “Kan iedereen dit diagram bekijken?”>
+<share-open-detail “Openbare diagrammen kunnen door iedereen worden bekeken en kunnen verschijnen in onze <a>Galerij</a>”>
+
+/* download dialog content */
+<download-pdf “PDF downloaden”>
+<download-png “Afbeelding downloaden”>
+<download-mm “.mm-bestand”>
+<download-txt “Overzicht in platte tekst”>
+<download-advanced “Geavanceerde typen”>
+<download-failed “Het genereren van het bestand is mislukt.”>
+
+/* access control slider content */
+<access-readonly “Alleen-lezen<br/><span>Alleen bekijken toegestaan</span>”>
+<access-readclone “Lezen en kopieën maken<br/><span>Ook downloaden en kopiëren toegestaan</span>”>
+<access-author “Auteur<br/><span>Documenten aanmaken en bewerken toegestaan</span>”>
+
+<access-folder-readonly “Alleen-lezen<br/><span>Alleen bekijken toegestaan</span>”>
+<access-folder-readclone “Lezen en kopieën maken<br/><span>Ook downloaden en kopiëren toegestaan</span>”>
+<access-folder-author “Auteur<br/><span>Documenten aanmaken en bewerken toegestaan</span>”>
+<access-folder-admin “Beheren<br/><span>Mensen en documenten toevoegen en verwijderen</span>”>
+
+<access-remove “{{ $user.givenName }} verwijderen”>
+
+/* Notification Messages */
+<readonly-warning “”"
+  Je kunt dit diagram niet bewerken. <div>Als je het wilt bewerken, vraag dan de auteur om toestemming.</div>
+“”">
+<websocket-offline “”"
+  Wijzigingen kunnen traag verlopen vanwege netwerkproblemen. <a>Help me dit op te lossen!</a>
+“”">
+<disconnect-warning “”"
+  <b>Verbinding verbroken</b>: wijzigingen worden mogelijk niet opgeslagen</div>
+“”">
+<unrecoverable-warning “”"
+  Er is een onherstelbare fout opgetreden. Laad de pagina opnieuw. Als je informatie hebt over wat er mogelijk mis is gegaan, stuur dan een e-mail naar <a>contact@coggle.it</a>
+“”">
+<banner-undo-warning “Niets meer om ongedaan te maken!”>
+<banner-redo-warning “Niets meer om opnieuw uit te voeren!”>
+
+/* Image drag-drop messages */
+<imgupload-was-resized-2 “”"
+  Je afbeelding is aangepast naar de afmetingen {{ $maxWidth }} × {{ $maxHeight }}, zodat we je afbeelding gratis en voor altijd kunnen opslaan!
+  Je kunt je aanmelden voor <a>Coggle Awesome</a> om veel grotere afbeeldingen te uploaden. <a>Lees meer</a>.
+“”">
+<imgupload-slow-down “Ho, rustig aan! Probeer bestanden één voor één te uploaden.”>
+
+
+/* shortcut help content (in the messages panel on the right-hand side of a
+ * diagram)
+ */
+<controls[@os] 
+ removeKey[@os]: {
+  *win: "ctrl",
+   mac: "alt",
+   linux: "ctrl"
+ }
+>
+<sidebar-contextmenu “Contextmenu”>
+<sidebar-clickformenu “Klik met de rechtermuisknop op een item of de achtergrond om een menu te openen.”>
+<sidebar-tapformenu “Tik op een item of de achtergrond om een menu te openen.”>
+<sidebar-controls “Bedieningselementen”>
+<sidebar-addbranch “”"
+  <div>Tak toevoegen:</div>
+  <div><span> klik </span><div></div></div>
+“”">
+<sidebar-removebranch “”"
+  <div>Tak verwijderen:</div>
+  <div><div> {{ controls::removeKey }} </div> <span> + klik </span> <div></div></div>
+“”">
+<sidebar-insertbranch “”"
+  <div>Tak invoegen:</div>
+  <div><div> shift </div> <span> + klik </span> <div></div></div>
+“”">
+<sidebar-movebranch “”"
+  <div> Tak verplaatsen: </div>
+  <div><div> sleep iets! </div></div>
+“”">
+<sidebar-transplantbranch “”"
+  <div> Tak verplaatsen: </div>
+  <div><div> shift </div> <span> + slepen </span> <div></div></div>
+“”">
+<sidebar-recolourbranch “”"
+  <div> Kleuren wijzigen: </div>
+  <div><span> klik op een tak </span></div>
+“”">
+<sidebar-addimages “”"
+  <div> <a>Afbeeldingen</a> toevoegen: </div>
+  <div><div> slepen en neerzetten </div></div>
+“”">
+<sidebar-zoom “”"
+  <div> Zoomen: </div>
+  <div><div> Ctrl </div><span> + muiswiel </span></div>
+“”">
+<sidebar-shortcuts “Sneltoetsen”>
+<sidebar-undo “”"
+  <div> Ongedaan maken: </div>
+  <div><div> Ctrl </div> <span> + </span> <div> Z </div> </div>
+“”">
+<sidebar-redo “”"
+  <div> Opnieuw uitvoeren: </div>
+  <div><div> Ctrl </div> <span> + </span> <div> Shift </div> <span> + </span> <div> Z </div> </div>
+“”">
+<sidebar-whentyping “Tijdens het typen”>
+<sidebar-sc-newitem “”"
+  <div> Nieuw item: </div>
+  <div><div> shift </div><span> + </span><div> return </div></div>
+“”">
+<sidebar-sc-newchild “”"
+  <div> Nieuw onderliggend item: </div>
+  <div><div> tab </div></div>
+“”">
+<sidebar-sc-parent “”"
+  <div> Ga naar bovenliggend item: </div>
+  <div><div> shift </div><span> + </span><div> tab </div></div>
+“”">
+<sidebar-sc-markdown “”"
+    <div>Tekst opmaken: </div>
+    <div>gebruik <a>Markdown</a></div>
+“”">
+<another-fact “nog een!”>
+<cogglefacts-more “”"
+  Lees meer...
+“”">
+<sidebar-markdown “Markdown”>
+<sidebar-bgmenu “<b>Inzoomen</b>, <b>ongedaan maken</b> en <b>gekopieerde items plakken</b> door met de rechtermuisknop op de achtergrond te klikken.”>
+<sidebar-bgmenu2 “<b>Zoom</b>, voeg <b>tekstlabels</b> toe, <b>ongedaan maken</b> en <b>gekopieerde items plakken</b> door met de rechtermuisknop op de achtergrond te klikken.”>
+<sidebar-icons “Pictogrammen”>
+<markdown-icons “Typ <code>:</code> tijdens het bewerken of gebruik de knop bovenaan de item-editor.”>
+<markdown-bold “<code>**tekst**</code> om tekst <b>vetgedrukt</b> te maken”>
+<markdown-italic “<code>*cursief*</code> om tekst <i>cursief</i> te maken”>
+<markdown-link “<code>[Titel](example.com)</code> om een <a>link</a> te maken”>
+<markdown-checkbox “<code>- [X]</code> om een <input/>selectievakje te maken”>
+<markdown-code “<code>`tekst`</code> om een <code>lettertype met vaste breedte</code> te gebruiken”>
+
+<button-bold title:“Tekst vet maken”>
+<button-italic title:“Tekst cursief maken”>
+<button-link title:“Link naar een website”>
+<button-image title:“Een afbeelding uploaden”>
+<button-emoji title:“Zoek naar pictogrammen.”>
+
+/* diagram not-found page */
+<nodiagram-title “Diagram niet gevonden!”>
+<nodiagram-invalid-link “Deze diagramlink is ongeldig of de toegang ertoe is ingetrokken.”>
+<nodiagram-logged-in “U bent momenteel ingelogd als <b>{{ $user.givenName }}</b>, met het e-mailadres <b>{{ $user.email }}</b>. Als dit diagram bestaat, heeft dit account geen toestemming om er toegang toe te krijgen.”>
+<nodiagram-not-logged-in "<b>U bent momenteel niet ingelogd. </b>  Als dit diagram bestaat, hebt u mogelijk toegang tot dit diagram als u inlogt op uw account.">
+<nodiagram-may-need-access “Als iemand u een link naar dit diagram heeft gegeven, moet die persoon u mogelijk ook toestemming geven om het te bekijken.”>
+
+
+/* Awesome Landing Page (/awesome) */
+<awesome-pitch “”"
+  <h2>Coggle Awesome</h2>
+  <p>Geef je denkproces een boost met Coggle Awesome. Voeg grote afbeeldingen toe, presenteer je Coggles en maak privé-Coggles die niet door zoekmachines worden geïndexeerd.</p>
+“”">
+
+<awesome-signup “”"
+  <a>MELD JE NU AAN</a>
+  <div>$5 (VS) / MAAND</div>
+“”">
+
+<awesome-feature-private-title “Onbeperkt aantal privé-diagrammen”>
+<awesome-feature-private “Maak zoveel privé-diagrammen als je wilt. Als je je abonnement ooit opzegt, blijven ze privé en behoud je de toegang.”>
+
+<awesome-feature-joinloop-title “Lussen maken en takken samenvoegen”>
+<awesome-feature-joinloop “Voeg takken samen en maak lussen om krachtigere en flexibelere diagrammen te maken die processtromen en andere geavanceerde zaken weergeven.”>
+
+<awesome-feature-multiroot-title “Meerdere startpunten”>
+<awesome-feature-multiroot “Voeg meerdere centrale elementen toe aan je diagrammen om gerelateerde onderwerpen in één werkruimte in kaart te brengen.”>
+
+<awesome-feature-linestyle-title “Lijnstijl aanpassen”>
+<awesome-feature-linestyle “Pas de dikte en stijl van de lijnen in je diagram aan.”>
+
+<awesome-feature-bigimages-title “Laat ze het grote geheel zien”>
+<awesome-feature-bigimages “Voeg grote afbeeldingen toe aan je Coggles om je ideeën te illustreren: sleep gewoon een afbeelding vanaf je bureaublad naar een document.”>
+
+<awesome-feature-colours-title “Meer kleuren”>
+<awesome-feature-colours “Ontgrendel een nieuwe reeks levendige kleuren om je ideeën te ordenen en te benadrukken.”>
+
+<awesome-feature-autoarrange-title “Automatische lay-out van takken”>
+<awesome-feature-autoarrange “Breng met één klik orde in de positie van je takken met behulp van de functies voor automatische takindeling van Coggle Awesome.”>
+
+<awesome-feature-folders-title “Gedeelde mappen”>
+<awesome-feature-folders “Plaats je diagrammen in mappen om ze overzichtelijk te houden en ze gemakkelijk te delen met een groep medewerkers.”>
+
+
+<awesome-hint-orgs “”"
+  Als je Coggle voor je werk gebruikt, bekijk dan <a>Coggle-organisaties</a>, die alle voordelen van Coggle Awesome bieden, plus bedrijfsvriendelijke beheerfuncties.
+“”">
+
+
+/* Organisations Landing Page (/organisations) */
+<orgs-pitch-3 “”"
+  <h2>Coggle Organisations</h2>
+  <p>Elke Coggle Organisation beschikt over functies die zijn ontworpen voor het beheer van grote groepen mensen, waarbij leden komen en gaan en gevoelige informatie moet worden beschermd.</p>
+“”">
+
+<orgs-signup “<a>ORGANISATION AANMAKEN</a>”>
+
+<orgs-subpitch “”"
+  <p>Wanneer informatie cruciaal is voor je team, heb je krachtigere tools nodig en meer controle over je gegevens. Daarom hebben we <a>Coggle Organisations</a> ontwikkeld.</p>
+  <p>De prijsstelling is eenvoudig: <b>$8 (VS) per lid per maand</b>.<br><b>Onbeperkt alles</b>.</p>
+“”">
+
+<orgs-feature-in-one-place-title “Alles op één plek”>
+<orgs-feature-in-one-place "Al je organisatiediagrammen op één plek. Bewaar het werk van je teams veilig op één overzichtelijke locatie – zodat je precies weet waar je moet zoeken.">
+
+<orgs-feature-control-sharing-title “Delen beheren”>
+<orgs-feature-control-sharing “Je kunt ervoor zorgen dat Coggles die binnen je organisatie zijn aangemaakt, binnen je organisatie blijven. Dit beschermt gevoelige informatie tegen onbedoelde openbaarmaking als er per ongeluk een verkeerd e-mailadres wordt uitgenodigd voor een document.”>
+
+<orgs-feature-manage-users-title “Gebruikers veilig beheren”>
+<orgs-feature-manage-users “Gebruikers veilig beherenVerwijder leden uit je organisatie zonder het werk dat ze hebben gedaan te verliezen. Gebruik het beheerdersdashboard om alle diagrammen te bekijken die in je organisatie zijn gemaakt door huidige en voormalige leden, zowel verwijderde als actieve”>
+
+<orgs-feature-export-title “Bulk-export”>
+<orgs-feature-export “Organisation admins kunnen met één klik alle Coggles van de organisatie downloaden in een machinaal leesbaar, archiveerbaar JSON-formaat. Ideaal voor naleving van regelgeving of gewoon voor je gemoedsrust.”>
+
+<orgs-feature-branding-title “Laat je merk zien”>
+<orgs-feature-branding “Maak professionele, strakke diagrammen met je logo en exporteer ze als PDF of PNG. Ideaal voor het delen van diagrammen met klanten of collega's binnen je bedrijf.”>
+
+<orgs-feature-editable-links-title “Bewerkbare privé-links”>
+<orgs-feature-editable-links “Maak een privé-link om te delen met medewerkers buiten uw organisatie, zodat zij een diagram kunnen bewerken zonder in te loggen.”>
+
+<orgs-feature-awesome “”"
+  Bovendien krijgen alle leden van uw organisatie toegang tot de Coggle <a>Awesome</a>-functies.
+“”">
+
+/* Organisations Sign-Up Page (/organisations/new) */
+<orgcreate-title2 “Maak een <a>Coggle Organisation</a> aan”>
+<orgcreate-nameinput “”"
+  <input placeholder="Kies een naam voor je organisatie">
+  <span>Kies iets kort en herkenbaars!</span>
+“”">
+
+<faq-orgs-whatare “”"
+<div>Wat zijn Coggle Organisations?</div>
+  <div><p>Coggle Organisations zorgen voor een scheiding tussen je persoonlijke
+  diagrammen en die van je bedrijf. Door het persoonlijke te scheiden van
+  het professionele krijg je meer controle over je bedrijfsgegevens die
+  in Coggle zijn opgeslagen, inclusief wanneer en hoe deze worden gedeeld door je
+  medewerkers.</p></div>
+“”">
+
+<faq-orgs-whofor “”"
+  <div>Voor wie zijn Coggle Organisations bedoeld?</div>
+  <div>
+    <p>Coggle Organisations zijn ontworpen voor teams die
+      meer controle nodig hebben over de gegevens die ze in Coggle invoeren, of die
+      persoonlijke gegevens gescheiden moeten houden. Ze worden met succes gebruikt door particuliere
+      bedrijven, overheidsinstanties, scholen en universiteiten om groepen te helpen
+      veilig samen te werken.</p>
+    <p>Elke groep die meer controle nodig heeft over het delen van diagrammen, of dit nu is om te voldoen aan
+      regelgeving of intern beleid, zal Coggle Organisations
+      nuttig vinden.</p>
+  </div>
+""">
+
+<faq-orgs-features """
+  <div>Wat zijn de belangrijkste functies van een Coggle Organisation?</div>
+  <div>
+    <p><b>Administrator dashboard</b>: volledige controle over diagrammen die zijn gemaakt
+      door leden van uw organisatie, inclusief het herstellen van verwijderde diagrammen.
+    </p>
+    <p><b>Gegevensbeheer</b>: u kunt ervoor kiezen om het delen van gegevens te beperken tot uitsluitend
+      binnen uw organisatie.</p>
+    <p><b>Bulk-export</b>: exporteer alle diagrammen in uw organisatie voor back-up-
+      of regelgevingsdoeleinden.</p>
+    <p><b>Gecentraliseerde facturering</b>: betaal voor meerdere Awesome-abonnementen op
+      één plek en zeg abonnementen op wanneer leden uw
+      organisatie verlaten of zich aansluiten.</p>
+  </div>
+“”">
+
+<faq-orgs-awesome """
+  <div>Hoe verhouden Coggle Organisations zich tot Coggle Awesome?</div>
+  <div>
+    <p>Coggle Organisations zijn een uitstekende manier om de facturering en het licentiebeheer
+      voor meerdere Coggle Awesome-abonnementen te centraliseren.</p>
+    <p>Elke gebruiker in uw organisatie krijgt automatisch toegang tot Coggle Awesome
+      wanneer hij of zij aan diagrammen werkt in de werkruimte van uw organisatie. Dit betekent
+      dat alle geweldige functies beschikbaar zijn, waaronder privédiagrammen, de presentatiemodus,
+      een uitgebreid kleurenpalet en het uploaden van afbeeldingen in hoge resolutie.</p>
+  </div>
+“”">
+
+<faq-orgs-billing “”"
+  <div>Hoe werkt de facturering voor Coggle Organisations?</div>
+  <div>Voor Coggle Organisations geldt een tarief van $ 8 (VS) per lid per maand. U kunt
+  op elk moment leden toevoegen
+  en verwijderen via het dashboard van uw organisatie.</div>
+“”">
+
+<faq-orgs-edu “”"
+  <div>Zijn er speciale tarieven voor onderwijsinstellingen?</div>
+  <div>Ja! Neem contact met ons op via education@coggle.it voor meer informatie.</div>
+“”">
+
+<faq-orgs-more “”"
+  <div>Ik heb nog wat vragen...</div>
+  <div>Stel ze ons! Stuur een e-mail naar orgs@coggle.it en we helpen je graag verder :)</div>
+“”">
+
+/* About Coggle (/about) */
+<about-hello2 """
+  <h1>Hallo!</h1>
+  <p><b>Coggle biedt je een overzichtelijke manier om complexe informatie te delen en te begrijpen.
+  Het is een samenwerkingsdocument dat complexe zaken vereenvoudigt en
+  een gedeelde werkruimte waarmee je team effectiever kan samenwerken.</b></p>
+  <p>Het is gratis, en we beloven dat het dat altijd zal blijven, maar we beloven ook dat we
+  zo goed mogelijk voor je gegevens zullen zorgen, back-ups zullen maken en beveiliging
+  serieus zullen nemen.</p>
+  <p>Onze missie is om de manier waarop mensen werken en samenwerken voorgoed te veranderen,
+  zodat je productiever wordt, het makkelijker wordt om informatie met
+  anderen te delen, en dit op een manier die mooi is en prettig in het gebruik.</p>
+“”">
+
+<about-getintouch “”"
+  <h1>Neem contact op</h1>
+  <p>Heb je een vraag? Wil je ons vertellen hoe je Coggle gebruikt? Of wil je misschien gewoon
+  wat feedback geven? Je kunt ons vinden op <a>Facebook </a>en op <a>Twitter
+  </a>en als je dat liever hebt, kun je altijd een e-mail sturen naar <a>hello@coggle.it
+  </a>— we vinden het leuk om met je te praten!</p>
+“”">
+
+<about-spreadtheword “”"
+  <h1>Vertel het verder</h1>
+  <p>Als je Coggle geweldig vindt, help ons dan om nog meer mensen te bevrijden van de
+  beperkingen van lijstjes, spreadsheets en conventionele documenten! Je kunt
+  Coggle <a>delen op Twitter </a>of <a>op Facebook</a>.</p>
+“”">
+
+<about-press “”"
+  <h1>In de pers?</h1>
+  <p>Bekijk dan onze <a>persmap</a>, of <a>neem contact op</a> voor meer informatie!</p>
+“”">
+
+/* Coggle Facts */
+<fact-math “”"
+Wist je dat je wiskundige formules kunt schrijven in Coggles? (Ja, best nerdy!) Gebruik \\\\( LaTeX hier \\\\) om het eens uit te proberen!
+“”">
+<fact-collaborate “”"
+Wist je dat je in realtime met anderen kunt samenwerken? Dat kan! Gebruik de (+)-knop rechtsboven.
+“”">
+<fact-share “”"
+Wist je dat je tegelijkertijd met iemand anders een Coggle kunt bewerken? Dat kan! Gebruik de (+)-knop rechtsboven om anderen uit te nodigen.
+“”">
+<fact-font “”"
+Wist je dat je in Coggles een codefont met vaste breedte kunt gebruiken? Dat kan!<p>Gebruik gewoon `backticks` rond de tekst; dit voorkomt ook dat andere speciale syntaxis wordt geïnterpreteerd.
+“”">
+<fact-bold “”"
+Wist je dat je **vetgedrukte tekst** kunt gebruiken in Coggles?<p>Gebruik gewoon **dubbele sterretjes** op de plekken die je wilt benadrukken!
+“”">
+<fact-italic “”"
+Wist je dat je *cursieve tekst* kunt gebruiken in Coggles?<p>Gebruik gewoon *sterretjes* op de plek waar je de nadruk wilt leggen!
+“”">
+<fact-links “”"
+Wist je dat je links kunt plaatsen in Coggles? Dat kan!<p>Ze werken als volgt:<br>[beschrijving](http://example.com)
+“”">
+<fact-download “”"
+Wist je dat je je Coggle kunt downloaden als PDF of afbeelding? Dat kan inderdaad! Zoek de downloadknop rechtsboven in het scherm.
+“”">
+<fact-markdown “”"
+Wist je dat Coggle gebruikmaakt van <a>Markdown-syntaxis</a>? Dat klopt!<p>Probeer eens links zoals deze: &lt;http://example.com&gt;
+“”">
+<fact-latex “”"
+Wist je dat Coggle LaTeX-formules ondersteunt? Dat klopt!<p>Gebruik \\\\( LaTeX hier \\\\) om het uit te proberen! Bekijk <a>deze link</a> voor hulp bij de syntaxis.
+“”">
+<fact-move “”"
+Wil je dat item op een andere plek in Coggle zetten? Geen probleem! Houd Shift ingedrukt terwijl je de (+)-knop van een item versleept om het ergens anders vast te zetten.
+“”">
+<fact-fontsize “”"
+Is de tekst te groot? Te klein? Je kunt in- en uitzoomen!<br> Gebruik [ctrl] [+] / [ctrl] [-]
+“”">
+<fact-zoomin “”"
+Wist je dat je kunt inzoomen om iets van dichterbij te bekijken? Dat kan!<br> gebruik [ctrl] [+], of klik met de rechtermuisknop en sleep het zoomicoontje!
+“”">
+<fact-zoomout “”"
+Wist je dat je kunt uitzoomen om het totaalbeeld te zien? Dat kan!<br> gebruik [ctrl] [-], of klik met de rechtermuisknop en sleep het zoomicoontje!
+“”">
+<fact-markdown2 “”"
+Wist je dat <a>Markdown</a> geweldig is? Dat is het zeker, en Coggle ondersteunt het!
+“”">
+<fact-pdf “”"
+Je kunt je Coggle als PDF downloaden! Zoek de downloadknop rechtsboven in het scherm.
+“”">
+<fact-png “”"
+Je kunt je Coggle als afbeelding downloaden! Zoek de downloadknop rechtsboven in het scherm.
+“”">
+<fact-latex2 “”"
+Wist je dat Coggle LaTeX ondersteunt voor wiskundige formules? Dat klopt!<p>Gebruik \\\\( \\LaTeX hier \\\\) om het uit te proberen! Hier vind je <a>een syntaxisgids</a>.
+“”">
+<fact-history “”"
+Wist je dat je in je Coggle kunt zien wie wat wanneer heeft gewijzigd?  Dat kan! Klik op het klokpictogram rechtsboven.
+“”">
+<fact-images “”"
+Wist je dat je afbeeldingen in je Coggle kunt plaatsen? Dat kan!<p>Sleep gewoon een afbeelding vanaf je computer naar de plek waar je 'm wilt hebben.
+“”">
+<fact-images2 “”"
+Wist je dat je afbeeldingen kunt gebruiken in Coggles? Dat kan!<p>Sleep een afbeelding vanaf je computer naar de plek waar je 'm wilt hebben. Er wordt een mini-versie van de afbeelding geüpload en opgeslagen!
+“”">
+<fact-plaintext-in “”"
+Wist je dat je platte tekstbestanden naar Coggle kunt slepen en neerzetten om ze te importeren? Dat kan!<p>Als je bestand inspringingen bevat, voegt Coggle zelfs structuur toe aan de geïmporteerde tekst.
+“”">
+<fact-freemind-in “”"
+Wist je dat je Freemind .mm-bestanden naar Coggle kunt slepen en neerzetten om ze te importeren? Dat kan!
+“”">
+<fact-link-drag “”"
+Wist je dat je een URL vanuit je adresbalk naar een Coggle kunt slepen om een link naar die site te maken? Dat kan!
+“”">
+<fact-text-size “”"
+Wist je dat je het lettertype kunt aanpassen? Dat kan!<p>Gebruik #, ## of ### aan het begin van een regel om de tekst groter te maken.
+“”">
+<fact-text-size2 “”"
+Wist je dat je het lettertype kunt aanpassen? Dat kan!<p>Sleep de hoek van het tekstbewerkingsgebied omhoog of omlaag om de tekstgrootte aan te passen.
+“”">
+<fact-text-size3 “”"
+Wist je dat je de tekstgrootte kunt aanpassen? Dat kan!<p>Sleep de hoek van het tekstbewerkingsgebied.
+“”">
+<fact-md-reference “”"
+Wist je dat je Markdown in Coggles kunt gebruiken om links, afbeeldingen en meer toe te voegen? Dat kan!<p>Hier vind je de <a>volledige handleiding</a>.
+“”">
+<fact-multiline-keys “”"
+Wist je dat je tekst over meerdere regels kunt verdelen? Dat kan! Houd [ctrl] ingedrukt terwijl je op [return] drukt om een nieuwe regel in te voegen. Je kunt ook de hoek van het bewerkingsveld verslepen en vervolgens gewoon op [return] drukken.
+“”">
+<fact-multiline-drag “”"
+Wist je dat je tekst over meerdere regels kunt verdelen? Dat kan! Sleep de hoek van het bewerkingsveld; als je vervolgens op [return] drukt, wordt er een nieuwe regel ingevoegd in plaats van dat je wijzigingen worden opgeslagen. Je kunt ook [ctrl] ingedrukt houden terwijl je op [return] drukt om tijdens het typen een nieuwe regel in te voegen.
+“”">
+<fact-multiline-wrap “”"
+Wist je dat je tekst over meerdere regels kunt verdelen? Dat kan! Sleep de hoek van het tekstbewerkingsgebied naar links of rechts om de tekst over meerdere regels te verdelen.
+“”">
+<fact-resize-images “”"
+Wist je dat je de grootte van afbeeldingen kunt aanpassen? Dat kan! Sleep een afbeelding vanaf een willekeurige plek op internet naar je Coggle (mits je toestemming hebt om deze te gebruiken) en sleep vervolgens de rechteronderhoek van de afbeelding om de grootte aan te passen.
+“”">
+<fact-image-size “”"
+Wist je dat we een Markdown-extensie ondersteunen om de afmetingen van afbeeldingen te specificeren? Dat doen we! Geef een afbeelding van 200 bij 100 pixels als volgt op: ![afbeeldingsbeschrijving](http://url.to.image “optionele titel” 200x100)
+“”">
+<fact-bold-kbshort “”"
+Wist je dat je sneltoetsen kunt gebruiken om **vetgedrukte tekst** toe te voegen in Coggles? Dat kan! Druk gewoon op [ctrl]+[b] (of [cmd]+[b] op Macs) terwijl de tekst die je vetgedrukt wilt hebben is geselecteerd.
+“”">
+<fact-shortcuts-1 “”"
+Wist je dat je je Coggle uitsluitend met het toetsenbord kunt bewerken? Dat kan, en zo doe je het:<p>[tab] om een onderliggend knooppunt toe te voegen<br> [shift]+[tab] om naar het bovenliggende knooppunt te gaan<br>[shift]+[return] om een gelijkwaardig knooppunt toe te voegen
+“”">
+<fact-shortcuts-2 “”"
+Wist je dat je met sneltoetsen kunt selecteren welke tak je wilt bewerken? Dat kan!<p>Gebruik [alt]+[shift]+pijltjestoetsen om langs de takken te navigeren.
+“”">
+<fact-task-lists “”"
+Wist je dat je <a>Markdown</a> kunt gebruiken om checklists aan Coggles toe te voegen? Dat kan inderdaad, hier is een voorbeeld:<p>- [ ] niet-aangevinkt selectievakje<br>- [X] aangevinkt selectievakje</p><p>Als je op een selectievakje klikt, wordt de Markdown automatisch aangepast.
+“”">
+<fact-api-1 “”"
+Wist je dat we een API hebben? Dat klopt! Programma’s kunnen deze gebruiken om Coggles automatisch aan te maken, te bekijken en te bewerken.
+“”">
+<fact-organisation “”"
+Gebruik je Coggle zakelijk? Je kunt een Coggle Organisation aanmaken om de Coggles van je bedrijf te beheren.
+“”">
+<fact-organisation2 “”"
+Wist je dat Coggle Organisation hun logo op hun Coggles kunnen plaatsen? Dat kan!
+“”">
+<fact-organisation3 “”"
+Wist je dat je een Coggle Organisation kunt aanmaken om de Coggles van je bedrijf te organiseren? Dat kan!
+“”">
