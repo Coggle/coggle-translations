@@ -1,0 +1,74 @@
+
+/* shared email content */
+<emWhatIsCoggle “Coggle is een tool voor het gezamenlijk maken van mindmaps waarmee je complexe zaken beter kunt begrijpen. Het is eenvoudig en gratis te gebruiken.”>
+<emWelcomeHappyCoggling "Dat was het voor nu. Veel plezier met Coggle!">
+<emAfmelden “Te veel e-mails? Onze excuses daarvoor, <a>meld je nu af</a>.”>
+<emRedenVerzenden “”"
+Je hebt dit bericht ontvangen omdat je je hebt aangemeld op <a>https://coggle.it</a><br> Je kunt je communicatievoorkeuren <a>hier</a> beheren.
+“”">
+<emBecauseInvited “Je hebt dit bericht ontvangen omdat je door een bestaande gebruiker bent uitgenodigd voor Coggle.”>
+<emSignoffCoggleTeam “<b>Het Coggle-team</b>”>
+
+
+/* welcome email content */
+<emWelcomeSubject “{{ $name }}, welkom bij Coggle!”>
+<emWelcomeCoggleFamily “Welkom bij de Coggle-familie, {{ $name }} — Wat fijn dat je erbij bent!”>
+<emWelcomeCoggleDesign “”"
+We hebben Coggle ontworpen met <b>eenvoud</b> en <b>samenwerking</b> als uitgangspunt. Deel je ideeën en kennis met collega's, klasgenoten of vrienden om het meeste uit Coggle te halen.
+“”">
+<emWelcomeCreateDiagram “MAAK NU EEN DIAGRAM”>
+
+
+/* welcome followup email content */
+<emFollowupSubject “{{ $name }}, wat vind je van Coggle?”>
+<emFollowupFindingCoggle “{{ $name }}, wat vind je van Coggle?”>
+<emFollowupTryInvite “”"
+Heb je al eens geprobeerd een vriend of collega uit te nodigen voor je document?  Gebruik de <b>Delen knop</b> rechtsboven in elk diagram om hen uit te nodigen. Je ziet hun wijzigingen direct terwijl ze bewerken!
+“”">
+<emFollowupInviteNow “NODIG NU IEMAND UIT”>
+
+
+/* welcome second followup email content */
+<emFollowup2Subject “Je laatste update!”>
+<emFollowup2FirstWeek “Hoe is je eerste week met Coggle verlopen, {{ $name }}?”>
+<emFollowup2ChangeFontSize “”"
+<b>Wist je dat je de lettergrootte kunt aanpassen?</b> Trek de aandacht naar belangrijke onderdelen in je documenten door ze groter weer te geven. Sleep de hoek van het tekstbewerkingsgebied om de tekstgrootte aan te passen:
+“”">
+<emFollowup2MoreFeatures “Wil je meer functies?”>
+<emFollowup2AwesomePitch “”"
+Bekijk ons <a>Awesome</a>-abonnement om je Coggle uit te breiden met nog meer handige functies!
+“”">
+<emFollowup2GoAwesome “KIES AWESOME”>
+
+
+/* diagram invites email content */
+<emInviteDiagramSubject “{{ $from.full_name }} heeft je toegevoegd aan een Coggle-diagram”>
+<emInviteDiagramDescription “{{ $from.name }} heeft je toegevoegd aan een Coggle-diagram: {{ $title }}”>
+<emInviteDiagramView “BEKIJKEN”>
+
+/* folder invites email content */
+<emInviteFolderSubject “{{ $from.full_name }} heeft je toegevoegd aan een Coggle-map”>
+<emInviteFolderDescription “{{ $from.name }} heeft je toegevoegd aan een Coggle-map: {{ $title }}”>
+<emInviteFolderView “DEELNEMEN”>
+
+/* organisation invites email content */
+<emInviteOrganisationSubject “{{ $from.full_name }} heeft je toegevoegd aan de {{ $title }} Coggle Organisation”>
+<emInviteOrganisationDescription “”"
+  {{ $from.name }} heeft je toegevoegd aan de <b>{{ $title }}</b> Coggle Organisation. Klik op “AANSLUITEN” om deze uitnodiging te accepteren, of lees onze <a>korte handleiding</a> om aan de slag te gaan.
+“”">
+<emInviteOrganisationView "KOM ERBIJ">
+
+
+/* summary email content */
+<emSummaryDescription “{{ $title }} is bijgewerkt”>
+<emSummaryItemsAdded “TOEGEVOEGDE ITEMS”>
+<emSummaryItemsRemoved “VERWIJDERDE ITEMS”>
+<emSummaryItemsChanged “GEWIJZIGDE ITEMS”>
+<emSummaryNewComments “En er zijn nieuwe reacties.”>
+<emSummaryView “WIJZIGINGEN BEKIJKEN”>
+
+
+/* tag email content */
+<emTagSubject “{{ $from.name }} heeft je getagd in {{ $title }}”>
+<emTagDescription “<b>{{ $from.name }}</b> heeft je getagd in {{ $title }}”>
+<emTagView “LEES”>
