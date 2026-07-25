@@ -647,7 +647,7 @@ nodiagram-not-logged-in = <b>Je bent momenteel niet ingelogd.</b>  Als dit diagr
 nodiagram-may-need-access = Als iemand je een link naar dit diagram heeft gegeven, moet hij of zij je mogelijk ook toestemming geven om het te bekijken.
 
 
-# Geweldige startpagina (/awesome) 
+# Awesome startpagina (/awesome) 
 awesome-pitch-title = Coggle Awesome
 awesome-pitch = Geef je denkproces een boost met Coggle Awesome. Voeg grote afbeeldingen toe, presenteer je Coggles en maak privé-Coggles die niet door zoekmachines worden geïndexeerd.
 awesome-signup = MELD JE NU AAN
@@ -751,8 +751,8 @@ login-pw-more-q = Ik heb nog steeds een vraag over inloggen
 login-pw-more-a = Vraag het ons! Ons e-mailadres is <a data-l10n-name=“email”>hello@coggle.it</a>.
 
 # Startpagina Organisaties (/organizations) 
-orgs-pitch-title = Coggle-organisaties
-orgs-pitch = Elke Coggle-organisatie beschikt over functies die zijn ontworpen voor het beheren van grote groepen mensen, waar leden komen en gaan en waar gevoelige informatie moet worden beschermd.
+orgs-pitch-title = Coggle Organisation
+orgs-pitch = Elke Coggle Organisation beschikt over functies die zijn ontworpen voor het beheren van grote groepen mensen, waar leden komen en gaan en waar gevoelige informatie moet worden beschermd.
 
 orgs-signup = ORGANISATIE AANMAKEN
 
@@ -797,7 +797,7 @@ faq-orgs-whatare-a =
 
 faq-orgs-whofor-q = Voor wie is Coggle Organisation bedoeld?
 faq-orgs-whofor-a =
-    <p data-l10n-name=‘p1’>Coggle Organisation zijn ontworpen voor teams die
+    <p data-l10n-name=‘p1’>Coggle Organisation is ontworpen voor teams die
       meer controle nodig hebben over de gegevens die ze in Coggle invoeren, of die
       persoonlijke gegevens gescheiden moeten houden. Ze worden met succes gebruikt door particuliere
       bedrijven, overheidsinstanties, scholen en universiteiten om groepen te helpen
@@ -828,7 +828,7 @@ faq-orgs-awesome-a =
       alle geweldige functies, waaronder privédiagrammen, presentatiemodus,
       uitgebreid kleurenpalet en het uploaden van afbeeldingen met hoge resolutie.</p>
 
-faq-orgs-billing-q = Hoe werkt de facturering voor Coggle-organisaties?
+faq-orgs-billing-q = Hoe werkt de facturering voor Coggle Organisation?
 faq-orgs-billing-a = Coggle Organisation betalen ${$pricePerMemberPerMonth} per lid per maand. U kunt
   op elk moment leden toevoegen
   en verwijderen via het dashboard van uw organisatie.
