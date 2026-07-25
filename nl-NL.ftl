@@ -21,15 +21,15 @@ index-nav-gallery = Galerij
 index-nav-home = Home
 
 index-unleash = Gebruik je creativiteit
-index-blurb = Maak snel en eenvoudig mooie notities. Deel ze met vrienden en collega’s om samen aan je ideeën te werken.
-index-viewgallery = Of neem eens een kijkje bij de <a data-l10n-name=‘gallery’>Coggle Gallery</a> om inspiratie op te doen.
+index-blurb = Maak snel en eenvoudig mooie notities. Deel ze met vrienden en collega's om samen aan je ideeën te werken.
+index-viewgallery = Of neem eens een kijkje bij de <a data-l10n-name='gallery'>Coggle Gallery</a> om inspiratie op te doen.
 
 index-colab-mindmaps-flowcharts-h = Mindmaps en stroomdiagrammen om samen aan te werken
-index-colab-mindmaps-flowcharts-p1 = Met Coggle kun je eenvoudig mindmaps en stroomdiagrammen maken en delen. Het werkt online in je browser: je hoeft niets te downloaden of te installeren. <a data-l10n-name=‘login’>Log in</a> om het voor altijd gratis te gebruiken!
-index-colab-mindmaps-flowcharts-p2 = Of je nu aantekeningen maakt, brainstormt, plannen maakt of iets ontzettend creatiefs doet: met Coggle kun je je ideeën heel eenvoudig in beeld brengen. Deel ze met zoveel vrienden of collega’s als je wilt. Wijzigingen die je aanbrengt, worden direct in hun browser weergegeven, waar ter wereld ze zich ook bevinden.
+index-colab-mindmaps-flowcharts-p1 = Met Coggle kun je eenvoudig mindmaps en stroomdiagrammen maken en delen. Het werkt online in je browser: je hoeft niets te downloaden of te installeren. <a data-l10n-name='login'>Log in</a> om het voor altijd gratis te gebruiken!
+index-colab-mindmaps-flowcharts-p2 = Of je nu aantekeningen maakt, brainstormt, plannen maakt of iets ontzettend creatiefs doet: met Coggle kun je je ideeën heel eenvoudig in beeld brengen. Deel ze met zoveel vrienden of collega's als je wilt. Wijzigingen die je aanbrengt, worden direct in hun browser weergegeven, waar ter wereld ze zich ook bevinden.
 
 index-trusted-h = Meer dan 10.000.000 mensen en bedrijven zoals u vertrouwen op ons.
-index-trusted-p1 = Met Coggle kun je eenvoudig mindmaps en stroomdiagrammen maken en delen. Het werkt in je browser: je hoeft niets te downloaden of te installeren, en alles wat je nodig hebt om geweldige mindmaps te maken is <a data-l10n-name=‘free’>gratis, voor altijd!</a>
+index-trusted-p1 = Met Coggle kun je eenvoudig mindmaps en stroomdiagrammen maken en delen. Het werkt in je browser: je hoeft niets te downloaden of te installeren, en alles wat je nodig hebt om geweldige mindmaps te maken is <a data-l10n-name='free'>gratis, voor altijd!</a>
 
 index-use-notes-h = Maak aantekeningen
 index-use-notes-p = Open Coggle tijdens een vergadering, terwijl je aan het studeren bent of wanneer je maar inspiratie krijgt om mooie, overzichtelijke aantekeningen te maken.
@@ -41,12 +41,12 @@ index-use-share-h = Deel informatie
 index-use-share-p = Breng je onderwerp samen in een Coggle, neem alle details op en deel het met je team, je klasgenoten of de hele wereld!
 
 index-coggle-flow-title = Krachtige online stroomdiagrammen
-index-coggle-flow-description = Gebruik Coggle om je processen, systemen en algoritmen in kaart te brengen met behulp van onze krachtige nieuwe <a data-l10n-name=‘flowcharts’>stroomdiagramfuncties</a>.
+index-coggle-flow-description = Gebruik Coggle om je processen, systemen en algoritmen in kaart te brengen met behulp van onze krachtige nieuwe <a data-l10n-name='flowcharts'>stroomdiagramfuncties</a>.
 
 features-realtime = Realtime samenwerking
-features-realtime-desc = Nodig je vrienden en collega’s uit om samen met jou tegelijkertijd aan je diagrammen te werken.
+features-realtime-desc = Nodig je vrienden en collega's uit om samen met jou tegelijkertijd aan je diagrammen te werken.
 
-features-unlimited-images-title = Onbeperkt foto’s uploaden
+features-unlimited-images-title = Onbeperkt foto's uploaden
 features-images = Sleep afbeeldingen rechtstreeks vanaf je bureaublad naar je diagrammen. Je kunt zoveel afbeeldingen toevoegen als je wilt.
 
 features-fullhistory-title = Sla elke wijziging op
@@ -65,7 +65,7 @@ features-notifications-title = E-mailmeldingen
 features-notifications = Ontvang een e-mailmelding met een overzicht van de wijzigingen wanneer medewerkenden diagrammen bewerken die met jou zijn gedeeld.
 
 features-chat-title = Reacties en chat
-features-chat = Voeg opmerkingen toe aan knooppunten en chat met je collega’s zonder je diagramwerkruimte te verlaten.
+features-chat = Voeg opmerkingen toe aan knooppunten en chat met je collega's zonder je diagramwerkruimte te verlaten.
 
 
 # Vertalingen voor de pakketkeuze (https://coggle.it/plans, wanneer je bent ingelogd, en
@@ -75,7 +75,7 @@ plans-free-description = Ideaal om Coggle te ontdekken en voor sporadisch gebrui
 plans-free-price = Altijd gratis
 
 feature-realtime = <b>Realtime</b> samenwerking
-feature-emoji = Meer dan <b>1600</b> <a data-l10n-name=“icons-link”>prachtige pictogrammen</a>
+feature-emoji = Meer dan <b>1600</b> <a data-l10n-name="icons-link">prachtige pictogrammen</a>
 feature-diagrams = <b>Onbeperkt</b> openbare diagrammen
 feature-nprivate =
     { $privateDiagrams_available -> 
@@ -162,9 +162,9 @@ footer-legal = Juridisch
 footer-access = Toegankelijkheid
 
 # inhoud van de ingelogde startpagina (documentenlijst): https://coggle.it wanneer ingelogd
-create-diagram-2-allowed = <span data-l10n-name=‘icon’></span> <span data-l10n-name=‘label’>Diagram maken</span>
+create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Diagram maken</span>
     .title = Maak een Coggle-diagram
-create-diagram-2-nothere = <span data-l10n-name=‘icon’></span> <span data-l10n-name=‘label’>Diagram maken</span>
+create-diagram-2-nothere = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Diagram maken</span>
     .title = U kunt hier geen nieuwe diagrammen maken, selecteer eerst een andere map.
 search-diagrams =
     .placeholder = Zoek in uw diagrammen
@@ -188,8 +188,8 @@ logout = Uitloggen
 settings = Instellingen
 return-to-diagrams = Terug naar je diagrammen
 upgrade-to-awesome = Upgrade naar <b>Awesome!</b>
-# het element <time></time> wordt vervangen door een vertaalde tekenreeks zoals “over 15 dagen”, “over 1 maand” enz.:
-awesome-time-remaining = Awesome-proefperiode verloopt over <time data-l10n-name=“remaining”></time>
+# het element <time></time> wordt vervangen door een vertaalde tekenreeks zoals "over 15 dagen", "over 1 maand" enz.:
+awesome-time-remaining = Awesome-proefperiode verloopt over <time data-l10n-name="remaining"></time>
 awesome-trial-after = Daarna wordt u overgezet naar het gratis abonnement
 want-awesome-for-free = Wilt u Awesome gratis?
 help-search =
@@ -204,8 +204,8 @@ user-contact = Neem contact met ons op
 user-privacy = Privacybeleid
 user-terms = Algemene voorwaarden
 user-link-drive = Koppel Google Drive
-diagrams-limited = <span data-l10n-name=“count”> { $privateDiagrams_used } van { $privateDiagrams_available }</span> privé-diagrammen gebruikt
-diagrams-unlimited = <span data-l10n-name=“count”>Onbeperkt</span> privé-diagrammen
+diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_used } van { $privateDiagrams_available }</span> privé-diagrammen gebruikt
+diagrams-unlimited = <span data-l10n-name="count">Onbeperkt</span> privé-diagrammen
 
 limitedaccess = Je hebt beperkte toegang tot { $resourceName } omdat je geen lid bent
 doclist-create = <b>Welkom bij Coggle!</b> – Diagrammen die je maakt, worden hier weergegeven.
@@ -214,10 +214,10 @@ doclist-shared = <b>Met u gedeeld</b> – diagrammen die door anderen zijn gemaa
 doclist-folder-empty = <b>Dit is een lege map!</b> – Maak hier een nieuw diagram, of sleep diagrammen naar mappen.
 doclist-folder-recent = <b>Onlangs bijgewerkte diagrammen</b> – Diagrammen uit al je mappen die in de afgelopen maand zijn gewijzigd, verschijnen hier.
 doclist-readonly = <b>Welkom bij Coggle!</b> – Vraag de eigenaar om je toegang te verlenen om hier een diagram te maken.
-impersonatedaccess = Je bekijkt Coggle als lid van een organisatie. <a data-l10n-name=‘back’>Terug naar het beheerderspaneel</a>
+impersonatedaccess = Je bekijkt Coggle als lid van een organisatie. <a data-l10n-name='back'>Terug naar het beheerderspaneel</a>
 
 doclist-loading-failed = Oeps! Het laden van de map is mislukt. Vernieuw de pagina om het opnieuw te proberen.
-doclist-discover-whatspossible = Wilt u meer uit Coggle halen? Ontdek <a data-l10n-name=‘link’>wat er mogelijk is</a>.
+doclist-discover-whatspossible = Wilt u meer uit Coggle halen? Ontdek <a data-l10n-name='link'>wat er mogelijk is</a>.
 
 sort-custom = Aangepaste volgorde
 sort-a-z = A-Z
@@ -278,20 +278,20 @@ settings-exports-title = Exporten
 settings-authentication-title = Authenticatie
 
 billing-card = De kaart die bij ons voor u geregistreerd staat, eindigt op <b>{ $cardEndsIn }</b> en verloopt op <b>{ $cardExpires }</b>.
-billing-addr = De postcode die bij ons voor uw factuuradres geregistreerd staat, is <b>{ $addressZip }</b>. <a data-l10n-name=“edit”>Kaartgegevens bewerken</a>
+billing-addr = De postcode die bij ons voor uw factuuradres geregistreerd staat, is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Kaartgegevens bewerken</a>
 
 billing-remove = Verwijderen
-billing-nocard = Er zijn geen betaalmethoden opgeslagen in uw account. <a data-l10n-name=‘setup-card’>Kaartgegevens instellen</a>
+billing-nocard = Er zijn geen betaalmethoden opgeslagen in uw account. <a data-l10n-name='setup-card'>Kaartgegevens instellen</a>
 
-summary-free-plan = U heeft nog geen abonnement. <a data-l10n-name=“subscribe”>Upgrade nu!</a>
-summary-active-plan = Je hebt het <code>{ $planName }</code>-abonnement. <a data-l10n-name=“cancel”>Abonnement opzeggen</a> of <a data-l10n-name=“compare”>abonnementen vergelijken</a>.
-summary-uy-1 = Ontvang twee maanden gratis (<b>bespaar 15%</b>) door jaarlijks te betalen. <a data-l10n-name=“upgrade”>Upgrade (<b>$50</b>)</a>
+summary-free-plan = U heeft nog geen abonnement. <a data-l10n-name="subscribe">Upgrade nu!</a>
+summary-active-plan = Je hebt het <code>{ $planName }</code>-abonnement. <a data-l10n-name="cancel">Abonnement opzeggen</a> of <a data-l10n-name="compare">abonnementen vergelijken</a>.
+summary-uy-1 = Ontvang twee maanden gratis (<b>bespaar 15%</b>) door jaarlijks te betalen. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
 summary-uy-2 = De resterende tijd van uw huidige abonnement wordt automatisch in mindering gebracht op de kosten van de upgrade.
 summary-uy-c1 = Upgrade bevestigen? We brengen tussen $45 en $50 in rekening op de kaart die bij ons bekend is, afhankelijk van de resterende tijd van uw maandabonnement. De nieuwe verlengingsdatum van uw abonnement is over een jaar.
 summary-confirm = Upgrade bevestigen
-summary-ending-2 = U hebt uw <code>{$planName}</code>-abonnement</b> opgezegd en er worden geen kosten meer in rekening gebracht. U kunt de betaalde functies blijven gebruiken tot het einde van de periode waarvoor u al hebt betaald.<br> <a data-l10n-name=‘resub’>Opnieuw abonneren</a>
+summary-ending-2 = U hebt uw <code>{$planName}</code>-abonnement</b> opgezegd en er worden geen kosten meer in rekening gebracht. U kunt de betaalde functies blijven gebruiken tot het einde van de periode waarvoor u al hebt betaald.<br> <a data-l10n-name='resub'>Opnieuw abonneren</a>
 summary-overdue-plan = Uw abonnement is inactief vanwege een achterstallige betaling. U kunt dit oplossen door uw kaartgegevens bij te werken of contact met ons op te nemen via <b>hello@coggle.it</b>.
-complete-payment = U kunt <a data-l10n-name=‘invoice-link’>de openstaande betaling bekijken en voltooien</a>, of <a data-l10n-name=‘cancel’>het abonnement opzeggen</a>.
+complete-payment = U kunt <a data-l10n-name='invoice-link'>de openstaande betaling bekijken en voltooien</a>, of <a data-l10n-name='cancel'>het abonnement opzeggen</a>.
 
 me-communication-title = Communicatie
 me-emails-title = E-mailadressen
@@ -304,8 +304,8 @@ slider-yes = JA
 slider-no = NEE
 
 me-language-title = Kies je voorkeurstaal
-me-language-tip = Help ons Coggle in je moedertaal aan te bieden, of voeg iets toe dat ontbreekt door bij te dragen aan ons <a data-l10n-name=‘translate-link’>vertaalproject</a> op Github!
-me-language-questions = Als je vragen hebt over vertalingen – of als je correcties of verbeteringen hebt en niet zeker weet hoe je kunt helpen, stuur ons dan gewoon een e-mail op <a data-l10n-name=‘translate-email’>translate@coggle.it</a>.
+me-language-tip = Help ons Coggle in je moedertaal aan te bieden, of voeg iets toe dat ontbreekt door bij te dragen aan ons <a data-l10n-name='translate-link'>vertaalproject</a> op Github!
+me-language-questions = Als je vragen hebt over vertalingen – of als je correcties of verbeteringen hebt en niet zeker weet hoe je kunt helpen, stuur ons dan gewoon een e-mail op <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
 profile-title = Uw profiel in Coggle
 
@@ -316,7 +316,7 @@ invite-n-more =
     }
 
 recommend-coggle = Coggle aanbevelen
-recommend-share-link = Nodig medewerkers uit voor je diagrammen of deel je verwijzingslink via <a data-l10n-name=‘email’>e-mail</a>.
+recommend-share-link = Nodig medewerkers uit voor je diagrammen of deel je verwijzingslink via <a data-l10n-name='email'>e-mail</a>.
 
 claim-free-month = Claim je gratis maand Coggle Awesome!
 claim-redeem = Nu inwisselen
@@ -379,7 +379,7 @@ help-title-title = De diagramtitel
 help-title-p1 = Dit is het midden van je diagram en de titel ervan. Je ideeën zullen zich vanaf hier vertakken!
 help-title-p2 = Begin met het bewerken ervan - waar gaat uw diagram over?
 help-gohome-2 = Als u klaar bent met bewerken, klikt u op het logo om terug te gaan naar de startpagina. Uw documenten worden automatisch opgeslagen.
-help-add-node = Gebruik de knoppen <div data-l10n-name=‘plus’>+</div> om takken toe te voegen.
+help-add-node = Gebruik de knoppen <div data-l10n-name='plus'>+</div> om takken toe te voegen.
 help-edit-node-p1 = Klik op een willekeurig item om de tekst te bewerken.
 help-edit-node-p2 = Wijzig de tekstgrootte door de hoek van het bewerkingsgebied te verslepen.
 help-move-node = Versleep tekst om deze te verplaatsen.
@@ -403,18 +403,18 @@ help-toolbar-sharing = Je kunt je diagram ook publiceren, of geheime deelbare li
 help-inactive-invite = Werk samen met vrienden om je ideeën tot leven te brengen!<br>Nodig hier via e-mail uit.
 
 me-as-awesome-orgmember-p1 = Dit ben jij — je bekijkt Coggle als een <b>organisatielid</b>.
-me-as-awesome-orgmember-p2 = Dit betekent dat je ook alle geweldige functies van het <a data-l10n-name=“awesome”>Coggle Awesome</a>-abonnement krijgt!
+me-as-awesome-orgmember-p2 = Dit betekent dat je ook alle geweldige functies van het <a data-l10n-name="awesome">Coggle Awesome</a>-abonnement krijgt!
 
 free-awesome = Wil je Awesome gratis?
 upgrade-now = Nu upgraden
 
 me-support-awesomethanks-p1 = <b>Bedankt voor je steun aan Coggle!</b>
-me-support-awesomethanks-p2 = Omdat je een vroege Coggle-supporter bent, krijg je alle voordelen van het <a data-l10n-name=“awesome”>Coggle Awesome</a>-abonnement inbegrepen bij je abonnement!
+me-support-awesomethanks-p2 = Omdat je een vroege Coggle-supporter bent, krijg je alle voordelen van het <a data-l10n-name="awesome">Coggle Awesome</a>-abonnement inbegrepen bij je abonnement!
 
 me-awesome = Dit ben jij &mdash;<b>Je bent geweldig!</b>
 me-manage-plan = Beheer je abonnement
 
-me-free = Dit ben jij &mdash;<b>Je gebruikt Coggle gratis.</b> <a data-l10n-name=“settings”>Bekijk je instellingen.</a>
+me-free = Dit ben jij &mdash;<b>Je gebruikt Coggle gratis.</b> <a data-l10n-name="settings">Bekijk je instellingen.</a>
 upgrade-awesome = Upgrade naar Awesome
 
 
@@ -476,7 +476,7 @@ revoke-link =
 
 share-publishing = Publiceren
 share-open = Kan iedereen dit diagram bekijken?
-share-open-detail = Openbare diagrammen kunnen door iedereen worden bekeken en kunnen worden weergegeven in onze <a data-l10n-name=“gallery”>Galerij</a>
+share-open-detail = Openbare diagrammen kunnen door iedereen worden bekeken en kunnen worden weergegeven in onze <a data-l10n-name="gallery">Galerij</a>
 
 # inhoud van het downloadvenster 
 download-pdf = PDF downloaden
@@ -486,24 +486,24 @@ download-txt = Overzicht in platte tekst
 download-visio = Visio-stroomdiagram (.vsdx) 
 download-failed = Het genereren van het bestand is mislukt.
     .title = Klik om het opnieuw te proberen
-download-import-tip = <b>Op zoek naar importmogelijkheden? </b> Sleep een .mm- of .txt-bestand naar een diagram om het te importeren! <a data-l10n-name=“import-link”>Lees meer.</a>
+download-import-tip = <b>Op zoek naar importmogelijkheden? </b> Sleep een .mm- of .txt-bestand naar een diagram om het te importeren! <a data-l10n-name="import-link">Lees meer.</a>
 
 # inhoud van de schuifregelaar voor toegangscontrole 
-access-readonly = Alleen-lezen<br/><span data-l10n-name=“tip” >Alleen bekijken toestaan</span>
-access-readclone = Lezen & kopieën maken<br/><span data-l10n-name=“tip” >Ook downloaden en kopiëren toestaan</span>
-access-author = Auteur<br/><span data-l10n-name=“tip” >Toestaan om documenten te maken en te bewerken</span>
+access-readonly = Alleen-lezen<br/><span data-l10n-name="tip" >Alleen bekijken toestaan</span>
+access-readclone = Lezen & kopieën maken<br/><span data-l10n-name="tip" >Ook downloaden en kopiëren toestaan</span>
+access-author = Auteur<br/><span data-l10n-name="tip" >Toestaan om documenten te maken en te bewerken</span>
 
-access-folder-readonly = Alleen-lezen<br/><span data-l10n-name=“tip”>Alleen bekijken toegestaan</span>
-access-folder-readclone = Lezen & kopieën maken<br/><span data-l10n-name=“tip”>Ook downloaden en kopiëren toegestaan</span>
-access-folder-author = Auteur<br/><span data-l10n-name=“tip”>Toestaan dat documenten worden aangemaakt en bewerkt</span>
-access-folder-admin = Beheren<br/><span data-l10n-name=“tip”>Mensen en documenten toevoegen en verwijderen</span>
+access-folder-readonly = Alleen-lezen<br/><span data-l10n-name="tip">Alleen bekijken toegestaan</span>
+access-folder-readclone = Lezen & kopieën maken<br/><span data-l10n-name="tip">Ook downloaden en kopiëren toegestaan</span>
+access-folder-author = Auteur<br/><span data-l10n-name="tip">Toestaan dat documenten worden aangemaakt en bewerkt</span>
+access-folder-admin = Beheren<br/><span data-l10n-name="tip">Mensen en documenten toevoegen en verwijderen</span>
 
 access-remove = Verwijder { $user_givenName }
 
 # Meldingen 
-readonly-warning = U kunt dit diagram niet bewerken. <div data-l10n-name=“suggestion”>Als u het moet bewerken, vraag dan de auteur om toestemming.</div>
+readonly-warning = U kunt dit diagram niet bewerken. <div data-l10n-name="suggestion">Als u het moet bewerken, vraag dan de auteur om toestemming.</div>
 
-websocket-offline = Real-time wijzigingen zijn niet beschikbaar vanwege het netwerk. <a data-l10n-name=‘helpfix’>Meer informatie</a>
+websocket-offline = Real-time wijzigingen zijn niet beschikbaar vanwege het netwerk. <a data-l10n-name='helpfix'>Meer informatie</a>
 
 disconnect-warning = <b>Verbinding verbroken</b>: Wijzigingen worden mogelijk niet opgeslagen
 
@@ -511,7 +511,7 @@ banner-undo-warning = Niets meer om ongedaan te maken!
 banner-redo-warning = Niets meer om opnieuw uit te voeren!
 
 # Berichten bij het slepen en neerzetten van afbeeldingen 
-image-resize-plug = Je afbeelding is verkleind - download <a data-l10n-name=‘awesome’>Awesome</a> om grotere afbeeldingen te uploaden!
+image-resize-plug = Je afbeelding is verkleind - download <a data-l10n-name='awesome'>Awesome</a> om grotere afbeeldingen te uploaden!
 
 # Helpvenster
 sidebar-contextmenu = Contextmenu
@@ -522,7 +522,7 @@ sidebar-controls = Bedieningselementen
 sidebar-removebranch = Tak verwijderen:
 sidebar-insertbranch = Tak invoegen:
 sidebar-transplantbranch = Tak verplaatsen:
-sidebar-addimages-title = <a data-l10n-name=‘images’>Afbeeldingen</a> toevoegen:
+sidebar-addimages-title = <a data-l10n-name='images'>Afbeeldingen</a> toevoegen:
 
 sidebar-zoom = Zoomen:
 
@@ -552,7 +552,7 @@ sidebar-sc-newchild = Nieuw onderliggend item:
 sidebar-sc-parent = Ga naar bovenliggend item:
 
 sidebar-sc-markdown-title = Tekst opmaken:
-sidebar-sc-markdown = gebruik <a data-l10n-name=“link”>Markdown</a>
+sidebar-sc-markdown = gebruik <a data-l10n-name="link">Markdown</a>
 
 hint-control-line = Sleep om de lijn aan te passen.
 hint-control-remove = Klik om controlepunt te verwijderen.
@@ -562,8 +562,8 @@ hint-add-title = Nieuwe tak toevoegen. Dit is de titel van het diagram.
 hint-add =
     {
         $os ->
-            [Mac] Nieuwe tak toevoegen. Gebruik <kb-key data-l10n-name=“delete-key”>{sc-option}</kb-key> om te verwijderen, of <kb-key data-l10n-name=“insert-key”>{sc-shift}</kb-key> om in te voegen.
-           *[Win] Nieuwe tak toevoegen. Gebruik <kb-key data-l10n-name=“delete-key”>{sc-ctrl}</kb-key> om te verwijderen, of <kb-key data-l10n-name=“insert-key”>{sc-shift}</kb-key> om in te voegen.
+            [Mac] Nieuwe tak toevoegen. Gebruik <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> om te verwijderen, of <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> om in te voegen.
+           *[Win] Nieuwe tak toevoegen. Gebruik <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> om te verwijderen, of <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> om in te voegen.
     }
 hint-delete = Tak verwijderen.
 hint-remove = Item verwijderen.
@@ -576,13 +576,13 @@ hint-drag-only = Sleep om alleen dit knooppunt te verplaatsen.
 hint-can-drag-only = 
     {
         $os ->
-            [Mac] Houd <kb-key data-l10n-name=‘move-only-key’>{sc-option}</kb-key> ingedrukt om alleen dit knooppunt te verslepen.
-           *[Win] Houd <kb-key data-l10n-name=‘move-only-key’>{sc-alt}</kb-key> ingedrukt om alleen dit knooppunt te verslepen.
+            [Mac] Houd <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> ingedrukt om alleen dit knooppunt te verslepen.
+           *[Win] Houd <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> ingedrukt om alleen dit knooppunt te verslepen.
     }
 hint-edit = Klik om te bewerken, sleep om te verplaatsen.
 hint-present-touch = Tik om takken weer te geven en te verbergen.
 hint-present-all = Klik om alle niveaus weer te geven en te verbergen.
-hint-present = Klik om takken weer te geven en te verbergen. Houd <kb-key data-l10n-name=‘insert-key’>{sc-shift}</kb-key> ingedrukt om alle niveaus uit te vouwen.
+hint-present = Klik om takken weer te geven en te verbergen. Houd <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> ingedrukt om alle niveaus uit te vouwen.
 
 stat-saving = Aan het opslaan
 stat-saved = Alle wijzigingen opgeslagen
@@ -596,7 +596,7 @@ sidebar-bgmenu = <b>Zoom</b>, <b>ongedaan maken</b> en <b>gekopieerde items plak
 sidebar-bgmenu2 = <b>Zoom</b>, voeg <b>tekstlabels</b> toe, <b>ongedaan maken</b> en <b>gekopieerde items plakken</b> door met de rechtermuisknop op de achtergrond te klikken.
 sidebar-icons = Pictogrammen
 markdown-icons = Typ <code>:</code> tijdens het bewerken of gebruik de knop bovenaan de item-editor.
-markdown-checkbox = <code>- [X]</code> om een <input data-l10n-name=“checkbox”/> selectievakje te maken
+markdown-checkbox = <code>- [X]</code> om een <input data-l10n-name="checkbox"/> selectievakje te maken
 markdown-code = <code>`text`</code> om een <code>lettertype met vaste breedte</code> te gebruiken
 
 button-bold =
@@ -627,11 +627,11 @@ button-attach =
     .title = Een bestand bijvoegen.
 button-resize =
     .title = Sleep om de tekstgrootte te wijzigen.
-label-fontsize = Lettergrootte <span data-l10n-name=“fontsize”></span>px.
+label-fontsize = Lettergrootte <span data-l10n-name="fontsize"></span>px.
 
-hint-toolong = Item te lang! Probeer wat tekst naar een nieuw item te verplaatsen: selecteer de tekst en druk vervolgens op <kb-key data-l10n-name=“tab-key”>tab</kb-key>
-hint-movetext = Probeer wat tekst naar een nieuw item te verplaatsen: selecteer de tekst en druk vervolgens op <kb-key data-l10n-name=“tab-key”>tab</kb-key>
-hint-backdel = <kb-key data-l10n-name=“backspace-key”>⌫</kb-key> om te verwijderen
+hint-toolong = Item te lang! Probeer wat tekst naar een nieuw item te verplaatsen: selecteer de tekst en druk vervolgens op <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-movetext = Probeer wat tekst naar een nieuw item te verplaatsen: selecteer de tekst en druk vervolgens op <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> om te verwijderen
 
 commentcount = 
     { $count ->
@@ -639,7 +639,7 @@ commentcount =
        *[other] { $count } reacties
     }
 
-# pagina ‘diagram niet gevonden’ 
+# pagina 'diagram niet gevonden' 
 nodiagram-title = Diagram niet gevonden!
 nodiagram-invalid-link = Deze diagramlink is ongeldig of de toegang ertoe is ingetrokken.
 nodiagram-logged-in = Je bent momenteel ingelogd als <b>{ $user_givenName }</b>, met het e-mailadres <b>{ $user_email }</b>. Als dit diagram bestaat, heeft dit account geen toestemming om het te openen.
@@ -690,7 +690,7 @@ awesome-feature-flow-title = Krachtige stroomdiagrammen
 awesome-feature-flow = Kies uit een reeks vormen om expressieve, krachtige stroomdiagrammen, proceskaarten en andere diagrammen te maken.
 
 awesome-hint-orgs =
-  Als je Coggle voor je werk gebruikt, bekijk dan <a data-l10n-name=“orglink”>Coggle-organisaties</a>, die alle voordelen van Coggle Awesome bieden, plus zakelijke beheerfuncties.
+  Als je Coggle voor je werk gebruikt, bekijk dan <a data-l10n-name="orglink">Coggle-organisaties</a>, die alle voordelen van Coggle Awesome bieden, plus zakelijke beheerfuncties.
 
 
 # Inlogpagina /login
@@ -716,7 +716,7 @@ login-colab-a = Werk samen en zie de wijzigingen van uw collega's direct terwijl
 login-free = Is Coggle gratis?
 login-free2-a = Ja, alles om geweldige mindmaps te maken – geen tijdslimiet,
     realtime samenwerking, geen limiet op de grootte en meer – is gratis. <a
-    data-l10n-name=‘pricing’>Upgrade voor extra krachtige functies</a> voor 
+    data-l10n-name='pricing'>Upgrade voor extra krachtige functies</a> voor 
     professionals en grote teams.
 
 login-what-q = Wat doen jullie met mijn Google/Microsoft-account?
@@ -731,7 +731,7 @@ login-trial-a2 = Of probeer de geüpgradede versie een maand lang gratis uit doo
 login-switch-q = Kan ik wisselen tussen inlogmethoden?
 login-switch-a = Ja! Zolang je hetzelfde e-mailadres gebruikt voor je Microsoft-/Apple-/Google-accounts, 
     kun je elk van deze accounts gebruiken om in te loggen op hetzelfde Coggle-account. 
-    Let op: als je bij het inloggen met Apple de optie ‘mijn e-mail verbergen’ kiest, wordt je account niet gekoppeld.
+    Let op: als je bij het inloggen met Apple de optie 'mijn e-mail verbergen' kiest, wordt je account niet gekoppeld.
 
 login-workschool-q = Kan ik mijn Microsoft-account voor werk of school gebruiken?
 login-workschool-a = Ja, je kunt elk Microsoft-account gebruiken, inclusief zowel persoonlijke accounts (voorheen Windows Live) 
@@ -740,15 +740,15 @@ login-workschool-a = Ja, je kunt elk Microsoft-account gebruiken, inclusief zowe
 
 login-otherlogin-q = Kan ik een andere authenticatieprovider gebruiken om toegang te krijgen tot Coggle?
 login-otherlogin-a-p1 = Momenteel ondersteunen we Google, Microsoft, Inloggen met Apple en inloggen via e-mail voor persoonlijke accounts.
-login-otherlogin-a-p2 = We ondersteunen <a data-l10n-name=“saml”>SAML 2.0-aanmelding</a> voor Coggle-organisaties, 
+login-otherlogin-a-p2 = We ondersteunen <a data-l10n-name="saml">SAML 2.0-aanmelding</a> voor Coggle-organisaties, 
     en als u geïnteresseerd bent in het hosten van uw eigen versie van Coggle met Active Directory-aanmelding, neem dan 
-    contact op met ons <a data-l10n-name=“email”>verkoopadres voor bedrijven</a>.
+    contact op met ons <a data-l10n-name="email">verkoopadres voor bedrijven</a>.
 
 login-help =  Waar kan ik hulp of ondersteuning krijgen?
-login-help-a = Bezoek onze kennisbank op <a data-l10n-name=‘help’>coggle.help</a> voor tal van geïllustreerde handleidingen, of stuur ons een e-mail op <a data-l10n-name=“email”>hello@coggle.it</a>.
+login-help-a = Bezoek onze kennisbank op <a data-l10n-name='help'>coggle.help</a> voor tal van geïllustreerde handleidingen, of stuur ons een e-mail op <a data-l10n-name="email">hello@coggle.it</a>.
 
 login-pw-more-q = Ik heb nog steeds een vraag over inloggen
-login-pw-more-a = Vraag het ons! Ons e-mailadres is <a data-l10n-name=“email”>hello@coggle.it</a>.
+login-pw-more-a = Vraag het ons! Ons e-mailadres is <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Startpagina Organisaties (/organizations) 
 orgs-pitch-title = Coggle Organisation
@@ -756,7 +756,7 @@ orgs-pitch = Elke Coggle Organisation beschikt over functies die zijn ontworpen 
 
 orgs-signup = ORGANISATIE AANMAKEN
 
-orgs-subpitch-p1 = Wanneer informatie cruciaal is voor uw team, heeft u krachtigere tools nodig en meer controle over uw gegevens. Daarom hebben we <a data-l10n-name=“orglink”>Coggle-organisaties</a> ontwikkeld.
+orgs-subpitch-p1 = Wanneer informatie cruciaal is voor uw team, heeft u krachtigere tools nodig en meer controle over uw gegevens. Daarom hebben we <a data-l10n-name="orglink">Coggle-organisaties</a> ontwikkeld.
 orgs-subpitch-p2 = De prijsstelling is eenvoudig: <b>$8 per lid per maand</b>.<br><b>Onbeperkt alles</b>.
 
 
@@ -789,7 +789,7 @@ orgcreate-createbutton = Aanmaken
 
 faq-orgs-whatare-q = Wat is Coggle Organisation?
 faq-orgs-whatare-a =
-    <p data-l10n-name=‘p1’>Coggle Organisation zorgen voor een scheiding tussen
+    <p data-l10n-name='p1'>Coggle Organisation zorgen voor een scheiding tussen
       uw persoonlijke diagrammen en die van uw bedrijf. Door
       het persoonlijke te scheiden van het professionele krijgt u meer controle over
       uw bedrijfsgegevens die zijn opgeslagen in Coggle, inclusief wanneer en hoe deze
@@ -797,33 +797,33 @@ faq-orgs-whatare-a =
 
 faq-orgs-whofor-q = Voor wie is Coggle Organisation bedoeld?
 faq-orgs-whofor-a =
-    <p data-l10n-name=‘p1’>Coggle Organisation is ontworpen voor teams die
+    <p data-l10n-name='p1'>Coggle Organisation is ontworpen voor teams die
       meer controle nodig hebben over de gegevens die ze in Coggle invoeren, of die
       persoonlijke gegevens gescheiden moeten houden. Ze worden met succes gebruikt door particuliere
       bedrijven, overheidsinstanties, scholen en universiteiten om groepen te helpen
       veilig samen te werken.</p> 
-    <p data-l10n-name=‘p2’>Elke groep die meer controle nodig heeft over het delen van diagrammen, of dit nu is voor
+    <p data-l10n-name='p2'>Elke groep die meer controle nodig heeft over het delen van diagrammen, of dit nu is voor
       naleving van regelgeving of intern beleid, zal Coggle Organisation
       nuttig vinden.</p>
 
 faq-orgs-features-q =  Wat zijn de belangrijkste functies van Coggle Organisation?
 faq-orgs-features-a =
-    <p data-l10n-name=‘p1’><b>Beheerdersdashboard</b>: volledige controle over diagrammen die zijn gemaakt
+    <p data-l10n-name='p1'><b>Beheerdersdashboard</b>: volledige controle over diagrammen die zijn gemaakt
       door leden van uw organisatie, inclusief het herstellen van verwijderde diagrammen.
     </p>
-    <p data-l10n-name=‘p2’><b>Gegevensbeheer</b>: kies ervoor om het delen van gegevens te beperken tot alleen binnen uw
+    <p data-l10n-name='p2'><b>Gegevensbeheer</b>: kies ervoor om het delen van gegevens te beperken tot alleen binnen uw
       organisatie.</p>
-    <p data-l10n-name=‘p3’><b>Bulk-export</b>: exporteer alle diagrammen in uw organisatie voor back-up-
+    <p data-l10n-name='p3'><b>Bulk-export</b>: exporteer alle diagrammen in uw organisatie voor back-up-
       of regelgevingsdoeleinden.</p>
-    <p data-l10n-name=‘p4’><b>Gecentraliseerde facturering</b>: betaal voor meerdere Awesome-abonnementen op
+    <p data-l10n-name='p4'><b>Gecentraliseerde facturering</b>: betaal voor meerdere Awesome-abonnementen op
       één plek en zeg abonnementen op wanneer leden uw
       organisatie verlaten of erbij komen. </p>
 
 faq-orgs-awesome-q = Hoe verhoud Coggle Organisation zich tot Coggle Awesome?
 faq-orgs-awesome-a =
-    <p data-l10n-name=‘p1’>Coggle Organisation is een geweldige manier om facturering en licentiebeheer
+    <p data-l10n-name='p1'>Coggle Organisation is een geweldige manier om facturering en licentiebeheer
       voor meerdere Coggle Awesome-abonnementen te centraliseren.</p>
-    <p data-l10n-name=‘p2’>Elke gebruiker in uw organisatie krijgt automatisch Coggle Awesome
+    <p data-l10n-name='p2'>Elke gebruiker in uw organisatie krijgt automatisch Coggle Awesome
       wanneer hij of zij aan diagrammen werkt in de werkruimte van uw organisatie. Dit betekent
       alle geweldige functies, waaronder privédiagrammen, presentatiemodus,
       uitgebreid kleurenpalet en het uploaden van afbeeldingen met hoge resolutie.</p>
@@ -883,9 +883,9 @@ about-who-is-mindmapping-for =
 about-getintouch-title = Neem contact op
 about-getintouch =
     Heb je een vraag? Wil je ons vertellen hoe je Coggle gebruikt? Of wil je ons gewoon
-    wat feedback geven? Je kunt ons vinden op <a data-l10n-name=“facebook”>Facebook
-    </a>en op <a data-l10n-name=“x”>X </a>en als je dat liever hebt, kun je altijd
-    een e-mail sturen naar <a data-l10n-name=“email”>hello@coggle.it </a>— we vinden het leuk om
+    wat feedback geven? Je kunt ons vinden op <a data-l10n-name="facebook">Facebook
+    </a>en op <a data-l10n-name="x">X </a>en als je dat liever hebt, kun je altijd
+    een e-mail sturen naar <a data-l10n-name="email">hello@coggle.it </a>— we vinden het leuk om
     te kletsen!
 
 
@@ -893,10 +893,10 @@ about-share-title = Vertel het verder
 about-share =
   Als je Coggle geweldig vindt, help ons dan om nog meer mensen te bevrijden van de
   beperkingen van lijstjes, spreadsheets en conventionele documenten! Je kunt
-  Coggle <a data-l10n-name=“x”>op X</a> of <a data-l10n-name=“facebook”>op Facebook</a> delen.
+  Coggle <a data-l10n-name="x">op X</a> of <a data-l10n-name="facebook">op Facebook</a> delen.
 
 about-itp-title = In de pers?
-about-itp = Bekijk dan onze <a data-l10n-name=“kit”>persmap</a> of <a data-l10n-name=“email”>neem contact op</a> voor meer informatie!
+about-itp = Bekijk dan onze <a data-l10n-name="kit">persmap</a> of <a data-l10n-name="email">neem contact op</a> voor meer informatie!
 
 
 # Coggle-weetjes 
@@ -916,9 +916,9 @@ fact-links = Wist je dat je links kunt plaatsen in Coggles? Dat kan!<br>Ze werke
 
 fact-download = Wist je dat je je Coggle kunt downloaden als PDF of afbeelding? Dat kan! Zoek de downloadknop rechtsboven in het scherm.
 
-fact-markdown = Wist je dat Coggle <a data-l10n-name=‘link’>markdown-syntaxis</a> gebruikt? Dat klopt!<br>Probeer links zoals deze eens uit: &lt;http://example.com&gt;
+fact-markdown = Wist je dat Coggle <a data-l10n-name='link'>markdown-syntaxis</a> gebruikt? Dat klopt!<br>Probeer links zoals deze eens uit: &lt;http://example.com&gt;
 
-fact-latex = Wist je dat Coggle LaTeX-formules ondersteunt? Dat klopt!<br>Gebruik \\( LaTeX hier \\) om het uit te proberen! Bekijk <a data-l10n-name=‘link’>deze link</a> voor hulp bij de syntaxis.
+fact-latex = Wist je dat Coggle LaTeX-formules ondersteunt? Dat klopt!<br>Gebruik \\( LaTeX hier \\) om het uit te proberen! Bekijk <a data-l10n-name='link'>deze link</a> voor hulp bij de syntaxis.
 
 fact-move = Wil je dat item op een andere plek in de Coggle hebben? Geen probleem! Houd Shift ingedrukt terwijl je de (+)-knop van een item versleept om het ergens anders te plaatsen.
 
@@ -928,13 +928,13 @@ fact-zoomin = Wist je dat je kunt inzoomen om het van dichterbij te bekijken? Da
 
 fact-zoomout = Wist je dat je kunt uitzoomen om het totaalbeeld te zien? Dat kan!<br> gebruik [ctrl] [-], of klik met de rechtermuisknop en sleep het zoomicoontje!
 
-fact-markdown2 = Wist je dat <a data-l10n-name=‘link’>Markdown</a> geweldig is? Dat is het zeker, en Coggle ondersteunt het!
+fact-markdown2 = Wist je dat <a data-l10n-name='link'>Markdown</a> geweldig is? Dat is het zeker, en Coggle ondersteunt het!
 
 fact-pdf = Je kunt je Coggle als pdf downloaden! Zoek de downloadknop rechtsboven in het scherm.
 
 fact-png = Je kunt je Coggle als afbeelding downloaden! Zoek de downloadknop rechtsboven in het scherm.
 
-fact-latex2 = Wist je dat Coggle LaTeX ondersteunt voor wiskunde? Dat is zo!<br>Gebruik \\( \LaTeX hier \\) om het uit te proberen! Hier is <a data-l10n-name=‘link’>een syntaxisgids</a>.
+fact-latex2 = Wist je dat Coggle LaTeX ondersteunt voor wiskunde? Dat is zo!<br>Gebruik \\( \LaTeX hier \\) om het uit te proberen! Hier is <a data-l10n-name='link'>een syntaxisgids</a>.
 
 fact-history = Wist je dat je de geschiedenis kunt bekijken van wie wat wanneer heeft gewijzigd in je Coggle? Dat kan! Klik op het klokpictogram rechtsboven.
 
@@ -954,7 +954,7 @@ fact-text-size2 = Wist je dat je het lettertype kunt wijzigen? Dat kan!<br>Sleep
 
 fact-text-size3 = Wist je dat je de tekstgrootte kunt wijzigen? Dat kan!<br>Sleep de hoek van het tekstbewerkingsgebied.
 
-fact-md-reference = Wist je dat je Markdown in Coggles kunt gebruiken om links, afbeeldingen en meer toe te voegen? Dat kan!<br>Hier is de <a data-l10n-name=‘link’>volledige handleiding</a>.
+fact-md-reference = Wist je dat je Markdown in Coggles kunt gebruiken om links, afbeeldingen en meer toe te voegen? Dat kan!<br>Hier is de <a data-l10n-name='link'>volledige handleiding</a>.
 
 fact-multiline-keys = Wist je dat je tekst over meerdere regels kunt verdelen? Dat kan! Houd [ctrl] ingedrukt terwijl je op [return] drukt om een nieuwe regel in te voegen. Je kunt ook de hoek van het bewerkingsveld verslepen en vervolgens [return] op de normale manier gebruiken.
 
@@ -964,7 +964,7 @@ fact-multiline-wrap = Wist je dat je tekst over meerdere regels kunt verdelen? D
 
 fact-resize-images = Wist je dat je de grootte van afbeeldingen kunt aanpassen? Dat kan! Sleep een afbeelding vanaf een willekeurige plek op internet naar je Coggle (mits je toestemming hebt om deze te gebruiken) en sleep vervolgens de rechteronderhoek van de afbeelding om de grootte aan te passen.
 
-fact-image-size = Wist je dat we een Markdown-extensie ondersteunen om de afbeeldingsgrootte te specificeren? Dat doen we! Specificeer een afbeelding van 200 bij 100 pixels als volgt: ![afbeeldingsbeschrijving](http://url.to.image “optionele titel” 200x100)
+fact-image-size = Wist je dat we een Markdown-extensie ondersteunen om de afbeeldingsgrootte te specificeren? Dat doen we! Specificeer een afbeelding van 200 bij 100 pixels als volgt: ![afbeeldingsbeschrijving](http://url.to.image "optionele titel" 200x100)
 
 fact-bold-kbshort = Wist je dat je sneltoetsen kunt gebruiken om **vetgedrukte tekst** toe te voegen in Coggles? Dat kan! Druk gewoon op [ctrl]+[b] (of [cmd]+[b] op Macs) terwijl de tekst die je vetgedrukt wilt hebben is geselecteerd.
 
@@ -972,7 +972,7 @@ fact-shortcuts-1 = Wist je dat je je Coggle kunt bewerken met alleen het toetsen
 
 fact-shortcuts-2 = Wist je dat je met sneltoetsen kunt selecteren welke tak je wilt bewerken? Dat kan!<br>Gebruik [alt]+[shift]+pijltjestoetsen om langs takken te navigeren.
 
-fact-task-lists = Wist je dat je <a data-l10n-name=‘link’>Markdown</a> kunt gebruiken om checklists aan Coggles toe te voegen? Dat kan, hier is een voorbeeld:<br>- [ ] niet-aangevinkt selectievakje<br>- [X] aangevinkt selectievakje<br>Als je op een selectievakje klikt, wordt de Markdown automatisch aangepast.
+fact-task-lists = Wist je dat je <a data-l10n-name='link'>Markdown</a> kunt gebruiken om checklists aan Coggles toe te voegen? Dat kan, hier is een voorbeeld:<br>- [ ] niet-aangevinkt selectievakje<br>- [X] aangevinkt selectievakje<br>Als je op een selectievakje klikt, wordt de Markdown automatisch aangepast.
 
 fact-api-1 = Wist je dat we een API hebben? Dat hebben we inderdaad! Programma's kunnen deze gebruiken om Coggles automatisch aan te maken, te bekijken en te bewerken.
 
