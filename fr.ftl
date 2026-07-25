@@ -591,7 +591,7 @@ hint-can-drag-only =
 hint-edit = Cliquez pour modifier, faites glisser pour déplacer.
 hint-present-touch = Appuyez pour afficher et masquer les branches.
 hint-present-all = Cliquez pour afficher et masquer tous les niveaux.
-hint-présent = Cliquez pour afficher et masquer les branches. Maintenez <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> pour développer tous les niveaux.
+hint-present = Cliquez pour afficher et masquer les branches. Maintenez <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> pour développer tous les niveaux.
 
 stat-saving = Épargne
 stat-saved = Toutes les modifications enregistrées
