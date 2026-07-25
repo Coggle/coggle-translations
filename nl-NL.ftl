@@ -261,7 +261,7 @@ help-createfolder = Maak mappen om te delen met groepen mensen, of om Coggles te
 
 help-orgs-switch-title = Schakelen tussen organisaties
 help-orgs-switch-p1 = Klik om te schakelen tussen organisaties.
-help-orgs-switch-p2 = Met organisaties kunt u het delen van Coggles beheren en met grotere teams werken.
+help-orgs-switch-p2 = Met Organisation kunt u het delen van Coggles beheren en met grotere teams werken.
 
 
 # Inhoud van de instellingenpagina 
@@ -703,7 +703,7 @@ login-title = Coggle - Log in om te beginnen met mindmappen
 signin-by-email = Inloggen via e-mailadres
 sign-in = Inloggen
 
-login-saml = We ondersteunen ook inloggen op bedrijfsniveau voor Coggle-organisaties met OneLogin, Okta en andere SAML 2.0-identiteitsproviders.
+login-saml = We ondersteunen ook inloggen op bedrijfsniveau voor Coggle Organisation met OneLogin, Okta en andere SAML 2.0-identiteitsproviders.
 login-saml-where = Als u een Single Sign-On-gebruiker bent, log dan in via de pagina die door de beheerder van uw organisatie is gedeeld.
 login-saml-more = Lees meer over Single Sign-On.
 
@@ -725,7 +725,7 @@ login-what-a2 = We vragen alleen toegang tot je basisprofielgegevens.
     We hebben geen toegang tot andere gegevens.
 
 login-trial = Is er een proefversie?
-login-trial-a = Je kunt de gratis versie zo lang gebruiken als je wilt – er is geen  tijdslimiet en je hebt geen creditcard nodig!
+login-trial-a = Je kunt de gratis versie zo lang gebruiken als je wilt – er is geen tijdslimiet en je hebt geen creditcard nodig!
 login-trial-a2 = Of probeer de geüpgradede versie een maand lang gratis uit door drie vrienden uit te nodigen om samen met jou je mindmap te bewerken!
 
 login-switch-q = Kan ik wisselen tussen inlogmethoden?
@@ -787,26 +787,26 @@ orgcreate-nameinput =
 orgcreate-namehint = Kies iets kort en herkenbaar!
 orgcreate-createbutton = Aanmaken
 
-faq-orgs-whatare-q = Wat zijn Coggle-organisaties?
+faq-orgs-whatare-q = Wat is Coggle Organisation?
 faq-orgs-whatare-a =
-    <p data-l10n-name=‘p1’>Coggle-organisaties zorgen voor een scheiding tussen
+    <p data-l10n-name=‘p1’>Coggle Organisation zorgen voor een scheiding tussen
       uw persoonlijke diagrammen en die van uw bedrijf. Door
       het persoonlijke te scheiden van het professionele krijgt u meer controle over
       uw bedrijfsgegevens die zijn opgeslagen in Coggle, inclusief wanneer en hoe deze
       worden gedeeld door uw medewerkers.</p>
 
-faq-orgs-whofor-q = Voor wie zijn Coggle-organisaties bedoeld?
+faq-orgs-whofor-q = Voor wie is Coggle Organisation bedoeld?
 faq-orgs-whofor-a =
-    <p data-l10n-name=‘p1’>Coggle-organisaties zijn ontworpen voor teams die
+    <p data-l10n-name=‘p1’>Coggle Organisation zijn ontworpen voor teams die
       meer controle nodig hebben over de gegevens die ze in Coggle invoeren, of die
       persoonlijke gegevens gescheiden moeten houden. Ze worden met succes gebruikt door particuliere
       bedrijven, overheidsinstanties, scholen en universiteiten om groepen te helpen
       veilig samen te werken.</p> 
     <p data-l10n-name=‘p2’>Elke groep die meer controle nodig heeft over het delen van diagrammen, of dit nu is voor
-      naleving van regelgeving of intern beleid, zal Coggle-organisaties
+      naleving van regelgeving of intern beleid, zal Coggle Organisation
       nuttig vinden.</p>
 
-faq-orgs-features-q =  Wat zijn de belangrijkste functies van een Coggle-organisatie?
+faq-orgs-features-q =  Wat zijn de belangrijkste functies van Coggle Organisation?
 faq-orgs-features-a =
     <p data-l10n-name=‘p1’><b>Beheerdersdashboard</b>: volledige controle over diagrammen die zijn gemaakt
       door leden van uw organisatie, inclusief het herstellen van verwijderde diagrammen.
@@ -819,9 +819,9 @@ faq-orgs-features-a =
       één plek en zeg abonnementen op wanneer leden uw
       organisatie verlaten of erbij komen. </p>
 
-faq-orgs-awesome-q = Hoe verhouden Coggle-organisaties zich tot Coggle Awesome?
+faq-orgs-awesome-q = Hoe verhoud Coggle Organisation zich tot Coggle Awesome?
 faq-orgs-awesome-a =
-    <p data-l10n-name=‘p1’>Coggle-organisaties zijn een geweldige manier om facturering en licentiebeheer
+    <p data-l10n-name=‘p1’>Coggle Organisation is een geweldige manier om facturering en licentiebeheer
       voor meerdere Coggle Awesome-abonnementen te centraliseren.</p>
     <p data-l10n-name=‘p2’>Elke gebruiker in uw organisatie krijgt automatisch Coggle Awesome
       wanneer hij of zij aan diagrammen werkt in de werkruimte van uw organisatie. Dit betekent
@@ -829,7 +829,7 @@ faq-orgs-awesome-a =
       uitgebreid kleurenpalet en het uploaden van afbeeldingen met hoge resolutie.</p>
 
 faq-orgs-billing-q = Hoe werkt de facturering voor Coggle-organisaties?
-faq-orgs-billing-a = Coggle-organisaties betalen ${$pricePerMemberPerMonth} per lid per maand. U kunt
+faq-orgs-billing-a = Coggle Organisation betalen ${$pricePerMemberPerMonth} per lid per maand. U kunt
   op elk moment leden toevoegen
   en verwijderen via het dashboard van uw organisatie.
 
@@ -976,9 +976,9 @@ fact-task-lists = Wist je dat je <a data-l10n-name=‘link’>Markdown</a> kunt 
 
 fact-api-1 = Wist je dat we een API hebben? Dat hebben we inderdaad! Programma's kunnen deze gebruiken om Coggles automatisch aan te maken, te bekijken en te bewerken.
 
-fact-organisation = Gebruik je Coggle voor zakelijke doeleinden? Je kunt een Coggle-organisatie aanmaken om de Coggles van je bedrijf te beheren.
+fact-organisation = Gebruik je Coggle voor zakelijke doeleinden? Je kunt een Coggle Organisation aanmaken om de Coggles van je bedrijf te beheren.
 
-fact-organisation2 = Wist je dat Coggle-organisaties hun logo op hun Coggles kunnen plaatsen? Dat kan!
+fact-organisation2 = Wist je dat Coggle Organisation hun logo op hun Coggles kunnen plaatsen? Dat kan!
 
-fact-organisation3 = Wist je dat je een Coggle-organisatie kunt aanmaken om de Coggles van je bedrijf te organiseren? Dat kan!
+fact-organisation3 = Wist je dat je een Coggle Organisation kunt aanmaken om de Coggles van je bedrijf te organiseren? Dat kan!
 
