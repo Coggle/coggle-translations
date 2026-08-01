@@ -341,6 +341,26 @@ close-account-enteremail =
     .placeholder = Saisissez votre adresse e-mail
 close-account-confirm = CONFIRMER
 
+# /me/security
+me-security-login-title = Options de Connexion
+me-security-login-options = Votre compte utilise l'adresse e-mail <b>"{$user_email}"</b> pour se connecter. Vous pouvez utiliser n'importe quelle méthode de connexion prise en charge avec cette adresse e-mail pour accéder à votre compte.
+me-security-passkeys-title = Clés d'accès
+me-security-passkeys = Les clés d'accès constituent un moyen sécurisé de se connecter, sans nécessiter de mot de passe ni de vérification par code envoyé par e-mail. Votre navigateur ou votre appareil stocke votre clé d'accès en toute sécurité ; vous pouvez ensuite l'utiliser pour vous connecter à Coggle.
+me-security-add-passkey = Ajouter une clé d'accès
+me-security-logout = Se déconnecter de toutes les sessions actives, sur tous les appareils.
+me-security-delete = supprimer
+me-security-rename = renommer
+me-security-save = enregistrer
+me-security-delete-pk = Supprimer la clé d'accès ?
+me-security-yesdel = oui, supprimer
+
+# /me/appearance
+me-appearance-title = Apparence de l'Interface
+appear-light = Clair
+appear-dark = Sombre
+appear-system = Appareil
+me-appearance-dm = Choisissez si l'interface utilisateur doit s'afficher en mode clair ou sombre. Cela ne modifie pas l'apparence de vos diagrammes pour les autres personnes.
+
 # Gallery Content (/gallery) 
 gallery-title = La Galerie Coggle
 gallery-blurb2 = Une sélection faite main des meilleurs diagrammes faits avec Coggle !

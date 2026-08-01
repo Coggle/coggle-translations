@@ -331,7 +331,6 @@ recommend-share-link = Either invite collaborators to your diagrams, or share yo
 claim-free-month = Claim your free month of Coggle Awesome!
 claim-redeem = Redeem Now
 
-
 close-account-title = Close Your Coggle Account
 close-account = Permanently close your free Coggle account.
 close-account-description = This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.
@@ -339,6 +338,26 @@ close-account-button = Close my Account
 close-account-enteremail =
     .placeholder = Type your email address
 close-account-confirm = CONFIRM
+
+# /me/security
+me-security-login-title = Login Options
+me-security-login-options = Your account uses the email address <b>"{$user_email}"</b> to sign in. You can use any supported sign-in method with this email addres to access your account.
+me-security-passkeys-title = Passkeys
+me-security-passkeys = Passkeys are a secure way to sign in, without needing a password or verifying a code sent to your email. Your browser or device stores your passkey securely, then you can use it to sign in to Coggle.
+me-security-add-passkey = Add passkey
+me-security-logout = Sign out all of your active sessions, on all devices.
+me-security-delete = delete
+me-security-rename = rename
+me-security-save = save
+me-security-delete-pk = Delete passkey?
+me-security-yesdel = yes, delete
+
+# /me/appearance
+me-appearance-title = Interface Appearance
+appear-light = Light
+appear-dark = Dark
+appear-system = Device
+me-appearance-dm = Choose whether the user interface appears in light or dark mode. This doesn't change how your diagrams appear to other people.
 
 # Gallery Content (/gallery) 
 gallery-title = The Coggle Gallery
