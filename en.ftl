@@ -284,8 +284,8 @@ settings-profile-title = Profile
 settings-membership-title = Members
 settings-exports-title = Exports
 settings-authentication-title = Authentication
-settings-security = Security
-settings-appearance = Appearance
+settings-security-title = Security
+settings-appearance-title = Appearance
 
 billing-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
 billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
