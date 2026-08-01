@@ -11,7 +11,7 @@
 index-tagline = De eenvoudige manier om complexe informatie te delen.
 index-tagline-mm = Maak mindmaps die net zo vloeiend zijn als je ideeën.
 index-signupnow = Meld je nu aan
-index-login = Heb je al een account? Log in.
+index-signinstart = Log in om te beginnen
 index-title = Coggle – Eenvoudige, snelle en krachtige mindmaps. Gewoon Coggle het!
 
 index-nav-login = Login
@@ -21,15 +21,18 @@ index-nav-gallery = Galerij
 index-nav-home = Home
 
 index-unleash = Gebruik je creativiteit
-index-blurb = Maak snel en eenvoudig mooie notities. Deel ze met vrienden en collega's om samen aan je ideeën te werken.
+index-understand = Begrijp Alles
+index-blurb-together = Maak snel en eenvoudig mooie notities. Deel ze met vrienden en collega's om samen aan je ideeën te werken.
 index-viewgallery = Of neem eens een kijkje bij de <a data-l10n-name='gallery'>Coggle Gallery</a> om inspiratie op te doen.
 
-index-colab-mindmaps-flowcharts-h = Mindmaps en stroomdiagrammen om samen aan te werken
+index-colab-mindmaps-flowcharts-h = Gezamenlijke Mindmaps en Stroomdiagrammen
 index-colab-mindmaps-flowcharts-p1 = Met Coggle kun je eenvoudig mindmaps en stroomdiagrammen maken en delen. Het werkt online in je browser: je hoeft niets te downloaden of te installeren. <a data-l10n-name='login'>Log in</a> om het voor altijd gratis te gebruiken!
 index-colab-mindmaps-flowcharts-p2 = Of je nu aantekeningen maakt, brainstormt, plannen maakt of iets ontzettend creatiefs doet: met Coggle kun je je ideeën heel eenvoudig in beeld brengen. Deel ze met zoveel vrienden of collega's als je wilt. Wijzigingen die je aanbrengt, worden direct in hun browser weergegeven, waar ter wereld ze zich ook bevinden.
 
 index-trusted-h = Meer dan 10.000.000 mensen en bedrijven zoals u vertrouwen op ons.
 index-trusted-p1 = Met Coggle kun je eenvoudig mindmaps en stroomdiagrammen maken en delen. Het werkt in je browser: je hoeft niets te downloaden of te installeren, en alles wat je nodig hebt om geweldige mindmaps te maken is <a data-l10n-name='free'>gratis, voor altijd!</a>
+index-trusted-p1b =  Alles wat je nodig hebt om geweldige mindmaps te maken, is <a data-l10n-name=‘free’>gratis, voor altijd</a>. Je aantekeningen van gisteren, vorig jaar of tien jaar geleden staan er gewoon voor je klaar wanneer je ze nodig hebt.
+
 
 index-use-notes-h = Maak aantekeningen
 index-use-notes-p = Open Coggle tijdens een vergadering, terwijl je aan het studeren bent of wanneer je maar inspiratie krijgt om mooie, overzichtelijke aantekeningen te maken.
@@ -41,7 +44,7 @@ index-use-share-h = Deel informatie
 index-use-share-p = Breng je onderwerp samen in een Coggle, neem alle details op en deel het met je team, je klasgenoten of de hele wereld!
 
 index-coggle-flow-title = Krachtige online stroomdiagrammen
-index-coggle-flow-description = Gebruik Coggle om je processen, systemen en algoritmen in kaart te brengen met behulp van onze krachtige nieuwe <a data-l10n-name='flowcharts'>stroomdiagramfuncties</a>.
+index-coggle-flow-2 = Van mindmap naar stroomdiagram: breng in kaart hoe dingen werken met behulp van krachtige <a data-l10n-name=‘flowcharts’ href="/flowcharts">stroomdiagrammen</a>.
 
 features-realtime = Realtime samenwerking
 features-realtime-desc = Nodig je vrienden en collega's uit om samen met jou tegelijkertijd aan je diagrammen te werken.
@@ -55,7 +58,7 @@ features-history = Bekijk alle wijzigingen in een diagram en maak vanaf elk will
 features-labels-title = Voeg zwevende tekst en afbeeldingen toe
 features-labels = Voeg tekstlabels en afbeeldingen toe die geen deel uitmaken van de diagramboom om delen van je kaart te voorzien van aantekeningen.
 
-features-blame-title = Aansprakelijkheid bijhouden
+features-blame-title = Verantwoording bijhouden
 features-blame = Bekijk de geschiedenis van je diagram om te zien wie wat heeft gewijzigd, en wanneer! Ga gewoon naar de diagramgeschiedenismodus om dat te ontdekken.
 
 features-colours-title = Zorg voor de juiste kleur
@@ -68,13 +71,14 @@ features-chat-title = Reacties en chat
 features-chat = Voeg opmerkingen toe aan knooppunten en chat met je collega's zonder je diagramwerkruimte te verlaten.
 
 
-# Vertalingen voor de pakketkeuze (https://coggle.it/plans, wanneer je bent ingelogd, en
-# ook op de homepagina)
+# Plans selection translations (https://coggle.it/plans, when logged in, and
+# also on the homepage)
 plans-free-forever-title = Altijd gratis
 plans-free-description = Ideaal om Coggle te ontdekken en voor sporadisch gebruik.
 plans-free-price = Altijd gratis
 
 feature-realtime = <b>Realtime</b> samenwerking
+feature-linkqr = Delen via <b>link</b> of <b>QR-code</b>
 feature-emoji = Meer dan <b>1600</b> <a data-l10n-name="icons-link">prachtige pictogrammen</a>
 feature-diagrams = <b>Onbeperkt</b> openbare diagrammen
 feature-nprivate =
@@ -86,6 +90,8 @@ feature-images = <b>Onbeperkt</b> afbeeldingen uploaden
 feature-changes = <b>Volledig</b> wijzigingslogboek
 feature-markdown = <b>Markdown</b>-ondersteuning
 feature-downloads = <b>PDF & afbeelding</b> downloaden
+feature-calc = Dynamische <a data-l10n-name=‘formulae-link’>berekeningen</a>
+
 feature-labels = Losstaande <b>tekstvakken</b>
 feature-exports = Exporteer als <b>.mm en tekst</b>
 feature-visio = Exporteren naar <b>Microsoft Visio</b>
@@ -95,7 +101,8 @@ feature-embed = Diagrammen insluiten
 feature-embed2 = Mindmaps overal insluiten
 plans-free-getstarted = Gratis gebruiken
 
-plans-awesome-title = Geweldig
+
+plans-awesome-title = Awesome
 plans-awesome-description = Ideaal voor <b>persoonlijk</b> of <b>professioneel</b> gebruik, met privacy en geavanceerde functies.
 plans-awesome-price = $5 / maand
 feature-include-free = Alles in <b>Gratis</b>
@@ -113,12 +120,13 @@ feature-controlpoints = <b>Lijnpaden aanpassen</b>
 feature-textalign = Wijzig <b>tekstuitlijning</b>
 feature-extendedcolours = Meer kleuren
 feature-editable-links = Samenwerken via <b>link</b>
+feature-editable-qr = Samenwerken via <b>QR-code</b>
 plans-findoutmore = Meer informatie
 
-plans-org-title = Organisatie
+plans-org-title = Organization
 plans-org-description = Ideaal voor <b>teams</b> die de toegang tot hun gegevens willen beheren en de facturering willen samenvoegen.
 plans-org-price = $8 / lid / maand
-feature-org-awesome = Alles van <b>Geweldig</b>
+feature-org-awesome = Alles van <b>Awesome</b>
 feature-org-separate = Afzonderlijke persoonlijke werkruimte
 feature-org-billing = Geconsolideerde facturering
 feature-bulkexport = <b>Bulk-export</b>
@@ -143,7 +151,7 @@ per-member-per-month = per lid per maand
 forever = voor altijd
 flexible = volledig flexibel
 
-awesome-feature = Geweldig pakket
+awesome-feature = Awesome Pakket
 org-feature = Organisatiefunctie
 
 footer-help = Help en documentatie
@@ -155,8 +163,8 @@ footer-api = API voor ontwikkelaars
 footer-blog = Bloggle
 footer-terms = Voorwaarden
 footer-press = Pers
-footer-what-is-mindmapping = Wat is mindmapping?
-footer-top-uses = Belangrijkste toepassingen van mindmaps
+footer-what-is-mindmapping = Wat is Mindmapping?
+footer-top-uses = Belangrijkste toepassingen van Mindmaps
 footer-company = Bedrijf
 footer-legal = Juridisch
 footer-access = Toegankelijkheid
@@ -194,8 +202,8 @@ awesome-trial-after = Daarna wordt u overgezet naar het gratis abonnement
 want-awesome-for-free = Wilt u Awesome gratis?
 help-search =
     .placeholder = Help me met...
-my-settings = Mijn instellingen & facturering
-my-settings-only = Mijn instellingen
+my-settings = Mijn Instellingen & Facturering
+my-settings-only = Mijn Instellingen
 org-settings =
     .title = Organisatie beheren
 org-admin = Beheerder van {$orgName}
@@ -253,7 +261,7 @@ help-searchcoggle-title = Zoeken in Coggle
 help-searchcoggle = Typ om je documenten te vinden — zoek snel naar elk woord in een diagram!
 help-hide-for-now = Voorlopig verbergen
 help-ok-got-it = Oké, begrepen!
-help-creatediagram-title = Maak een nieuw diagram
+help-creatediagram-title = Maak een Nieuw Diagram
 help-creatediagram = Maak een nieuw Coggle-diagram om aan de slag te gaan.
 
 help-createfolder-title = Een map maken
@@ -271,13 +279,15 @@ settings-recommend-title = Aanbevelen
 settings-emails-title = Communicatie
 settings-language-title = Taal
 settings-communication-title = Communicatie
-settings-account-title = Account sluiten
+settings-account-title = Account Sluiten
 settings-profile-title = Profiel
 settings-membership-title = Leden
 settings-exports-title = Exporten
 settings-authentication-title = Authenticatie
+settings-security = Beveiliging
+settings-appearance = Uiterlijk
 
-billing-card = De kaart die bij ons voor u geregistreerd staat, eindigt op <b>{ $cardEndsIn }</b> en verloopt op <b>{ $cardExpires }</b>.
+billing-card = De kaart die wij van u in ons bestand hebben, eindigt op <b>{ $cardEndsIn }</b> en verloopt op <b>{ $cardExpires }</b>.
 billing-addr = De postcode die bij ons voor uw factuuradres geregistreerd staat, is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Kaartgegevens bewerken</a>
 
 billing-remove = Verwijderen
@@ -303,7 +313,7 @@ me-diagram-notifications = Diagrammeldingen:
 slider-yes = JA
 slider-no = NEE
 
-me-language-title = Kies je voorkeurstaal
+me-language-title = Kies je Voorkeurstaal
 me-language-tip = Help ons Coggle in je moedertaal aan te bieden, of voeg iets toe dat ontbreekt door bij te dragen aan ons <a data-l10n-name='translate-link'>vertaalproject</a> op Github!
 me-language-questions = Als je vragen hebt over vertalingen – of als je correcties of verbeteringen hebt en niet zeker weet hoe je kunt helpen, stuur ons dan gewoon een e-mail op <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
@@ -321,14 +331,33 @@ recommend-share-link = Nodig medewerkers uit voor je diagrammen of deel je verwi
 claim-free-month = Claim je gratis maand Coggle Awesome!
 claim-redeem = Nu inwisselen
 
-
 close-account-title = Sluit je Coggle-account
 close-account = Sluit je gratis Coggle-account definitief.
 close-account-description = Dit proces is <b>onomkeerbaar</b> en wordt onmiddellijk van kracht. Je verliest de toegang tot al je diagrammen, dus zorg ervoor dat je alle diagrammen die je wilt bewaren hebt geëxporteerd.
-close-account-button = Mijn account sluiten
+close-account-button = Sluit mijn Account
 close-account-enteremail =
     .placeholder = Voer je e-mailadres in
 close-account-confirm = BEVESTIGEN
+
+# /me/security
+me-security-login-title = Inlog-opties
+me-security-login-options = Je account maakt gebruik van het e-mailadres <b>“{$user_email}”</b> om in te loggen. Je kunt elke ondersteunde inlogmethode met dit e-mailadres gebruiken om toegang te krijgen tot je account.
+me-security-passkeys-title = Toegangssleutels
+me-security-passkeys = Toegangssleutels zijn een veilige manier om in te loggen, zonder dat je een wachtwoord nodig hebt of een code hoeft te verifiëren die naar je e-mailadres is gestuurd. Je browser of apparaat slaat je toegangssleutel veilig op, waarna je deze kunt gebruiken om in te loggen bij Coggle.
+me-security-add-passkey = Toegangssleutel toevoegen
+me-security-logout = Meld je af bij al je actieve sessies, op alle apparaten.
+me-security-delete = verwijderen
+me-security-rename = hernoemen
+me-security-save = opslaan
+me-security-delete-pk = Toegangssleutel verwijderen?
+me-security-yesdel = ja, verwijder
+
+# /me/appearance
+me-appearance-title = Interface Weergave
+appear-light = Licht
+appear-dark = Donker
+appear-system = Systeem
+me-appearance-dm = Kies of de gebruikersinterface in lichte of donkere modus wordt weergegeven. Dit heeft geen invloed op hoe je diagrammen voor anderen worden weergegeven.
 
 # Galerijinhoud (/gallery) 
 gallery-title = De Coggle-galerij
@@ -375,7 +404,7 @@ paste-branch = tak plakken
 drag-zoom-page = slepen om pagina te zoomen
 add-label = label toevoegen
 
-help-title-title = De diagramtitel
+help-title-title = De Diagramtitel
 help-title-p1 = Dit is het midden van je diagram en de titel ervan. Je ideeën zullen zich vanaf hier vertakken!
 help-title-p2 = Begin met het bewerken ervan - waar gaat uw diagram over?
 help-gohome-2 = Als u klaar bent met bewerken, klikt u op het logo om terug te gaan naar de startpagina. Uw documenten worden automatisch opgeslagen.
@@ -411,7 +440,7 @@ upgrade-now = Nu upgraden
 me-support-awesomethanks-p1 = <b>Bedankt voor je steun aan Coggle!</b>
 me-support-awesomethanks-p2 = Omdat je een vroege Coggle-supporter bent, krijg je alle voordelen van het <a data-l10n-name="awesome">Coggle Awesome</a>-abonnement inbegrepen bij je abonnement!
 
-me-awesome = Dit ben jij &mdash;<b>Je bent geweldig!</b>
+me-awesome = Dit ben jij &mdash;<b>Je bent Awesome!</b>
 me-manage-plan = Beheer je abonnement
 
 me-free = Dit ben jij &mdash;<b>Je gebruikt Coggle gratis.</b> <a data-l10n-name="settings">Bekijk je instellingen.</a>
@@ -482,7 +511,7 @@ share-open-detail = Openbare diagrammen kunnen door iedereen worden bekeken en k
 download-pdf = PDF downloaden
 download-png = Afbeelding downloaden
 download-mm = .mm-bestand
-download-txt = Overzicht in platte tekst
+download-txt = Overzicht in Platte Tekst
 download-visio = Visio-stroomdiagram (.vsdx) 
 download-failed = Het genereren van het bestand is mislukt.
     .title = Klik om het opnieuw te proberen
@@ -541,7 +570,7 @@ sc-ret = enter ⏎
 sc-tab = tab ⇥
 sc-ctrl = ctrl ^
 sc-alt = alt
-sc-option = option ⌥
+sc-option = optie ⌥
 sc-dragdrop = slepen en neerzetten
 
 sidebar-whentyping = Tijdens het typen
@@ -584,7 +613,7 @@ hint-present-touch = Tik om takken weer te geven en te verbergen.
 hint-present-all = Klik om alle niveaus weer te geven en te verbergen.
 hint-present = Klik om takken weer te geven en te verbergen. Houd <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> ingedrukt om alle niveaus uit te vouwen.
 
-stat-saving = Aan het opslaan
+stat-saving = Opslaan...
 stat-saved = Alle wijzigingen opgeslagen
 stat-noaccess = Toegang geweigerd
 
@@ -772,7 +801,7 @@ orgs-feature-control-sharing = U kunt ervoor zorgen dat Coggles die in uw organi
 orgs-feature-manage-users-title = Gebruikers veilig beheren
 orgs-feature-manage-users = Gebruikers veilig beheren Verwijder leden uit uw organisatie zonder het werk dat ze hebben gedaan te verliezen. Gebruik het beheerdersdashboard om alle diagrammen te bekijken die in uw organisatie zijn gemaakt door huidige en voormalige leden, verwijderd of actief
 
-orgs-feature-export-title = Bulk exporteren
+orgs-feature-export-title = Bulk Exporteren
 orgs-feature-export = Organisatiebeheerders kunnen met één klik alle Coggles van de organisatie downloaden in een machinaal leesbaar, archiveerbaar JSON-formaat. Ideaal voor naleving van regelgeving of gewoon voor gemoedsrust.
 
 orgs-feature-branding-title = Laat uw merk zien
@@ -781,9 +810,13 @@ orgs-feature-branding = Maak professionele, strakke diagrammen met uw logo en ex
 orgs-feature-editable-links-title = Bewerkbare privé-links
 orgs-feature-editable-links = Maak een privé-link om te delen met medewerkers buiten uw organisatie, zodat zij een diagram kunnen bewerken zonder in te loggen.
 
-orgs-feature-awesome = Bovendien krijgen alle leden van uw organisatie de Coggle 
+orgs-feature-awesome = Bovendien krijgen alle leden van je organisatie toegang tot de <a data-l10n-name=“awesome”>Awesome</a> functies van Coggle.
+
+
+# Aanmeldpagina voor organisaties (/organizations/new)
+orgcreate-title2 = Maak een <a data-l10n-name=“orgs”>Coggle Organisatie aan</a>
 orgcreate-nameinput =
-  .placeholder = Kies een naam voor uw organisatie
+  .placeholder = Kies een Naam voor uw Organisatie
 orgcreate-namehint = Kies iets kort en herkenbaar!
 orgcreate-createbutton = Aanmaken
 
@@ -830,8 +863,7 @@ faq-orgs-awesome-a =
 
 faq-orgs-billing-q = Hoe werkt de facturering voor Coggle Organisation?
 faq-orgs-billing-a = Coggle Organisation betalen ${$pricePerMemberPerMonth} per lid per maand. U kunt
-  op elk moment leden toevoegen
-  en verwijderen via het dashboard van uw organisatie.
+  op elk moment leden toevoegen en verwijderen via het dashboard van uw organisatie.
 
 faq-orgs-edu-q = Zijn er speciale tarieven voor het onderwijs?
 faq-orgs-edu-a = Ja! Neem contact met ons op via education@coggle.it voor meer informatie.
