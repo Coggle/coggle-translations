@@ -285,6 +285,8 @@ settings-profile-title = Profil
 settings-membership-title = Membres
 settings-exports-title = Exportations
 settings-authentication-title = Authentication
+settings-security = Sécurité
+settings-appearance = Apparence
 
 billing-card = La carte que vous avez enregistrée se termine par <b>{ $cardEndsIn }</b>, elle expirera en <b>{ $cardExpires }</b>.
 billing-addr = Votre code postal de facturation est <b>{ $addressZip }</b>. <a data-l10n-name='edit'>Changer mes informations</a>
