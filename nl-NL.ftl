@@ -284,8 +284,8 @@ settings-profile-title = Profiel
 settings-membership-title = Leden
 settings-exports-title = Exporten
 settings-authentication-title = Authenticatie
-settings-security-title = Beveiliging
-settings-appearance-title = Uiterlijk
+settings-security = Beveiliging
+settings-appearance = Uiterlijk
 
 billing-card = De kaart die wij van u in ons bestand hebben, eindigt op <b>{ $cardEndsIn }</b> en verloopt op <b>{ $cardExpires }</b>.
 billing-addr = De postcode die bij ons voor uw factuuradres geregistreerd staat, is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Kaartgegevens bewerken</a>
@@ -293,6 +293,7 @@ billing-addr = De postcode die bij ons voor uw factuuradres geregistreerd staat,
 billing-remove = Verwijderen
 billing-nocard = Er zijn geen betaalmethoden opgeslagen in uw account. <a data-l10n-name='setup-card'>Kaartgegevens instellen</a>
 
+summary-subscription = Abonnement
 summary-free-plan = U heeft nog geen abonnement. <a data-l10n-name="subscribe">Upgrade nu!</a>
 summary-active-plan = Je hebt het <code>{ $planName }</code>-abonnement. <a data-l10n-name="cancel">Abonnement opzeggen</a> of <a data-l10n-name="compare">abonnementen vergelijken</a>.
 summary-uy-1 = Ontvang twee maanden gratis (<b>bespaar 15%</b>) door jaarlijks te betalen. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
@@ -318,6 +319,7 @@ me-language-tip = Help ons Coggle in je moedertaal aan te bieden, of voeg iets t
 me-language-questions = Als je vragen hebt over vertalingen – of als je correcties of verbeteringen hebt en niet zeker weet hoe je kunt helpen, stuur ons dan gewoon een e-mail op <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
 profile-title = Uw profiel in Coggle
+profile-p1 = Je naam en standaardprofielpictogram zijn afkomstig van het account waarmee je inlogt. Als je je pictogram hier wijzigt, wordt het alleen in Coggle aangepast.
 
 invite-n-more =
     { $introduceCount ->
@@ -327,12 +329,14 @@ invite-n-more =
 
 recommend-coggle = Coggle aanbevelen
 recommend-share-link = Nodig medewerkers uit voor je diagrammen of deel je verwijzingslink via <a data-l10n-name='email'>e-mail</a>.
+recommend-already-awesome = Je bent nu al Awesome – help de rest van de wereld Coggle te ontdekken!
 
 claim-free-month = Claim je gratis maand Coggle Awesome!
 claim-redeem = Nu inwisselen
 
 close-account-title = Sluit je Coggle-account
 close-account = Sluit je gratis Coggle-account definitief.
+close-account-clarification = Je moet eerst elk betaald abonnement opzeggen. Dit kun je doen via je <a data-l10n-name=‘billing-link’>factureringsinstellingen</a> voor persoonlijke Awesome-abonnementen, of via het instellingen-dashboard van je Organisation's voor Organisation-abonnementen..
 close-account-description = Dit proces is <b>onomkeerbaar</b> en wordt onmiddellijk van kracht. Je verliest de toegang tot al je diagrammen, dus zorg ervoor dat je alle diagrammen die je wilt bewaren hebt geëxporteerd.
 close-account-button = Sluit mijn Account
 close-account-enteremail =
@@ -343,6 +347,7 @@ close-account-confirm = BEVESTIGEN
 me-security-login-title = Inlog-opties
 me-security-login-options = Je account maakt gebruik van het e-mailadres <b>“{$user_email}”</b> om in te loggen. Je kunt elke ondersteunde inlogmethode met dit e-mailadres gebruiken om toegang te krijgen tot je account.
 me-security-passkeys-title = Toegangssleutels
+me-security-nopasskeys = Je account heeft geen toegangssleutels.
 me-security-passkeys = Toegangssleutels zijn een veilige manier om in te loggen, zonder dat je een wachtwoord nodig hebt of een code hoeft te verifiëren die naar je e-mailadres is gestuurd. Je browser of apparaat slaat je toegangssleutel veilig op, waarna je deze kunt gebruiken om in te loggen bij Coggle.
 me-security-add-passkey = Toegangssleutel toevoegen
 me-security-logout = Meld je af bij al je actieve sessies, op alle apparaten.
@@ -1013,4 +1018,15 @@ fact-organisation = Gebruik je Coggle voor zakelijke doeleinden? Je kunt een Cog
 fact-organisation2 = Wist je dat Coggle Organisation hun logo op hun Coggles kunnen plaatsen? Dat kan!
 
 fact-organisation3 = Wist je dat je een Coggle Organisation kunt aanmaken om de Coggles van je bedrijf te organiseren? Dat kan!
+
+
+# /gratis landingspagina
+index-free-title = De AI heeft je de informatie gegeven: nu is het aan jou om die te begrijpen. <br>Breng je gedachten in kaart met Coggle
+index-free-3 = Drie privé-mindmaps, voor altijd gratis.
+index-free-notrial = Geen proefperiodes, geen tijdslimieten.
+index-free-nolockin =  Als je upgradet voor geavanceerde functies: geen lock-in en geen contracten.
+
+index-everyone-succeed =  Wij vinden dat geweldige tools voor iedereen en overal beschikbaar moeten zijn, en we hebben miljoenen studenten geholpen bij het studeren, professionals bij hun ontwikkeling en bedrijven bij het behalen van succes.
+index-everyone-nolimit = Coggle biedt alles wat je nodig hebt om elk onderwerp in kaart te brengen, helemaal gratis: geen beperkingen qua grootte of opslagruimte, en de prachtige standaardkleuren en -vormen van Coggle.
+index-everyone-upgrade = Als je een upgrade uitvoert voor meer aanpassingsmogelijkheden of meer privé-mindmaps, help je ons om de gedachten van de wereld overzichtelijker en beter georganiseerd te maken. Hartelijk dank!
 
