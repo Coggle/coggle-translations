@@ -293,6 +293,7 @@ billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. 
 billing-remove = Remove
 billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
 
+summary-subscription = Subscription
 summary-free-plan = You don't have a subscription yet. <a data-l10n-name="subscribe">Upgrade now!</a>
 summary-active-plan = You're on the <code>{ $planName }</code> plan. <a data-l10n-name="cancel">Cancel subscription</a> or <a data-l10n-name="compare">compare plans</a>.
 summary-uy-1 = Get two months free (<b>save 15%</b>) by paying annually. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
@@ -318,6 +319,7 @@ me-language-tip = Help us provide Coggle in your native language, or add somethi
 me-language-questions = If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
 profile-title = Your Appearance in Coggle
+profile-p1 = Your name and default profile icon are from the account you use to sign in. Changing your icon here will only change it in Coggle.
 
 invite-n-more =
     { $introduceCount ->
@@ -327,12 +329,14 @@ invite-n-more =
 
 recommend-coggle = Recommend Coggle
 recommend-share-link = Either invite collaborators to your diagrams, or share your referral link via <a data-l10n-name='email'>email</a>.
+recommend-already-awesome = You're already Awesome - help the rest of the world discover Coggle!
 
 claim-free-month = Claim your free month of Coggle Awesome!
 claim-redeem = Redeem Now
 
 close-account-title = Close Your Coggle Account
 close-account = Permanently close your free Coggle account.
+close-account-clarification = You must cancel any paid subscriptions first, which you can do from your <a data-l10n-name='billing-link'>billing settings</a> for personal Awesome plans, or your Organisation's settings dashboard for Organisation plans.
 close-account-description = This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.
 close-account-button = Close my Account
 close-account-enteremail =
@@ -343,6 +347,7 @@ close-account-confirm = CONFIRM
 me-security-login-title = Login Options
 me-security-login-options = Your account uses the email address <b>"{$user_email}"</b> to sign in. You can use any supported sign-in method with this email addres to access your account.
 me-security-passkeys-title = Passkeys
+me-security-nopasskeys = Your account does not have any passkeys.
 me-security-passkeys = Passkeys are a secure way to sign in, without needing a password or verifying a code sent to your email. Your browser or device stores your passkey securely, then you can use it to sign in to Coggle.
 me-security-add-passkey = Add passkey
 me-security-logout = Sign out all of your active sessions, on all devices.
