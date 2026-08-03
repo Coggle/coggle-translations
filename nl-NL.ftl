@@ -284,8 +284,8 @@ settings-profile-title = Profiel
 settings-membership-title = Leden
 settings-exports-title = Exporten
 settings-authentication-title = Authenticatie
-settings-security = Beveiliging
-settings-appearance = Uiterlijk
+settings-security-title = Beveiliging
+settings-appearance-title = Uiterlijk
 
 billing-card = De kaart die wij van u in ons bestand hebben, eindigt op <b>{ $cardEndsIn }</b> en verloopt op <b>{ $cardExpires }</b>.
 billing-addr = De postcode die bij ons voor uw factuuradres geregistreerd staat, is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Kaartgegevens bewerken</a>
