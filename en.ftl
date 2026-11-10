@@ -300,7 +300,7 @@ summary-uy-1 = Get two months free (<b>save 15%</b>) by paying annually. <a data
 summary-uy-2 = Time remaining on your current plan will be automatically deducted from the cost of the upgrade.
 summary-uy-c1 = Confirm upgrade? We'll charge your card on file between $45 and $50 based on the remaining time on your monthly plan. Your new subscription renewal date will be in one year.
 summary-confirm = Confirm Upgrade
-summary-ending-2 = You have cancelled your <code>{$planName}</code> subscription</b>, and will not be billed again. You can continue to use the paid features until the end of the period you've already paid for.<br> <a data-l10n-name='resub'>Resubscribe</a>
+summary-ending-2 = You have cancelled your <code>{$planName}</code> subscription, and will not be billed again. You can continue to use the paid features until the end of the period you've already paid for.<br> <a data-l10n-name='resub'>Resubscribe</a>
 summary-overdue-plan = Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.
 complete-payment = You can <a data-l10n-name='invoice-link'>view and complete</a> the outstanding payment, or <a data-l10n-name='cancel'>cancel subscription</a>.
 
@@ -345,7 +345,7 @@ close-account-confirm = CONFIRM
 
 # /me/security
 me-security-login-title = Login Options
-me-security-login-options = Your account uses the email address <b>"{$user_email}"</b> to sign in. You can use any supported sign-in method with this email addres to access your account.
+me-security-login-options = Your account uses the email address <b>"{$user_email}"</b> to sign in. You can use any supported sign-in method with this email address to access your account.
 me-security-passkeys-title = Passkeys
 me-security-nopasskeys = Your account does not have any passkeys.
 me-security-passkeys = Passkeys are a secure way to sign in, without needing a password or verifying a code sent to your email. Your browser or device stores your passkey securely, then you can use it to sign in to Coggle.
@@ -804,7 +804,7 @@ orgs-feature-control-sharing-title = Control Sharing
 orgs-feature-control-sharing = You can make sure that Coggles created in your organization stay in your organization. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.
 
 orgs-feature-manage-users-title = Safely Manage Users
-orgs-feature-manage-users = Safely Manage UsersRemove members from your organization without losing the work they've done. Use the management dashboard to view all the diagrams created in your organization by members past and present, deleted or active
+orgs-feature-manage-users = Remove members from your organization without losing the work they've done. Use the management dashboard to view all the diagrams created in your organization by members past and present, deleted or active
 
 orgs-feature-export-title = Bulk Export
 orgs-feature-export = Organization admins can download all of the organizations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind.
@@ -855,7 +855,7 @@ faq-orgs-features-a =
       or regulatory purposes.</p>
     <p data-l10n-name='p4'><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
       one place, and revoke subscriptions when members come and go from your
-      organsiation. </p>
+      organization. </p>
 
 faq-orgs-awesome-q = How do Coggle Organizations relate to Coggle Awesome?
 faq-orgs-awesome-a =
