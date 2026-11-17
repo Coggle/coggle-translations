@@ -1,4 +1,4 @@
-### Traduções do Coggle para o Portugues Brasileiro
+### Traduções do Coggle para o Português Brasileiro
 #
 # For help with syntax email translations@coggle.it
 #
@@ -8,157 +8,157 @@
 # frontpage content (https://coggle.it/home), except for the plans section
 # which is described below
 
-index-tagline = Um jeito simples para compartilhar informações complexas.
-index-tagline-mm = Faça mapas mentais que fluam como suas ideias.
+index-tagline = Um jeito simples de compartilhar informações complexas.
+index-tagline-mm = Crie mapas mentais que fluam como suas ideias.
 index-signupnow = Registre-se agora
 index-login = Já tem uma conta? Faça login aqui.
-index-title = Mapas mentais simples e elegantes: tão rápido quanto seus pensamentos - Coggle
+index-title = Mapas mentais simples e elegantes: tão rápidos quanto seus pensamentos - Coggle
 
-index-nav-login = Login
+index-nav-login = Entrar
 index-nav-pricing = Planos
-index-nav-features = Características
+index-nav-features = Recursos
 index-nav-gallery = Galeria
-index-nav-home = Home
+index-nav-home = Início
 
-index-unleash = Explore sua criatividade.
-index-blurb = Produza notas maravilhosas e rapidamente. Compartilhe com seus amigos e colegas para trabalharem suas ideias juntos.
-index-viewgallery = Ou explore a <a data-l10n-name='gallery'>Galeria do Coggle</a> para inspirações.
+index-unleash = Libere sua criatividade.
+index-blurb = Produza notas incríveis rapidamente. Compartilhe com seus amigos e colegas para trabalharem juntos em suas ideias.
+index-viewgallery = Ou explore a <a data-l10n-name='gallery'>Galeria do Coggle</a> para se inspirar.
 
 index-colab-mindmaps-flowcharts-h = Mapas Mentais Colaborativos e Fluxogramas
 index-colab-mindmaps-flowcharts-p1 = O Coggle facilita a criação e o compartilhamento de mapas mentais e fluxogramas. Crie online diretamente do seu navegador: sem downloads ou instalações. <a data-l10n-name='login'>Faça login</a> e comece a criar seus mapas agora!
-index-colab-mindmaps-flowcharts-p2 = Se você está fazendo anotações, brainstorming, planejamento ou fazendo algo incrivelmente criativo, é muito simples visualizar suas ideias com o Coggle. Compartilhe com quantos amigos ou colegas você quiser. As alterações feitas serão exibidas instantaneamente no navegador, onde quer que estejam no mundo.
+index-colab-mindmaps-flowcharts-p2 = Seja fazendo anotações, brainstorming, planejamento ou criando algo inovador, é muito simples visualizar suas ideias com o Coggle. Compartilhe com quantos amigos ou colegas quiser. As alterações feitas aparecem instantaneamente no navegador deles, em qualquer lugar do mundo.
 
-index-use-notes-h = Fazer anotações
-index-use-notes-p = Abra o Coggle em uma reunião, durante sua revisão ou onde quer que a inspiração surja para criar notas bonitas e estruturadas.
+index-use-notes-h = Faça anotações
+index-use-notes-p = Abra o Coggle em uma reunião, durante seus estudos ou onde quer que a inspiração surja para criar notas bonitas e estruturadas.
 
-index-use-brainstorm-h = Brainstorm
-index-use-brainstorm-p = Dê início a uma ideia, regue-a com Coggle e veja-a crescer em um plano completo, claramente disposto e pronto para compartilhar.
+index-use-brainstorm-h = Brainstorming
+index-use-brainstorm-p = Comece com uma ideia, desenvolva-a no Coggle e veja-a crescer até se tornar um plano completo, bem organizado e pronto para compartilhar.
 
-index-use-share-h = Compartilhar informações
-index-use-share-p = Destile seu tópico em um Coggle, inclua todos os detalhes e compartilhe com sua equipe, seus colegas de classe ou o mundo!
+index-use-share-h = Compartilhe informações
+index-use-share-p = Sintetize seu assunto em um Coggle, inclua todos os detalhes e compartilhe com sua equipe, seus colegas de classe ou com o mundo!
 
-index-coggle-flow-title = Poderosos fluxogramas
-index-coggle-flow-description = Use o Coggle para mapear seus processos, sistemas e algoritmos usando nossos novos e poderosos recursos de <a data-l10n-name='flowcharts'>fluxograma fluxograma</a>.
+index-coggle-flow-title = Fluxogramas poderosos
+index-coggle-flow-description = Use o Coggle para mapear seus processos, sistemas e algoritmos usando nossos novos e poderosos recursos de <a data-l10n-name='flowcharts'>fluxograma</a>.
 
-features-realtime = Realtime Collaboration
-features-realtime-desc = Muitas vezes, nós trabalhamos melhor em equipes, e as equipes funcionam de forma mais eficaz quando podem colaborar livremente. Coggle permite que você convide seus amigos e colegas para trabalhar com você, ao mesmo tempo, em seus diagramas.
+features-realtime = Colaboração em tempo real
+features-realtime-desc = Muitas vezes trabalhamos melhor em equipe, e as equipes funcionam de forma mais eficaz quando podem colaborar livremente. O Coggle permite que você convide amigos e colegas para trabalhar com você, ao mesmo tempo, em seus diagramas.
 
-features-images-title = Complete a imagem
-features-images = Uma imagem vale mais que mil palavras. Coggle permite que você arraste e solte imagens a partir do seu ambiente de trabalho para seus diagramas. Simples assim! O melhor de tudo, não há limite para o número de imagens que você pode adicionar.
+features-images-title = Complete o quadro
+features-images = Uma imagem vale mais que mil palavras. O Coggle permite que você arraste e solte imagens diretamente da sua área de trabalho para seus diagramas. Simples assim! E o melhor de tudo: não há limite para o número de imagens que você pode adicionar.
 
-features-fullhistory-title = Save Every Change
-features-history = Você fez alterações em um documento, e um dia depois notou que não gostou das edições? Com o Coggle isso não é um problema. Basta entrar no modo de histórico para encontrar a versão correta, e fazer uma cópia a partir desse ponto!
+features-fullhistory-title = Salve todas as alterações
+features-history = Fez alterações em um documento e, um dia depois, percebeu que não gostou das edições? Com o Coggle isso não é problema. Basta entrar no modo de histórico para encontrar a versão anterior e fazer uma cópia a partir desse ponto!
 
-features-labels-title = Add Floating Text and Images
-features-labels = Add text labels and images that aren't part of the diagram tree to annotate parts of your map.
+features-labels-title = Adicione textos e imagens flutuantes
+features-labels = Adicione rótulos de texto e imagens que não fazem parte da árvore do diagrama para fazer anotações em qualquer parte do seu mapa.
 
-features-blame-title = Rastreamento de  responsabilidade
-features-blame = Já se perguntou quem fez as alterações naquele documento compartilhado? Bem, com o Coggle você pode olhar através do histórico de seu diagrama para ver quem alterou o quê, e quando! Basta entrar no modo de histórico do diagrama para descobrir.
+features-blame-title = Rastreamento de alterações
+features-blame = Já se perguntou quem fez determinada alteração naquele documento compartilhado? Com o Coggle, você pode navegar pelo histórico do seu diagrama para ver quem alterou o quê e quando! Basta abrir o modo de histórico do diagrama para descobrir.
 
-features-colours-title = Tenha o direito da cor
-features-colours = Você é um pensador visual? Você aprende pela disposição e pela cor? Bem, tenha certeza de obter a cor certa para seus tópicos, apenas clique em um ramo para mostrar a roda de cores e selecione a cor desejada.
+features-colours-title = Acerte na cor
+features-colours = Você é um pensador visual? Aprende melhor pela organização espacial e pelas cores? Garanta a cor ideal para cada tópico: basta clicar em uma ramificação para abrir a roda de cores e escolher a desejada.
 
-# features-notifications-title = Email Notifications
-# features-notifications = Get an email notification with a summary of changes when collaborators edit diagrams shared with you.
-# 
-# features-chat-title = Comments and Chat
-# features-chat = Add comments to nodes and chat with collaborators without leaving your diagram workspace.
+# features-notifications-title = Notificações por e-mail
+# features-notifications = Receba uma notificação por e-mail com um resumo das alterações quando colaboradores editarem diagramas compartilhados com você.
+# 
+# features-chat-title = Comentários e bate-papo
+# features-chat = Adicione comentários aos itens e converse com colaboradores sem sair da área de trabalho do seu diagrama.
 
 
 # Plans selection translations (https://coggle.it/plans, when logged in, and
 # also on the homepage)
 plans-free-forever-title = Grátis para sempre
-plans-free-description = Ideal para descobrir o Coggle e uso ocasional.
+plans-free-description = Ideal para conhecer o Coggle e para uso ocasional.
 plans-free-price = Grátis
 
-feature-realtime = <b>Real-time</b> collaboration
-feature-emoji = Over <b>1600</b> <a data-l10n-name="icons-link">beautiful icons</a>
-feature-diagrams = <b>Unlimited</b> public diagrams
+feature-realtime = Colaboração em <b>tempo real</b>
+feature-emoji = Mais de <b>1.600</b> <a data-l10n-name="icons-link">ícones incríveis</a>
+feature-diagrams = Diagramas públicos <b>ilimitados</b>
 feature-nprivate =
     { $privateDiagrams_available -> 
           [one] Um diagrama privado
-       *[other] {$privateDiagrams_available} diagrama privado
+       *[other] {$privateDiagrams_available} diagramas privados
     }
 feature-images = Uploads <b>ilimitados</b> de imagens
 feature-changes = Histórico <b>completo</b> de alterações
-feature-markdown = <b>Markdown</b> suportada
+feature-markdown = Suporte a <b>Markdown</b>
 feature-downloads = Download como <b>PDF e imagem</b>
 feature-labels = Caixas de texto em qualquer lugar
 feature-exports = Exportar como <b>.mm e texto</b>
-feature-imports = Importar de.mm <b>.mm e texto</b>
-feature-chat = Comentários & Chat
+feature-imports = Importar de <b>.mm e texto</b>
+feature-chat = Comentários e bate-papo
 feature-embed = Diagramas incorporáveis
 plans-free-getstarted = Começar!
 
 plans-awesome-title = Awesome
 plans-awesome-description = Ideal para uso <b>pessoal</b> ou <b>profissional</b>, com privacidade e recursos avançados.
-plans-awesome-price = $5 (USD) / mês
-feature-include-free = Tudo no plano <b>Free</b>
-feature-unlimited-private = Diagramas privados <b>ilimitados</b>.
-feature-multiroot = Vários pontos de partida.
+plans-awesome-price = US$ 5 / mês
+feature-include-free = Tudo do plano <b>Grátis</b>
+feature-unlimited-private = Diagramas privados <b>ilimitados</b>
+feature-multiroot = Vários pontos de partida
 feature-chathistory = Histórico <b>completo</b> de bate-papo
-feature-rearrange = Organizar automaticamente
-feature-rejoin = <b>Junte-se às filiais</b>
+feature-rearrange = Organização automática
+feature-rejoin = <b>Unir ramificações</b>
 feature-folders = <b>Pastas compartilhadas</b>
 feature-presentation = Modo de apresentação
-feature-bigimages = Upload de imagens em <b>alta resolução</b>.
-feature-linestyles = <b>Estilo de linha de controle</b>
-feature-extendedcolours = Mais cores
+feature-bigimages = Upload de imagens em <b>alta resolução</b>
+feature-linestyles = <b>Controle do estilo de linha</b>
+feature-extendedcolours = Mais opções de cores
 feature-editable-links = Colabore por <b>link</b>
 plans-findoutmore = Saiba mais!
 
-# plans-org-title = Organisation
-# plans-org-description = Ideal for <b>teams</b> that want to control access to their data and consolidate billing.
-# plans-org-price = $8 / member / month
-# feature-org-awesome = Everything from <b>Awesome</b>
-# feature-org-separate = Separate Personal workspace
-# feature-org-billing = Consolidated billing
-# feature-bulkexport = <b>Bulk export</b>
-# feature-adminpanel = <b>User & data</b> management
-# feature-branding = Branded diagrams
-# feature-org-saml-sso = SAML Single Sign On
+# plans-org-title = Organização
+# plans-org-description = Ideal para <b>equipes</b> que desejam controlar o acesso aos seus dados e unificar o faturamento.
+# plans-org-price = US$ 8 / membro / mês
+# feature-org-awesome = Tudo do plano <b>Awesome</b>
+# feature-org-separate = Espaço de trabalho pessoal separado
+# feature-org-billing = Faturamento unificado
+# feature-bulkexport = <b>Exportação em massa</b>
+# feature-adminpanel = Gerenciamento de <b>usuários e dados</b>
+# feature-branding = Diagramas com sua marca
+# feature-org-saml-sso = Logon único (SSO) SAML
 
 plans-select = Selecionar
-continue-free = Continue no <b>plano gratuito</b>
+continue-free = Continuar no <b>plano gratuito</b>
 current-plan = Seu plano atual
 cancel-subscription = Cancelar assinatura
-awesome-signup-monthly = Inscreva-se <span>$5 USD</span> por mês
-awesome-signup-yearly = Inscreva-se <span>$50 USD</span> por ano
-awesome-upgrade-monthly = Atualizar(<b>$5 USD</b>/mês)
-awesome-upgrade-yearly = Atualizar (<b>$50 USD</b>/ano
+awesome-signup-monthly = Assinar por <span>US$ 5</span> por mês
+awesome-signup-yearly = Assinar por <span>US$ 50</span> por ano
+awesome-upgrade-monthly = Fazer upgrade (<b>US$ 5</b>/mês)
+awesome-upgrade-yearly = Fazer upgrade (<b>US$ 50</b>/ano)
 yearly-discount-months = Pague anualmente e ganhe 2 meses grátis!
 yearly-discount = Economize US$ 10 pagando anualmente
-switch-yearly = Atualizar para uma assinatura anual
-manage-subscription = Gerenciar assinatura.
+switch-yearly = Mudar para assinatura anual
+manage-subscription = Gerenciar assinatura
 
 per-month = por mês
-per-member-per-month = por membro por mês
-forever = Eternamente
+per-member-per-month = por membro/mês
+forever = Para sempre
 
-awesome-feature = Awesome Plan
-org-feature = Organisation Feature
+awesome-feature = Recurso Awesome
+org-feature = Recurso Organização
 
 footer-help = Ajuda e Documentação
 footer-about = Sobre
 footer-contact = Contato
 footer-privacy = Privacidade
 footer-examples = Modelos e exemplos
-footer-api = API do desenvolvedor
+footer-api = API para desenvolvedores
 footer-blog = Bloggle
 footer-terms = Termos
 footer-press = Imprensa
-footer-what-is-mindmapping = O que é Mindmapping?
-footer-top-uses = Principais usos do mapa mental
+footer-what-is-mindmapping = O que é Mapeamento Mental?
+footer-top-uses = Principais usos dos mapas mentais
 footer-company = Empresa
-footer-legal = Legal
+footer-legal = Jurídico
 
 # logged-in homepage content (documents list): https://coggle.it when logged in
 create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Criar diagrama</span>
-    .title = Crie um diagrama de Coggle
+    .title = Criar um diagrama do Coggle
 create-diagram-2-nothere = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Criar diagrama</span>
-    .title = Você não pode criar novos diagramas aqui, selecione uma pasta diferente primeiro.
+    .title = Você não pode criar novos diagramas aqui; selecione outra pasta primeiro.
 search-diagrams =
-    .placeholder = Pesquise seus diagramas
+    .placeholder = Pesquisar seus diagramas
 search-public-diagrams = 
     .placeholder = Pesquisar diagramas públicos
 view-gallery = Galeria
@@ -169,153 +169,153 @@ created-by-you =
 shared-with-you =
     .value = Compartilhado com você
 folder-title =
-    .placeholder = Digite um nome de pasta
+    .placeholder = Digite o nome da pasta
     .value = { $name }
-folder-areyousure = tem certeza? 
-folder-sure = tenho certeza
-logout = Logout
+folder-areyousure = Tem certeza? 
+folder-sure = Tenho certeza
+logout = Sair
 settings = Configurações
-return-to-diagrams = Retorne aos diagramas
-upgrade-to-awesome = Atualize para <b>Awesome</b>!
+return-to-diagrams = Voltar aos diagramas
+upgrade-to-awesome = Faça upgrade para o <b>Awesome</b>!
 # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc.:
-awesome-time-remaining = Teste incrível expira <time data-l10n-name="remaining"></time>
-awesome-trial-after = Em seguida, você será movido para o plano gratuito
-want-awesome-for-free = Quer Awesome de graça?
+awesome-time-remaining = O teste do Awesome expira <time data-l10n-name="remaining"></time>
+awesome-trial-after = Depois disso, você voltará para o plano gratuito
+want-awesome-for-free = Quer o Awesome de graça?
 help-search =
     .placeholder = Ajude-me a...
-my-settings =  Minhas configurações & Faturamento.
-my-settings-only = Minhas configurações.
+my-settings = Minhas configurações e faturamento
+my-settings-only = Minhas configurações
 org-settings =
-    .title = Gerenciar a organização
+    .title = Gerenciar organização
 org-admin = Administrador de {$orgName}
 user-about = Sobre o Coggle
-user-contact = Fale Conosco
+user-contact = Fale conosco
 user-privacy = Política de privacidade
 user-terms = Termos e Condições
-user-link-drive = Link Google Drive
+user-link-drive = Vincular Google Drive
 diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_used } de { $privateDiagrams_available }</span> diagramas privados usados
 diagrams-unlimited = Diagramas privados <span data-l10n-name="count">ilimitados</span>.
 
-limitedaccess = Você tem acesso limitado a { $resourceName } como você não é um membro
+limitedaccess = Você tem acesso limitado a { $resourceName } porque não é um membro
 doclist-create = <b>Bem-vindo ao Coggle!</b> – Os diagramas que você criar serão listados aqui.
 
-doclist-shared = <b>Compartilhado com você</b> – diagramas criados por outras pessoas e compartilhados com você estão nesta pasta.
-doclist-folder-empty = <b>Esta é uma pasta vazia!</b> – Crie um novo diagrama aqui, ou arraste e solte diagramas em pastas.
-doclist-folder-recent = <b>Diagramas Recentemente Atualizados</b> – Diagramas de qualquer uma das suas pastas que foram modificadas no último mês aparecerão aqui.
-doclist-readonly = <b>Bem-vindo ao Coggle!</b> – Peça ao proprietário que lhe conceda acesso para criar um diagrama aqui.
-impersonatedaccess = Você está vendo o Coggle como um membro da Organização. <a data-l10n-name='back'>Retornar ao painel de administração</a>
+doclist-shared = <b>Compartilhado com você</b> – Os diagramas criados por outras pessoas e compartilhados com você ficam nesta pasta.
+doclist-folder-empty = <b>Esta pasta está vazia!</b> – Crie um novo diagrama aqui ou arraste e solte diagramas nas pastas.
+doclist-folder-recent = <b>Diagramas atualizados recentemente</b> – Os diagramas de qualquer uma das suas pastas que foram modificados no último mês aparecerão aqui.
+doclist-readonly = <b>Bem-vindo ao Coggle!</b> – Peça ao proprietário para conceder acesso para que você possa criar um diagrama aqui.
+impersonatedaccess = Você está visualizando o Coggle como membro da Organização. <a data-l10n-name='back'>Voltar ao painel de administração</a>
 
-doclist-loading-failed = Ah, não! Falha ao carregar a pasta, atualize a página para tentar novamente.
-doclist-discover-whatspossible = Quer obter mais do Coggle? Descubra <a data-l10n-name='link'>o que é possível</a>.
+doclist-loading-failed = Ah, não! Falha ao carregar a pasta. Atualize a página para tentar novamente.
+doclist-discover-whatspossible = Quer aproveitar ainda mais o Coggle? Descubra <a data-l10n-name='link'>o que é possível fazer</a>.
 
 tooltip-createorg =
     .title = Criar uma organização.
 tooltip-invite-folder =
-    .title = Adicione pessoas a esta pasta por e-mail.
+    .title = Adicionar pessoas a esta pasta por e-mail.
 tooltip-invite =
-    .title = Convide as pessoas a juntarem-se a este Coggle.
+    .title = Convidar pessoas para colaborar neste Coggle.
 tooltip-private-icon =
-    .title = DO diagrama é privado.
+    .title = O diagrama é privado.
 tooltip-unsubscribe =
-    .title = Cancelar inscrição de notificações.
+    .title = Cancelar inscrição nas notificações.
 tooltip-subscribe =
-    .title = Assine as notificações.
+    .title = Ativar notificações.
 tooltip-duplicate =
-    .title = Crie uma cópia.
+    .title = Criar uma cópia.
 tooltip-remove =
     .title = Remover diagrama.
 tooltip-restore =
-    .title =  Diagrama de restauração.
+    .title = Restaurar diagrama.
 tooltip-more =
-    .title = Opções de diagrama.
+    .title = Opções do diagrama.
 
 # documents list contextual help items 
-help-searchcoggle-title = Pesquisar Coggle
-help-searchcoggle = Digite para encontrar seus documentos - pesquise rapidamente qualquer palavra em um diagrama!
-help-hide-for-now = Manter oculto
-help-ok-got-it = OK, entendido!
+help-searchcoggle-title = Pesquisar no Coggle
+help-searchcoggle = Digite para encontrar seus documentos — pesquise rapidamente qualquer palavra dentro de um diagrama!
+help-hide-for-now = Ocultar por enquanto
+help-ok-got-it = OK, entendi!
 help-creatediagram-title = Criar um novo diagrama
 help-creatediagram = Crie um novo Diagrama Coggle para começar.
 
-# help-createfolder-title = Create a Folder
-# help-createfolder = Create folders to share with groups of people, or categorise Coggles.
+# help-createfolder-title = Criar uma pasta
+# help-createfolder = Crie pastas para compartilhar com grupos de pessoas ou categorizar seus Coggles.
 # 
-# help-orgs-switch-title = Switch Between Organizations
-# help-orgs-switch-p1 = Click to switch between Organizations.
-# help-orgs-switch-p2 = Organizations let you control sharing of Coggles and work with larger teams.
+# help-orgs-switch-title = Alternar entre organizações
+# help-orgs-switch-p1 = Clique para alternar entre organizações.
+# help-orgs-switch-p2 = As organizações permitem controlar o compartilhamento de Coggles e trabalhar com equipes maiores.
  
  
 # Settings page content
-# settings-plans-title = Plans
-# settings-billing-title = Billing & Invoices
-# settings-recommend-title = Recommend
-# settings-emails-title = Communication
-# settings-language-title = Language
-# settings-communication-title = Communication
-# settings-account-title = Close Account
-# settings-profile-title = Profile
-# settings-membership-title = Members
+# settings-plans-title = Planos
+# settings-billing-title = Faturamento e faturas
+# settings-recommend-title = Recomendar
+# settings-emails-title = Comunicação
+# settings-language-title = Idioma
+# settings-communication-title = Comunicação
+# settings-account-title = Encerrar conta
+# settings-profile-title = Perfil
+# settings-membership-title = Membros
 settings-exports-title = Exportação
-# settings-authentication-title = Authentication
+# settings-authentication-title = Autenticação
 
-# billig-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
-# billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
+# billig-card = O cartão cadastrado em sua conta termina em <b>{ $cardEndsIn }</b> e vence em <b>{ $cardExpires }</b>.
+# billing-addr = O CEP de cobrança cadastrado é <b>{ $addressZip }</b>. <a data-l10n-name="edit">Editar dados do cartão</a>
 
-# billing-remove = Remove
-# billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
+# billing-remove = Remover
+# billing-nocard = Não há formas de pagamento salvas em sua conta. <a data-l10n-name='setup-card'>Configurar dados do cartão</a>
 
-# summary-free-plan = You don't have a subscription yet. <a data-l10n-name="subscribe">Upgrade now!</a>
-# summary-active-plan = You're on the <code>{ $planName }</code> plan. <a data-l10n-name="cancel">Cancel subscription</a> or <a data-l10n-name="compare">compare plans</a>.
-# summary-uy-1 = Get two months free (<b>save 15%</b>) by paying annually. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
-# summary-uy-2 = Time remaining on your current plan will be automatically deducted from the cost of the upgrade.
-# summary-uy-c1 = Confirm upgrade? We'll charge your card on file between $45 and $50 based on the remaining time on your monthly plan. Your new subscription renewal date will be in one year.
-# summary-confirm = Confirm Upgrade
-# summary-ending-2 = You have cancelled your <code>{$planName}</code> subscription</b>, and will not be billed again. You can continue to use the paid features until the end of the period you've already paid for.<br> <a data-l10n-name='resub'>Resubscribe</a>
-# summary-overdue-plan = Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.
-# complete-payment = You can <a data-l10n-name='invoice-link'>view and complete</a> the outstanding payment, or <a data-l10n-name='cancel'>cancel subscription</a>.
+# summary-free-plan = Você ainda não tem uma assinatura. <a data-l10n-name="subscribe">Faça upgrade agora!</a>
+# summary-active-plan = Você está no plano <code>{ $planName }</code>. <a data-l10n-name="cancel">Cancelar assinatura</a> ou <a data-l10n-name="compare">comparar planos</a>.
+# summary-uy-1 = Ganhe dois meses grátis (<b>economize 15%</b>) pagando anualmente. <a data-l10n-name="upgrade">Fazer upgrade (<b>US$ 50</b>)</a>
+# summary-uy-2 = O tempo restante do seu plano atual será descontado automaticamente do valor do upgrade.
+# summary-uy-c1 = Confirmar upgrade? Cobraremos entre US$ 45 e US$ 50 no seu cartão cadastrado, dependendo do tempo restante do seu plano mensal. A nova data de renovação será daqui a um ano.
+# summary-confirm = Confirmar upgrade
+# summary-ending-2 = Você cancelou sua assinatura do plano <code>{$planName}</code> e não será cobrado novamente. Você pode continuar usando os recursos pagos até o fim do período já pago.<br> <a data-l10n-name='resub'>Reativar assinatura</a>
+# summary-overdue-plan = Sua assinatura está inativa devido a um pagamento em atraso. Você pode regularizar isso atualizando seu cartão ou entrando em contato conosco pelo e-mail <b>hello@coggle.it</b>.
+# complete-payment = Você pode <a data-l10n-name='invoice-link'>visualizar e concluir</a> o pagamento pendente ou <a data-l10n-name='cancel'>cancelar a assinatura</a>.
 
-me-communication-title = Communicação
-me-emails-title = Email Addresses
-me-emails-primary = (primary)
-me-emailstip = Nós só vamos enviar e-mail para o seu endereço principal, mas você pode receber convites de qualquer um dos outros.
+me-communication-title = Comunicação
+me-emails-title = Endereços de e-mail
+me-emails-primary = (principal)
+me-emailstip = Enviaremos e-mails apenas para o seu endereço principal, mas você pode receber convites em qualquer um dos outros endereços.
 me-talktome = Fale comigo: 
-me-diagram-notifications = Notificaçõe de Diagrama: 
+me-diagram-notifications = Notificações de diagrama: 
 
 slider-yes = SIM
 slider-no = NÃO
 
 me-language-title = Escolha seu idioma preferido
-me-language-tip = Ajude-nos a fornecer o Coggle em seu idioma nativo, ou adicione algo que está faltando contribuindo para o nosso <a data-l10n-name='translate-link'>projeto de traduções</a> no Github!
-me-language-questions = Se você tiver alguma dúvida sobre traduções – ou tiver correções ou melhorias e não tiver certeza de como ajudar, envie-nos um e-mail para <a data-l10n-name='translate-email'>translate@coggle.it</a>.
+me-language-tip = Ajude-nos a oferecer o Coggle em seu idioma nativo ou adicione o que estiver faltando contribuindo com nosso <a data-l10n-name='translate-link'>projeto de traduções</a> no GitHub!
+me-language-questions = Se tiver dúvidas sobre traduções — ou tiver correções e melhorias, mas não souber como ajudar — envie um e-mail para <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
-profile-title = Sua aparição no Coggle
+profile-title = Sua aparência no Coggle
 
 invite-n-more =
     { $introduceCount ->
            [one] Envie mais um convite para experimentar o Awesome gratuitamente!
-        *[other] Convide {$introduceCount} mais pessoas para experimentar o Awesome gratuitamente!
+        *[other] Convide mais {$introduceCount} pessoas para experimentar o Awesome gratuitamente!
     }
 
-recommend-coggle = Recomendar Coggle
-recommend-share-link = Convide colaboradores para seus diagramas ou compartilhe seu link de indicação <a data-l10n-name='email'>via email. </a>.
+recommend-coggle = Recomendar o Coggle
+recommend-share-link = Convide colaboradores para seus diagramas ou compartilhe seu link de indicação <a data-l10n-name='email'>por e-mail</a>.
 
-claim-free-month = Reivindique seu mês grátis de Coggle Awesome!
-claim-redeem = Resgatar Agora
+claim-free-month = Resgate seu mês grátis de Coggle Awesome!
+claim-redeem = Resgatar agora
 
 
-# close-account-title = Close Your Coggle Account
-# close-account = Permanently close your free Coggle account.
-# close-account-description = This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.
-# close-account-button = Close my Account
-# close-account-enteremail =
-#     .placeholder = Type your email address
-# close-account-confirm = CONFIRM
+# close-account-title = Encerrar sua conta do Coggle
+# close-account = Encerrar permanentemente sua conta gratuita do Coggle.
+# close-account-description = Este processo é <b>irreversível</b> e terá efeito imediato. Você perderá o acesso a todos os seus diagramas, portanto certifique-se de exportar aqueles que deseja manter.
+# close-account-button = Encerrar minha conta
+# close-account-enteremail =
+#     .placeholder = Digite seu endereço de e-mail
+# close-account-confirm = CONFIRMAR
 
 # Gallery Content (/gallery) 
 gallery-title = A Galeria Coggle
 gallery-blurb2 = Uma seleção dos melhores diagramas feitos com o Coggle!
-gallery-blurb3 = Encontre inspiração, modelos e exemplos de nossa seleção dos melhores diagramas públicos e mapas mentais feitos com o Coggle.
-gallery-folder-blurb3 = <b>A Galeria Coggle</b> - Uma seleção dos melhores diagramas feitos com Coggle!
+gallery-blurb3 = Encontre inspiração, modelos e exemplos em nossa seleção dos melhores diagramas públicos e mapas mentais feitos com o Coggle.
+gallery-folder-blurb3 = <b>A Galeria Coggle</b> - Uma seleção dos melhores diagramas feitos com o Coggle!
 
 
 # Diagram content 
@@ -330,79 +330,79 @@ unnamed-diagram = Diagrama sem nome
 add-branch = adicionar ramificação
 copy-branch = copiar ramificação
 add-to-discussion = adicionar à discussão
-comment-on-this = comente sobre isso
+comment-on-this = comentar sobre isso
 auto-arrange = organizar automaticamente
 pick-colour = escolher cor
-choose-style = escolha o estilo
+choose-style = escolher estilo
 choose-shape = escolher forma
 
 # (remove and item *and* all of its children)
 delete-branch = excluir ramificação inteira
 
 remove-item = remover item
-show-children = mostrar ramos filhos
-hide-children = ocultar ramos filhos
-drag-to-create-link = arraste para criar link
-drag-to-transplant-branch = arraste para transplantar o ramo
+show-children = mostrar subitens
+hide-children = ocultar subitens
+drag-to-create-link = arraste para criar conexão
+drag-to-transplant-branch = arraste para mover ramificação
 delete-connection = excluir conexão
-reverse-connection = conexão reversa
-label-connection = rotule esta conexão
+reverse-connection = inverter conexão
+label-connection = rotular esta conexão
 move-branch-to-diagram = mover ramificação para novo diagrama
 copy-branch-to-diagram = copiar ramificação para novo diagrama
 
 undo = desfazer
 redo = refazer
 paste-branch = colar ramificação
-drag-zoom-page = arrastar para a página de zoom
+drag-zoom-page = arraste para dar zoom na página
 add-label = adicionar rótulo
 
 help-title-title = O título do diagrama
-help-title-p1 = Este é o centro do seu diagrama e seu título. Suas ideias vão se ramificar a partir daqui!
-help-title-p2 = Comece escolhendo um título - do que se trata o seu diagrama?
-help-gohome = Clique no logotipo Coggle para voltar à página inicial, onde os seus documentos são salvos automaticamente.
+help-title-p1 = Este é o centro do seu diagrama e o seu título. Suas ideias vão se ramificar a partir daqui!
+help-title-p2 = Comece escolhendo um título — sobre o que é o seu diagrama?
+help-gohome = Clique no logotipo do Coggle para voltar à página inicial, onde seus documentos são salvos automaticamente.
 help-add-node = Use os botões <div data-l10n-name='plus'>+</div> para adicionar ramificações.
 help-edit-node-p1 = Clique em qualquer item para editar o texto.
 help-edit-node-p2 = Altere o tamanho do texto arrastando o canto da área de edição.
 help-move-node = Arraste qualquer texto para movê-lo.
-help-node-menu = Clique com o botão direito do mouse para acessar o menu. Aqui você pode adicionar, remover, copiar e organizar ramificações.
+help-node-menu = Clique com o botão direito do mouse para abrir o menu. Nele você pode adicionar, remover, copiar e organizar ramificações.
 help-morehelp-touch-title = Atalhos e Ajuda
 help-morehelp2-title = Atalhos de teclado e ajuda
-help-morehelp-touch = Abra a folha de ajuda para ver atalhos e pesquise rapidamente artigos de ajuda
-help-morehelp2 = Abra a folha de ajuda para ver os atalhos de teclado e pesquise rapidamente artigos de ajuda
+help-morehelp-touch = Abra o painel de ajuda para ver atalhos e pesquisar rapidamente artigos de suporte
+help-morehelp2 = Abra o painel de ajuda para ver os atalhos de teclado e pesquisar rapidamente artigos de suporte
 
-help-multiline = Adicione várias linhas de texto usando [ctrl] + [enter], ou arrastando a alça de redimensionamento antes de digitar.
-help-toolbar-invite-title = Trabalhe Com Outros
-help-toolbar-invite = Clique para convidar as pessoas para editar ou visualizar este Coggle. Você pode controlar as permissões das pessoas clicando em seu ícone.
+help-multiline = Adicione várias linhas de texto usando [ctrl] + [enter] ou arrastando a alça de redimensionamento antes de digitar.
+help-toolbar-invite-title = Trabalhe com outras pessoas
+help-toolbar-invite = Clique para convidar pessoas para editar ou visualizar este Coggle. Você pode controlar as permissões de cada um clicando no ícone correspondente.
 help-toolbar-invitemulti-title = Convide várias pessoas
-help-toolbar-invitemulti = Para economizar tempo, você pode convidar várias pessoas ao mesmo tempo: digite (ou cole) endereços de email separados por espaços, vírgulas<b>,</b> ou ponto-e-vírgulas<b>;</b>
+help-toolbar-invitemulti = Para ganhar tempo, você pode convidar várias pessoas de uma só vez: digite (ou cole) endereços de e-mail separados por espaços, vírgulas <b>,</b> ou ponto e vírgula <b>;</b>
 
-# help-toolbar-invitedonefaster-p1 = Now you've been editing for a while, try getting things done faster by collaborating!
-# help-toolbar-invitedonefaster-p2 = Invite people to edit with you, and see their changes instantly.
-# help-toolbar-inviteflow-title-2 = Invite a Co-worker by Email
-# help-toolbar-sharing-title = Shareable Links and Publishing
-# help-toolbar-sharing = You can also publish your diagram, or create secret shareable links to give access only to people with that link.
-# help-inactive-invite = Work with friends to help bring your ideas to life!<br>Invite by email here.
+# help-toolbar-invitedonefaster-p1 = Agora que você já está editando há um tempo, experimente concluir tudo mais rápido colaborando!
+# help-toolbar-invitedonefaster-p2 = Convide pessoas para editar com você e veja as alterações delas instantaneamente.
+# help-toolbar-inviteflow-title-2 = Convide um colega por e-mail
+# help-toolbar-sharing-title = Links compartilháveis e publicação
+# help-toolbar-sharing = Você também pode publicar seu diagrama ou criar links compartilháveis secretos para dar acesso apenas a quem tiver o link.
+# help-inactive-invite = Trabalhe com amigos para dar vida às suas ideias!<br>Convide por e-mail aqui.
 # 
-# me-as-awesome-orgmember-p1 = This is you &mdash; you\'re viewing Coggle as an <b>organisation member</b>.
-# me-as-awesome-orgmember-p2 = This means you get all the great features from the <a data-l10n-name="awesome">Coggle Awesome</a> plan too!
+# me-as-awesome-orgmember-p1 = Este é você &mdash; você está visualizando o Coggle como <b>membro de uma organização</b>.
+# me-as-awesome-orgmember-p2 = Isso significa que você também tem acesso a todos os ótimos recursos do plano <a data-l10n-name="awesome">Coggle Awesome</a>!
 # 
-# free-awesome = Want Awesome for free?
-# upgrade-now = Upgrade Now
+# free-awesome = Quer o Awesome de graça?
+# upgrade-now = Fazer upgrade agora
 # 
-# me-support-awesomethanks-p1 = <b>Thanks for supporting Coggle!</b>
-# me-support-awesomethanks-p2 = For being an early Coggle supporter, you get all the benefits of the <a data-l10n-name="awesome">Coggle Awesome</a> plan included in your subscription!
+# me-support-awesomethanks-p1 = <b>Obrigado por apoiar o Coggle!</b>
+# me-support-awesomethanks-p2 = Por ser um apoiador inicial do Coggle, você tem todos os benefícios do plano <a data-l10n-name="awesome">Coggle Awesome</a> incluídos na sua assinatura!
 # 
-# me-awesome = This is you &mdash;<b>You\'re Awesome!</b>
-# me-manage-plan = Manage your plan
+# me-awesome = Este é você &mdash; <b>Você é Awesome!</b>
+# me-manage-plan = Gerenciar seu plano
 
-me-free = Este é você &mdash;<b>Você está usando o Coggle gratuitamente.</b> <a data-l10n-name="settings">Veja suas configurações.</a>
-upgrade-awesome = Atualize para Awesome
+me-free = Este é você &mdash; <b>Você está usando o Coggle gratuitamente.</b> <a data-l10n-name="settings">Veja suas configurações.</a>
+upgrade-awesome = Fazer upgrade para Awesome
 
 
-# messages-title = Messages
+# messages-title = Mensagens
 # messages-search =
-#     .placeholder = Search
-# messages-start = You've reached the start!
+#     .placeholder = Pesquisar
+# messages-start = Você chegou ao início!
 messages-comments-notes =
     .placeholder = Insira comentários, discussões e notas.
 
@@ -414,23 +414,23 @@ diagram-toolbar-messages =
 diagram-toolbar-present =
     .title = Apresente este Coggle.
 diagram-toolbar-share =
-    .title = Compartilhe este Coggle.
+    .title = Compartilhar este Coggle.
 diagram-toolbar-download =
-    .title = Baixe este Coggle.
+    .title = Baixar este Coggle.
 diagram-toolbar-copy =
-    .title = Crie uma cópia deste Coggle.
-diagram-toolbar-public-detail = Public Diagram
-    .title = Este diagrama pode aparecer na Galeria do Coggle e nos resultados da pesquisa.
-diagram-toolbar-pubcopy = Usar como modelo.
+    .title = Criar uma cópia deste Coggle.
+diagram-toolbar-public-detail = Diagrama Público
+    .title = Este diagrama pode aparecer na Galeria do Coggle e nos resultados de pesquisa.
+diagram-toolbar-pubcopy = Usar como modelo
     .title = Crie sua própria cópia deste diagrama.
 public-label = Público
     .title = Este é um diagrama público.
 
 # history slider content 
-# current-version = current
+# current-version = atual
 
 # sharing dialog content 
-share-by-link = Compartilhando por Link
+share-by-link = Compartilhamento por link
 share-newlink2 = Criar link compartilhável
 share-embedlink = Incorporar em HTML
     .title = Gerar código HTML para incorporar em uma página da web
@@ -441,22 +441,22 @@ share-tag-writable = editável
 share-send-email = ENVIAR
 share-email-hints =
   <span>para convidar, digite um e-mail</span>
-  <span>então pressione enter</span>
+  <span>e pressione enter</span>
   <span>amigo@exemplo.com.br</span>
 
 # viewers-can-edit = 
-#     .title = Viewers can edit the diagram.
+#     .title = Visitantes podem editar o diagrama.
 # viewers-readonly =
-#     .title = Viewers can only view the diagram.
+#     .title = Visitantes podem apenas visualizar o diagrama.
 # viewers-can-copy =
-#     .title = Viewers may create their own copies.
+#     .title = Visitantes podem criar suas próprias cópias.
 # viewers-nocopy = 
-#     .title = Viewers may not create copies.
+#     .title = Visitantes não podem criar cópias.
 # revoke-link = 
-#     .title = Delete this link.
+#     .title = Excluir este link.
 
 share-publishing = Publicação
-share-open = Todos podem visualizar este diagrama?
+share-open = Qualquer pessoa pode visualizar este diagrama?
 share-open-detail = Os diagramas públicos podem ser visualizados por qualquer pessoa e podem aparecer em nossa <a data-l10n-name="gallery">Galeria</a>
 
 # download dialog content 
@@ -465,57 +465,57 @@ download-png = Baixar Imagem
 download-mm = Arquivo .mm
 download-txt = Transcrição em Texto
 download-visio = Fluxograma do Visio (.vsdx)
-download-failed = A geração do arquivo falhou.
+download-failed = Falha ao gerar o arquivo.
     .title = Clique para tentar novamente.
-# download-import-tip = <b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a data-l10n-name="import-link">Read more.</a>
+# download-import-tip = <b>Quer importar arquivos?</b> Arraste um arquivo .mm ou .txt para dentro de um diagrama para importá-lo! <a data-l10n-name="import-link">Saiba mais.</a>
 
 # access control slider content 
-# access-readonly = Read only<br/><span data-l10n-name="tip">Only allow them to view</span>
-# access-readclone = Read & create copies<br/><span data-l10n-name="tip">Also allow downloading and copying</span>
-# access-author = Author<br/><span data-l10n-name="tip">Allow creating and editing documents</span>
-# 
-# access-folder-readonly = Read only<br/><span data-l10n-name="tip">Only allow them to view</span>
-# access-folder-readclone = Read & create copies<br/><span data-l10n-name="tip">Also allow downloading and copying</span>
-# access-folder-author = Author<br/><span data-l10n-name="tip">Allow creating and editing documents</span>
-# access-folder-admin = Administer<br/><span data-l10n-name="tip">Add and remove people and documents</span>
-# 
-# access-remove = Remove { $user_givenName }
+# access-readonly = Somente leitura<br/><span data-l10n-name="tip">Permite apenas visualizar</span>
+# access-readclone = Ler e criar cópias<br/><span data-l10n-name="tip">Também permite baixar e copiar</span>
+# access-author = Autor<br/><span data-l10n-name="tip">Permite criar e editar documentos</span>
+# 
+# access-folder-readonly = Somente leitura<br/><span data-l10n-name="tip">Permite apenas visualizar</span>
+# access-folder-readclone = Ler e criar cópias<br/><span data-l10n-name="tip">Também permite baixar e copiar</span>
+# access-folder-author = Autor<br/><span data-l10n-name="tip">Permite criar e editar documentos</span>
+# access-folder-admin = Administrador<br/><span data-l10n-name="tip">Adiciona e remove pessoas e documentos</span>
+# 
+# access-remove = Remover { $user_givenName }
 
 # Notification Messages 
-readonly-warning = You cannot edit this diagram. <div data-l10n-name="suggestion">If you need to edit it, ask the author to give you permission.</div>
+readonly-warning = Você não pode editar este diagrama. <div data-l10n-name="suggestion">Se precisar editá-lo, peça permissão ao autor.</div>
 
-websocket-offline = Changes may be slow due to network issues. <a data-l10n-name="helpfix">Help me fix this!</a>
+websocket-offline = As alterações podem estar lentas devido a problemas de rede. <a data-l10n-name="helpfix">Ajude-me a resolver isso!</a>
 
-disconnect-warning = <b>Connection lost</b>: Changes may not be saved
+disconnect-warning = <b>Conexão perdida</b>: As alterações podem não ser salvas
 
-banner-undo-warning = Nothing more to undo!
-banner-redo-warning = Nothing more to redo!
+banner-undo-warning = Nada mais para desfazer!
+banner-redo-warning = Nada mais para refazer!
 
 # Image drag-drop messages 
-# image-resize-plug = Your image was resized - get <a data-l10n-name='awesome'>Awesome</a> to upload larger images!
+# image-resize-plug = Sua imagem foi redimensionada — assine o <a data-l10n-name='awesome'>Awesome</a> para enviar imagens maiores!
 
 # Help panel
-sidebar-contextmenu = Context Menu
-sidebar-clickformenu = Right click an item or the background to access a menu.
-sidebar-tapformenu = Tap an item or the background to access a menu.
+sidebar-contextmenu = Menu de contexto
+sidebar-clickformenu = Clique com o botão direito em um item ou no plano de fundo para abrir o menu.
+sidebar-tapformenu = Toque em um item ou no plano de fundo para abrir o menu.
 sidebar-controls = Controles
 
-sidebar-removebranch = Remover um Ramo:
-sidebar-insertbranch = Inserir um Ramo:
-sidebar-transplantbranch = Transplantar um Ramo:
-sidebar-addimages-title = Adicionar <a data-l10n-name='images'>Imagens</a>:
+sidebar-removebranch = Remover uma ramificação:
+sidebar-insertbranch = Inserir uma ramificação:
+sidebar-transplantbranch = Mover uma ramificação:
+sidebar-addimages-title = Adicionar <a data-l10n-name='images'>imagens</a>:
 
 sidebar-zoom = Zoom:
 
-sidebar-shortcuts = Teclas de Atalho
+sidebar-shortcuts = Teclas de atalho
 sidebar-undo = Desfazer:
 sidebar-redo = Refazer:
 
-# touch-pressitem = <b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more.
-# touch-pressbackground = <b>Long-press</b> on the <b>background</b> to add <b>labels</b>, <b>undo</b>, and paste.
+# touch-pressitem = <b>Mantenha pressionado</b> um <b>item</b> para <b>remover</b> itens, alterar <b>cor</b>, <b>organizar automaticamente</b>, criar links cruzados, copiar e muito mais.
+# touch-pressbackground = <b>Mantenha pressionado</b> o <b>plano de fundo</b> para adicionar <b>rótulos</b>, <b>desfazer</b> e colar.
 
-sc-and-click = + click
-sc-and-drag = + drag
+sc-and-click = + clique
+sc-and-drag = + arrastar
 sc-and-mousewheel = + roda do mouse
 sc-shift = shift
 sc-ret = enter
@@ -525,20 +525,20 @@ sc-alt = alt
 sc-option = alt ⌥
 sc-dragdrop = arrastar e soltar
 
-sidebar-whentyping = Quando digitando
-sidebar-sc-newitem = Novo Item:
+sidebar-whentyping = Ao digitar
+sidebar-sc-newitem = Novo item:
 
-sidebar-sc-newchild = Novo item filho:
+sidebar-sc-newchild = Novo subitem:
 
-sidebar-sc-parent = Pular para um Pai:
+sidebar-sc-parent = Ir para o item pai:
 
-sidebar-sc-markdown-title = Format text:
+sidebar-sc-markdown-title = Formatar texto:
 sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
 
 hint-control-line = Arraste para ajustar a linha.
 hint-control-remove = Clique para remover o ponto de controle.
-hint-delete-link = Excluir link cruzado.
-hint-edit-label = Editar rótulo de link cruzado.
+hint-delete-link = Excluir conexão cruzada.
+hint-edit-label = Editar rótulo da conexão cruzada.
 hint-add-title = Adicionar nova ramificação. Este é o título do diagrama.
 hint-add =
     {
@@ -548,371 +548,369 @@ hint-add =
     }
 hint-delete = Excluir ramificação.
 hint-remove = Excluir item.
-hint-insert-rp = Insira o item antes deste ou arraste para transplantar.
+hint-insert-rp = Inserir item antes deste ou arrastar para mover.
 
 stat-saving = Salvando
-stat-saved =Todas as alterações foram salvas 
+stat-saved = Todas as alterações foram salvas 
 stat-noaccess = Acesso negado
 
-another-fact = outro!
+another-fact = outra dica!
 cogglefacts-more = Leia mais...
 
 sidebar-markdown = Markdown
-sidebar-bgmenu = <b>Zoom</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.
-sidebar-bgmenu2 = <b>Zoom</b>, add <b>text labels</b>, <b>undo</b>, and <b>paste copied items</b> by right clicking the background.
-sidebar-icons = Icons
-markdown-icons = Type <code>:</code> while editing or use the button along the top of the item editor.
-markdown-checkbox = <code>- [X]</code> to create a <input data-l10n-name="checkbox"/> checkbox
-markdown-code = <code>`text`</code> to use a <code>fixed width</code> font
+sidebar-bgmenu = Aplique <b>zoom</b>, <b>desfaça</b> e <b>cole itens copiados</b> clicando com o botão direito no plano de fundo.
+sidebar-bgmenu2 = Aplique <b>zoom</b>, adicione <b>rótulos de texto</b>, <b>desfaça</b> e <b>cole itens copiados</b> clicando com o botão direito no plano de fundo.
+sidebar-icons = Ícones
+markdown-icons = Digite <code>:</code> durante a edição ou use o botão na parte superior do editor de itens.
+markdown-checkbox = <code>- [X]</code> para criar uma <input data-l10n-name="checkbox"/> caixa de seleção
+markdown-code = <code>`texto`</code> para usar fonte de <code>largura fixa</code>
 
 button-bold =
-    .title = Make text bold
+    .title = Deixar texto em negrito
 button-italic =
-    .title = Make text italic
+    .title = Deixar texto em itálico
 button-link =
-    .title = Link to a website
+    .title = Adicionar link para um site
 button-image =
-    .title = Upload an image
+    .title = Enviar uma imagem
 button-emoji =
-    .title = Search for icons.
+    .title = Pesquisar ícones.
 # button-formatting =
-#     .title = Text formatting
+#     .title = Formatação de texto
 # button-back =
-#     .title = Back
+#     .title = Voltar
 # button-aligned-left =
-#     .title = Aligned left
+#     .title = Alinhado à esquerda
 # button-aligned-center =
-#     .title = Aligned center
+#     .title = Centralizado
 # button-aligned-right =
-#     .title = Aligned right
+#     .title = Alinhado à direita
 # button-aligned-auto =
-#     .title = Aligned automatically
+#     .title = Alinhado automaticamente
 # button-upload =
-#     .title = Add image or attach file.
+#     .title = Adicionar imagem ou anexar arquivo.
 # button-attach =
-#     .title = Attach a file.
+#     .title = Anexar um arquivo.
 
 # diagram not-found page 
-nodiagram-title = Diagram not found!
-nodiagram-invalid-link = This diagram link is invalid, or access to it has been revoked.
-nodiagram-logged-in = You are currently logged in as <b>{ $user_givenName }</b>, with the email address <b>{ $user_email }</b>. If this diagram exists, this account does not have permission to access it.
-nodiagram-not-logged-in = <b>You are not currently logged in.</b>  If this diagram exists, you may have access to this diagram if you log in to your account.
-nodiagram-may-need-access = If someone gave you a link to this diagram they might also need to give you permission to view it.
+nodiagram-title = Diagrama não encontrado!
+nodiagram-invalid-link = Este link de diagrama é inválido ou o acesso a ele foi revogado.
+nodiagram-logged-in = Você está conectado como <b>{ $user_givenName }</b>, com o e-mail <b>{ $user_email }</b>. Se este diagrama existir, esta conta não tem permissão para acessá-lo.
+nodiagram-not-logged-in = <b>Você não está conectado no momento.</b> Se este diagrama existir, você poderá acessá-lo ao entrar na sua conta.
+nodiagram-may-need-access = Se alguém enviou o link deste diagrama para você, talvez essa pessoa também precise conceder permissão para visualizá-lo.
 
 
 # Awesome Landing Page (/awesome) 
 # awesome-pitch-title = Coggle Awesome
-# awesome-pitch = Supercharge your thinking with Coggle Awesome. Add huge images, present your Coggles, and create private Coggles that won't be indexed by search engines.
-awesome-signup = SIGN UP NOW
-awesome-price = ${$monthlyPrice} USD / MONTH
+# awesome-pitch = Potencialize suas ideias com o Coggle Awesome. Adicione imagens em alta resolução, apresente seus Coggles e crie diagramas privados que não são indexados por mecanismos de busca.
+awesome-signup = ASSINE AGORA
+awesome-price = US$ {$monthlyPrice} / MÊS
 
-awesome-feature-cp-title = Caminhos de Linha de Controle
-awesome-feature-cp = Coloque as conexões exatamente onde você deseja usando pontos de controle em caminhos de ramificação.
+awesome-feature-cp-title = Controle de Trajeto das Linhas
+awesome-feature-cp = Posicione as conexões exatamente onde desejar usando pontos de controle nos trajetos das ramificações.
 
-awesome-feature-shapes-title = Formas de Item Avançadas
-awesome-feature-shapes = Personalize seus fluxogramas usando todas as formas de item. Use diamantes para nós de decisão de fluxograma e coloque texto alinhado com conexões para organogramas.
+awesome-feature-shapes-title = Formas Avançadas de Itens
+awesome-feature-shapes = Personalize seus fluxogramas usando todas as formas disponíveis. Use losangos para pontos de decisão e insira textos alinhados às conexões para criar organogramas.
 
-# awesome-feature-private-title = Unlimited Private Diagrams
-# awesome-feature-private = Create as many private diagrams as you like. If you do ever cancel your subscription they stay private, and you keep access.
+# awesome-feature-private-title = Diagramas privados ilimitados
+# awesome-feature-private = Crie quantos diagramas privados quiser. Se você cancelar sua assinatura, eles continuarão privados e você manterá o acesso.
 # 
-# awesome-feature-joinloop-title = Create Loops and Join Branches
-# awesome-feature-joinloop = Join branches and create loops to create more powerful and flexible diagrams representing process flows and other advanced things.
+# awesome-feature-joinloop-title = Crie ciclos e una ramificações
+# awesome-feature-joinloop = Una ramificações e crie ciclos para montar diagramas mais flexíveis e completos, ideais para representar fluxos de processos e estruturas avançadas.
 
 awesome-feature-multiroot-title = Vários pontos de partida
-awesome-feature-multiroot = Adicione vários itens centrais aos diagramas para mapear tópicos relacionados em um único espaço de trabalho.
+awesome-feature-multiroot = Adicione vários itens centrais aos seus diagramas para mapear tópicos relacionados em um único espaço de trabalho.
 
-# awesome-feature-editablelinks-title = No-Setup Collaboration
-# awesome-feature-editablelinks = Allow any number of people to edit a diagram simply by sharing a secret link with them. No login required.
+# awesome-feature-editablelinks-title = Colaboração sem complicação
+# awesome-feature-editablelinks = Permita que qualquer número de pessoas edite um diagrama apenas compartilhando um link secreto com elas. Não exige login.
 
-# awesome-feature-linestyle-title = Control Line Style
-# awesome-feature-linestyle = Customise the thickness and style of the lines in your diagram.
+# awesome-feature-linestyle-title = Controle do estilo de linha
+# awesome-feature-linestyle = Personalize a espessura e o estilo das linhas no seu diagrama.
 # 
-# awesome-feature-bigimages-title = Show Them the Big Picture
-# awesome-feature-bigimages = Add huge images to your Coggles to illustrate your ideas: just drag and drop an image from your desktop onto a document.
+# awesome-feature-bigimages-title = Mostre todos os detalhes
+# awesome-feature-bigimages = Adicione imagens grandes aos seus Coggles para ilustrar suas ideias: basta arrastar e soltar uma imagem da sua área de trabalho no documento.
 # 
-# awesome-feature-colours-title = More Colours
-# awesome-feature-colours = Unlock a new range of vivid colours to help organise and highlight your ideas.
+# awesome-feature-colours-title = Mais cores
+# awesome-feature-colours = Desbloqueie uma nova paleta de cores vibrantes para ajudar a organizar e destacar suas ideias.
 # 
-# awesome-feature-autoarrange-title = Automatic Branch Layout
-# awesome-feature-autoarrange = Clean up the positioning of your branches in just one click using the automatic branch arrangement features of Coggle Awesome.
+# awesome-feature-autoarrange-title = Organização automática de ramificações
+# awesome-feature-autoarrange = Organize a posição das suas ramificações com apenas um clique usando o recurso de alinhamento automático do Coggle Awesome.
 # 
-# awesome-feature-folders-title = Shared Folders
-# awesome-feature-folders = Put your diagrams into folders to keep them organised and easily share them all with a group of collaborators.
+# awesome-feature-folders-title = Pastas compartilhadas
+# awesome-feature-folders = Organize seus diagramas em pastas para manter tudo em ordem e compartilhá-los facilmente com um grupo de colaboradores.
 # 
-# awesome-feature-flow-title = Powerful Flowcharting
-# awesome-feature-flow = Pick from a range of shapes to create expressive, powerful flowcharts, process maps, and other diagrams.
+# awesome-feature-flow-title = Fluxogramas poderosos
+# awesome-feature-flow = Escolha entre várias formas para criar fluxogramas expressivos e completos, mapas de processos e outros diagramas.
 
 awesome-hint-orgs =
-  If you're using Coggle for work, check out <a data-l10n-name="orglink">Coggle Organisations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
+  Se você usa o Coggle no trabalho, conheça as <a data-l10n-name="orglink">Organizações Coggle</a>, que oferecem todos os benefícios do Coggle Awesome além de recursos administrativos voltados para empresas.
 
 
 # Login Page /login
 login-heading = Entre no Coggle:
-index-loginwithgoogle = Faça login com o Google
+index-loginwithgoogle = Entrar com o Google
 index-signinwithapple = Iniciar sessão com a Apple
 
-login-title = Coggle - Entre para iniciar o Mapeamento Mental
+login-title = Coggle - Entre para começar a criar mapas mentais
 
-signin-by-email = Entre com o endereço de e-mail
-sign-in = Entre
+signin-by-email = Entrar com endereço de e-mail
+sign-in = Entrar
 
-login-saml = Também oferecemos suporte ao login de nível empresarial para organizações Coggle com OneLogin, Okta e outros provedores de identidade SAML 2.0.
-login-saml-where = Se você for um usuário de logon único, faça login usando a página compartilhada pelo administrador da sua organização.
-login-saml-more = Leia mais sobre Single Sign On.
+login-saml = Também oferecemos suporte ao login corporativo para Organizações Coggle com OneLogin, Okta e outros provedores de identidade SAML 2.0.
+login-saml-where = Se você utiliza logon único (SSO), faça login usando a página compartilhada pelo administrador da sua organização.
+login-saml-more = Saiba mais sobre o Logon Único (SSO).
 
 login-faq = Perguntas Frequentes
 login-colab = Posso colaborar com colegas?
 login-colab-a = Colabore e veja as alterações dos seus colegas instantaneamente
-    à medida que as fazem! Convide colaboradores por e-mail e gerencie quem pode
+    à medida que eles as fazem! Convide colaboradores por e-mail e gerencie quem pode
     fazer alterações no canto superior direito da página do diagrama.
 
 login-free = O Coggle é gratuito?
-login-free2-a = Sim, tudo para criar ótimos mapas mentais — sem limite de
-    tempo, colaboração em tempo real, sem limite de tamanho e muito mais — é
+login-free2-a = Sim, tudo o que você precisa para criar ótimos mapas mentais — sem limite de
+    tempo, com colaboração em tempo real, sem limite de tamanho e muito mais — é
     gratuito. <a data-l10n-name='pricing'>Faça um upgrade para obter recursos ainda
     mais poderosos</a> para profissionais e grandes equipes.
 
-login-what-q = O que vocês fazem com minha conta do Google/Microsoft?
+login-what-q = O que vocês fazem com a minha conta do Google/Microsoft?
 login-what-a2 = Solicitamos acesso apenas às suas informações básicas de perfil.
     Isso inclui seu nome, foto de perfil e endereço de e-mail.
-    Não podemos acessar mais nada.
+    Não temos acesso a mais nada.
 
 login-trial = Existe um período de teste?
-login-trial-a = Você pode usar a versão gratuita pelo tempo que quiser - não há limite de tempo e não é necessário cartão!
-login-trial-a2 = Ou, para experimentar a versão atualizada gratuitamente por um mês, convide três amigos para editar seu mapa mental com você!
+login-trial-a = Você pode usar a versão gratuita pelo tempo que quiser — não há limite de tempo nem necessidade de cartão de crédito!
+login-trial-a2 = Ou, para experimentar a versão paga gratuitamente por um mês, convide três amigos para editar um mapa mental com você!
 
 login-help = Onde posso obter ajuda ou suporte?
-login-help-a = Visite nossa base de conhecimento em <a data-l10n-name='help'>coggle.help</a> para obter vários guias ilustrados ou envie-nos um e-mail para <a data-l10n-name="email">hello@coggle.it</a>.
+login-help-a = Visite nossa base de conhecimento em <a data-l10n-name='help'>coggle.help</a> para conferir diversos guias ilustrados ou envie um e-mail para <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Organisations Landing Page (/organisations) 
-# orgs-pitch-title = Coggle Organizations
-# orsg-pitch = Each Coggle Organization comes with features designed for managing large groups of people, where members come and go, and sensitive information needs to be protected.
+# orgs-pitch-title = Organizações Coggle
+# orsg-pitch = Cada Organização Coggle conta com recursos desenvolvidos para gerenciar grandes grupos de pessoas, onde membros entram e saem e informações confidenciais precisam ser protegidas.
 
-orgs-signup = CREATE ORGANIZATION
+orgs-signup = CRIAR ORGANIZAÇÃO
 
-# orgs-subpitch-p1 = When information is critical to your team you need more powerful tools, and more control over your data. That’s why we've built <a data-l10n-name="orglink">Coggle Organizations</a>.
-# orgs-subpitch-p2 = Pricing is simple, <b>$8 per member per month</b>.<br><b>Unlimited everything</b>.
+# orgs-subpitch-p1 = Quando a informação é essencial para sua equipe, você precisa de ferramentas mais poderosas e maior controle sobre seus dados. É por isso que criamos as <a data-l10n-name="orglink">Organizações Coggle</a>.
+# orgs-subpitch-p2 = O preço é simples: <b>US$ 8 por membro ao mês</b>.<br><b>Tudo ilimitado</b>.
 
 
-# orgs-feature-saml-sso-title = SAML Single Sign On
-# orgs-feature-saml-sso = Authenticate users using your existing Single Sign On service. Support for OneLogin, Okta and more.
+# orgs-feature-saml-sso-title = Logon único (SSO) SAML
+# orgs-feature-saml-sso = Autentique usuários utilizando seu serviço de Logon Único existente. Compatível com OneLogin, Okta e outros.
 
 orgs-feature-in-one-place-title = Tudo em um só lugar
-orgs-feature-in-one-place = Todos os seus diagramas de organizações em um só lugar. Mantenha seu trabalho de equipe seguro, num local fácil de gerenciar – assim você sabe exatamente onde olhar.
+orgs-feature-in-one-place = Todos os diagramas da sua organização em um único lugar. Mantenha o trabalho da sua equipe seguro e em um local fácil de gerenciar — assim você sabe exatamente onde procurar.
 
-orgs-feature-control-sharing-title = Controle de Compartilhamento
-orgs-feature-control-sharing = Você pode ter certeza de que Coggles criado em sua organização permanecem em sua organização. Isso protege material confidencial à exposição acidental se o endereço de e-mail errado é convidado a um documento.
+orgs-feature-control-sharing-title = Controle de compartilhamento
+orgs-feature-control-sharing = Tenha a certeza de que os Coggles criados na sua organização permaneçam dentro dela. Isso protege materiais confidenciais contra exposição acidental caso o endereço de e-mail errado seja convidado para um documento.
 
-orgs-feature-manage-users-title = Gerencie Usuários com Segurança
-orgs-feature-manage-users = Remova os usuários de sua organização sem perder o trabalho que eles fizeram. Use o painel de gerenciamento para ver todos os diagramas criados em sua organização por usuários passados e presentes, excluídos ou ativos.
+orgs-feature-manage-users-title = Gerencie usuários com segurança
+orgs-feature-manage-users = Remova usuários da sua organização sem perder o trabalho que eles realizaram. Use o painel de gerenciamento para visualizar todos os diagramas criados na organização por membros atuais ou antigos, ativos ou removidos.
 
-orgs-feature-export-title = Exportação em Massa
-orgs-feature-export = Administradores de Organização podem baixar todas as organizações Coggles em um formato JSON, legível por máquina, com um único clique. Ótimo para a conformidade regulatória ou apenas paz de espírito.
+orgs-feature-export-title = Exportação em massa
+orgs-feature-export = Administradores da organização podem baixar todos os Coggles da empresa em formato JSON, legível por máquina, com apenas um clique. Excelente para conformidade regulatória ou simplesmente para sua tranquilidade.
 
 orgs-feature-branding-title = Mostre sua marca
-orgs-feature-branding = Crie diagramas profissionais e limpso, exibindo o seu logotipo e exporte-os como PDF ou PNG. Ótimo para compartilhar diagramas com clientes ou associados de sua empresa.
+orgs-feature-branding = Crie diagramas profissionais com visual limpo, exibindo seu logotipo, e exporte-os em formato PDF ou PNG. É uma excelente opção para compartilhar diagramas com clientes ou colegas da sua empresa.
 
-orgs-feature-editable-links-title = Links Privados Editávies
-orgs-feature-editable-links = Criar um link privado para compartilhar com colaboradores externos da sua organização, o que lhes permite editar um diagrama sem fazer login.
+orgs-feature-editable-links-title = Links privados editáveis
+orgs-feature-editable-links = Crie um link privado para compartilhar com colaboradores externos à sua organização, permitindo que eles editem um diagrama sem precisar fazer login.
 
-# orgs-feature-awesome = In addition, all members of your organisation will get the Coggle <a data-l10n-name="awesome">Awesome</a> features.
+# orgs-feature-awesome = Além disso, todos os membros da sua organização terão acesso aos recursos do Coggle <a data-l10n-name="awesome">Awesome</a>.
 
 
 # Organizations Sign-Up Page (/organizations/new) 
-# orgcreate-title2 = Create a <a data-l10n-name="orgs">Coggle Organisation</a>
+# orgcreate-title2 = Criar uma <a data-l10n-name="orgs">Organização Coggle</a>
 # orgcreate-nameinput =
-#     ,placeholder = Choose Your Organisation Name
-# orgcreate-namehint = Pick something short and recognisable!
-# orgcreate-createbutton = Create
+#     ,placeholder = Escolha o nome da sua organização
+# orgcreate-namehint = Escolha algo curto e fácil de reconhecer!
+# orgcreate-createbutton = Criar
 
-# faq-orgs-whatare-q = What are Coggle Organisations?
+# faq-orgs-whatare-q = O que são as Organizações Coggle?
 # faq-orgs-whatare-a =
-#     <p data-l10n-name='p1'>Coggle Organisations create a separation between
-#       your personal diagrams and those owned by your company. By separating
-#       what's personal from what's professional you gain greater control over
-#       your businesses data that's stored in Coggle, including when and how it's
-#       shared by your employees.</p>
+#     <p data-l10n-name='p1'>As Organizações Coggle criam uma separação entre
+#       seus diagramas pessoais e aqueles que pertencem à sua empresa. Ao separar
+#       o pessoal do profissional, você ganha maior controle sobre os dados
+#       corporativos armazenados no Coggle, incluindo quando e como eles são
+#       compartilhados pelos funcionários.</p>
 # 
-# faq-orgs-whofor-q = Who are Coggle Organisations for?
+# faq-orgs-whofor-q = Para quem são as Organizações Coggle?
 # faq-orgs-whofor-a =
-#     <p data-l10n-name='p1'>Coggle Organisations have been designed for teams that require
-#       greater control over the data they enter into Coggle, or need to keep
-#       personal data separate. They're being successfully used by private
-#       companies, public bodies, schools and universities to help groups
-#       collaborate securely.</p> 
-#     <p data-l10n-name='p2'>Any group that need more control over sharing of diagrams, whether for
-#       regulatory or internal policy compliance will find Coggle Organisations
-#       useful.</p>
+#     <p data-l10n-name='p1'>As Organizações Coggle foram projetadas para equipes que exigem
+#       maior controle sobre os dados inseridos no Coggle ou precisam manter os
+#       dados pessoais separados. Elas são usadas com sucesso por empresas privadas,
+#       órgãos públicos, escolas e universidades para ajudar grupos a
+#       colaborarem com segurança.</p> 
+#     <p data-l10n-name='p2'>Qualquer grupo que precise de mais controle sobre o compartilhamento de diagramas, seja por
+#       exigências regulatórias ou políticas internas, achará as Organizações Coggle
+#       muito úteis.</p>
 # 
-# faq-orgs-features-q =  What are the main features of a Coggle Organisation?
+# faq-orgs-features-q = Quais são os principais recursos de uma Organização Coggle?
 # faq-orgs-features-a =
-#     <p data-l10n-name='p1'><b>Administrators dashboard</b>: complete control over diagrams created
-#       by members of your organisation, including restoration of deleted diagrams.
+#     <p data-l10n-name='p1'><b>Painel de administração</b>: controle total sobre os diagramas criados
+#       pelos membros da sua organização, incluindo a restauração de diagramas excluídos.
 #     </p>
-#     <p data-l10n-name='p2'><b>Data control</b>: choose to limit sharing of data to within your
-#       organisation only.</p>
-#     <p data-l10n-name='p3'><b>Bulk export</b>: export all diagrams in your organisation for backup
-#       or regulatory purposes.</p>
-#     <p data-l10n-name='p4'><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
-#       one place, and revoke subscriptions when members come and go from your
-#       organsiation. </p>
+#     <p data-l10n-name='p2'><b>Controle de dados</b>: opte por limitar o compartilhamento de dados apenas ao interior da sua
+#       organização.</p>
+#     <p data-l10n-name='p3'><b>Exportação em massa</b>: exporte todos os diagramas da sua organização para backup
+#       ou fins regulatórios.</p>
+#     <p data-l10n-name='p4'><b>Faturamento unificado</b>: pague por várias assinaturas Awesome em
+#       um só lugar e revogue licenças conforme membros entram e saem da sua
+#       organização.</p>
 # 
-# faq-orgs-awesome-q = How do Coggle Organisations relate to Coggle Awesome?
+# faq-orgs-awesome-q = Qual é a relação entre as Organizações Coggle e o Coggle Awesome?
 # faq-orgs-awesome-a =
-#     <p data-l10n-name='p1'>Coggle Organisations are a great way to centralise billing and license
-#       management for multiple Coggle Awesome subscriptions.</p>
-#     <p data-l10n-name='p2'>Every user in your Organisation will automatically get Coggle Awesome
-#       when they're working on diagrams in your organisation workspace. This means
-#       all the great features including private diagrams, presentation mode,
-#       extended colour palette and high resolution image uploads.</p>
+#     <p data-l10n-name='p1'>As Organizações Coggle são uma ótima maneira de centralizar o faturamento e o
+#       gerenciamento de licenças para múltiplas assinaturas do Coggle Awesome.</p>
+#     <p data-l10n-name='p2'>Todos os usuários da sua Organização recebem automaticamente o Coggle Awesome
+#       ao trabalharem em diagramas no espaço de trabalho da empresa. Isso inclui
+#       todos os recursos avançados, como diagramas privados, modo de apresentação,
+#       paleta de cores estendida e upload de imagens em alta resolução.</p>
 # 
-# faq-orgs-billing-q = How does billing work for Coggle Organisations?
-# faq-orgs-billing-a = Coggle Organisations are charged at ${$pricePerMemberPerMonth} per member per month. You can add
-#   and remove members at any time from the dashboard for your organisation.
+# faq-orgs-billing-q = Como funciona o faturamento para Organizações Coggle?
+# faq-orgs-billing-a = As Organizações Coggle custam US$ {$pricePerMemberPerMonth} por membro ao mês. Você pode adicionar
+#   e remover membros a qualquer momento no painel da sua organização.
 # 
-# faq-orgs-edu-q = Are there any education pricing options?
-# faq-orgs-edu-a = Yes! Contact us at education@coggle.it to find out more.
+# faq-orgs-edu-q = Existem opções de preços para instituições de ensino?
+# faq-orgs-edu-a = Sim! Entre em contato conosco pelo e-mail education@coggle.it para saber mais.
 # 
-# faq-orgs-more-q = I've still got some questions...
-# faq-orgs-more-a = Ask us! Send us an email to orgs@coggle.it and we'll be happy to help :)
+# faq-orgs-more-q = Ainda tenho algumas dúvidas...
+# faq-orgs-more-a = Pergunte! Envie um e-mail para orgs@coggle.it e teremos prazer em ajudar :)
 
 
 # About Coggle (/about) 
 about-hello2-title = Olá!
 about-hello2-p1 =
-  Coggle está prestes a redefinir a forma de trabalhar com documentos: a forma
-  como compartilhamos e armazenamos conhecimenro.  É um espaço para pensamentos
-  que funciona como as pessoas fazem — não da maneira rígida dos computadores.
+  O Coggle veio para redefinir a forma de trabalhar com documentos: o jeito
+  como compartilhamos e armazenamos conhecimento. É um espaço para ideias
+  que funciona como a mente humana — e não da maneira rígida dos computadores.
 
 about-hello2-p2 =
-  É gratuito, e nós prometemos que sempre será, mas nós ainda levamos nossas
-  responsabilidades a sério. Prometemos cuidar de seus dados dando o melhor que
-  sabemos, para manter cópias de segurança, e levando segurança a sério.
+  É gratuito e prometemos que sempre será, mas levamos nossas
+  responsabilidades muito a sério. Comprometemo-nos a cuidar dos seus dados da melhor forma
+  possível, mantendo cópias de segurança e tratando a privacidade com rigor.
 about-hello2-p3 =
-  Nossa missão é mudar para sempre a maneira como as pessoas trabalham e
-  colaboram, para torná-lo mais produtivo, e para tornar mais fácil o
-  compartilhaento  de informações com outros, e fazer isso de uma maneira
-  bonita, e prazerosa de se usar.
+  Nossa missão é transformar para sempre a maneira como as pessoas trabalham e
+  colaboram, tornando-as mais produtivas e facilitando o
+  compartilhamento de informações de um jeito bonito e prazeroso de usar.
 
 
 about-what-is-mindmapping-title = O que é Mapeamento Mental?
 about-what-is-mindmapping =
-    Um mapa mental é uma maneira simples de mapear visualmente um tópico de
-    forma orgânica. Começa com um ou mais tópicos centrais e depois se ramifica
-    repetidamente, decompondo as informações em uma hierarquia de seus
+    Um mapa mental é uma forma simples de mapear visualmente um assunto de
+    maneira orgânica. Ele começa com um ou mais tópicos centrais e se ramifica
+    sucessivamente, dividindo as informações em uma hierarquia de seus
     componentes.<br>
-    Os itens no mapa mental podem ser posicionados espacialmente e
-    formatados para tamanho e cor para ajudar na memória e na memória. O
-    mapeamento mental passa por muitos diferentes nomes: mapeamento conceitual,
-    diagramas spider, diagramas de brainstorm e outros, mas você pode usar
-    Coggle para todos eles!
+    Os itens do mapa mental podem ser posicionados livremente e
+    formatados em tamanho e cor para auxiliar na memorização e na compreensão. O
+    mapeamento mental recebe vários nomes — mapas conceituais,
+    diagramas de aranha, diagramas de brainstorming, entre outros — e você pode usar
+    o Coggle para criar todos eles!
 
 about-who-is-mindmapping-for-title = Para quem são os Mapas Mentais?
 about-who-is-mindmapping-for =
-    Os mapas mentais são úteis para qualquer pessoa planejar, fazer anotações,
-    visualizar informações, Faça brainstorming, resolva problemas, estude e
-    compartilhe informações (para citar apenas um poucos).<br>
-    Realmente não há limite para seus usos! Todo mundo que valoriza o
-    pensamento visual, nos negócios, na educação ou apenas em Sua vida pessoal
-    pode encontrar mapas mentais úteis para organizar informações.
+    Os mapas mentais são úteis para qualquer pessoa que precise planejar, fazer anotações,
+    visualizar informações, fazer brainstorming, resolver problemas, estudar e
+    compartilhar ideias (para citar apenas alguns exemplos).<br>
+    Realmente não há limite para suas aplicações! Qualquer pessoa que valorize o
+    pensamento visual — nos negócios, na educação ou na vida pessoal —
+    encontrará nos mapas mentais uma ótima ferramenta para organizar informações.
 
 
 about-getintouch-title = Entre em Contato
 about-getintouch =
-    Tem uma questão? Quer nos dizer como está usando o Coggle? Ou talvez apenas
-    dar-nos algum retorno? Você pode nos encontrar no <a data-l10n-name="facebook">facebook</a> e no
-    <a data-l10n-name="x">X</a> e se preferir pode sempre enviar-nos e-mail para
-    <a data-l10n-name="email">hello@coggle.it</a> — amamos papear!
+    Tem alguma dúvida? Quer nos contar como está usando o Coggle? Ou talvez apenas
+    enviar um feedback? Você pode nos encontrar no <a data-l10n-name="facebook">Facebook</a> e no
+    <a data-l10n-name="x">X</a> ou, se preferir, envie um e-mail para
+    <a data-l10n-name="email">hello@coggle.it</a> — adoramos conversar!
 
 
 
-about-share-title = Espalhe a palavra
+about-share-title = Espalhe a novidade
 about-share =
-  Se você amou o Coggle, então nos ajude a trazer ainda mais pessoas para a
-  liberdade dos limites das listas, planilhas e documentos convencionais! Você
-  pode compartilhar Coggle <a data-l10n-name="x"> no X</a> ou <a data-l10n-name="facebook">no Facebook</a>.
+  Se você adora o Coggle, ajude-nos a libertar ainda mais pessoas das
+  limitações de listas, planilhas e documentos tradicionais! Você
+  pode compartilhar o Coggle <a data-l10n-name="x">no X</a> ou <a data-l10n-name="facebook">no Facebook</a>.
 
 
 # Coggle Facts 
-fact-math = Você sabia que pode-se escrever matemática nos Coggles? (Sério, genial!) Use \\\\( LaTeX aqui \\\\) para tentar!
+fact-math = Você sabia que é possível escrever fórmulas matemáticas nos Coggles? (Sério, é genial!) Use \\( LaTeX aqui \\) para experimentar!
 
-fact-collaborate = Você sabia que pode-se colaborar em tempo real com outros? Você pode! Olhe para o botão compartilhar no topo à direita.
+fact-collaborate = Você sabia que pode colaborar em tempo real com outras pessoas? Pois pode! Procure o botão de compartilhar no canto superior direito.
 
-fact-share = Você sabia que pode-se editar um Coggle ao mesmo tempo que outro qualquer? Você pode! Procure o botão compartilhar no topo à direita.
+fact-share = Você sabia que pode editar um Coggle ao mesmo tempo que outras pessoas? Pois pode! Procure o botão de compartilhar no canto superior direito.
 
-fact-font = Você sabia que pode-se usar fonte de largura fixa nos Coggles? Você pode!<br>Apenas use `crases` ao redor do texto, isso também interrompe outra sintaxe especial de ser interpretada.
+fact-font = Você sabia que pode usar fonte de largura fixa nos Coggles? Pois pode!<br>Basta colocar `crases` ao redor do texto; isso também evita que outras sintaxes especiais sejam interpretadas.
 
-fact-bold = Você sabia que pode-se usar texto em **negrito** nos Coggles?<br>Basta adicionar **dois asteriscos** onde quer dar ênfase!
+fact-bold = Você sabia que pode usar texto em **negrito** nos Coggles?<br>Basta adicionar **dois asteriscos** onde quiser dar ênfase!
 
-fact-italic = Você sabia que pode-se usar texto em *itálico* nos Coggles?<br>Basta usar *asterisco* onde quer dar ênfase!
+fact-italic = Você sabia que pode usar texto em *itálico* nos Coggles?<br>Basta usar *asterisco* onde quiser dar ênfase!
 
-fact-links = Você sabia que pode-se colocar links nos Coggles? Você pode!<br>Eles vão funcionar assim:<br>[descrição](http://exemplo.com.br)
+fact-links = Você sabia que pode inserir links nos Coggles? Pois pode!<br>Eles funcionam assim:<br>[descrição](http://exemplo.com.br)
 
-fact-download = Você sabia que pode-se baixar seu Coggle como um PDF ou como uma imagem. Você pode! Procure o botão de download no canto superior direito da tela
+fact-download = Você sabia que pode baixar seu Coggle como PDF ou imagem? Pois pode! Procure o botão de download no canto superior direito da tela.
 
-fact-markdown = Você sabia que Coggle usa a <a data-l10n-name='link'>sintaxe  markdown</a> Usa!<br>Experimente links como este: &lt;http://exemplo.com.br&gt;
+fact-markdown = Você sabia que o Coggle usa <a data-l10n-name='link'>sintaxe Markdown</a>? Usa sim!<br>Experimente links assim: &lt;http://exemplo.com.br&gt;
 
-fact-latex = Você sabia que Coggle suporta fórmulas LaTeX? Isso mesmo!<br>Use \\\\( LaTeX aqui \\\\) para experimentar! Confira <a data-l10n-name='link'>este link</a> para ajuda na sintaxe.
+fact-latex = Você sabia que o Coggle oferece suporte a fórmulas LaTeX? Pois oferece!<br>Use \\( LaTeX aqui \\) para experimentar! Confira <a data-l10n-name='link'>este link</a> para ajuda com a sintaxe.
 
-fact-move = Quer este ítem em uma parte diferente do Coggle? Sem problema! Segure o shift enquanto arrasta o botão (+) de um item para recolocálo em outro lugar.
+fact-move = Quer mover este item para outra parte do Coggle? Sem problema! Segure [shift] enquanto arrasta o botão (+) de um item para reposicioná-lo.
 
-fact-fontsize = Texto muito grande? Você poder dar zoom!<br> use [ctrl] [+] / [ctrl] [-]
+fact-fontsize = Texto muito grande? Você pode dar zoom!<br>Use [ctrl] [+] / [ctrl] [-].
 
-fact-zoomin = Você sabia que pode aumentar o zoom para uma visão aproximada?<br> use [ctrl] [+] na maioria dos navgeadores!
+fact-zoomin = Você sabia que pode aumentar o zoom para ver mais de perto?<br>Use [ctrl] [+] na maioria dos navegadores!
 
-fact-zoomout = Você sabia que pode diminuir o zoom para visão geral? Você pode!<br> use [ctrl] [-] na maioria dos navgeadores!
+fact-zoomout = Você sabia que pode diminuir o zoom para ter uma visão geral? Pois pode!<br>Use [ctrl] [-] na maioria dos navegadores!
 
-fact-markdown2 = Você sabia que <a data-l10n-name='link'>Markdown</a> é impressionante? Isso mesmo, e o Coggle dá suporte!
+fact-markdown2 = Você sabia que <a data-l10n-name='link'>Markdown</a> é incrível? Pois é, e o Coggle tem suporte completo!
 
-fact-pdf = Você pode baixar seu Coggle como um PDF! Procure pelo botão baixar no topo à direita da tela.
+fact-pdf = Você pode baixar seu Coggle como PDF! Procure o botão de download no canto superior direito da tela.
 
-fact-png = Você pode baixar seu Coggle como uma imagem! Procure pelo botão baixar no topo à direita da tela.
+fact-png = Você pode baixar seu Coggle como imagem! Procure o botão de download no canto superior direito da tela.
 
-fact-latex2 = Você sabia que Coggle suporta LaTeX para matemática? Isso mesmo!<br>Use \\\\( LaTeX aqui \\\\) para experimentar! Aqui há <a data-l10n-name='link'>um guia de sintaxe</a>.
+fact-latex2 = Você sabia que o Coggle suporta LaTeX para fórmulas matemáticas? Pois suporta!<br>Use \\( LaTeX aqui \\) para testar! Aqui está <a data-l10n-name='link'>um guia de sintaxe</a>.
 
-fact-history = Você sabia que pode-se ver um histórico de quem mudou o quê, quando no seu Coggle? Você pode! Clique no ícone de histórico no topo à direita.
+fact-history = Você sabia que pode ver o histórico de quem alterou o quê e quando no seu Coggle? Pois pode! Clique no ícone de histórico no canto superior direito.
 
-fact-images = Você sabia que pode-se por imagens no seu Coggle? Você pode!<br>Apenas arraste e solte uma imagem do seu computador e ponha onde você a quer.
+fact-images = Você sabia que pode colocar imagens no seu Coggle? Pois pode!<br>Basta arrastar e soltar uma imagem do seu computador onde quiser.
 
-fact-images2 = Você sabia que pode-se usar imagens nos Coggles? Você pode!<br>Basta arrastar e soltar uma imagem do seu computador a onde você a quiser. Uma versão em miniatura da imagem é carregada e guardada!
+fact-images2 = Você sabia que pode usar imagens nos Coggles? Pois pode!<br>Basta arrastar e soltar uma imagem do seu computador no local desejado. Uma versão otimizada da imagem é enviada e salva!
 
-fact-plaintext-in = Você sabia que pode-se arrastar e soltar arquivos de texto para dentro do Coggle para importa-los? Você pode!<br>Se os seus arquivos possuem indentação, o Coggle ainda vai adicionar estrutura ao texto importado.
+fact-plaintext-in = Você sabia que pode arrastar e soltar arquivos de texto no Coggle para importá-los? Pois pode!<br>Se os arquivos tiverem recuos (indentação), o Coggle criará a estrutura hierárquica automaticamente.
 
-fact-freemind-in = Você sabia que pode-se arrastar e soltar arquivos Freemind .mm para dentro do Coggle para importa-los? Você pode!
+fact-freemind-in = Você sabia que pode arrastar e soltar arquivos .mm do FreeMind no Coggle para importá-los? Pois pode!
 
-fact-link-drag = Você sabia que pode-se arrastar uma URL da sua barra de endereço para dentro do Coggle e fazer um link para aquele site? Você pode!
+fact-link-drag = Você sabia que pode arrastar uma URL da sua barra de endereços do navegador para dentro do Coggle para criar um link para aquele site? Pois pode!
 
-fact-text-size = Você sabia que pode-se mudar a fonte? Você pode!<br>Use #, ##, ou ### no início de uma linha para tornar o texto maior.
+fact-text-size = Você sabia que pode alterar o tamanho da fonte? Pois pode!<br>Use #, ## ou ### no início de uma linha para deixar o texto maior.
 
-fact-text-size2 = Did you know you can change the font? You can!<br>Drag the corner of the text editing area up or down to change the text size.
+fact-text-size2 = Você sabia que pode alterar o tamanho da fonte? Pois pode!<br>Arraste o canto da área de edição de texto para cima ou para baixo para redimensionar.
 
-fact-text-size3 = Did you know you can change the text size? You can!<br>Drag the corner of the text editing area.
+fact-text-size3 = Você sabia que pode alterar o tamanho do texto? Pois pode!<br>Basta arrastar o canto da área de edição de texto.
 
-fact-md-reference = Você sabia que pode-se usar Markdown nos Coggles para adicionar links, imagens e mais? Você pode!<br>Aqui está a <a data-l10n-name='link'>referência completa</a>.
+fact-md-reference = Você sabia que pode usar Markdown nos Coggles para adicionar links, imagens e muito mais? Pois pode!<br>Confira a <a data-l10n-name='link'>referência completa</a>.
 
-fact-multiline-keys = Você sabia que pode-se quebrar um texto em múltiplas linhas? Você pode! Segure [ctrl] enquanto pressiona [enter] para inserir uma nova linha. Você também pode arrastar o canto do campo de edição para baixo, e em seguida, use [enter] normalmente.
+fact-multiline-keys = Você sabia que pode quebrar um texto em várias linhas? Pois pode! Segure [ctrl] enquanto pressiona [enter] para inserir uma nova linha. Você também pode arrastar o canto do campo de edição para baixo e usar [enter] normalmente.
 
-fact-multiline-drag = Você sabia que pode-se quebrar um texto em múltiplas linhas? Você pode! Arrastar o canto do campo de edição para baixo, então [enter] irá inserir uma nova linha ao invés de salvar suas edições. Você também pode segurar [ctrl] enquanto pressiona [enter] para inserir uma nova linha enquanto digita.
+fact-multiline-drag = Você sabia que pode quebrar um texto em várias linhas? Pois pode! Ao arrastar o canto do campo de edição para baixo, pressionar [enter] inserirá uma nova linha em vez de salvar. Você também pode segurar [ctrl] + [enter] enquanto digita.
 
-fact-multiline-wrap = Did you know you can break text over multiple lines? You can! Drag the corner of the text editing area left/right to wrap text onto multiple lines.
+fact-multiline-wrap = Você sabia que pode quebrar o texto em várias linhas? Pois pode! Arraste o canto da área de edição para a esquerda ou direita para ajustar a quebra de linha.
 
-fact-resize-images = Você sabia que pode-se redimensionar imagens? Você pode! Arraste uma imagem para dentro de seu Coggle de qualquer lugar da internet (desde que você tenha permissão para usá-la), e então arraste o canto inferior direito da imagem para redimensiona-la.
+fact-resize-images = Você sabia que pode redimensionar imagens? Pois pode! Arraste uma imagem de qualquer lugar da internet para o seu Coggle (desde que tenha permissão de uso) e arraste o canto inferior direito dela para redimensioná-la.
 
-fact-image-size = Você sabia que oferecemos suporte a uma extensão Markdown para especificar tamanho de imagem? Oferecemos! Especifique uma imagem 200 por 100 pixel assim: ![descrição da imagem](http://url.para.a.imagem "texto opcional" 200x100)
+fact-image-size = Você sabia que oferecemos suporte a uma extensão Markdown para definir o tamanho da imagem? Pois oferecemos! Defina uma imagem de 200 por 100 pixels assim: ![descrição da imagem](http://url.para.a.imagem "texto opcional" 200x100)
 
-fact-bold-kbshort = Você sabia que pode-se usar atalhos do teclado para adicionar **texto em negrito** nos Coggles? Você pode! Basta pressionar [ctrl]+[b] (ou [cmd]+[b] nos Macs) com o texto que você deseja em negrito, selecionado.
+fact-bold-kbshort = Você sabia que pode usar atalhos de teclado para adicionar **texto em negrito** nos Coggles? Pois pode! Selecione o texto desejado e pressione [ctrl]+[b] (ou [cmd]+[b] no Mac).
 
-fact-shortcuts-1 = Você sabia que pode-se editar seu Coggle usando apenas o teclado? Você pode, aqui está como:<br>[tab] para adicinoar um nó filho<br>[shift]+[tab] para mover para o pai<br>[shift]+[enter] para adicionar um irmão
+fact-shortcuts-1 = Você sabia que pode editar seu Coggle usando apenas o teclado? Pois pode, veja como:<br>[tab] para adicionar um subitem<br>[shift]+[tab] para voltar ao item pai<br>[shift]+[enter] para adicionar um item no mesmo nível
 
-fact-shortcuts-2 = Você sabia que pode-se escolher qual ramo editar usando atalhos do teclado? Você pode!<br>Use [alt]+[shift]+teclas de setas para mover ao long dos ramos.
+fact-shortcuts-2 = Você sabia que pode navegar entre as ramificações usando atalhos de teclado? Pois pode!<br>Use [alt]+[shift]+setas direcionais para mover pelos ramos.
 
-fact-task-lists = Você sabia que pode-se <a data-l10n-name='link'>Markdown</a> para adicionar 'checklists' aos Coggles? Você pode, aqui há um exemplo:<br>- [ ] caixa não checada- [X] caixa checada<br>Clicando na 'checkbox' automaticamente muda o markdown, também.
+fact-task-lists = Você sabia que pode usar <a data-l10n-name='link'>Markdown</a> para adicionar listas de tarefas aos Coggles? Pois pode, veja um exemplo:<br>- [ ] caixa desmarcada<br>- [X] caixa marcada<br>Clicar na caixa de seleção também atualiza o código Markdown automaticamente.
 
-fact-api-1 = Você sabia que temos uma API? Nós temos! Programas podem usá-la para criar, examinar e manipular Coggles automaticamente.
+fact-api-1 = Você sabia que temos uma API? Pois temos! Programas podem usá-la para criar, consultar e manipular Coggles automaticamente.
 
-fact-organisation = Using Coggle in Business? You can create a Coggle Organisation to manage your Company's Coggles.
+fact-organisation = Usa o Coggle na sua empresa? Você pode criar uma Organização Coggle para gerenciar todos os diagramas da sua equipe.
 
-fact-organisation2 = Did you know Coggle Organisations can put their logo on their Coggles? They can!
+fact-organisation2 = Você sabia que as Organizações Coggle podem adicionar o logotipo da empresa nos diagramas? Pois podem!
 
-fact-organisation3 = Did you know you can create a Coggle Organisation to organise your businesses Coggles? You can!
-
+fact-organisation3 = Você sabia que pode criar uma Organização Coggle para organizar os diagramas da sua empresa? Pois pode!
