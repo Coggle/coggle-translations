@@ -607,7 +607,7 @@ hint-drag-only = Faites glisser pour déplacer ce nœud uniquement.
 hint-can-drag-only = 
     { 
         $os -> 
-            [Mac] Maintenez <kb-key data-l10n-name='move-only-key'>{sc-option></kb-key> pour faire glisser ce nœud uniquement. 
+            [Mac] Maintenez <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> pour faire glisser ce nœud uniquement. 
            *[Win] Maintenez <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> pour faire glisser ce nœud uniquement. 
     }
 hint-edit = Cliquez pour modifier, faites glisser pour déplacer.
