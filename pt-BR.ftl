@@ -536,7 +536,7 @@ access-remove = Remover { $user_givenName }
 # Notification Messages 
 readonly-warning = Você não pode editar este diagrama. <div data-l10n-name="suggestion">Se precisar editá-lo, peça permissão ao autor.</div>
 
-websocket-offline = As alterações podem estar lentas devido a problemas de rede. <a data-l10n-name="helpfix">Ajude-me a resolver isso!</a>
+websocket-offline = As alterações em tempo real estão indisponíveis devido a problemas de rede. <a data-l10n-name='helpfix'>Mais informações</a>
 
 disconnect-warning = <b>Conexão perdida</b>: As alterações podem não ser salvas
 
