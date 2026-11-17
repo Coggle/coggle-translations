@@ -11,7 +11,6 @@
 index-tagline = Um jeito simples de compartilhar informações complexas.
 index-tagline-mm = Crie mapas mentais que fluam como suas ideias.
 index-signupnow = Registre-se agora
-index-login = Já tem uma conta? Faça login aqui.
 index-title = Mapas mentais simples e elegantes: tão rápidos quanto seus pensamentos - Coggle
 
 index-nav-login = Entrar
@@ -21,7 +20,6 @@ index-nav-gallery = Galeria
 index-nav-home = Início
 
 index-unleash = Libere sua criatividade.
-index-blurb = Produza notas incríveis rapidamente. Compartilhe com seus amigos e colegas para trabalharem juntos em suas ideias.
 index-viewgallery = Ou explore a <a data-l10n-name='gallery'>Galeria do Coggle</a> para se inspirar.
 
 index-colab-mindmaps-flowcharts-h = Mapas Mentais Colaborativos e Fluxogramas
@@ -38,12 +36,10 @@ index-use-share-h = Compartilhe informações
 index-use-share-p = Sintetize seu assunto em um Coggle, inclua todos os detalhes e compartilhe com sua equipe, seus colegas de classe ou com o mundo!
 
 index-coggle-flow-title = Fluxogramas poderosos
-index-coggle-flow-description = Use o Coggle para mapear seus processos, sistemas e algoritmos usando nossos novos e poderosos recursos de <a data-l10n-name='flowcharts'>fluxograma</a>.
 
 features-realtime = Colaboração em tempo real
 features-realtime-desc = Muitas vezes trabalhamos melhor em equipe, e as equipes funcionam de forma mais eficaz quando podem colaborar livremente. O Coggle permite que você convide amigos e colegas para trabalhar com você, ao mesmo tempo, em seus diagramas.
 
-features-images-title = Complete o quadro
 features-images = Uma imagem vale mais que mil palavras. O Coggle permite que você arraste e solte imagens diretamente da sua área de trabalho para seus diagramas. Simples assim! E o melhor de tudo: não há limite para o número de imagens que você pode adicionar.
 
 features-fullhistory-title = Salve todas as alterações
@@ -83,7 +79,7 @@ feature-images = Uploads <b>ilimitados</b> de imagens
 feature-changes = Histórico <b>completo</b> de alterações
 feature-markdown = Suporte a <b>Markdown</b>
 feature-downloads = Download como <b>PDF e imagem</b>
-feature-labels = Caixas de texto em qualquer lugar
+feature-labels = <b>Caixas de texto</b> independentes
 feature-exports = Exportar como <b>.mm e texto</b>
 feature-imports = Importar de <b>.mm e texto</b>
 feature-chat = Comentários e bate-papo
@@ -95,9 +91,9 @@ plans-awesome-description = Ideal para uso <b>pessoal</b> ou <b>profissional</b>
 plans-awesome-price = US$ 5 / mês
 feature-include-free = Tudo do plano <b>Grátis</b>
 feature-unlimited-private = Diagramas privados <b>ilimitados</b>
-feature-multiroot = Vários pontos de partida
+feature-multiroot = <b>Vários pontos de partida</b>
 feature-chathistory = Histórico <b>completo</b> de bate-papo
-feature-rearrange = Organização automática
+feature-rearrange = <b>Organização automática de ramificações</b>
 feature-rejoin = <b>Unir ramificações</b>
 feature-folders = <b>Pastas compartilhadas</b>
 feature-presentation = Modo de apresentação
@@ -126,7 +122,6 @@ awesome-signup-monthly = Assinar por <span>US$ 5</span> por mês
 awesome-signup-yearly = Assinar por <span>US$ 50</span> por ano
 awesome-upgrade-monthly = Fazer upgrade (<b>US$ 5</b>/mês)
 awesome-upgrade-yearly = Fazer upgrade (<b>US$ 50</b>/ano)
-yearly-discount-months = Pague anualmente e ganhe 2 meses grátis!
 yearly-discount = Economize US$ 10 pagando anualmente
 switch-yearly = Mudar para assinatura anual
 manage-subscription = Gerenciar assinatura
@@ -171,8 +166,6 @@ shared-with-you =
 folder-title =
     .placeholder = Digite o nome da pasta
     .value = { $name }
-folder-areyousure = Tem certeza? 
-folder-sure = Tenho certeza
 logout = Sair
 settings = Configurações
 return-to-diagrams = Voltar aos diagramas
@@ -258,7 +251,7 @@ settings-membership-title = Membros
 settings-exports-title = Exportação
 settings-authentication-title = Autenticação
 
-billig-card = O cartão cadastrado em sua conta termina em <b>{ $cardEndsIn }</b> e vence em <b>{ $cardExpires }</b>.
+billing-card = O cartão cadastrado em sua conta termina em <b>{ $cardEndsIn }</b> e vence em <b>{ $cardExpires }</b>.
 billing-addr = O CEP de cobrança cadastrado é <b>{ $addressZip }</b>. <a data-l10n-name="edit">Editar dados do cartão</a>
 
 billing-remove = Remover
@@ -293,7 +286,7 @@ profile-title = Sua aparência no Coggle
 invite-n-more =
     { $introduceCount ->
            [one] Envie mais um convite para experimentar o Awesome gratuitamente!
-        *[other] Convide mais {$introduceCount} pessoas para experimentar o Awesome gratuitamente!
+        *[other] Convide mais <span>{$introduceCount}</span> pessoas para experimentar o Awesome gratuitamente!
     }
 
 recommend-coggle = Recomendar o Coggle
@@ -359,7 +352,6 @@ add-label = adicionar rótulo
 help-title-title = O título do diagrama
 help-title-p1 = Este é o centro do seu diagrama e o seu título. Suas ideias vão se ramificar a partir daqui!
 help-title-p2 = Comece escolhendo um título — sobre o que é o seu diagrama?
-help-gohome = Clique no logotipo do Coggle para voltar à página inicial, onde seus documentos são salvos automaticamente.
 help-add-node = Use os botões <div data-l10n-name='plus'>+</div> para adicionar ramificações.
 help-edit-node-p1 = Clique em qualquer item para editar o texto.
 help-edit-node-p2 = Altere o tamanho do texto arrastando o canto da área de edição.
@@ -686,7 +678,7 @@ login-help-a = Visite nossa base de conhecimento em <a data-l10n-name='help'>cog
 
 # Organisations Landing Page (/organisations) 
 orgs-pitch-title = Organizações Coggle
-orsg-pitch = Cada Organização Coggle conta com recursos desenvolvidos para gerenciar grandes grupos de pessoas, onde membros entram e saem e informações confidenciais precisam ser protegidas.
+orgs-pitch = Cada Organização Coggle conta com recursos desenvolvidos para gerenciar grandes grupos de pessoas, onde membros entram e saem e informações confidenciais precisam ser protegidas.
 
 orgs-signup = CRIAR ORGANIZAÇÃO
 
@@ -721,7 +713,7 @@ orgs-feature-awesome = Além disso, todos os membros da sua organização terão
 # Organizations Sign-Up Page (/organizations/new) 
 orgcreate-title2 = Criar uma <a data-l10n-name="orgs">Organização Coggle</a>
 orgcreate-nameinput =
-    ,placeholder = Escolha o nome da sua organização
+    .placeholder = Escolha o nome da sua organização
 orgcreate-namehint = Escolha algo curto e fácil de reconhecer!
 orgcreate-createbutton = Criar
 
@@ -780,14 +772,15 @@ faq-orgs-more-a = Pergunte! Envie um e-mail para orgs@coggle.it e teremos prazer
 # About Coggle (/about) 
 about-hello2-title = Olá!
 about-hello2-p1 =
-  O Coggle veio para redefinir a forma de trabalhar com documentos: o jeito
-  como compartilhamos e armazenamos conhecimento. É um espaço para ideias
-  que funciona como a mente humana — e não da maneira rígida dos computadores.
+  <b>O Coggle oferece uma forma clara de compartilhar e entender informações
+  complexas. É um documento colaborativo que simplifica o que é complexo e
+  um espaço de trabalho compartilhado que ajuda sua equipe a trabalhar em
+  conjunto de forma mais eficaz.</b>
 
 about-hello2-p2 =
   É gratuito e prometemos que sempre será, mas levamos nossas
   responsabilidades muito a sério. Comprometemo-nos a cuidar dos seus dados da melhor forma
-  possível, mantendo cópias de segurança e tratando a privacidade com rigor.
+  possível, mantendo cópias de segurança e levando a segurança a sério.
 about-hello2-p3 =
   Nossa missão é transformar para sempre a maneira como as pessoas trabalham e
   colaboram, tornando-as mais produtivas e facilitando o
@@ -873,7 +866,7 @@ fact-history = Você sabia que pode ver o histórico de quem alterou o quê e qu
 
 fact-images = Você sabia que pode colocar imagens no seu Coggle? Pois pode!<br>Basta arrastar e soltar uma imagem do seu computador onde quiser.
 
-fact-images2 = Você sabia que pode usar imagens nos Coggles? Pois pode!<br>Basta arrastar e soltar uma imagem do seu computador no local desejado. Uma versão otimizada da imagem é enviada e salva!
+fact-images2 = Você sabia que pode usar imagens nos Coggles? Pois pode!<br>Basta arrastar e soltar uma imagem do seu computador no local desejado. Uma versão em miniatura da imagem é enviada e salva!
 
 fact-plaintext-in = Você sabia que pode arrastar e soltar arquivos de texto no Coggle para importá-los? Pois pode!<br>Se os arquivos tiverem recuos (indentação), o Coggle criará a estrutura hierárquica automaticamente.
 
@@ -891,7 +884,7 @@ fact-md-reference = Você sabia que pode usar Markdown nos Coggles para adiciona
 
 fact-multiline-keys = Você sabia que pode quebrar um texto em várias linhas? Pois pode! Segure [ctrl] enquanto pressiona [enter] para inserir uma nova linha. Você também pode arrastar o canto do campo de edição para baixo e usar [enter] normalmente.
 
-fact-multiline-drag = Você sabia que pode quebrar um texto em várias linhas? Pois pode! Ao arrastar o canto do campo de edição para baixo, pressionar [enter] inserirá uma nova linha em vez de salvar. Você também pode segurar [ctrl] + [enter] enquanto digita.
+fact-multiline-drag = Você sabia que pode quebrar um texto em várias linhas? Pois pode! Ao arrastar o canto do campo de edição para baixo, pressionar [enter] inserirá uma nova linha em vez de salvar. Você também pode segurar [ctrl] enquanto pressiona [enter] para inserir uma nova linha durante a digitação.
 
 fact-multiline-wrap = Você sabia que pode quebrar o texto em várias linhas? Pois pode! Arraste o canto da área de edição para a esquerda ou direita para ajustar a quebra de linha.
 
@@ -903,7 +896,7 @@ fact-bold-kbshort = Você sabia que pode usar atalhos de teclado para adicionar 
 
 fact-shortcuts-1 = Você sabia que pode editar seu Coggle usando apenas o teclado? Pois pode, veja como:<br>[tab] para adicionar um subitem<br>[shift]+[tab] para voltar ao item pai<br>[shift]+[enter] para adicionar um item no mesmo nível
 
-fact-shortcuts-2 = Você sabia que pode navegar entre as ramificações usando atalhos de teclado? Pois pode!<br>Use [alt]+[shift]+setas direcionais para mover pelos ramos.
+fact-shortcuts-2 = Você sabia que pode navegar entre as ramificações usando atalhos de teclado? Pois pode!<br>Use [alt]+[shift]+setas direcionais para se mover pelas ramificações.
 
 fact-task-lists = Você sabia que pode usar <a data-l10n-name='link'>Markdown</a> para adicionar listas de tarefas aos Coggles? Pois pode, veja um exemplo:<br>- [ ] caixa desmarcada<br>- [X] caixa marcada<br>Clicar na caixa de seleção também atualiza o código Markdown automaticamente.
 
