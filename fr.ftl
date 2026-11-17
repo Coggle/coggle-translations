@@ -1019,6 +1019,7 @@ index-free-3 = Trois cartes mentales privées gratuites à vie.
 index-free-notrial = Pas d'essai, pas de limite de durée.
 index-free-nolockin = Si vous optez pour les fonctionnalités avancées : aucun engagement ni contrat contraignant.
 
+index-everyone-power = Des cartes mentales puissantes, pour tous
 index-everyone-succeed = Nous pensons que les outils performants doivent être accessibles à tous, partout ; nous avons aidé des millions d'étudiants à étudier, de professionnels à progresser et d'entreprises à réussir.
 index-everyone-nolimit = Coggle offre gratuitement tout ce dont vous avez besoin pour cartographier n'importe quel sujet : aucune limite de taille ou d'espace, ainsi que les superbes couleurs et formes caractéristiques de Coggle.
 index-everyone-upgrade = En passant à une version supérieure pour plus de personnalisation ou davantage de cartes mentales privées, vous nous aidez à rendre les idées du monde entier plus claires et mieux organisées. Merci !

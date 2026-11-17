@@ -1026,6 +1026,7 @@ index-free-3 = Three private mind maps free forever.
 index-free-notrial = No trials, no time-limits.
 index-free-nolockin =  If you upgrade for advanced features: no lock-in and no contracts.
 
+index-everyone-power = Powerful Mind Maps, for Everyone
 index-everyone-succeed =  We believe great tools should be available for everyone, everywhere, and we've helped millions of students study, professionals grow, and businesses succeed.
 index-everyone-nolimit = Coggle has everything for free that you need to map out any topic: no size or space limits, the beautiful default coggle colours and shapes.
 index-everyone-upgrade = If you upgrade for more customisation, or more private mind maps then you're helping us to make the world's thoughts clearer and more organised. Thank you!

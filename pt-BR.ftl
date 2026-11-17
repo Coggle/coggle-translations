@@ -1024,6 +1024,7 @@ index-free-3 = Três mapas mentais privados, grátis para sempre.
 index-free-notrial = Sem períodos de teste, sem limites de tempo.
 index-free-nolockin = Se fizer upgrade para obter recursos avançados: sem fidelidade e sem contratos.
 
+index-everyone-power = Mapas mentais poderosos, para todos
 index-everyone-succeed = Acreditamos que ótimas ferramentas devem estar disponíveis para todos, em qualquer lugar, e já ajudamos milhões de estudantes a estudar, profissionais a crescer e empresas a ter sucesso.
 index-everyone-nolimit = O Coggle oferece gratuitamente tudo o que você precisa para mapear qualquer assunto: sem limites de tamanho ou espaço, com as belas cores e formas padrão do Coggle.
 index-everyone-upgrade = Se você fizer upgrade para ter mais personalização ou mais mapas mentais privados, estará nos ajudando a tornar os pensamentos do mundo mais claros e organizados. Obrigado!

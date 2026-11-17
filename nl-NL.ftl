@@ -1026,6 +1026,7 @@ index-free-3 = Drie privé-mindmaps, voor altijd gratis.
 index-free-notrial = Geen proefperiodes, geen tijdslimieten.
 index-free-nolockin =  Als je upgradet voor geavanceerde functies: geen lock-in en geen contracten.
 
+index-everyone-power = Krachtige mindmaps, voor iedereen
 index-everyone-succeed =  Wij vinden dat geweldige tools voor iedereen en overal beschikbaar moeten zijn, en we hebben miljoenen studenten geholpen bij het studeren, professionals bij hun ontwikkeling en bedrijven bij het behalen van succes.
 index-everyone-nolimit = Coggle biedt alles wat je nodig hebt om elk onderwerp in kaart te brengen, helemaal gratis: geen beperkingen qua grootte of opslagruimte, en de prachtige standaardkleuren en -vormen van Coggle.
 index-everyone-upgrade = Als je een upgrade uitvoert voor meer aanpassingsmogelijkheden of meer privé-mindmaps, help je ons om de gedachten van de wereld overzichtelijker en beter georganiseerd te maken. Hartelijk dank!
