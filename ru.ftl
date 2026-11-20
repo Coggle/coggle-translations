@@ -84,8 +84,9 @@ feature-emoji = Более <b>1600</b> <a data-l10n-name="icons-link">краси
 feature-diagrams = <b>Неограниченные</b> публичные диаграммы
 feature-nprivate =
     { $privateDiagrams_available ->
-          [one] 1 приватная диаграмма
-       *[other] {$privateDiagrams_available} приватных диаграмм
+          [one] { $privateDiagrams_available } приватная диаграмма
+          [few] { $privateDiagrams_available } приватные диаграммы
+       *[many] { $privateDiagrams_available } приватных диаграмм
     }
 feature-images = <b>Неограниченная</b> загрузка изображений
 feature-changes = <b>Полная</b> история изменений
