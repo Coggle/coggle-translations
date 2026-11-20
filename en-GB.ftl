@@ -25,18 +25,22 @@ impersonatedaccess = You're viewing Coggle as an Organisation member. <a data-l1
 
 tooltip-createorg =
     .title = Create an Organisation
+help-createfolder = Create folders to share with groups of people, or categorise Coggles.
 
 help-orgs-switch-title = Switch Between Organisations
 help-orgs-switch-p1 = Click to switch between Organisations.
 help-orgs-switch-p2 = Organisations let you control sharing of Coggles and work with larger teams.
 
 pick-colour = pick colour
+help-title-p1 = This is the centre of your diagram, and its title. Your ideas will branch out from here!
 
 me-as-awesome-orgmember-p1 = This is you &mdash; you're viewing Coggle as an <b>organisation member</b>.
 
 touch-pressitem = <b>Long-press</b> on an <b>item</b> to <b>remove</b> items, change <b>colour</b>, <b>auto-arrange</b>, cross-link, copy, and more.
 
 sc-ret = return ⏎
+button-aligned-center =
+    .title = Aligned centre
 
 awesome-feature-colours-title = More Colours
 awesome-feature-colours = Unlock a new range of vivid colours to help organise and highlight your ideas.
@@ -65,7 +69,7 @@ orgs-feature-control-sharing-title = Control Sharing
 orgs-feature-control-sharing = You can make sure that Coggles created in your organisation stay in your organisation. This protects sensitive material against accidental exposure if the wrong email address is invited to a document.
 
 orgs-feature-manage-users-title = Safely Manage Users
-orgs-feature-manage-users = Safely Manage UsersRemove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active
+orgs-feature-manage-users = Remove members from your organisation without losing the work they've done. Use the management dashboard to view all the diagrams created in your organisation by members past and present, deleted or active
 
 orgs-feature-export-title = Bulk Export
 orgs-feature-export = Organisation admins can download all of the organisations Coggles in a machine-readable, archivable JSON format, with a single click. Great for regulatory compliance or just peace of mind.
@@ -113,7 +117,7 @@ faq-orgs-features-a =
       or regulatory purposes.</p>
     <p data-l10n-name='p4'><b>Centralised billing</b>: pay for multiple Awesome subscriptions in
       one place, and revoke subscriptions when members come and go from your
-      organsiation. </p>
+      organisation. </p>
 
 faq-orgs-awesome-q = How do Coggle Organisations relate to Coggle Awesome?
 faq-orgs-awesome-a =
@@ -125,7 +129,7 @@ faq-orgs-awesome-a =
       extended colour palette and high resolution image uploads.</p>
 
 faq-orgs-billing-q = How does billing work for Coggle Organisations?
-faq-orgs-billing-a = Coggle Organisations are charged at {$pricePerMemberPerMonth} per member per month. You can add
+faq-orgs-billing-a = Coggle Organisations are charged at ${$pricePerMemberPerMonth} per member per month. You can add
   and remove members at any time from the dashboard for your organisation.
 
 # Coggle Facts 
