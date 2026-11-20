@@ -12,7 +12,7 @@ index-tagline = Um jeito simples de compartilhar informações complexas.
 index-tagline-mm = Crie mapas mentais que fluam como suas ideias.
 index-signupnow = Registre-se agora
 index-signinstart = Entre para começar
-index-title = Mapas mentais simples e elegantes: tão rápidos quanto seus pensamentos - Coggle
+index-title = Coggle - Mapas mentais simples, rápidos e poderosos. É só usar o Coggle!
 
 index-nav-login = Entrar
 index-nav-pricing = Planos
@@ -26,8 +26,8 @@ index-blurb-together = Produza notas incríveis de forma rápida e fácil. Compa
 index-viewgallery = Ou explore a <a data-l10n-name='gallery'>Galeria do Coggle</a> para se inspirar.
 
 index-colab-mindmaps-flowcharts-h = Mapas Mentais Colaborativos e Fluxogramas
-index-colab-mindmaps-flowcharts-p1 = O Coggle facilita a criação e o compartilhamento de mapas mentais e fluxogramas. Crie online diretamente do seu navegador: sem downloads ou instalações. <a data-l10n-name='login'>Faça login</a> e comece a criar seus mapas agora!
-index-colab-mindmaps-flowcharts-p2 = Seja fazendo anotações, brainstorming, planejamento ou criando algo inovador, é muito simples visualizar suas ideias com o Coggle. Compartilhe com quantos amigos ou colegas quiser. As alterações feitas aparecem instantaneamente no navegador deles, em qualquer lugar do mundo.
+index-colab-mindmaps-flowcharts-p1 = O Coggle facilita a criação e o compartilhamento de mapas mentais e fluxogramas. Funciona online no seu navegador: não há nada para baixar ou instalar. <a data-l10n-name='login'>Entre</a> para usar de graça, para sempre!
+index-colab-mindmaps-flowcharts-p2 = Fazer anotações, brainstorming, planejar ou criar algo incrivelmente criativo: tudo é muito simples. Compartilhe com quantos amigos ou colegas quiser. As alterações que você fizer aparecem instantaneamente, onde quer que eles estejam no mundo.
 
 index-trusted-h = Mais de 10.000.000 de pessoas e empresas como você confiam no Coggle
 index-trusted-p1 = O Coggle facilita a criação e o compartilhamento de mapas mentais e fluxogramas. Funciona no seu navegador: não há nada para baixar ou instalar, e tudo o que você precisa para criar ótimos mapas mentais é <a data-l10n-name='free'>gratuito, para sempre!</a>
@@ -42,26 +42,26 @@ index-use-brainstorm-p = Comece com uma ideia, desenvolva-a no Coggle e veja-a c
 index-use-share-h = Compartilhe informações
 index-use-share-p = Sintetize seu assunto em um Coggle, inclua todos os detalhes e compartilhe com sua equipe, seus colegas de classe ou com o mundo!
 
-index-coggle-flow-title = Fluxogramas poderosos
+index-coggle-flow-title = Fluxogramas poderosos em tempo real
 index-coggle-flow-2 = Do mapa mental ao fluxograma: mapeie como as coisas funcionam usando poderosos recursos de <a data-l10n-name='flowcharts' href="/flowcharts">fluxograma</a>.
 
 features-realtime = Colaboração em tempo real
-features-realtime-desc = Muitas vezes trabalhamos melhor em equipe, e as equipes funcionam de forma mais eficaz quando podem colaborar livremente. O Coggle permite que você convide amigos e colegas para trabalhar com você, ao mesmo tempo, em seus diagramas.
+features-realtime-desc = Convide amigos e colegas para trabalhar com você, ao mesmo tempo, nos seus diagramas.
 
 features-unlimited-images-title = Uploads ilimitados de imagens
-features-images = Uma imagem vale mais que mil palavras. O Coggle permite que você arraste e solte imagens diretamente da sua área de trabalho para seus diagramas. Simples assim! E o melhor de tudo: não há limite para o número de imagens que você pode adicionar.
+features-images = Arraste e solte imagens diretamente da sua área de trabalho para seus diagramas. Não há limite para o número de imagens que você pode adicionar.
 
 features-fullhistory-title = Salve todas as alterações
-features-history = Fez alterações em um documento e, um dia depois, percebeu que não gostou das edições? Com o Coggle isso não é problema. Basta entrar no modo de histórico para encontrar a versão anterior e fazer uma cópia a partir desse ponto!
+features-history = Veja todas as alterações feitas em um diagrama e faça uma cópia a partir de qualquer ponto para voltar a uma versão anterior.
 
 features-labels-title = Adicione textos e imagens flutuantes
 features-labels = Adicione rótulos de texto e imagens que não fazem parte da árvore do diagrama para fazer anotações em qualquer parte do seu mapa.
 
 features-blame-title = Rastreamento de alterações
-features-blame = Já se perguntou quem fez determinada alteração naquele documento compartilhado? Com o Coggle, você pode navegar pelo histórico do seu diagrama para ver quem alterou o quê e quando! Basta abrir o modo de histórico do diagrama para descobrir.
+features-blame = Navegue pelo histórico do seu diagrama para ver quem alterou o quê, e quando! Basta entrar no modo de histórico do diagrama para descobrir.
 
 features-colours-title = Acerte na cor
-features-colours = Você é um pensador visual? Aprende melhor pela organização espacial e pelas cores? Garanta a cor ideal para cada tópico: basta clicar em uma ramificação para abrir a roda de cores e escolher a desejada.
+features-colours = Clique em uma ramificação para abrir a roda de cores e escolher a cor que deseja.
 
 features-notifications-title = Notificações por e-mail
 features-notifications = Receba uma notificação por e-mail com um resumo das alterações quando colaboradores editarem diagramas compartilhados com você.
@@ -98,7 +98,7 @@ feature-chat = Comentários e bate-papo
 feature-embed = Diagramas incorporáveis
 feature-embed2 = Incorpore mapas mentais em qualquer lugar
 feature-colab-email = Colabore por <b>e-mail</b>
-plans-free-getstarted = Começar!
+plans-free-getstarted = Usar grátis
 
 plans-awesome-title = Awesome
 plans-awesome-description = Ideal para uso <b>pessoal</b> ou <b>profissional</b>, com privacidade e recursos avançados.
@@ -569,10 +569,10 @@ touch-pressbackground = <b>Mantenha pressionado</b> o <b>plano de fundo</b> para
 sc-and-click = + clique
 sc-and-drag = + arrastar
 sc-and-mousewheel = + roda do mouse
-sc-shift = shift
-sc-ret = enter
-sc-tab = tab
-sc-ctrl = ctrl
+sc-shift = shift ⇧
+sc-ret = enter ⏎
+sc-tab = tab ⇥
+sc-ctrl = ctrl ^
 sc-alt = alt
 sc-option = alt ⌥
 sc-dragdrop = arrastar e soltar
