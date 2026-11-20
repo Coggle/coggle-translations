@@ -11,8 +11,9 @@
 index-tagline = Зразумелы спосаб дзяліцца складанай інфармацыяй.
 index-tagline-mm = Стварайце майнд-карты, што плывуць, як вашы ідэі.
 index-signupnow = Зарэгістравацца зараз
-index-login = Ужо зарэгістраваліся? Увайдзіце тут.
-index-title = Coggle — магутныя майнд-карты і блок-схемы: супрацоўнічайце, занатуйце, плануйце, вучыцеся, генерыруйце ідэі.
+index-signinstart = Увайдзіце, каб пачаць
+
+index-title = Coggle — простыя, хуткія і магутныя майнд-карты. Проста карыстайцеся Coggle!
 
 index-nav-login = Увайсці
 index-nav-pricing = Кошт
@@ -21,12 +22,17 @@ index-nav-gallery = Галерэя
 index-nav-home = Галоўная
 
 index-unleash = Раскрыйце сваю творчасць
-index-blurb = Стварайце прыгожыя нататкі хутка і проста. Дзяліцеся імі з сябрамі і калегамі, каб разам працаваць над вашымі ідэямі.
+index-understand = Зразумейце што заўгодна
+index-blurb-together = Стварайце прыгожыя нататкі хутка і проста. Дзяліцеся імі з сябрамі, калегамі ці агентамі, каб разам працаваць над ідэямі.
+
 index-viewgallery = Ці зірніце на <a data-l10n-name='gallery'>галерэю Coggle</a> для натхнення.
 
 index-colab-mindmaps-flowcharts-h = Супольныя майнд-карты і блок-схемы
-index-colab-mindmaps-flowcharts-p1 = Coggle дазваляе лёгка ствараць і абменьвацца майнд-картамі і блок-схемамі. Ён працуе анлайн у вашым браўзеры: нічога не трэба спампоўваць або ўсталёўваць. <a data-l10n-name='login'>Увайдзіце</a>, каб пачаць ствараць дыяграмы ўжо цяпер!
-index-colab-mindmaps-flowcharts-p2 = Незалежна ад таго, робіце вы нататкі, праводзіце мазгавы штурм, плануеце ці займаецеся іншай творчай справай, з Coggle надзвычай проста візуалізаваць свае ідэі. Дзяліцеся імі з колькі заўгодна сябрамі ці калегамі. Змены, якія вы ўносіце, адразу з’явяцца ў іх браўзеры, дзе б яны ні былі ў свеце.
+index-colab-mindmaps-flowcharts-p1 = З Coggle лёгка ствараць майнд-карты і блок-схемы і дзяліцца імі. Ён працуе анлайн, у вашым браўзеры: нічога не трэба спампоўваць ці ўсталёўваць. <a data-l10n-name='login'>Увайдзіце</a>, каб карыстацца бясплатна — назаўсёды!
+index-colab-mindmaps-flowcharts-p2 = Нататкі, мазгавы штурм, планаванне ці нешта неверагодна творчае — усё гэта вельмі проста. Дзяліцеся з колькі заўгодна сябрамі ці калегамі. Вашы змены з’явяцца імгненна, дзе б яны ні былі.
+index-trusted-h = Нам давяраюць больш за 10 000 000 людзей і кампаній, такіх як вы
+index-trusted-p1 = З Coggle лёгка ствараць майнд-карты і блок-схемы і дзяліцца імі. Ён працуе ў браўзеры: нічога не трэба спампоўваць ці ўсталёўваць, а ўсё неабходнае для стварэння выдатных майнд-карт — <a data-l10n-name='free'>бясплатна, назаўсёды!</a>
+index-trusted-p1b = Усё неабходнае для стварэння выдатных майнд-карт — <a data-l10n-name='free'>бясплатна, назаўсёды</a>. Вашы нататкі, зробленыя ўчора, летась ці дзесяць гадоў таму, будуць на месцы, калі яны вам спатрэбяцца.
 
 index-use-notes-h = Вядзіце нататкі
 index-use-notes-p = Адкрыйце Coggle на сустрэчы, падчас падрыхтоўкі або дзе б вас ні наведала натхненне, каб стварыць прыгожыя, структураваныя нататкі.
@@ -37,8 +43,9 @@ index-use-brainstorm-p = Пачніце з зярнятка ідэі, паліц
 index-use-share-h = Абменьвайцеся інфармацыяй
 index-use-share-p = Вылучыце галоўнае ў патрэбнай тэме з Coggle, уключыце ўсе падрабязнасці і падзяліцеся рэзультатамі з камандай, аднакурснікамі або ўсім светам!
 
-index-coggle-flow-title = Магутныя анлайн-блок-схемы
-index-coggle-flow-description = Выкарыстоўвайце Coggle, каб адлюстроўваць свае працэсы, сістэмы і алгарытмы з дапамогай нашых новых магутных <a data-l10n-name='flowcharts'>інструментаў для блок-схем</a>.
+index-coggle-flow-title = Магутныя блок-схемы ў рэальным часе
+index-coggle-flow-2 = Ад майнд-карты да блок-схемы: пакажыце, як усё працуе, з дапамогай магутных <a data-l10n-name='flowcharts' href="/flowcharts">блок-схем</a>.
+
 
 features-realtime = Супольная праца ў рэальным часе
 features-realtime-desc = Запрасіце сяброў і калег працаваць разам з вамі над вашымі дыяграмамі адначасова.
@@ -72,6 +79,7 @@ plans-free-description = Ідэальна для знаёмства з Coggle і
 plans-free-price = Бясплатна назаўсёды
 
 feature-realtime = <b>Супольная праца</b> у рэальным часе
+feature-linkqr = Абагульванне па <b>спасылцы</b> або <b>QR-кодзе</b>
 feature-emoji = Больш за <b>1600</b> <a data-l10n-name="icons-link">прыгожых значкоў</a>
 feature-diagrams = <b>Неабмежаваныя</b> публічныя дыяграмы
 feature-nprivate =
@@ -84,6 +92,7 @@ feature-images = <b>Неабмежаванае</b> запампоўванне в
 feature-changes = <b>Поўная</b> гісторыя змен
 feature-markdown = Падтрымка <b>Markdown</b>
 feature-downloads = Спампоўванне ў фармаце <b>PDF і відарыса</b>
+feature-calc = Дынамічныя <a data-l10n-name='formulae-link'>вылічэнні</a>
 feature-labels = Незвязаныя <b>тэкставыя блокі</b>
 feature-exports = Экспартаванне ў фармаце <b>.mm і тэксту</b>
 feature-visio = Экспартаванне для <b>Microsoft Visio</b>
@@ -91,7 +100,8 @@ feature-imports = Імпартаванне <b>.mm і тэксту</b>
 feature-chat = Каментарыі і чат
 feature-embed = Убудавальныя дыяграмы
 feature-embed2 = Убудуйце майнд-карты дзе захочацца
-plans-free-getstarted = Пачаць
+feature-colab-email = Супрацоўніцтва праз <b>электронную пошту</b>
+plans-free-getstarted = Карыстацца бясплатна
 
 plans-awesome-title = Awesome
 plans-awesome-description = Ідэальны для <b>асабістага</b> або <b>прафесійнага</b> выкарыстання з прыватнасцю і пашыранымі функцыямі.
@@ -111,9 +121,10 @@ feature-controlpoints = <b>Кіраванне траекторыямі ліні�
 feature-textalign = Змена <b>выраўноўвання тэксту</b>
 feature-extendedcolours = Больш колераў
 feature-editable-links = Супрацоўніцтва па <b>спасылцы</b>
+feature-editable-qr = Супрацоўніцтва па <b>QR-кодзе</b>
 plans-findoutmore = Даведацца больш
 
-plans-org-title = Organization
+plans-org-title = Арганізацыя
 plans-org-description = Ідэальны для <b>каманд</b>, якія хочуць кантраляваць доступ да сваіх даных і мець аб’яднаныя рахункі.
 plans-org-price = $8 / карыстальнік / месяц
 feature-org-awesome = Усе функцыі плана <b>Awesome</b>
@@ -122,7 +133,7 @@ feature-org-billing = Выстаўленне аб’яднаных рахунк�
 feature-bulkexport = <b>Масавы экспарт</b>
 feature-adminpanel = <b>Кіраванне карыстальнікамі і данымі</b>
 feature-branding = Брэндзіраванне дыяграм
-feature-org-saml-sso = SAML Single Sign On
+feature-org-saml-sso = Адзіны ўваход SAML
 
 plans-select = Выбраць
 continue-free = Працягнуць з <b>Бясплатным</b> планам
@@ -142,7 +153,7 @@ forever = назаўсёды
 flexible = поўная гнуткасць
 
 awesome-feature = План Awesome
-org-feature = Функцыя плана Organization
+org-feature = Функцыя для арганізацый
 
 footer-help = Дапамога і дакументацыя
 footer-about = Пра нас
@@ -175,17 +186,20 @@ created-by-you =
     .value = Створана вамі
 shared-with-you =
     .value = Абагуленае з вамі
+recent-diagrams =
+    .value = Нядаўна абноўленыя
 folder-title =
     .placeholder = Увядзіце назву папкі
     .value = { $name }
-folder-areyousure = Вы ўпэўнены?
-folder-sure = Я ўпэўнены
+folder-delete = Выдаліць папку?
+folder-yes-delete = так, выдаліць
+
 logout = Выйсці
 settings = Налады
 return-to-diagrams = Вярнуцца да дыяграм
 upgrade-to-awesome = Палепшыць да плана <b>Awesome</b>!
 # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc.:
-awesome-time-remaining = Пробны перыяд плана Awesome скончыцца праз <time data-l10n-name="remaining"></time>
+awesome-time-remaining = Пробны перыяд плана Awesome скончыцца <time data-l10n-name="remaining"></time>
 awesome-trial-after = Пасля вас перавядуць на бясплатны план
 want-awesome-for-free = Хочаце карыстацца Awesome бясплатна?
 help-search =
@@ -201,7 +215,7 @@ user-privacy = Палітыка прыватнасці
 user-terms = Умовы выкарыстання
 user-link-drive = Прывязаць Google Drive
 diagrams-limited = Выкарыстана <span data-l10n-name="count">{ $privateDiagrams_used } з { $privateDiagrams_available }</span> прыватных дыяграм
-diagrams-unlimited = <span data-l10n-name="count">Неабм. кол-ць</span> прыватн. дыяграм
+diagrams-unlimited = <span data-l10n-name="count">Неабмежаваная колькасць</span> прыватных дыяграм
 
 limitedaccess = У вас абмежаваны доступ да { $resourceName }, бо вы не з’яўляецеся ўдзельнікам
 doclist-create = <b>Сардэчна запрашаем у Coggle!</b> — тут будуць адлюстроўвацца створаныя вамі дыяграмы.
@@ -272,12 +286,15 @@ settings-profile-title = Профіль
 settings-membership-title = Удзельнікі
 settings-exports-title = Экспарт
 settings-authentication-title = Аўтэнтыфікацыя
+settings-security-title = Бяспека
+settings-appearance-title = Знешні выгляд
 
 billing-card = Картка ў базе сканчваецца на <b>{ $cardEndsIn }</b>, тэрмін дзеяння — <b>{ $cardExpires }</b>.
 billing-addr = Паштовы індэкс для аплаты: <b>{ $addressZip }</b>. <a data-l10n-name="edit">Рэдагаваць даныя карткі</a>
 
 billing-remove = Выдаліць
 billing-nocard = У вашым уліковым запісе няма метадаў аплаты. <a data-l10n-name='setup-card'>Наладзіць даныя карткі</a>
+summary-subscription = Падпіска
 
 summary-free-plan = У вас яшчэ няма падпіскі. <a data-l10n-name="subscribe">Атрымаць цяпер!</a>
 summary-active-plan = Вы карыстаецеся планам <code>{ $planName }</code>. <a data-l10n-name="cancel">Скасаваць падпіску</a> або <a data-l10n-name="compare">параўнаць планы</a>.
@@ -293,7 +310,7 @@ me-communication-title = Камунікацыя
 me-emails-title = Адрасы электроннай пошты
 me-emails-primary = (асноўны)
 me-emailstip = Электронныя лісты будуць адпраўляцца толькі на асноўны адрас, але вы можаце атрымліваць запрашэнні на любы з астатніх.
-me-talktome = Размаўляйце са мной:
+me-talktome = Звязвацца са мной:
 me-diagram-notifications = Апавяшчэнні пра дыяграмы:
 
 slider-yes = ТАК
@@ -303,7 +320,8 @@ me-language-title = Выбар мовы
 me-language-tip = Дапамажыце нам забяспечыць Coggle на вашай роднай мове або дадаць тое, чаго не хапае, праз удзел у нашым <a data-l10n-name='translate-link'>праекце перакладаў</a> на GitHub!
 me-language-questions = Калі ў вас ёсць пытанні адносна перакладаў — ці вы маеце выпраўленні і не ведаеце, як дапамагчы, напішыце нам на <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
-profile-title = Ваша знешнасць у Coggle
+profile-title = Як вас бачаць у Coggle
+profile-p1 = Ваша імя і стандартны значок профілю бяруцца з уліковага запісу, праз які вы ўваходзіце. Калі змяніць значок тут, ён зменіцца толькі ў Coggle.
 
 invite-n-more =
     { $introduceCount ->
@@ -314,6 +332,7 @@ invite-n-more =
 
 recommend-coggle = Парэкамендуйце Coggle
 recommend-share-link = Запрасіце супрацоўнікаў або падзяліцеся сваёй рэферальнай спасылкай па <a data-l10n-name='email'>эл. пошце</a>.
+recommend-already-awesome = У вас ужо ёсць Awesome — дапамажыце астатняму свету адкрыць Coggle!
 
 claim-free-month = Атрымайце бясплатны месяц Coggle Awesome!
 claim-redeem = Выкарыстоўваць цяпер
@@ -321,11 +340,29 @@ claim-redeem = Выкарыстоўваць цяпер
 
 close-account-title = Закрыць ваш уліковы запіс Coggle
 close-account = Выдаліць ваш бясплатны ўліковы запіс Coggle назаўсёды.
+close-account-clarification = Спачатку трэба скасаваць усе платныя падпіскі: для асабістых планаў Awesome — у <a data-l10n-name='billing-link'>наладах аплаты</a>, а для планаў арганізацый — на панэлі налад вашай арганізацыі.
 close-account-description = Гэты працэс <b>неадваротны</b> і ўступіць у сілу адразу. Вы страціце доступ да ўсіх дыяграм, таму пераканайцеся, што экспартавалі тыя, якія хочаце захаваць.
 close-account-button = Закрыць мой уліковы запіс
 close-account-enteremail =
     .placeholder = Увядзіце ваш email
 close-account-confirm = ПАЦВЯРДЗІЦЬ
+me-security-login-title = Спосабы ўваходу
+me-security-login-options = Для ўваходу ў ваш уліковы запіс выкарыстоўваецца адрас <b>«{$user_email}»</b>. Вы можаце ўваходзіць любым падтрымліваемым спосабам з гэтым адрасам.
+me-security-passkeys-title = Ключы доступу
+me-security-nopasskeys = У вашым уліковым запісе няма ключоў доступу.
+me-security-passkeys = Ключы доступу — гэта бяспечны спосаб уваходу без пароля і без праверкі кода, адпраўленага на пошту. Ваш браўзер або прылада надзейна захоўвае ключ доступу, і вы можаце выкарыстоўваць яго для ўваходу ў Coggle.
+me-security-add-passkey = Дадаць ключ доступу
+me-security-logout = Выйсці з усіх актыўных сеансаў на ўсіх прыладах.
+me-security-delete = выдаліць
+me-security-rename = перайменаваць
+me-security-save = захаваць
+me-security-delete-pk = Выдаліць ключ доступу?
+me-security-yesdel = так, выдаліць
+me-appearance-title = Знешні выгляд інтэрфейсу
+appear-light = Светлая
+appear-dark = Цёмная
+appear-system = Як на прыладзе
+me-appearance-dm = Выберыце светлую або цёмную тэму інтэрфейсу. Гэта не ўплывае на тое, як вашы дыяграмы бачаць іншыя людзі.
 
 # Gallery Content (/gallery) 
 gallery-title = Галерэя Coggle
@@ -408,8 +445,10 @@ upgrade-now = Палепшыць зараз
 me-support-awesomethanks-p1 = <b>Дзякуем за падтрымку Coggle!</b>
 me-support-awesomethanks-p2 = За тое, што вы адзін з ранніх прыхільнікаў Coggle, усе перавагі плана <a data-l10n-name="awesome">Coggle Awesome</a> уключаны ў вашу падпіску!
 
-me-awesome = Гэта вы &mdash;<b>Вы цудоўныя!</b>
+me-awesome = Гэта вы &mdash;<b>У вас Awesome!</b>
 me-manage-plan = Кіраваць вашым планам
+me-free = Гэта вы &mdash;<b>Вы карыстаецеся Coggle бясплатна.</b> <a data-l10n-name="settings">Праглядзець налады.</a>
+upgrade-awesome = Перайсці на Awesome
 
 
 messages-title = Паведамленні
@@ -433,7 +472,7 @@ diagram-toolbar-download =
 diagram-toolbar-copy =
     .title = Стварыць копію гэтага Coggle.
 diagram-toolbar-public-detail = Публічная дыяграма
-    .title = Гэты дыяграма можа з’яўляцца ў Галерэі Coggle і выніках пошуку.
+    .title = Гэтая дыяграма можа з’яўляцца ў Галерэі Coggle і ў выніках пошуку.
 diagram-toolbar-pubcopy = Выкарыстоўваць як шаблон
     .title = Стварыць уласную копію гэтай дыяграмы.
 public-label = Публічная
@@ -441,15 +480,18 @@ public-label = Публічная
 
 # history slider content 
 current-version = цяперашняя
+share-by-link = Доступ па спасылцы
+share-newlink2 = Стварыць прыватную спасылку
+share-embedlink = Убудаваць у HTML
+    .title = Згенераваць HTML-код для ўбудавання на вэб-старонку
 
 # sharing dialog content 
-share-newlink = Новая спасылка:
-share-newlink-tip = Яны дазваляюць дзяліцца дыяграмай з людзьмі без уваходу, але асцярожна — любы, у каго ёсць спасылка, можа бачыць вашу працу!
+
 
 share-tag-user = карыстальнік
 share-tag-embed = убудова
 share-tag-writable = рэдагавальны
-share-send-email = АДПР.
+share-send-email = АДПРАВІЦЬ
 share-email-hints =
   <span>каб запрасіць, увядзіце email</span>
   <span>затым націсніце Enter</span>
@@ -465,9 +507,10 @@ viewers-nocopy =
     .title = Гледачы не могуць ствараць копіі.
 revoke-link = 
     .title = Выдаліць гэту спасылку.
+share-publishing = Публікацыя
 
 share-open = Ці можа кожны праглядаць гэтую дыяграму?
-share-open-detail = Публічныя дыяграмы могуць праглядацца любым, і яны могуць з’яўляецца ў нашай <a data-l10n-name="gallery">Галерэі</a>
+share-open-detail = Публічныя дыяграмы можа праглядаць любы, і яны могуць з’яўляцца ў нашай <a data-l10n-name="gallery">Галерэі</a>
 
 # download dialog content 
 download-pdf = Спампаваць PDF
@@ -494,7 +537,7 @@ access-remove = Выдаліць { $user_givenName }
 # Notification Messages 
 readonly-warning = Вы не можаце рэдагаваць гэтую дыяграму. <div data-l10n-name="suggestion">Калі вам трэба рэдагаваць, папрасіце аўтара даць вам дазвол.</div>
 
-websocket-offline = Змены ў сапраўдным часе недаступная з-за сеткі. <a data-l10n-name='helpfix'>Больш інфармацыі</a>
+websocket-offline = Змены ў рэальным часе недаступныя з-за праблем з сеткай. <a data-l10n-name='helpfix'>Больш інфармацыі</a>
 
 disconnect-warning = <b>Злучэнне страчана</b>: Змены могуць не захавацца
 
@@ -521,19 +564,19 @@ sidebar-shortcuts = Спалучэнні клавіш
 sidebar-undo = Адрабіць:
 sidebar-redo = Аднавіць:
 
-touch-pressitem = <b>Доўгае націсканне</b> на <b>элемент</b> дазваляе <b>выдаляць</b> элементы, змяняць іх <b>колер</b>, рабіць аўтарасстаноўку, крос-спасылкі, капіяваць элементы і інш.
+touch-pressitem = <b>Доўгае націсканне</b> на <b>элемент</b> дазваляе <b>выдаляць</b> элементы, змяняць іх <b>колер</b>, рабіць <b>аўтарасстаноўку</b>, крос-спасылкі, капіяваць элементы і інш.
 touch-pressbackground = <b>Доўгае націсканне</b> на <b>фоне</b> дазваляе дадаваць <b>меткі</b>, <b>адрабляць</b> дзеянні і ўстаўляць змесціва.
 
-sc-and-click = + націск.
-sc-and-drag = + перацягв.
-sc-and-mousewheel = + колца мышы
+sc-and-click = + націск
+sc-and-drag = + перацягванне
+sc-and-mousewheel = + кола мышы
 sc-shift = shift ⇧
 sc-ret = enter ⏎
 sc-tab = tab ⇥
 sc-ctrl = ctrl ^
 sc-alt = alt
 sc-option = option ⌥
-sc-dragdrop = перацягн. і адпусціць
+sc-dragdrop = перацягванне
 
 sidebar-whentyping = Пры наборы тэксту
 sidebar-sc-newitem = Новы элемент:
@@ -559,6 +602,20 @@ hint-add =
 hint-delete = Выдаліць галіну.
 hint-remove = Выдаліць элемент.
 hint-insert-rp = Уставіць элемент перад гэтым або перацягнуць, каб перасадзіць галіну.
+toggle-checkbox = Пазначыць або зняць пазнаку.
+hint-edit-touch = Дакраніцеся, каб рэдагаваць, перацягніце, каб перамясціць.
+hint-transplant = Перацягніце, каб перасадзіць.
+hint-drag-only = Перацягніце, каб перамясціць толькі гэты элемент.
+hint-can-drag-only =
+    {
+        $os ->
+            [Mac] Утрымлівайце <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key>, каб перацягнуць толькі гэты элемент.
+           *[Win] Утрымлівайце <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key>, каб перацягнуць толькі гэты элемент.
+    }
+hint-edit = Націсніце, каб рэдагаваць, перацягніце, каб перамясціць.
+hint-present-touch = Дакраніцеся, каб паказаць або схаваць галіны.
+hint-present-all = Націсніце, каб паказаць або схаваць усе ўзроўні.
+hint-present = Націсніце, каб паказаць або схаваць галіны. Утрымлівайце <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key>, каб разгарнуць усе ўзроўні.
 
 
 stat-saving = Захоўваецца
@@ -574,7 +631,7 @@ sidebar-bgmenu2 = Каб <b>змяніць маштаб</b>, дадаць <b>т�
 sidebar-icons = Значкі
 markdown-icons = Уводзьце тэкст <code>:</code> падчас рэдагавання або выкарыстоўвайце кнопку ў верхняй частцы рэдактара элемента.
 markdown-checkbox = <code>- [X]</code> для стварэння <input data-l10n-name="checkbox"/> поля выбару
-markdown-code = <code>`text`</code> каб выкарыстоўваць шрыфт фіксаванай шырыні
+markdown-code = <code>`тэкст`</code>, каб выкарыстоўваць шрыфт <code>фіксаванай шырыні</code>
 
 button-bold =
     .title = Зрабіць тэкст тлустым
@@ -608,6 +665,7 @@ label-fontsize = Памер шрыфту <span data-l10n-name="fontsize"></span>
 
 hint-toolong = Элемент занадта доўгі! Паспрабуйце перанесці частку тэксту ў новы элемент: абярыце тэкст і націсніце <kb-key data-l10n-name="tab-key">tab</kb-key>
 hint-movetext = Паспрабуйце перанесці частку тэксту ў новы элемент: абярыце тэкст і націсніце <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key>, каб выдаліць
 
 commentcount =
     { $count ->
@@ -676,9 +734,9 @@ index-loginwithgoogle = Увайсці праз Google
 index-signinwithapple = Увайсці праз Apple
 
 login-title = Coggle - Увайдзіце, каб пачаць стварэнне інтэлект-карт
+signin-by-email = Увайсці па адрасе электроннай пошты
+sign-in = Увайсці
 
-login-no-acc-q = У вас няма ўліковага запісу Google або Microsoft?
-login-no-acc-a = Нічога страшнага! Вы можаце стварыць уліковы запіс Google або Microsoft з любой электроннай поштай. Уліковы запіс Gmail або Outlook <b>не</b> абавязковы.
 
 login-saml = Мы таксама падтрымліваем карпаратыўны ўваход для Coggle-арганізацый праз OneLogin, Okta і іншых пастаўшчыкоў SAML 2.0.
 login-saml-where = Калі вы выкарыстоўваеце адзіны ўваход, увайдзіце з дапамогай старонкі, якую падаў адміністратар вашай арганізацыі.
@@ -691,43 +749,28 @@ login-colab-a = Супрацоўнічайце і бачыце змены, як�
     тым, хто можа ўносіць змены, у правым верхнім куце старонкі дыяграмы.
 
 login-free = Ці бясплатны Coggle?
-login-free2-a = Так, усё для стварэння выдатных інтэлектуальных карт - без
-    абмежавання часу, супрацоўніцтва ў рэжыме рэальнага часу, без абмежавання
-    памеру і многае іншае - бясплатна. <a data-l10n-name='pricing'>Абнаўленне для
-    дадатковых магутных функцый</a> для прафесіяналаў і вялікіх каманд.
+login-free2-a = Так, усё неабходнае для стварэння выдатных майнд-карт — без
+    абмежавання часу, з супольнай працай у рэальным часе, без абмежавання памеру
+    і многае іншае — бясплатна. <a data-l10n-name='pricing'>Перайдзіце на платны план
+    дзеля яшчэ больш магутных функцый</a> для прафесіяналаў і вялікіх каманд.
 
-login-pw-q = Чаму я не магу стварыць імя карыстальніка і пароль?
-login-pw-a-p1 = Coggle падтрымлівае толькі ўваход праз Google, Microsoft або
-    Apple. Мы лічым, што гэта лепшы спосаб абараніць вашы даныя, бо гэтыя сэрвісы
-    прапануюць надзейную аўтэнтыфікацыю, уключаючы двухфактарную праверку.
 
-login-pw-a-p2 = Бяспечнае захоўванне імёнаў карыстальнікаў і пароляў патрабуе
-    складаных механізмаў: аднаўленне пароля, двухфактарная аўтэнтыфікацыя,
-    выяўленне махлярства, абарона ад грубай сілы і бяспечнае захоўванне
-    захэшыраваных пароляў. Мы лічым, што лепш перадаць гэтыя задачы знешняму
-    пастаўшчыку, каб накіраваць усе сілы на стварэнне выдатнага інструмента для мыслення.
 
 login-what-q = Што вы робіце з маім уліковым запісам Google/Microsoft?
-login-what-a = Мы запытваем толькі доступ да асноўнай інфармацыі профілю:
-    імя, фота і адрас электроннай пошты. Мы не просім доступ да кантактаў,
-    лістоў, дакументаў Google Drive ці іншых даных, якія не патрэбныя для
-    працы Coggle.
+login-what-a2 = Мы запытваем доступ толькі да асноўнай інфармацыі профілю:
+    вашага імя, фота профілю і адраса электроннай пошты.
+    Ні да чога іншага ў нас доступу няма.
+login-trial = Ці ёсць пробны перыяд?
+login-trial-a = Бясплатнай версіяй можна карыстацца колькі заўгодна — без абмежавання часу і без банкаўскай карткі!
+login-trial-a2 = А каб бясплатна паспрабаваць пашыраную версію на працягу месяца, запрасіце трох сяброў рэдагаваць вашу майнд-карту разам з вамі!
+
 
 login-switch-q = Ці магу я пераключацца паміж спосабамі ўваходу?
 login-switch-a = Так! Калі вы выкарыстоўваеце аднолькавы адрас электроннай пошты ў Google, Microsoft або Apple,
     вы можаце ўваходзіць любым з іх у той жа ўліковы запіс. Заўважце,
     што выбар опцыі «схаваць мой email» ў Apple зробіць звязванне ўліковых запісаў немагчымым.
 
-login-emails-q = Ці чытаеце вы мае лісты?
-login-emails-a = Не. Мы не патрэбны і не жадаем доступу да вашых лістоў!
-    Мы запытваем толькі асноўную інфармацыю профілю. Мы не маем доступу да чагосьці яшчэ,
-    і не можам змяняць налады вашага ўліковага запісу Google/Microsoft.
 
-login-icloud-q = Ці маеце вы доступ да майго iCloud?
-login-icloud-a = Не! Уваход праз Apple дае нам толькі імя і адрас электроннай
-    пошты (калі вы згаджаецеся абагуліць яго). Мы не маем іншых правоў доступу.
-    Больш пра працу ўваходу праз Apple на
-    <a data-l10n-name="applehelp">вэб-сайце Apple</a>.
 
 login-workschool-q = Ці магу я выкарыстоўваць рабочы або вучэбны акаунт Microsoft?
 login-workschool-a = Так, вы можаце выкарыстоўваць любы акаўнт Microsoft, як асабісты (раней Windows Live),
@@ -735,7 +778,7 @@ login-workschool-a = Так, вы можаце выкарыстоўваць лю
     ваш IT-аддзел не заблакіраваў гэтую магчымасць.
 
 login-otherlogin-q = Ці магу я выкарыстоўваць іншага пастаўшчыка аўтэнтыфікацыі?
-login-otherlogin-a-p1 = Цяпер падтрымліваецца ўваход праз Google, Microsoft і Apple для асабістых уліковых запісаў.
+login-otherlogin-a-p1 = Цяпер для асабістых уліковых запісаў мы падтрымліваем уваход праз Google, Microsoft, Apple і электронную пошту.
 login-otherlogin-a-p2 = Мы падтрымліваем <a data-l10n-name="saml">уваход SAML 2.0</a> для Coggle-арганізацый.
     Калі вас цікавіць уласны хостынг Coggle з уваходам праз Active Directory, напішыце на
     наш <a data-l10n-name="email">адрас для карпаратыўных продажаў</a>.
@@ -756,7 +799,7 @@ orgs-subpitch-p1 = Калі інфармацыя важная для вашай 
 orgs-subpitch-p2 = Тарыфы простыя — <b>$8 за карыстальніка ў месяц</b>.<br><b>Неабмежавана ўсё</b>.
 
 
-orgs-feature-saml-sso-title = SAML Single Sign On
+orgs-feature-saml-sso-title = Адзіны ўваход SAML
 orgs-feature-saml-sso = Аўтэнтыфікуйце карыстальнікаў праз існуючы сэрвіс адзінага ўваходу. Падтрымка OneLogin, Okta і іншых.
 
 orgs-feature-in-one-place-title = Усё ў адным месцы
@@ -766,7 +809,7 @@ orgs-feature-control-sharing-title = Кантроль доступу
 orgs-feature-control-sharing = Вы можаце гарантаваць, што дыяграмы, створаныя ў арганізацыі, застануцца ў ёй. Гэта абараняе ад выпадковага доступу, калі няправільны адрас запрошаны да дакумента.
 
 orgs-feature-manage-users-title = Бяспечнае кіраванне карыстальнікамі
-orgs-feature-manage-users = Бяспечна выдаляйце ўдзельнікаў з арганізацыі, не губляючы іх уклад у працу. Скарыстайце панэль кіравання, каб прагледзець усе дыяграмы, створаныя членамі арганізацыі — як былымі, так і цяперашнімі, выдаленымі або актыўнымі.
+orgs-feature-manage-users = Выдаляйце ўдзельнікаў з арганізацыі, не губляючы зробленай імі працы. На панэлі кіравання можна праглядаць усе дыяграмы, створаныя ў арганізацыі цяперашнімі і былымі ўдзельнікамі, выдаленыя ці актыўныя.
 
 orgs-feature-export-title = Масавы экспарт
 orgs-feature-export = Адміністратары арганізацыі могуць спампаваць усе дыяграмы арганізацыі ў машыначытэльным архівавальным фармаце JSON адным націсканнем. Выдатна для рэгуляванай адпаведнасці або спакою.
@@ -929,7 +972,7 @@ fact-pdf = Вы можаце спампаваць свой Coggle у фарма�
 
 fact-png = Вы можаце спампаваць свой Coggle як відарыс! Шукайце кнопку спампоўкі ў правым верхнім вугле экрана.
 
-fact-latex2 = Ці ведалі вы, што Coggle падтрымлівае LaTeX для матэматыкі? Ён падтрымлівае!<br>Выкарыстоўвайце \\( \\LaTeX тут \\) для праверкі! Вось <a data-l10n-name='link'>даведнік па сінтаксісе</a>.
+fact-latex2 = Ці ведалі вы, што Coggle падтрымлівае LaTeX для матэматыкі? Так!<br>Выкарыстоўвайце \\( \LaTeX тут \\), каб паспрабаваць! Вось <a data-l10n-name='link'>даведнік па сінтаксісе</a>.
 
 fact-history = Ці ведалі вы, што можна праглядаць гісторыю змен — хто і калі што змяніў у вашым Coggle? Можна! Націсніце на значок гадзінніка ў правым верхнім вугле.
 
@@ -976,4 +1019,12 @@ fact-organisation = Вы карыстаецеся Coggle у бізнесе? Вы
 fact-organisation2 = Ці ведалі вы, што Coggle-арганізацыі могуць размяшчаць свой лагатып на сваіх дыяграмах? Яны могуць!
 
 fact-organisation3 = Ці ведалі вы, што можна стварыць Coggle-арганізацыю, каб арганізаваць дыяграмы вашай кампаніі? Можна!
+index-free-title = ШІ даў вам інфармацыю — цяпер зразумейце яе. <br>Упарадкуйце свае думкі з Coggle
+index-free-3 = Тры прыватныя майнд-карты бясплатна назаўсёды.
+index-free-notrial = Ніякіх пробных перыядаў і абмежаванняў у часе.
+index-free-nolockin = Калі пяройдзеце на пашыраныя функцыі — ніякіх абавязацельстваў і кантрактаў.
+index-everyone-power = Магутныя майнд-карты для ўсіх
+index-everyone-succeed = Мы лічым, што выдатныя інструменты павінны быць даступныя ўсім і ўсюды, і мы ўжо дапамаглі мільёнам студэнтаў вучыцца, спецыялістам — расці, а кампаніям — дасягаць поспеху.
+index-everyone-nolimit = У Coggle бясплатна ёсць усё, што трэба, каб разабраць любую тэму: ніякіх абмежаванняў памеру ці месца, прыгожыя стандартныя колеры і формы Coggle.
+index-everyone-upgrade = Пераходзячы на платны план дзеля дадатковых налад або большай колькасці прыватных майнд-карт, вы дапамагаеце нам рабіць думкі свету больш яснымі і ўпарадкаванымі. Дзякуй!
 
