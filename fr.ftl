@@ -157,6 +157,25 @@ flexible = entièrement flexible
 
 awesome-feature = Formule Awesome
 org-feature = Fonctionnalité Organisation
+plan-gotquestions = Des questions sur la formule supérieure ? <a data-l10n-name="faqs">Consultez la FAQ</a>
+plan-alloptions = Entièrement flexible.<br><br>Besoin de plus de détails, ou d'une formule pour toute votre équipe ? <a data-l10n-name="plans">Voir toutes les formules</a>
+plans-already-in-org = Vous êtes déjà membre de <a data-l10n-name="org">l'organisation { $orgName }.</a>
+plans-view-existing-org = Voir votre organisation
+plans-create-new-org = Créer une nouvelle organisation
+plans-load-failed = Impossible de charger votre formule actuelle, veuillez réessayer.
+plans-coupon-active = Vous avez déjà un abonnement actif, ce code promo ne peut donc pas être appliqué automatiquement – écrivez-nous plutôt à hello@coggle.it.
+plans-faq-cancel-q = Quelle est votre politique d'annulation ?
+plans-faq-cancel-a = Vous pouvez annuler à tout moment, sans aucun paiement supplémentaire. Toutes les formules payantes sont entièrement flexibles, sans engagement.
+plans-faq-after-cancel-q = Que se passe-t-il si j'annule ma formule ?
+plans-faq-after-cancel-a = Si vous annulez votre formule Awesome, vous gardez l'accès à tous les diagrammes que vous avez créés, et tous vos diagrammes privés restent privés. Vous repassez à la version gratuite.
+plans-faq-manage-q = Comment gérer mon compte ?
+plans-faq-manage-a = Gérez votre compte depuis votre <a data-l10n-name="settings">page de paramètres</a>, accessible via le menu en haut à gauche de votre liste de documents.
+plans-faq-collaborators-q = Tous mes collaborateurs ont-ils besoin d'une formule payante ?
+plans-faq-collaborators-a = Non, vous pouvez inviter n'importe qui à travailler avec vous sur vos diagrammes privés ou publics, qu'ils aient leur propre abonnement ou non.
+plans-faq-problem-q = Et si j'ai un problème ?
+plans-faq-problem-a = Si vous avez un problème avec votre abonnement ou avez besoin de nous contacter, écrivez-nous simplement à <b>hello@coggle.it</b>, ou répondez à n'importe quel e-mail de reçu, et nous arrangerons les choses.
+plans-faq-more-q = J'ai encore des questions !
+plans-faq-more-a = Consultez notre <a data-l10n-name="help">base de connaissances</a> pour des guides détaillés sur les fonctionnalités, ou envoyez-nous vos questions à <b>hello@coggle.it</b> !
 
 footer-help = Aide et documentation
 footer-about = À Propos

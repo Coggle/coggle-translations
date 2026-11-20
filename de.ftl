@@ -153,6 +153,25 @@ flexible = voll flexibel
 
 awesome-feature = Awesome-Plan
 org-feature = Organisations-Funktion
+plan-gotquestions = Fragen zum Upgrade? <a data-l10n-name="faqs">Sieh dir die FAQ an</a>
+plan-alloptions = Voll flexibel.<br><br>Brauchst du mehr Details oder eine Lösung für dein ganzes Team? <a data-l10n-name="plans">Alle Pläne ansehen</a>
+plans-already-in-org = Du bist bereits Mitglied der <a data-l10n-name="org">Organisation { $orgName }.</a>
+plans-view-existing-org = Deine Organisation ansehen
+plans-create-new-org = Neue Organisation erstellen
+plans-load-failed = Dein aktueller Plan konnte nicht geladen werden. Bitte versuche es noch einmal.
+plans-coupon-active = Du hast bereits ein aktives Abo, daher kann dieser Gutschein nicht automatisch angewendet werden – bitte schreib uns stattdessen an hello@coggle.it.
+plans-faq-cancel-q = Wie sind die Kündigungsbedingungen?
+plans-faq-cancel-a = Du kannst jederzeit kündigen, ohne weitere Zahlungen. Alle kostenpflichtigen Pläne sind voll flexibel, ohne Vertragsbindung.
+plans-faq-after-cancel-q = Was passiert, wenn ich meinen Plan kündige?
+plans-faq-after-cancel-a = Wenn du deinen Awesome-Plan kündigst, behältst du den Zugriff auf alle Diagramme, die du erstellt hast, und alle deine privaten Diagramme bleiben privat. Du wechselst dann zurück zur kostenlosen Version.
+plans-faq-manage-q = Wie verwalte ich mein Konto?
+plans-faq-manage-a = Verwalte dein Konto auf deiner <a data-l10n-name="settings">Einstellungsseite</a> – über das Menü oben links in deiner Dokumentenliste.
+plans-faq-collaborators-q = Brauchen alle meine Mitwirkenden einen kostenpflichtigen Plan?
+plans-faq-collaborators-a = Nein, du kannst jeden einladen, mit dir an deinen privaten oder öffentlichen Diagrammen zu arbeiten – ob mit oder ohne eigenes Abo.
+plans-faq-problem-q = Was ist, wenn ich ein Problem habe?
+plans-faq-problem-a = Wenn du ein Problem mit deinem Abo hast oder uns kontaktieren möchtest, schreib uns einfach an <b>hello@coggle.it</b> oder antworte auf eine Zahlungsbestätigung – wir bringen das in Ordnung.
+plans-faq-more-q = Ich habe noch Fragen!
+plans-faq-more-a = In unserer <a data-l10n-name="help">Wissensdatenbank</a> findest du ausführliche Anleitungen zu allen Funktionen – oder schick uns deine Fragen an <b>hello@coggle.it</b>!
 
 footer-help = Hilfe und Dokumentation
 footer-about = Über uns

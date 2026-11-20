@@ -151,6 +151,25 @@ flexible = totalmente flexível
 
 awesome-feature = Recurso Awesome
 org-feature = Recurso Organização
+plan-gotquestions = Dúvidas sobre o upgrade? <a data-l10n-name="faqs">Confira as perguntas frequentes</a>
+plan-alloptions = Totalmente flexível.<br><br>Precisa de mais detalhes ou de uma opção para toda a sua equipe? <a data-l10n-name="plans">Ver todos os planos</a>
+plans-already-in-org = Você já é membro da <a data-l10n-name="org">organização { $orgName }.</a>
+plans-view-existing-org = Ver sua organização
+plans-create-new-org = Criar uma nova organização
+plans-load-failed = Não foi possível carregar seu plano atual. Tente novamente.
+plans-coupon-active = Você já tem uma assinatura ativa, então este cupom não pode ser aplicado automaticamente. Envie um e-mail para hello@coggle.it.
+plans-faq-cancel-q = Qual é a política de cancelamento?
+plans-faq-cancel-a = Você pode cancelar a qualquer momento, sem pagamentos adicionais. Todos os planos pagos são totalmente flexíveis, sem contrato.
+plans-faq-after-cancel-q = O que acontece se eu cancelar meu plano?
+plans-faq-after-cancel-a = Se você cancelar o plano Awesome, continuará com acesso a todos os diagramas que criou, e todos os seus diagramas privados continuarão privados. Você voltará para a versão gratuita.
+plans-faq-manage-q = Como gerencio minha conta?
+plans-faq-manage-a = Gerencie sua conta na sua <a data-l10n-name="settings">página de configurações</a>, pelo menu no canto superior esquerdo da lista de documentos.
+plans-faq-collaborators-q = Todos os meus colaboradores precisam de um plano pago?
+plans-faq-collaborators-a = Não, você pode convidar qualquer pessoa para trabalhar com você em seus diagramas privados ou públicos, tenha ela uma assinatura própria ou não.
+plans-faq-problem-q = E se eu tiver um problema?
+plans-faq-problem-a = Se tiver algum problema com sua assinatura ou precisar falar com a gente, é só enviar um e-mail para <b>hello@coggle.it</b> ou responder a qualquer e-mail de recibo, e vamos resolver.
+plans-faq-more-q = Ainda tenho dúvidas!
+plans-faq-more-a = Confira nossa <a data-l10n-name="help">central de ajuda</a> para guias detalhados sobre os recursos, ou envie suas dúvidas para <b>hello@coggle.it</b>!
 
 footer-help = Ajuda e Documentação
 footer-about = Sobre

@@ -154,6 +154,25 @@ flexible = volledig flexibel
 
 awesome-feature = Awesome-abonnement
 org-feature = Organisatiefunctie
+plan-gotquestions = Vragen over upgraden? <a data-l10n-name="faqs">Bekijk de veelgestelde vragen</a>
+plan-alloptions = Volledig flexibel.<br><br>Meer details nodig, of een optie voor je hele team? <a data-l10n-name="plans">Bekijk alle abonnementen</a>
+plans-already-in-org = Je bent al lid van de <a data-l10n-name="org">organisatie { $orgName }.</a>
+plans-view-existing-org = Bekijk je organisatie
+plans-create-new-org = Een nieuwe organisatie aanmaken
+plans-load-failed = Je huidige abonnement kon niet worden geladen, probeer het opnieuw.
+plans-coupon-active = Je hebt al een actief abonnement, dus deze kortingscode kan niet automatisch worden toegepast – mail ons in plaats daarvan op hello@coggle.it.
+plans-faq-cancel-q = Wat is jullie opzegbeleid?
+plans-faq-cancel-a = Je kunt altijd op elk moment opzeggen, zonder verdere betalingen. Alle betaalde abonnementen zijn volledig flexibel, zonder contract.
+plans-faq-after-cancel-q = Wat gebeurt er als ik mijn abonnement opzeg?
+plans-faq-after-cancel-a = Als je je Awesome-abonnement opzegt, houd je toegang tot alle diagrammen die je hebt gemaakt, en al je privédiagrammen blijven privé. Je gaat terug naar de gratis versie.
+plans-faq-manage-q = Hoe beheer ik mijn account?
+plans-faq-manage-a = Beheer je account via je <a data-l10n-name="settings">instellingenpagina</a>, via het menu linksboven in je lijst met documenten.
+plans-faq-collaborators-q = Hebben al mijn medewerkers een betaald abonnement nodig?
+plans-faq-collaborators-a = Nee, je kunt iedereen uitnodigen om met je samen te werken aan je privé- of openbare diagrammen, of ze nu een eigen abonnement hebben of niet.
+plans-faq-problem-q = Wat als ik een probleem heb?
+plans-faq-problem-a = Als je een probleem hebt met je abonnement of contact wilt opnemen, stuur ons dan een e-mail op <b>hello@coggle.it</b>, of beantwoord een willekeurige betalingsbevestiging, en we lossen het op.
+plans-faq-more-q = Ik heb nog vragen!
+plans-faq-more-a = Bekijk onze <a data-l10n-name="help">kennisbank</a> voor uitgebreide handleidingen over de functies, of mail je vragen naar <b>hello@coggle.it</b>!
 
 footer-help = Help en documentatie
 footer-about = Over

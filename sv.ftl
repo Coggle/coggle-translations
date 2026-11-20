@@ -153,6 +153,25 @@ flexible = helt flexibelt
 
 awesome-feature = Awesome-plan
 org-feature = Organisationsfunktion
+plan-gotquestions = Frågor om att uppgradera? <a data-l10n-name="faqs">Läs vanliga frågor</a>
+plan-alloptions = Helt flexibelt.<br><br>Behöver du mer information, eller ett alternativ för hela ditt team? <a data-l10n-name="plans">Visa alla planer</a>
+plans-already-in-org = Du är redan medlem i <a data-l10n-name="org">organisationen { $orgName }.</a>
+plans-view-existing-org = Visa din organisation
+plans-create-new-org = Skapa en ny organisation
+plans-load-failed = Det gick inte att läsa in din nuvarande plan, försök igen.
+plans-coupon-active = Du har redan en aktiv prenumeration, så den här kupongen kan inte tillämpas automatiskt – mejla oss på hello@coggle.it i stället.
+plans-faq-cancel-q = Vilka är era uppsägningsvillkor?
+plans-faq-cancel-a = Du kan avsluta när som helst, utan fler betalningar. Alla betalplaner är helt flexibla, utan bindningstid.
+plans-faq-after-cancel-q = Vad händer om jag avslutar min plan?
+plans-faq-after-cancel-a = Om du avslutar din Awesome-plan behåller du åtkomsten till alla diagram du har skapat, och alla dina privata diagram förblir privata. Du flyttas tillbaka till gratisversionen.
+plans-faq-manage-q = Hur hanterar jag mitt konto?
+plans-faq-manage-a = Hantera ditt konto på din <a data-l10n-name="settings">inställningssida</a>, via menyn uppe till vänster i din dokumentlista.
+plans-faq-collaborators-q = Behöver alla mina medarbetare en betald plan?
+plans-faq-collaborators-a = Nej, du kan bjuda in vem som helst att arbeta med dig i dina privata eller offentliga diagram, oavsett om de har en egen prenumeration.
+plans-faq-problem-q = Vad gör jag om jag får problem?
+plans-faq-problem-a = Om du har problem med din prenumeration eller behöver kontakta oss, mejla oss bara på <b>hello@coggle.it</b>, eller svara på valfritt kvittomejl, så ordnar vi det.
+plans-faq-more-q = Jag har fortfarande frågor!
+plans-faq-more-a = Kolla in vår <a data-l10n-name="help">kunskapsbas</a> för detaljerade guider om funktionerna, eller mejla dina frågor till <b>hello@coggle.it</b>!
 
 footer-help = Hjälp och dokumentation
 footer-about = Om oss

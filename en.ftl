@@ -154,6 +154,28 @@ flexible = fully flexible
 awesome-feature = Awesome Plan
 org-feature = Organization Feature
 
+# upgrade page (/plans, and the upgrade dialog)
+plan-gotquestions = Got Questions About Upgrading? <a data-l10n-name="faqs">Check out the FAQs</a>
+plan-alloptions = Fully flexible.<br><br>Need more details, or an option for your whole team? <a data-l10n-name="plans">View all plans</a>
+plans-already-in-org = You are already a member of the <a data-l10n-name="org">{ $orgName } Organization.</a>
+plans-view-existing-org = View your Organization
+plans-create-new-org = Create a new Organization
+plans-load-failed = Failed to load current plan, please try again.
+plans-coupon-active = You already have an active subscription so this coupon cannot be applied automatically - please email us at hello@coggle.it instead.
+
+plans-faq-cancel-q = What's your cancellation policy?
+plans-faq-cancel-a = You can always cancel at any time, with no further payments. All paid plans are completely flexible, with no contracts.
+plans-faq-after-cancel-q = What happens if I cancel my plan?
+plans-faq-after-cancel-a = If you choose to cancel your Awesome plan you'll keep access to all the diagrams you've created, and all your private diagrams stay private. You'll be moved back to the free version.
+plans-faq-manage-q = How do I manage my account?
+plans-faq-manage-a = Manage your account from your <a data-l10n-name="settings">settings page</a>, via the menu in the top left of your documents list page.
+plans-faq-collaborators-q = Will all my collaborators need a paid plan?
+plans-faq-collaborators-a = No, you can invite anyone else to work with you on any of your private or public diagrams, whether or not they have their own subscription.
+plans-faq-problem-q = What if I have a problem?
+plans-faq-problem-a = If you have a problem with your subscription or ever need to get in touch just drop us an email at <b>hello@coggle.it</b>, or reply to any receipt email, and we'll make things right.
+plans-faq-more-q = I've still got questions!
+plans-faq-more-a = Check out our <a data-l10n-name="help">knowledge base</a> for detailed guides on features, or email them to us at <b>hello@coggle.it</b>!
+
 footer-help = Help and Documentation
 footer-about = About
 footer-contact = Contact

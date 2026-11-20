@@ -152,6 +152,25 @@ flexible = 자유롭게 변경 가능
 
 awesome-feature = Awesome 요금제
 org-feature = Organization 기능
+plan-gotquestions = 업그레이드에 대해 궁금한 점이 있으신가요? <a data-l10n-name="faqs">자주 묻는 질문 보기</a>
+plan-alloptions = 자유롭게 변경 가능.<br><br>더 자세한 내용이나 팀 전체를 위한 옵션이 필요하신가요? <a data-l10n-name="plans">모든 요금제 보기</a>
+plans-already-in-org = 이미 <a data-l10n-name="org">{ $orgName } 조직</a>의 구성원입니다.
+plans-view-existing-org = 내 조직 보기
+plans-create-new-org = 새 조직 만들기
+plans-load-failed = 현재 요금제를 불러오지 못했습니다. 다시 시도해 주세요.
+plans-coupon-active = 이미 활성 구독이 있어 이 쿠폰을 자동으로 적용할 수 없습니다. 대신 hello@coggle.it으로 이메일을 보내 주세요.
+plans-faq-cancel-q = 취소 정책은 어떻게 되나요?
+plans-faq-cancel-a = 언제든지 취소할 수 있으며 이후 추가 결제는 없습니다. 모든 유료 요금제는 약정 없이 자유롭게 변경할 수 있습니다.
+plans-faq-after-cancel-q = 요금제를 취소하면 어떻게 되나요?
+plans-faq-after-cancel-a = Awesome 요금제를 취소해도 만든 모든 다이어그램에 계속 접근할 수 있으며, 비공개 다이어그램도 그대로 비공개로 유지됩니다. 무료 버전으로 돌아갑니다.
+plans-faq-manage-q = 계정은 어떻게 관리하나요?
+plans-faq-manage-a = 문서 목록 페이지 왼쪽 상단의 메뉴에서 <a data-l10n-name="settings">설정 페이지</a>로 이동해 계정을 관리하세요.
+plans-faq-collaborators-q = 모든 공동 작업자에게 유료 요금제가 필요한가요?
+plans-faq-collaborators-a = 아니요. 상대방이 자신의 구독이 있든 없든 비공개 또는 공개 다이어그램에 누구든 초대해 함께 작업할 수 있습니다.
+plans-faq-problem-q = 문제가 생기면 어떻게 하나요?
+plans-faq-problem-a = 구독에 문제가 있거나 연락이 필요하면 <b>hello@coggle.it</b>으로 이메일을 보내거나 영수증 이메일에 회신해 주세요. 바로 해결해 드리겠습니다.
+plans-faq-more-q = 아직 궁금한 점이 있어요!
+plans-faq-more-a = 기능에 대한 자세한 가이드는 <a data-l10n-name="help">지식 베이스</a>를 확인하시거나, 질문을 <b>hello@coggle.it</b>으로 보내 주세요!
 
 footer-help = 도움말 및 문서
 footer-about = 소개

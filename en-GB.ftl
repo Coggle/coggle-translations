@@ -17,6 +17,9 @@ feature-extendedcolours = More colours
 plans-org-title = Organisation
 
 org-feature = Organisation Feature
+plans-already-in-org = You are already a member of the <a data-l10n-name="org">{ $orgName } Organisation.</a>
+plans-view-existing-org = View your Organisation
+plans-create-new-org = Create a new Organisation
 
 org-settings =
     .title = Manage Organisation

@@ -152,6 +152,25 @@ flexible = 彈性調整
 
 awesome-feature = Awesome 方案
 org-feature = Organization 功能
+plan-gotquestions = 對升級有疑問嗎？ <a data-l10n-name="faqs">查看常見問題</a>
+plan-alloptions = 方案彈性調整。<br><br>需要更多資訊，或適合整個團隊的方案嗎？ <a data-l10n-name="plans">查看所有方案</a>
+plans-already-in-org = 你已經是<a data-l10n-name="org">{ $orgName } 組織</a>的成員。
+plans-view-existing-org = 查看你的組織
+plans-create-new-org = 建立新組織
+plans-load-failed = 無法載入你目前的方案，請再試一次。
+plans-coupon-active = 你已經有有效的訂閱，因此無法自動套用這張優惠券，請改寫信到 hello@coggle.it。
+plans-faq-cancel-q = 取消政策是什麼？
+plans-faq-cancel-a = 你可以隨時取消，之後不會再收費。所有付費方案都完全彈性，沒有綁約。
+plans-faq-after-cancel-q = 如果我取消方案會怎樣？
+plans-faq-after-cancel-a = 如果你取消 Awesome 方案，仍可存取所有你建立的圖表，所有私人圖表也會維持私人狀態。你會轉回免費版。
+plans-faq-manage-q = 我要如何管理帳號？
+plans-faq-manage-a = 透過文件清單頁面左上角的選單進入<a data-l10n-name="settings">設定頁面</a>，即可管理你的帳號。
+plans-faq-collaborators-q = 我的協作者都需要付費方案嗎？
+plans-faq-collaborators-a = 不需要。不論對方是否有自己的訂閱，你都可以邀請任何人一起編輯你的私人或公開圖表。
+plans-faq-problem-q = 如果遇到問題怎麼辦？
+plans-faq-problem-a = 如果你的訂閱有問題或需要聯絡我們，請寫信到 <b>hello@coggle.it</b>，或直接回覆任一封收據信件，我們會為你處理。
+plans-faq-more-q = 我還有其他問題！
+plans-faq-more-a = 歡迎查看我們的<a data-l10n-name="help">知識庫</a>，裡面有各項功能的詳細指南，或把問題寄到 <b>hello@coggle.it</b>！
 
 footer-help = 說明與文件
 footer-about = 關於

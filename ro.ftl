@@ -154,6 +154,25 @@ flexible = complet flexibil
 
 awesome-feature = Planul Awesome
 org-feature = Funcționalitatea pentru organizații
+plan-gotquestions = Ai întrebări despre upgrade? <a data-l10n-name="faqs">Consultă întrebările frecvente</a>
+plan-alloptions = Complet flexibil.<br><br>Ai nevoie de mai multe detalii sau de o opțiune pentru toată echipa? <a data-l10n-name="plans">Vezi toate planurile</a>
+plans-already-in-org = Ești deja membru al <a data-l10n-name="org">organizației { $orgName }.</a>
+plans-view-existing-org = Vezi organizația ta
+plans-create-new-org = Creează o organizație nouă
+plans-load-failed = Planul tău actual nu a putut fi încărcat, te rugăm să încerci din nou.
+plans-coupon-active = Ai deja un abonament activ, așa că acest cupon nu poate fi aplicat automat – te rugăm să ne scrii la hello@coggle.it.
+plans-faq-cancel-q = Care este politica de anulare?
+plans-faq-cancel-a = Poți anula oricând, fără plăți ulterioare. Toate planurile plătite sunt complet flexibile, fără contract.
+plans-faq-after-cancel-q = Ce se întâmplă dacă îmi anulez planul?
+plans-faq-after-cancel-a = Dacă îți anulezi planul Awesome, îți păstrezi accesul la toate diagramele pe care le-ai creat, iar toate diagramele private rămân private. Vei trece înapoi la versiunea gratuită.
+plans-faq-manage-q = Cum îmi gestionez contul?
+plans-faq-manage-a = Îți gestionezi contul din <a data-l10n-name="settings">pagina de setări</a>, prin meniul din stânga sus al listei de documente.
+plans-faq-collaborators-q = Toți colaboratorii mei au nevoie de un plan plătit?
+plans-faq-collaborators-a = Nu, poți invita pe oricine să lucreze cu tine la diagramele tale private sau publice, indiferent dacă are sau nu propriul abonament.
+plans-faq-problem-q = Ce fac dacă am o problemă?
+plans-faq-problem-a = Dacă ai o problemă cu abonamentul sau vrei să ne contactezi, scrie-ne la <b>hello@coggle.it</b> sau răspunde la orice e-mail de chitanță, și vom rezolva.
+plans-faq-more-q = Mai am întrebări!
+plans-faq-more-a = Consultă <a data-l10n-name="help">baza noastră de cunoștințe</a> pentru ghiduri detaliate despre funcționalități, sau trimite-ne întrebările la <b>hello@coggle.it</b>!
 
 footer-help = Ajutor și Documentație
 footer-about =  Despre

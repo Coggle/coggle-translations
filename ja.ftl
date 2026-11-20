@@ -152,6 +152,25 @@ flexible = 柔軟に変更可能
 
 awesome-feature = Awesome プラン
 org-feature = Organization の機能
+plan-gotquestions = アップグレードについてご質問がありますか？ <a data-l10n-name="faqs">よくある質問をご覧ください</a>
+plan-alloptions = いつでも変更可能。<br><br>詳しい情報や、チーム全体向けのプランをお探しですか？ <a data-l10n-name="plans">すべてのプランを見る</a>
+plans-already-in-org = すでに<a data-l10n-name="org">{ $orgName } 組織</a>のメンバーです。
+plans-view-existing-org = 組織を表示
+plans-create-new-org = 新しい組織を作成
+plans-load-failed = 現在のプランを読み込めませんでした。もう一度お試しください。
+plans-coupon-active = すでに有効なサブスクリプションをお持ちのため、このクーポンは自動で適用できません。hello@coggle.it までメールでご連絡ください。
+plans-faq-cancel-q = 解約のポリシーは？
+plans-faq-cancel-a = いつでも解約でき、それ以降のお支払いは発生しません。有料プランはすべて契約期間の縛りがなく、自由に変更できます。
+plans-faq-after-cancel-q = プランを解約するとどうなりますか？
+plans-faq-after-cancel-a = Awesome プランを解約しても、作成したすべてのダイアグラムに引き続きアクセスでき、非公開ダイアグラムも非公開のままです。無料版に戻ります。
+plans-faq-manage-q = アカウントはどこで管理できますか？
+plans-faq-manage-a = ドキュメント一覧ページ左上のメニューから開ける<a data-l10n-name="settings">設定ページ</a>でアカウントを管理できます。
+plans-faq-collaborators-q = 共同編集者全員に有料プランが必要ですか？
+plans-faq-collaborators-a = いいえ。相手が自分のサブスクリプションを持っているかどうかに関係なく、非公開・公開どちらのダイアグラムにも誰でも招待して一緒に作業できます。
+plans-faq-problem-q = 問題が起きたら？
+plans-faq-problem-a = サブスクリプションに問題がある場合やご連絡が必要な場合は、<b>hello@coggle.it</b> までメールをお送りいただくか、領収書メールに返信してください。きちんと対応いたします。
+plans-faq-more-q = まだ質問があります！
+plans-faq-more-a = 機能の詳しいガイドは<a data-l10n-name="help">ナレッジベース</a>をご覧ください。ご質問は <b>hello@coggle.it</b> までお送りいただくこともできます！
 
 footer-help = ヘルプとドキュメント
 footer-about = Coggle について

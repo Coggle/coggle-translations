@@ -152,6 +152,25 @@ flexible = hoàn toàn linh hoạt
 
 awesome-feature = Gói Awesome
 org-feature = Tính năng Organization
+plan-gotquestions = Bạn có câu hỏi về việc nâng cấp? <a data-l10n-name="faqs">Xem các câu hỏi thường gặp</a>
+plan-alloptions = Hoàn toàn linh hoạt.<br><br>Cần thêm thông tin, hoặc một lựa chọn cho cả nhóm? <a data-l10n-name="plans">Xem tất cả các gói</a>
+plans-already-in-org = Bạn đã là thành viên của <a data-l10n-name="org">tổ chức { $orgName }.</a>
+plans-view-existing-org = Xem tổ chức của bạn
+plans-create-new-org = Tạo tổ chức mới
+plans-load-failed = Không tải được gói hiện tại của bạn, vui lòng thử lại.
+plans-coupon-active = Bạn đã có gói đăng ký đang hoạt động nên không thể tự động áp dụng mã giảm giá này – vui lòng gửi email cho chúng tôi tại hello@coggle.it.
+plans-faq-cancel-q = Chính sách hủy như thế nào?
+plans-faq-cancel-a = Bạn có thể hủy bất cứ lúc nào, không phải thanh toán thêm. Mọi gói trả phí đều hoàn toàn linh hoạt, không ràng buộc hợp đồng.
+plans-faq-after-cancel-q = Điều gì xảy ra nếu tôi hủy gói?
+plans-faq-after-cancel-a = Nếu bạn hủy gói Awesome, bạn vẫn giữ quyền truy cập vào mọi sơ đồ đã tạo, và mọi sơ đồ riêng tư vẫn giữ riêng tư. Bạn sẽ được chuyển về phiên bản miễn phí.
+plans-faq-manage-q = Tôi quản lý tài khoản như thế nào?
+plans-faq-manage-a = Quản lý tài khoản tại <a data-l10n-name="settings">trang cài đặt</a>, qua menu ở góc trên bên trái của trang danh sách tài liệu.
+plans-faq-collaborators-q = Mọi cộng tác viên của tôi đều cần gói trả phí?
+plans-faq-collaborators-a = Không, bạn có thể mời bất kỳ ai cùng làm việc trên sơ đồ riêng tư hoặc công khai của bạn, dù họ có gói đăng ký riêng hay không.
+plans-faq-problem-q = Nếu tôi gặp sự cố thì sao?
+plans-faq-problem-a = Nếu bạn gặp sự cố với gói đăng ký hoặc cần liên hệ, chỉ cần gửi email cho chúng tôi tại <b>hello@coggle.it</b>, hoặc trả lời bất kỳ email biên nhận nào, và chúng tôi sẽ giải quyết.
+plans-faq-more-q = Tôi vẫn còn câu hỏi!
+plans-faq-more-a = Xem <a data-l10n-name="help">kho kiến thức</a> của chúng tôi để có hướng dẫn chi tiết về các tính năng, hoặc gửi câu hỏi cho chúng tôi tại <b>hello@coggle.it</b>!
 
 footer-help = Trợ giúp và tài liệu
 footer-about = Giới thiệu
