@@ -301,7 +301,7 @@ summary-uy-1 = Zyskaj dwa miesiące za darmo (<b>oszczędzasz 15%</b>), płacąc
 summary-uy-2 = Pozostały czas obecnego planu zostanie automatycznie odliczony od kosztu zmiany.
 summary-uy-c1 = Potwierdzić zmianę? Obciążymy zapisaną kartę kwotą od 45 $ do 50 $, w zależności od czasu pozostałego w planie miesięcznym. Nowa subskrypcja odnowi się za rok.
 summary-confirm = Potwierdź zmianę
-summary-ending-2 = Anulowano subskrypcję <code>{$planName}</code> i nie zostaniesz ponownie obciążony. Możesz korzystać z płatnych funkcji do końca opłaconego okresu.<br> <a data-l10n-name='resub'>Odnów subskrypcję</a>
+summary-ending-2 = Anulowano subskrypcję <code>{$planName}</code> i nie pobierzemy już kolejnych opłat. Możesz korzystać z płatnych funkcji do końca opłaconego okresu.<br> <a data-l10n-name='resub'>Odnów subskrypcję</a>
 summary-overdue-plan = Twoja subskrypcja jest nieaktywna z powodu zaległej płatności. Możesz to naprawić, aktualizując kartę lub kontaktując się z nami pod adresem <b>hello@coggle.it</b>.
 complete-payment = Możesz <a data-l10n-name='invoice-link'>wyświetlić i opłacić</a> zaległą płatność albo <a data-l10n-name='cancel'>anulować subskrypcję</a>.
 
@@ -457,7 +457,7 @@ upgrade-awesome = Przejdź na Awesome
 messages-title = Wiadomości
 messages-search =
     .placeholder = Szukaj
-messages-start = Dotarłeś do początku!
+messages-start = To już sam początek!
 messages-comments-notes =
     .placeholder = Wpisz komentarze, dyskusje i notatki.
 
@@ -679,8 +679,8 @@ commentcount =
 # diagram not-found page
 nodiagram-title = Nie znaleziono diagramu!
 nodiagram-invalid-link = Ten link do diagramu jest nieprawidłowy albo dostęp do niego został cofnięty.
-nodiagram-logged-in = Jesteś zalogowany jako <b>{ $user_givenName }</b>, z adresem e-mail <b>{ $user_email }</b>. Jeśli ten diagram istnieje, to konto nie ma uprawnień, aby go otworzyć.
-nodiagram-not-logged-in = <b>Nie jesteś zalogowany.</b>  Jeśli ten diagram istnieje, możesz mieć do niego dostęp po zalogowaniu się na swoje konto.
+nodiagram-logged-in = Zalogowano jako <b>{ $user_givenName }</b>, z adresem e-mail <b>{ $user_email }</b>. Jeśli ten diagram istnieje, to konto nie ma uprawnień, aby go otworzyć.
+nodiagram-not-logged-in = <b>Nie zalogowano.</b>  Jeśli ten diagram istnieje, możesz mieć do niego dostęp po zalogowaniu się na swoje konto.
 nodiagram-may-need-access = Jeśli ktoś dał ci link do tego diagramu, może też musieć dać ci uprawnienia do jego oglądania.
 
 
