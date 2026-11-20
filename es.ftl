@@ -1,4 +1,4 @@
-﻿### Traducción de Coggle al español de España
+### Traducción de Coggle al español de España
 #
 # For help with syntax email translations@coggle.it
 #
