@@ -11,7 +11,8 @@
 index-tagline = Modalitatea ușoară de a transmite informații complexe.
 index-tagline-mm = Creează hărți mentale care urmează cursul ideilor tale.
 index-signupnow = Înregistrează-te Acum
-index-login = Ai un cont? Autentifică-te.
+index-signinstart = Autentifică-te pentru a începe
+
 index-title = Coggle - Hărți Mentale Simple, Rapide și Puternice. Doar Coggle!
 
 index-nav-login = Autentificare
@@ -21,15 +22,18 @@ index-nav-gallery = Galerie
 index-nav-home = Acasă
 
 index-unleash = Dezlănțuie-ți creativitatea
-index-blurb = Creează rapid și ușor notițe frumoase. Partajează-le cu prietenii și colegii pentru a lucra împreună la ideile tale.
+index-understand = Înțelege orice
+index-blurb-together = Creează rapid și ușor notițe frumoase. Partajează-le cu prietenii, colegii sau agenții tăi pentru a lucra împreună la ideile tale.
+
 index-viewgallery = Sau aruncă o privire la <a data-l10n-name='gallery'>Galeria Coggle</a> pentru inspirație.
 
-index-colab-mindmaps-flowcharts-h = Hărți Mentale și Organigrame Colaborative
-index-colab-mindmaps-flowcharts-p1 = Cu Coggle, e simplu să creezi și să partajezi hărți mentale și organigrame. Totul funcționează online în browser-ul tău, nu trebuie să descarci sau să instalezi nimic. <a data-l10n-name='login'>Autentifică-te</a> și folosește-l gratuit, pentru totdeauna!
-index-colab-mindmaps-flowcharts-p2 = Fie că iei notițe, faci brainstorming, planifici sau lucrezi la ceva creativ, este extrem de ușor să-ți vizualizezi ideile cu Coggle. Împarte-le cu câți prieteni sau colegi dorești. Modificările pe care le faci apar instantaneu în browser-ul lor, oriunde s-ar afla în lume.
+index-colab-mindmaps-flowcharts-h = Hărți mentale și diagrame de flux colaborative
+index-colab-mindmaps-flowcharts-p1 = Cu Coggle, e simplu să creezi și să partajezi hărți mentale și diagrame de flux. Totul funcționează online, în browserul tău: nu trebuie să descarci sau să instalezi nimic. <a data-l10n-name='login'>Autentifică-te</a> și folosește-l gratuit, pentru totdeauna!
+index-colab-mindmaps-flowcharts-p2 = Iei notițe, faci brainstorming, planifici sau lucrezi la ceva extrem de creativ? Totul este foarte simplu. Partajează cu câți prieteni sau colegi dorești. Modificările pe care le faci apar instantaneu, oriunde s-ar afla ei în lume.
 
-index-trusted-h = Folosit cu Încredere de Peste 10,000,000 de Oameni și Afaceri ca tine.
-index-trusted-p1 = Cu Coggle, e simplu să creezi şi să partajezi hărți mentale și organigrame. Totul funcționează online în browser-ul tău, nu trebuie dă descarci sau să instalezi nimic, iar tot ce ai nevoie pentru a crea hărți mentale grozave este <a data-l10n-name='free'>gratuit, pentru totdeauna!</a>
+index-trusted-h = Peste 10.000.000 de oameni și companii ca tine au încredere în Coggle
+index-trusted-p1 = Cu Coggle, e simplu să creezi și să partajezi hărți mentale și diagrame de flux. Funcționează în browserul tău: nu trebuie să descarci sau să instalezi nimic, iar tot ce îți trebuie pentru a crea hărți mentale grozave este <a data-l10n-name='free'>gratuit, pentru totdeauna!</a>
+index-trusted-p1b = Tot ce îți trebuie pentru a crea hărți mentale grozave este <a data-l10n-name='free'>gratuit, pentru totdeauna</a>. Notițele tale de ieri, de anul trecut sau de acum zece ani vor fi acolo când ai nevoie de ele.
 
 index-use-notes-h = Ia Notițe
 index-use-notes-p = Deschide Coggle într-o ședință, în timpul unei recapitulări sau oricând îți vine inspirația să creezi notițe frumoase, bine structurate.
@@ -40,8 +44,9 @@ index-use-brainstorm-p = Ia începutul unei idei, ud-o cu Coggle și privește c
 index-use-share-h = Partajează Informații
 index-use-share-p = Transformă-ți subiectul într-o hartă Coggle, include toate detaliile și distribuie-l echipei tale, colegilor de clasă sau chiar lumii întregi!
 
-index-coggle-flow-title = Organigrame Online Puternice
-index-coggle-flow-description = Folosește Coggle pentru a reprezenta vizual procesele, sistemele și algoritmii tăi cu ajutorul noilor noastre <a data-l10n-name='flowcharts'>funcționalități pentru organigrame</a>.
+index-coggle-flow-title = Diagrame de flux puternice, în timp real
+index-coggle-flow-2 = De la harta mentală la diagrama de flux: reprezintă cum funcționează lucrurile cu ajutorul unor <a data-l10n-name='flowcharts' href="/flowcharts">diagrame de flux</a> puternice.
+
 
 features-realtime = Colaborare în Timp Real
 features-realtime-desc = Invită-ți prietenii și colegii să lucreze alături de tine, în același timp, la diagramele tale.
@@ -75,6 +80,7 @@ plans-free-description = Ideal pentru a descoperi Coggle și pentru utilizare oc
 plans-free-price = Gratuit pentru totdeauna
 
 feature-realtime = Colaborare <b>în timp real</b>
+feature-linkqr = Partajare prin <b>link</b> sau <b>cod QR</b>
 feature-emoji = Peste <b>1600</b> de <a data-l10n-name="icons-link">pictograme frumoase</a>
 feature-diagrams = Diagrame publice <b>nelimitate</b>
 feature-nprivate =
@@ -86,6 +92,7 @@ feature-images = Încărcări de imagini <b>nelimitate</b>
 feature-changes = Istoric al modificărilor <b>complet</b>
 feature-markdown =  Compatibil cu <b>Markdown</b>
 feature-downloads = Descarcă <b>PDF și imagini</b>
+feature-calc = <a data-l10n-name='formulae-link'>Calcule</a> dinamice
 feature-labels = <b>Căsuțe de text</b> independente
 feature-exports = Exportă ca <b>.mm și text</b>
 feature-visio = Exportă pentru <b>Microsoft Visio</b>
@@ -93,7 +100,8 @@ feature-imports = Importă <b>.mm și text</b>
 feature-chat = Comentarii și Discuții
 feature-embed = Diagrame încorporabile
 feature-embed2 = Încorporează hărți mentale oriunde
-plans-free-getstarted = Utilizează planul Gratuit
+feature-colab-email = Colaborare prin <b>e-mail</b>
+plans-free-getstarted = Folosește gratuit
 
 plans-awesome-title = Awesome
 plans-awesome-description = Ideal pentru uz <b>personal</b> sau <b>profesional</b>, beneficiază de confidențialitate și de funcționalități avansate.
@@ -113,6 +121,7 @@ feature-controlpoints = <b>Controlează traiectoria liniilor</b>
 feature-textalign = Schimbă <b>alinierea textului</b>
 feature-extendedcolours = Mai multe culori
 feature-editable-links = Colaborează prin <b>link</b>
+feature-editable-qr = Colaborare prin <b>cod QR</b>
 plans-findoutmore = Află mai multe
 
 plans-org-title = Organizație
@@ -155,8 +164,8 @@ footer-api = API pentru Dezvoltatori
 footer-blog = Bloggle
 footer-terms = Termeni
 footer-press = Presă
-footer-what-is-mindmapping = Ce este harta mentală?
-footer-top-uses = Pricipalele utilizări alte hărților mentale
+footer-what-is-mindmapping = Ce este o hartă mentală?
+footer-top-uses = Principalele utilizări ale hărților mentale
 footer-company = Companie
 footer-legal = Legal
 footer-access = Accesibilitate
@@ -177,17 +186,20 @@ created-by-you =
     .value =  Create de tine
 shared-with-you =
     .value =  Partajate cu tine
+recent-diagrams =
+    .value = Actualizate recent
 folder-title =
     .placeholder = Introdu numele unui director
     .value = { $name }
-folder-areyousure = ești sigur(ă)?
-folder-sure = Sunt sigur(ă)
+folder-delete = Ștergi directorul?
+folder-yes-delete = da, șterge
+
 logout = Deconectare
 settings = Setări
-return-to-diagrams = Întoarce-te la diagrame tale
+return-to-diagrams = Întoarce-te la diagramele tale
 upgrade-to-awesome = Upgrade la planul <b>Awesome</b>!
 # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc.:
-awesome-time-remaining = Încercarea planului Awesome expiră în <time data-l10n-name="remaining"></time>
+awesome-time-remaining = Perioada de probă Awesome expiră <time data-l10n-name="remaining"></time>
 awesome-trial-after = Apoi vei trece la planul Gratuit
 want-awesome-for-free = Vrei planul Awesome gratis?
 help-search =
@@ -196,12 +208,12 @@ my-settings = Setările mele și facturarea
 my-settings-only = Setările mele
 org-settings =
     .title = Gestionează Organizația
-org-admin = Administratorul {$orgName}
+org-admin = Administrator pentru {$orgName}
 user-about = Despre Coggle
 user-contact = Contactează-ne
 user-privacy = Politica de Confidențialitate
 user-terms = Termeni și Condiții
-user-link-drive = Link către Google Drive
+user-link-drive = Conectează Google Drive
 diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_used } din { $privateDiagrams_available }</span> diagrame private utilizate
 diagrams-unlimited = Diagrame private <span data-l10n-name="count">nelimitate</span>
 
@@ -274,12 +286,15 @@ settings-profile-title = Profil
 settings-membership-title = Membri
 settings-exports-title = Exporturi
 settings-authentication-title = Autentificare
+settings-security-title = Securitate
+settings-appearance-title = Aspect
 
-billing-card = Cardul pe care îl avem înregistrat pe numele tău de termină în <b>{ $cardEndsIn }</b>, expiră în <b>{ $cardExpires }</b>.
+billing-card = Cardul pe care îl avem înregistrat pentru tine se termină în <b>{ $cardEndsIn }</b> și expiră pe <b>{ $cardExpires }</b>.
 billing-addr = Codul poștal pentru facturare pe care îl avem este <b>{ $addressZip }</b>. <a data-l10n-name="edit">Editează detaliile cardului</a>
 
 billing-remove = Șterge
 billing-nocard = Nu există metode de plată salvate în contul tău. <a data-l10n-name='setup-card'>Introdu detaliile cardului</a>
+summary-subscription = Abonament
 
 summary-free-plan = Nu ai încă niciun abonament. <a data-l10n-name="subscribe">Fă upgrade acum!</a>
 summary-active-plan = Folosești planul <code>{ $planName }</code>. <a data-l10n-name="cancel">Anulează abonamentul</a> sau <a data-l10n-name="compare">compară planurile</a>.
@@ -306,6 +321,7 @@ me-language-tip = Ajută-ne să punem la dispoziție Coggle în limba ta matern�
 me-language-questions = Dacă ai întrebări despre traduceri – sau ai de făcut corecturi sau îmbunătățiri și nu ești sigur(ă) cum să ajuți, trimite-ne un e-mail la adresa <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
 profile-title = Aspectul Tău pe Coggle
+profile-p1 = Numele și pictograma de profil implicită provin din contul cu care te autentifici. Dacă îți schimbi pictograma aici, ea se va schimba doar în Coggle.
 
 invite-n-more =
     { $introduceCount ->
@@ -315,6 +331,7 @@ invite-n-more =
 
 recommend-coggle = Recomandă Coggle
 recommend-share-link = Fie invită colaboratori pentru diagramele tale, fie partajează link-ul tău de recomandare prin <a data-l10n-name='email'>e-mail</a>.
+recommend-already-awesome = Ai deja Awesome – ajută restul lumii să descopere Coggle!
 
 claim-free-month = Revendică o lună gratuită de Coggle Awesome!
 claim-redeem = Revendică Acum
@@ -322,11 +339,29 @@ claim-redeem = Revendică Acum
 
 close-account-title = Închide Contul Tău Coggle
 close-account = Închide permanent contul tău gratuit Coggle.
+close-account-clarification = Mai întâi trebuie să anulezi toate abonamentele plătite, din <a data-l10n-name='billing-link'>setările de facturare</a> pentru planurile Awesome personale, sau din panoul de setări al organizației tale pentru planurile de organizație.
 close-account-description = Acest proces este <b>ireversibil</b> și se va efectua imediat. Vei pierde accesul la toate diagramele tale, așa că asigură-te că le-ai exportat pe cele pe care vrei să le păstrezi.
 close-account-button = Închide contul meu
 close-account-enteremail =
     .placeholder = Introdu adresa ta de e-mail
 close-account-confirm = CONFIRMĂ
+me-security-login-title = Opțiuni de autentificare
+me-security-login-options = Contul tău folosește adresa de e-mail <b>„{$user_email}”</b> pentru autentificare. Poți folosi orice metodă de autentificare acceptată cu această adresă de e-mail pentru a-ți accesa contul.
+me-security-passkeys-title = Chei de acces
+me-security-nopasskeys = Contul tău nu are nicio cheie de acces.
+me-security-passkeys = Cheile de acces sunt o modalitate sigură de autentificare, fără parolă și fără a verifica un cod trimis pe e-mail. Browserul sau dispozitivul tău păstrează cheia de acces în siguranță, iar apoi o poți folosi pentru a te autentifica în Coggle.
+me-security-add-passkey = Adaugă o cheie de acces
+me-security-logout = Deconectează-te din toate sesiunile active, de pe toate dispozitivele.
+me-security-delete = șterge
+me-security-rename = redenumește
+me-security-save = salvează
+me-security-delete-pk = Ștergi cheia de acces?
+me-security-yesdel = da, șterge
+me-appearance-title = Aspectul interfeței
+appear-light = Luminos
+appear-dark = Întunecat
+appear-system = Dispozitiv
+me-appearance-dm = Alege dacă interfața apare în modul luminos sau întunecat. Asta nu schimbă felul în care diagramele tale apar pentru alte persoane.
 
 # Gallery Content (/gallery) 
 gallery-title = Galeria Coggle
@@ -376,7 +411,7 @@ add-label = adaugă o etichetă
 help-title-title = Titlul Diagramei
 help-title-p1 = Acesta este centrul diagramei tale, și titlul său. Ideile tale se vor ramifica de aici!
 help-title-p2 = Începe prin a-l edita - despre ce este diagrama ta?
-help-gohome-2 = Când ai terminat eidtarea, dă clic pe logo pentru a te întoarce pe pagina principală. Documentele tale sunt salvate automat.
+help-gohome-2 = Când ai terminat editarea, dă clic pe logo pentru a te întoarce pe pagina principală. Documentele tale sunt salvate automat.
 help-add-node-2 = Treci cu mouse-ul pe lângă un element și dă clic pe un buton <div data-l10n-name='plus'>+</div> pentru a adăuga o ramură.
 help-edit-node-p1 = Dă clic pe orice element pentru a edita textul.
 help-edit-node-p2 = Schimbă dimensiunea textului glisând colțul zonei de editare.
@@ -389,7 +424,7 @@ help-morehelp2 = Deschide ghidul de ajutor pentru a vedea comenzile rapide și p
 
 help-multiline = Adaugă mai multe linii de text folosind [ctrl] + [enter], sau glisând mânerul de redimensionare înainte de a tasta.
 help-toolbar-invite-title = Lucrează Cu Alții
-help-toolbar-invite = Dă clic pentru a invita persoane să editeze sau să vizualizeze aceast Coggle. Poți controla permisiunile persoanelor dând clic pe iconița lor.
+help-toolbar-invite = Dă clic pentru a invita persoane să editeze sau să vizualizeze acest Coggle. Poți controla permisiunile persoanelor dând clic pe pictograma lor.
 help-toolbar-invitemulti-title = Invită Mai Multe Persoane
 help-toolbar-invitemulti = Pentru a economisi timp, poți invita mai multe persoane deodată: tastează (sau inserează) adresele de e-mail separate prin spații, virgule<b>,</b> sau puncte și virgule<b>;</b>
 
@@ -400,20 +435,20 @@ help-toolbar-sharing-title = Link-uri Partajabile și Publicări
 help-toolbar-sharing = De asemenea, îți poți publica diagrama sau crea link-uri secrete partajabile pentru a oferi acces doar persoanelor care au acel link.
 help-inactive-invite = Lucrează cu prietenii pentru a-ți aduce la viață ideile!<br>Invită prin e-mail aici.
 
-me-as-awesome-orgmember-p1 = Acesta ești tu &mdash; vizualizei Coggle ca <b>membru al unei organizații</b>.
+me-as-awesome-orgmember-p1 = Acesta ești tu &mdash; vizualizezi Coggle ca <b>membru al unei organizații</b>.
 me-as-awesome-orgmember-p2 = Asta înseamnă că te bucuri și de toate funcționalitățile grozave ale planului <a data-l10n-name="awesome">Coggle Awesome</a>!
 
 free-awesome = Vrei planul Awesome pe gratis?
 upgrade-now = Fă Upgrade Acum
 
-me-support-awesomethanks-p1 = <b>Mulțumesc pentru că sprijini Coggle!</b>
+me-support-awesomethanks-p1 = <b>Mulțumim că sprijini Coggle!</b>
 me-support-awesomethanks-p2 = Pentru că ai fost un susținător de la început al Coggle, primești toate beneficiile planului <a data-l10n-name="awesome">Coggle Awesome</a> incluse în abonamentul tău!
 
 me-awesome = Acesta ești tu &mdash;<b>Ești Awesome!</b>
 me-manage-plan = Gestionează-ți planul
 
 me-free = Acesta ești tu –<b>Folosești Coggle gratuit.</b> <a data-l10n-name="settings">Vizualizează-ți setările.</a>
-upgrade-awesome = Actualizați la Awesome
+upgrade-awesome = Treci la Awesome
 
 
 messages-title = Mesaje
@@ -448,9 +483,9 @@ current-version = curent
 
 # sharing dialog content 
 share-by-link = Partajare prin link
-share-newlink2 = Creați un link partajabil
-share-embedlink = Încorporare în html
-    .title = Generați cod HTML pentru încorporare într-o pagină web
+share-newlink2 = Creează un link privat
+share-embedlink = Încorporează în HTML
+    .title = Generează cod HTML pentru încorporare într-o pagină web
 
 share-tag-user = utilizator
 share-tag-embed = încorporează
@@ -481,7 +516,7 @@ download-pdf = Descarcă PDF
 download-png = Descarcă Imagine
 download-mm = Fișier .mm
 download-txt = Structură Text Simplu
-download-visio = Organigramă Visio (.vsdx) 
+download-visio = Diagramă de flux Visio (.vsdx) 
 download-failed = Generarea fișierului a eșuat.
     .title = Dă clic pentru a reîncerca
 download-import-tip = <b>Cauți importuri?</b> Trage un fișier .mm sau .txt pe o diagramă pentru a-l importa! <a data-l10n-name="import-link">Citește mai mult.</a>
@@ -539,7 +574,7 @@ sc-ret = enter ⏎
 sc-tab = tab ⇥
 sc-ctrl = ctrl ^
 sc-alt = alt
-sc-option = opțiune ⌥
+sc-option = option ⌥
 sc-dragdrop = drag and drop
 
 sidebar-whentyping = Când tastezi
@@ -642,12 +677,12 @@ nodiagram-title = Diagrama nu a fost găsită!
 nodiagram-invalid-link = Acest link către diagramă este invalid, sau accesul la aceasta a fost revocat.
 nodiagram-logged-in = Ești autentificat(ă) în prezent ca <b>{ $user_givenName }</b>, cu adresa de e-mail <b>{ $user_email }</b>. Dacă această diagramă există, acest cont nu are permisiunea să o acceseze.
 nodiagram-not-logged-in = <b>Nu ești autentificat(ă) în prezent.</b> Dacă această diagramă există, s-ar putea să ai acces la ea dacă te autentifici în contul tău.
-nodiagram-may-need-access = Dacă cineva ți-a dat dat un link către această diagramă, s-ar putea să fie nevoie să-ți dea și permisiunea de a o vizualiza.
+nodiagram-may-need-access = Dacă cineva ți-a dat un link către această diagramă, s-ar putea să fie nevoie să-ți dea și permisiunea de a o vizualiza.
 
 
 # Awesome Landing Page (/awesome) 
 awesome-pitch-title = Coggle Awesome
-awesome-pitch = Supraîncarcă-ți gândirea cu Coggle Awesome. Adaugă imagini imense, prezintă Coggle-urile tale și creează Coggle-uri private care nu vor indexate de motoarele de căutare.
+awesome-pitch = Supraîncarcă-ți gândirea cu Coggle Awesome. Adaugă imagini imense, prezintă-ți Coggle-urile și creează Coggle-uri private care nu vor fi indexate de motoarele de căutare.
 awesome-signup = ABONEAZĂ-TE ACUM
 awesome-price = ${$monthlyPrice} / LUNĂ
 
@@ -655,7 +690,7 @@ awesome-feature-cp-title = Controlează Traseul Liniilor
 awesome-feature-cp = Plasează conexiunile exact unde dorești, folosind puncte de control pe traseele ramurilor.
 
 awesome-feature-shapes-title = Forme de Elemente Avansate
-awesome-feature-shapes = Personalizează-ți organigramele folosind toate formele pentru elemente. Folosește romburi pentru nodurile de decizie din diagramele de flux și plasează textul pe linia conexiunilor pentru organigrame.
+awesome-feature-shapes = Personalizează-ți diagramele de flux folosind toate formele pentru elemente. Folosește romburi pentru nodurile de decizie din diagramele de flux și plasează textul pe linia conexiunilor pentru organigrame.
 
 awesome-feature-private-title = Diagrame Private Nelimitate
 awesome-feature-private = Creează câte diagrame private dorești. Dacă îți anulezi vreodată abonamentul, ele vor rămâne private și tu vei păstra accesul.
@@ -692,14 +727,14 @@ awesome-hint-orgs =
 
 
 # Login Page /login
-login-heading = Conectați-vă la Coggle:
+login-heading = Autentifică-te în Coggle:
 index-loginwithgoogle = Autentifică-te cu Google
 index-signinwithapple = Autentifică-te cu Apple
 
-login-title = Coggle - Conectați-vă pentru a începe hărțile mentale
+login-title = Coggle - Autentifică-te pentru a începe hărțile mentale
 
-signin-by-email = Conectați-vă prin adresa de e-mail
-sign-in = Conectați-vă
+signin-by-email = Autentifică-te cu adresa de e-mail
+sign-in = Autentifică-te
 
 login-saml = De asemenea, oferim suport pentru autentificarea de nivel enterprise pentru Organizații Coggle folosind OneLogin, Okta și alți furnizori de identitate SAML 2.0.
 login-saml-where = Dacă ești un utilizator cu autentificare unică, autentifică-te folosind pagina partajată de administratorul Organizației tale.
@@ -712,10 +747,10 @@ login-colab-a = Colaborează și vezi modificările colegilor tăi instantaneu p
     face modificări în partea dreaptă sus a paginii diagramei.
 
 login-free = Este Coggle gratuit?
-login-free2-a = Da, tot ce este necesar pentru a crea hărți mentale excelente –
+login-free2-a = Da, tot ce îți trebuie pentru a crea hărți mentale excelente –
     fără limită de timp, colaborare în timp real, fără limită de dimensiune și
-    multe altele – este gratuit. <a data-l10n-name='pricing'>Faceți upgrade pentru
-    funcții extra puternice</a> pentru profesioniști și echipe mari.
+    multe altele – este gratuit. <a data-l10n-name='pricing'>Fă upgrade pentru
+    funcții extra puternice</a>, pentru profesioniști și echipe mari.
 
 login-what-q = Ce faceți cu contul meu Google/Microsoft?
 login-what-a2 = Noi cerem acces doar la informațiile de bază ale profilului tău. 
@@ -737,13 +772,13 @@ login-workschool-a = Da, poți folosi orice cont Microsoft, incluzând și contu
     de IT nu a blocat această funcție pentru conturile pe care le gestionează.
 
 login-otherlogin-q = Pot folosi un alt Furnizor de Autentificare pentru a accesa Coggle?
-login-otherlogin-a-p1 = În prezent, pentru conturile personale oferim suport doar pentru autentificarea folosind Google, Microsoft și Apple.
+login-otherlogin-a-p1 = În prezent, pentru conturile personale acceptăm autentificarea cu Google, Microsoft, Apple și prin e-mail.
 login-otherlogin-a-p2 = Acceptăm <a data-l10n-name="saml">autentificare SAML 2.0</a> pentru Organizații Coggle, 
     iar dacă ești interesat(ă) să găzduiești propria versiune de Coggle cu autentificare prin Active Directory, atunci 
     contactează <a data-l10n-name="email">adresa pentru vânzări corporate</a>.
 
 login-help = De unde pot obține ajutor sau asistență?
-login-help-a = Vizitați baza noastră de cunoștințe la <a data-l10n-name='help'>coggle.help</a> pentru o mulțime de ghiduri ilustrate sau trimiteți-ne un e-mail la <a data-l10n-name="email">hello@coggle.it</a>.
+login-help-a = Vizitează baza noastră de cunoștințe la <a data-l10n-name='help'>coggle.help</a> pentru o mulțime de ghiduri ilustrate sau trimite-ne un e-mail la <a data-l10n-name="email">hello@coggle.it</a>.
 
 login-pw-more-q = Mai am o întrebare despre autentificare
 login-pw-more-a = Întreabă-ne! E-mail-ul nostru este <a data-l10n-name="email">hello@coggle.it</a>.
@@ -754,7 +789,7 @@ orgs-pitch = Fiecare Organizație Coggle vine la pachet cu funcții create pentr
 
 orgs-signup = CREEAZĂ ORGANIZAȚIE
 
-orgs-subpitch-p1 = Când infromațiile sunt critice pentru echipa ta, ai nevoie de instrumente mai puternice și mai mult control asupra datelor tale. De aceea am construit <a data-l10n-name="orglink">Organizațiile Coggle</a>.
+orgs-subpitch-p1 = Când informațiile sunt critice pentru echipa ta, ai nevoie de instrumente mai puternice și mai mult control asupra datelor tale. De aceea am construit <a data-l10n-name="orglink">Organizațiile Coggle</a>.
 orgs-subpitch-p2 = Tariful este simplu, <b>$8 pe membru pe lună</b>.<br><b>Totul nelimitat</b>.
 
 
@@ -799,13 +834,13 @@ faq-orgs-whatare-a =
 
 faq-orgs-whofor-q = Pentru cine sunt Organizațiile Coggle?
 faq-orgs-whofor-a =
-    <p data-l10n-name='p1'>Organizațiile Coggle au fost create pentru echipe care necesită 
-      un control mai bun asupra datelor pe care le introduc în Coggle, sau au nevoie să 
-      păstreze datele personale separat. Organizațiile sunt folosite cu succes de companii 
-      private, organisme publice, școli și universități pentru a ajuta grupurile să 
-      colaboreze în siguranță.</p> 
-    <p data-l10n-name='p2'>Orice grup care necesită mai mult control asupra partajării diagramelor, 
-      fie pentru conformitatea cu regulile sau cu politica internă vor găsi Organizațiile Coggle 
+    <p data-l10n-name='p1'>Organizațiile Coggle au fost create pentru echipe care necesită
+      un control mai bun asupra datelor pe care le introduc în Coggle, sau au nevoie să
+      păstreze datele personale separat. Organizațiile sunt folosite cu succes de companii
+      private, organisme publice, școli și universități pentru a ajuta grupurile să
+      colaboreze în siguranță.</p>
+    <p data-l10n-name='p2'>Orice grup care are nevoie de mai mult control asupra partajării diagramelor,
+      fie pentru conformitatea cu reglementările, fie cu politica internă, va găsi Organizațiile Coggle
       utile.</p>
 
 faq-orgs-features-q = Care sunt principalele funcții ale unei Organizații Coggle?
@@ -837,7 +872,7 @@ faq-orgs-edu-q = Există opțiuni de preț pentru educație?
 faq-orgs-edu-a = Da! Contactează-ne la adresa education@coggle.it pentru a afla mai multe.
 
 faq-orgs-more-q = Încă am niște întrebări...
-faq-orgs-more-a = Întrebă-ne! Trimite-ne un e-mail la adresa orgs@coggle.it și te vom ajuta cu bucurie :)
+faq-orgs-more-a = Întreabă-ne! Trimite-ne un e-mail la adresa orgs@coggle.it și te vom ajuta cu bucurie :)
 
 
 # About Coggle (/about) 
@@ -852,9 +887,9 @@ about-hello2-p2 =
     de datele tale așa cum știm mai bine, să păstrăm backup-uri și să luăm în 
     serios securitatea.
 about-hello2-p3 =
-    Misiunea noastră este să schimbăm pentru totdeauna modul în care oamenii muncesc și 
-    colaborează, să te facem mai productiv(ă), să ușurăm partajarea informațiilor cu 
-    alții și să o faci într-un mod frumos, care e plăcut de utilizat.
+    Misiunea noastră este să schimbăm pentru totdeauna modul în care oamenii muncesc și
+    colaborează, să te facem mai productiv(ă), să ușurăm partajarea informațiilor cu
+    alții și să facem asta într-un mod frumos, care e o plăcere de utilizat.
 
   
 
@@ -908,25 +943,25 @@ fact-share = Știai că poți edita un Coggle în același timp cu altcineva? Po
 
 fact-font = Știai că poți folosi font cu lățime fixă pentru cod în Coggle-uri? Poți!<br>Folosește `apostrof invers` în jurul textului, va preveni ca alte părți sintactice speciale să fie interpretate.
 
-fact-bold = Știai că poți folosi **text îngroșat** în Coggle-uri?<br>Folosește **asterisc duble** acolo unde vrei să evidențiezi!
+fact-bold = Știai că poți folosi **text îngroșat** în Coggle-uri?<br>Folosește **asteriscuri duble** acolo unde vrei să evidențiezi!
 
-fact-italic = Știai că poți folosi *text italix* în Coggle-uri?<br>Folosește *asteriscuri* acolo unde vrei să evidențiezi!
+fact-italic = Știai că poți folosi *text cursiv* în Coggle-uri?<br>Folosește *asteriscuri* acolo unde vrei să evidențiezi!
 
 fact-links = Știai că poți pune link-uri în Coggle-uri? Poți!<br>Funcționează astfel:<br>[descriere](http://exemplu.com)
 
 fact-download = Știai că poți descărca Coggle-ul tău ca un PDF sau o imagine? Poți! Caută butonul de descărcare în dreapta sus a ecranului.
 
-fact-markdown = Știai că Coggle folosește <a data-l10n-name='link'>sintaxă markdown</a>? Folosește!<br>Încearcă link-uri ca acesta: &lt;http://exemplu.com&gt;
+fact-markdown = Știai că Coggle folosește <a data-l10n-name='link'>sintaxa Markdown</a>? Da!<br>Încearcă link-uri ca acesta: &lt;http://exemplu.com&gt;
 
 fact-latex = Știai că Coggle acceptă formule LaTeX? Acceptă!<br>Folosește \\( LaTeX aici \\) ca să încerci! Urmează <a data-l10n-name='link'>acest link</a> pentru ajutor cu sintaxa.
 
-fact-move = Vrei un element într-o parte diferită a Coggle-ului? Nicio problemă! Ține apăsat pe shift while dragging the (+) button of an item to reattach it somewhere else.
+fact-move = Vrei un element într-o altă parte a Coggle-ului? Nicio problemă! Ține apăsat shift în timp ce tragi butonul (+) al unui element pentru a-l atașa în altă parte.
 
-fact-fontsize = Textul e prea mare? Prea mic? Poți face zoom!<br> folosește [ctrl] [+] / [ctrl] [-]
+fact-fontsize = Textul e prea mare? Prea mic? Poți face zoom!<br> Folosește [ctrl] [+] / [ctrl] [-]
 
-fact-zoomin = Știai că poți mări pentru a privi mai de aproape? Poți!<br> folosește [ctrl] [+], sau clic dreapta și trage pictograma zoom!
+fact-zoomin = Știai că poți mări pentru a privi mai de aproape? Poți!<br> Folosește [ctrl] [+], sau dă clic dreapta și trage pictograma de zoom!
 
-fact-zoomout = Știai că poți micșora pentru a vedea imaginea de ansamblu? Poți!<br> folosește [ctrl] [-], sau clic dreapta și trage pictograma zoom!
+fact-zoomout = Știai că poți micșora pentru a vedea imaginea de ansamblu? Poți!<br> Folosește [ctrl] [-], sau dă clic dreapta și trage pictograma de zoom!
 
 fact-markdown2 = Știai că <a data-l10n-name='link'>Markdown</a> este grozav? Este, iar Coggle îl acceptă!
 
@@ -942,7 +977,7 @@ fact-images = Știai că poți pune imagini în Coggle-ul tău? Poți!<br>Doar t
 
 fact-images2 = Știai că poți folosi imagini în Coggle-uri? Poți!<br>Trage și plasează o imagine de pe computerul tău oriunde vrei. O versiune în miniatură a imaginii este încărcată și salvată!
 
-fact-plaintext-in = Știai că poți trage și plasa fișiere cu text simplu în Coggle-uri pentru a le importa? Poți!<br>Dacă fișierul tău are indentare, Coggle va adăuga structura textului importat.
+fact-plaintext-in = Știai că poți trage și plasa fișiere text simplu în Coggle pentru a le importa? Poți!<br>Dacă fișierul tău are indentare, Coggle va adăuga chiar și structură textului importat.
 
 fact-freemind-in = Știai că poți trage și plasa fișiere Freemind .mm în Coggle pentru a le importa? Poți!
 
@@ -956,7 +991,7 @@ fact-text-size3 = Știai că poți schimba dimensiunea textului? Poți!<br>Trage
 
 fact-md-reference = Știai că poți folosi Markdown în Coggle-uri pentru a adăuga link-uri, imagini și multe altele? Poți!<br>Aici se află <a data-l10n-name='link'>referința completă</a>.
 
-fact-multiline-keys = Știai că poți împărți textul în mai multe linii? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
+fact-multiline-keys = Știai că poți împărți textul pe mai multe linii? Poți! Ține apăsat [ctrl] în timp ce apeși [return] pentru a insera o linie nouă. Poți și să tragi de colțul câmpului de editare, apoi să folosești [return] normal.
 
 fact-multiline-drag = Știai că poți împărți textul pe mai multe linii? Poți! Trage de colțul câmpului de editare, apoi [return] va insera sfârșitul de linie în loc să-ți salveze editările. Poți și să ții apăsat pe [ctrl] în timp ce apeși [return] pentru a insera sfârșitul de linie în timp ce tastezi.
 
@@ -972,7 +1007,7 @@ fact-shortcuts-1 = Știai că îți poți edita Coggle-ul folosind doar tastatur
 
 fact-shortcuts-2 = Știai că poți selecta ce ramură să editezi folosind scurtături de tastatură? Poți!<br>Folosește [alt]+[shift]+tastele săgeți pentru a te muta printre ramuri.
 
-fact-task-lists = Știai că poți folosi <a data-l10n-name='link'>Markdown</a> pentru a adăuga liste de verificare Coggle-urilor? Poți, iată aici un exemplu:<br>- [ ] căsuță nebifată<br>- [X] căsuță bifată<br>A da clic pe o căsuță schimbă automat aspectul ei.
+fact-task-lists = Știai că poți folosi <a data-l10n-name='link'>Markdown</a> pentru a adăuga liste de verificare în Coggle-uri? Poți, iată un exemplu:<br>- [ ] căsuță nebifată<br>- [X] căsuță bifată<br>Un clic pe o căsuță actualizează automat și Markdown-ul.
 
 fact-api-1 = Știai că avem un API? Avem! Programele îl pot folosi ca să creeze, să examineze și să manipuleze automat Coggle-uri.
 
@@ -980,5 +1015,13 @@ fact-organisation = Folosești Coggle în Business? Poți crea o Organizație Co
 
 fact-organisation2 = Știai că Organizațiile Coggle își pot pune logo-ul pe Coggle-uri? Pot!
 
-fact-organisation3 = Știai că poți crea o Organizație Coggle pentru a gestiona organize Coggle-urile afacerii tale? Poți!
+fact-organisation3 = Știai că poți crea o Organizație Coggle pentru a organiza Coggle-urile afacerii tale? Poți!
+index-free-title = AI-ul ți-a dat informațiile: acum înțelege-le. <br>Organizează-ți gândurile cu Coggle
+index-free-3 = Trei hărți mentale private, gratuite pentru totdeauna.
+index-free-notrial = Fără perioade de probă, fără limite de timp.
+index-free-nolockin = Dacă treci la funcțiile avansate: fără obligații și fără contracte.
+index-everyone-power = Hărți mentale puternice, pentru toată lumea
+index-everyone-succeed = Credem că instrumentele bune ar trebui să fie disponibile pentru toată lumea, peste tot, și am ajutat milioane de elevi și studenți să învețe, profesioniști să evolueze și companii să reușească.
+index-everyone-nolimit = Coggle are gratuit tot ce îți trebuie pentru a reprezenta orice subiect: fără limite de dimensiune sau de spațiu, cu culorile și formele implicite, frumoase, ale Coggle.
+index-everyone-upgrade = Dacă faci upgrade pentru mai multe opțiuni de personalizare sau mai multe hărți mentale private, ne ajuți să facem gândurile lumii mai clare și mai organizate. Mulțumim!
 
