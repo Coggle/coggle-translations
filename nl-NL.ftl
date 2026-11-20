@@ -199,7 +199,7 @@ settings = Instellingen
 return-to-diagrams = Terug naar je diagrammen
 upgrade-to-awesome = Upgrade naar <b>Awesome!</b>
 # het element <time></time> wordt vervangen door een vertaalde tekenreeks zoals "over 15 dagen", "over 1 maand" enz.:
-awesome-time-remaining = Awesome-proefperiode verloopt over <time data-l10n-name="remaining"></time>
+awesome-time-remaining = Awesome-proefperiode verloopt <time data-l10n-name="remaining"></time>
 awesome-trial-after = Daarna word je overgezet naar het gratis abonnement
 want-awesome-for-free = Wil je Awesome gratis?
 help-search =

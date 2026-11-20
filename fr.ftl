@@ -201,7 +201,7 @@ settings = Paramètres
 return-to-diagrams = Retour à vos diagrammes
 upgrade-to-awesome = Passez à <b>Awesome</b> !
 # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc.:
-awesome-time-remaining = L'essai de Awesome expire dans <time data-l10n-name="remaining"></time>
+awesome-time-remaining = L'essai d'Awesome expire <time data-l10n-name="remaining"></time>
 awesome-trial-after = Vous passerez ensuite à l'offre Free.
 want-awesome-for-free = Vous voulez Awesome gratuitement ?
 help-search =
