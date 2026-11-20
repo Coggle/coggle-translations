@@ -14,24 +14,24 @@ index-signupnow = Meld je nu aan
 index-signinstart = Log in om te beginnen
 index-title = Coggle – Eenvoudige, snelle en krachtige mindmaps. Gewoon Coggle het!
 
-index-nav-login = Login
+index-nav-login = Inloggen
 index-nav-pricing = Prijzen
-index-nav-features = Specificaties
+index-nav-features = Functies
 index-nav-gallery = Galerij
 index-nav-home = Home
 
-index-unleash = Gebruik je creativiteit
+index-unleash = Laat je creativiteit de vrije loop
 index-understand = Begrijp Alles
-index-blurb-together = Maak snel en eenvoudig mooie notities. Deel ze met vrienden en collega's om samen aan je ideeën te werken.
+index-blurb-together = Maak snel en eenvoudig mooie notities. Deel ze met vrienden, collega's of agents om samen aan je ideeën te werken.
 index-viewgallery = Of neem eens een kijkje bij de <a data-l10n-name='gallery'>Coggle Gallery</a> om inspiratie op te doen.
 
 index-colab-mindmaps-flowcharts-h = Gezamenlijke Mindmaps en Stroomdiagrammen
 index-colab-mindmaps-flowcharts-p1 = Met Coggle kun je eenvoudig mindmaps en stroomdiagrammen maken en delen. Het werkt online in je browser: je hoeft niets te downloaden of te installeren. <a data-l10n-name='login'>Log in</a> om het voor altijd gratis te gebruiken!
 index-colab-mindmaps-flowcharts-p2 = Of je nu aantekeningen maakt, brainstormt, plannen maakt of iets ontzettend creatiefs doet: met Coggle kun je je ideeën heel eenvoudig in beeld brengen. Deel ze met zoveel vrienden of collega's als je wilt. Wijzigingen die je aanbrengt, worden direct in hun browser weergegeven, waar ter wereld ze zich ook bevinden.
 
-index-trusted-h = Meer dan 10.000.000 mensen en bedrijven zoals u vertrouwen op ons.
+index-trusted-h = Vertrouwd door meer dan 10.000.000 mensen en bedrijven zoals jij
 index-trusted-p1 = Met Coggle kun je eenvoudig mindmaps en stroomdiagrammen maken en delen. Het werkt in je browser: je hoeft niets te downloaden of te installeren, en alles wat je nodig hebt om geweldige mindmaps te maken is <a data-l10n-name='free'>gratis, voor altijd!</a>
-index-trusted-p1b =  Alles wat je nodig hebt om geweldige mindmaps te maken, is <a data-l10n-name=‘free’>gratis, voor altijd</a>. Je aantekeningen van gisteren, vorig jaar of tien jaar geleden staan er gewoon voor je klaar wanneer je ze nodig hebt.
+index-trusted-p1b =  Alles wat je nodig hebt om geweldige mindmaps te maken, is <a data-l10n-name='free'>gratis, voor altijd</a>. Je aantekeningen van gisteren, vorig jaar of tien jaar geleden staan er gewoon voor je klaar wanneer je ze nodig hebt.
 
 
 index-use-notes-h = Maak aantekeningen
@@ -44,12 +44,12 @@ index-use-share-h = Deel informatie
 index-use-share-p = Breng je onderwerp samen in een Coggle, neem alle details op en deel het met je team, je klasgenoten of de hele wereld!
 
 index-coggle-flow-title = Krachtige online stroomdiagrammen
-index-coggle-flow-2 = Van mindmap naar stroomdiagram: breng in kaart hoe dingen werken met behulp van krachtige <a data-l10n-name=‘flowcharts’ href="/flowcharts">stroomdiagrammen</a>.
+index-coggle-flow-2 = Van mindmap naar stroomdiagram: breng in kaart hoe dingen werken met krachtige <a data-l10n-name='flowcharts' href="/flowcharts">stroomdiagrammen</a>.
 
 features-realtime = Realtime samenwerking
 features-realtime-desc = Nodig je vrienden en collega's uit om samen met jou tegelijkertijd aan je diagrammen te werken.
 
-features-unlimited-images-title = Onbeperkt foto's uploaden
+features-unlimited-images-title = Onbeperkt afbeeldingen uploaden
 features-images = Sleep afbeeldingen rechtstreeks vanaf je bureaublad naar je diagrammen. Je kunt zoveel afbeeldingen toevoegen als je wilt.
 
 features-fullhistory-title = Sla elke wijziging op
@@ -90,7 +90,7 @@ feature-images = <b>Onbeperkt</b> afbeeldingen uploaden
 feature-changes = <b>Volledig</b> wijzigingslogboek
 feature-markdown = <b>Markdown</b>-ondersteuning
 feature-downloads = <b>PDF & afbeelding</b> downloaden
-feature-calc = Dynamische <a data-l10n-name=‘formulae-link’>berekeningen</a>
+feature-calc = Dynamische <a data-l10n-name='formulae-link'>berekeningen</a>
 
 feature-labels = Losstaande <b>tekstvakken</b>
 feature-exports = Exporteer als <b>.mm en tekst</b>
@@ -99,6 +99,7 @@ feature-imports = Importeren van <b>.mm-bestanden en tekst</b>
 feature-chat = Opmerkingen & Chat
 feature-embed = Diagrammen insluiten
 feature-embed2 = Mindmaps overal insluiten
+feature-colab-email = Samenwerken via <b>e-mail</b>
 plans-free-getstarted = Gratis gebruiken
 
 
@@ -111,7 +112,7 @@ feature-shapes = <b>Meer itemvormen</b>
 feature-multiroot = <b>Meerdere startpunten</b>
 feature-chathistory = <b>Volledige</b> chatgeschiedenis
 feature-rearrange = <b>Takken automatisch ordenen</b>
-feature-rejoin = <b>Verenig takken</b>
+feature-rejoin = <b>Takken samenvoegen</b>
 feature-folders = <b>Gedeelde mappen</b>
 feature-presentation = Presentatiemodus
 feature-bigimages = <b>Afbeeldingen in hoge resolutie</b> uploaden
@@ -123,7 +124,7 @@ feature-editable-links = Samenwerken via <b>link</b>
 feature-editable-qr = Samenwerken via <b>QR-code</b>
 plans-findoutmore = Meer informatie
 
-plans-org-title = Organization
+plans-org-title = Organisatie
 plans-org-description = Ideaal voor <b>teams</b> die de toegang tot hun gegevens willen beheren en de facturering willen samenvoegen.
 plans-org-price = $8 / lid / maand
 feature-org-awesome = Alles van <b>Awesome</b>
@@ -136,10 +137,10 @@ feature-org-saml-sso = SAML Single Sign-On
 
 plans-select = Selecteer
 continue-free = Ga verder met het <b>gratis</b> abonnement
-current-plan = Uw huidige abonnement
+current-plan = Je huidige abonnement
 cancel-subscription = Abonnement opzeggen
-awesome-signup-monthly = Meld u aan voor <span>$5</span> per maand
-awesome-signup-yearly = Meld u aan voor <span>$50</span> per jaar
+awesome-signup-monthly = Meld je aan voor <span>$5</span> per maand
+awesome-signup-yearly = Meld je aan voor <span>$50</span> per jaar
 awesome-upgrade-monthly = Upgraden (<b>$5</b>/maand)
 awesome-upgrade-yearly = Upgraden (<b>$50</b>/jaar)
 yearly-discount = Bespaar $10 door jaarlijks te betalen
@@ -151,7 +152,7 @@ per-member-per-month = per lid per maand
 forever = voor altijd
 flexible = volledig flexibel
 
-awesome-feature = Awesome Pakket
+awesome-feature = Awesome-abonnement
 org-feature = Organisatiefunctie
 
 footer-help = Help en documentatie
@@ -173,33 +174,34 @@ footer-access = Toegankelijkheid
 create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Diagram maken</span>
     .title = Maak een Coggle-diagram
 create-diagram-2-nothere = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Diagram maken</span>
-    .title = U kunt hier geen nieuwe diagrammen maken, selecteer eerst een andere map.
+    .title = Je kunt hier geen nieuwe diagrammen maken, selecteer eerst een andere map.
 search-diagrams =
-    .placeholder = Zoek in uw diagrammen
+    .placeholder = Zoek in je diagrammen
 search-public-diagrams = 
     .placeholder = Zoek in openbare diagrammen
 view-gallery = Galerij
 create-folder = Map aanmaken
 shared-folders = Gedeelde mappen
-created-by-you = 
-    .value = Door u aangemaakt
+created-by-you =
+    .value = Door jou gemaakt
 shared-with-you =
-    .value = Met u gedeeld
+    .value = Met jou gedeeld
 recent-diagrams =
     .value = Onlangs bijgewerkt
 folder-title =
     .placeholder = Voer een mapnaam in
     .value = { $name }
-folder-areyousure = Weet je het zeker?
-folder-sure = Ik weet het zeker
+folder-delete = Map verwijderen?
+folder-yes-delete = ja, verwijderen
+
 logout = Uitloggen
 settings = Instellingen
 return-to-diagrams = Terug naar je diagrammen
 upgrade-to-awesome = Upgrade naar <b>Awesome!</b>
 # het element <time></time> wordt vervangen door een vertaalde tekenreeks zoals "over 15 dagen", "over 1 maand" enz.:
 awesome-time-remaining = Awesome-proefperiode verloopt over <time data-l10n-name="remaining"></time>
-awesome-trial-after = Daarna wordt u overgezet naar het gratis abonnement
-want-awesome-for-free = Wilt u Awesome gratis?
+awesome-trial-after = Daarna word je overgezet naar het gratis abonnement
+want-awesome-for-free = Wil je Awesome gratis?
 help-search =
     .placeholder = Help me met...
 my-settings = Mijn Instellingen & Facturering
@@ -218,14 +220,14 @@ diagrams-unlimited = <span data-l10n-name="count">Onbeperkt</span> privé-diagra
 limitedaccess = Je hebt beperkte toegang tot { $resourceName } omdat je geen lid bent
 doclist-create = <b>Welkom bij Coggle!</b> – Diagrammen die je maakt, worden hier weergegeven.
 
-doclist-shared = <b>Met u gedeeld</b> – diagrammen die door anderen zijn gemaakt en vervolgens met u zijn gedeeld, staan in deze map.
+doclist-shared = <b>Met jou gedeeld</b> – diagrammen die door anderen zijn gemaakt en vervolgens met jou zijn gedeeld, staan in deze map.
 doclist-folder-empty = <b>Dit is een lege map!</b> – Maak hier een nieuw diagram, of sleep diagrammen naar mappen.
 doclist-folder-recent = <b>Onlangs bijgewerkte diagrammen</b> – Diagrammen uit al je mappen die in de afgelopen maand zijn gewijzigd, verschijnen hier.
 doclist-readonly = <b>Welkom bij Coggle!</b> – Vraag de eigenaar om je toegang te verlenen om hier een diagram te maken.
 impersonatedaccess = Je bekijkt Coggle als lid van een organisatie. <a data-l10n-name='back'>Terug naar het beheerderspaneel</a>
 
 doclist-loading-failed = Oeps! Het laden van de map is mislukt. Vernieuw de pagina om het opnieuw te proberen.
-doclist-discover-whatspossible = Wilt u meer uit Coggle halen? Ontdek <a data-l10n-name='link'>wat er mogelijk is</a>.
+doclist-discover-whatspossible = Wil je meer uit Coggle halen? Ontdek <a data-l10n-name='link'>wat er mogelijk is</a>.
 
 sort-custom = Aangepaste volgorde
 sort-a-z = A-Z
@@ -269,7 +271,7 @@ help-createfolder = Maak mappen om te delen met groepen mensen, of om Coggles te
 
 help-orgs-switch-title = Schakelen tussen organisaties
 help-orgs-switch-p1 = Klik om te schakelen tussen organisaties.
-help-orgs-switch-p2 = Met Organisation kunt u het delen van Coggles beheren en met grotere teams werken.
+help-orgs-switch-p2 = Met organisaties kun je het delen van Coggles beheren en met grotere teams werken.
 
 
 # Inhoud van de instellingenpagina 
@@ -287,22 +289,22 @@ settings-authentication-title = Authenticatie
 settings-security-title = Beveiliging
 settings-appearance-title = Uiterlijk
 
-billing-card = De kaart die wij van u in ons bestand hebben, eindigt op <b>{ $cardEndsIn }</b> en verloopt op <b>{ $cardExpires }</b>.
-billing-addr = De postcode die bij ons voor uw factuuradres geregistreerd staat, is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Kaartgegevens bewerken</a>
+billing-card = De kaart die we van je hebben, eindigt op <b>{ $cardEndsIn }</b> en verloopt op <b>{ $cardExpires }</b>.
+billing-addr = De postcode van je factuuradres is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Kaartgegevens bewerken</a>
 
 billing-remove = Verwijderen
-billing-nocard = Er zijn geen betaalmethoden opgeslagen in uw account. <a data-l10n-name='setup-card'>Kaartgegevens instellen</a>
+billing-nocard = Er zijn geen betaalmethoden opgeslagen in je account. <a data-l10n-name='setup-card'>Kaartgegevens instellen</a>
 
 summary-subscription = Abonnement
-summary-free-plan = U heeft nog geen abonnement. <a data-l10n-name="subscribe">Upgrade nu!</a>
+summary-free-plan = Je hebt nog geen abonnement. <a data-l10n-name="subscribe">Upgrade nu!</a>
 summary-active-plan = Je hebt het <code>{ $planName }</code>-abonnement. <a data-l10n-name="cancel">Abonnement opzeggen</a> of <a data-l10n-name="compare">abonnementen vergelijken</a>.
 summary-uy-1 = Ontvang twee maanden gratis (<b>bespaar 15%</b>) door jaarlijks te betalen. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
-summary-uy-2 = De resterende tijd van uw huidige abonnement wordt automatisch in mindering gebracht op de kosten van de upgrade.
-summary-uy-c1 = Upgrade bevestigen? We brengen tussen $45 en $50 in rekening op de kaart die bij ons bekend is, afhankelijk van de resterende tijd van uw maandabonnement. De nieuwe verlengingsdatum van uw abonnement is over een jaar.
+summary-uy-2 = De resterende tijd van je huidige abonnement wordt automatisch in mindering gebracht op de kosten van de upgrade.
+summary-uy-c1 = Upgrade bevestigen? We brengen tussen $45 en $50 in rekening op de kaart die bij ons bekend is, afhankelijk van de resterende tijd van je maandabonnement. De nieuwe verlengingsdatum van je abonnement is over een jaar.
 summary-confirm = Upgrade bevestigen
-summary-ending-2 = U hebt uw <code>{$planName}</code>-abonnement</b> opgezegd en er worden geen kosten meer in rekening gebracht. U kunt de betaalde functies blijven gebruiken tot het einde van de periode waarvoor u al hebt betaald.<br> <a data-l10n-name='resub'>Opnieuw abonneren</a>
-summary-overdue-plan = Uw abonnement is inactief vanwege een achterstallige betaling. U kunt dit oplossen door uw kaartgegevens bij te werken of contact met ons op te nemen via <b>hello@coggle.it</b>.
-complete-payment = U kunt <a data-l10n-name='invoice-link'>de openstaande betaling bekijken en voltooien</a>, of <a data-l10n-name='cancel'>het abonnement opzeggen</a>.
+summary-ending-2 = Je hebt je <code>{$planName}</code>-abonnement opgezegd en er worden geen kosten meer in rekening gebracht. Je kunt de betaalde functies blijven gebruiken tot het einde van de periode waarvoor je al hebt betaald.<br> <a data-l10n-name='resub'>Opnieuw abonneren</a>
+summary-overdue-plan = Je abonnement is inactief vanwege een achterstallige betaling. Je kunt dit oplossen door je kaartgegevens bij te werken of contact met ons op te nemen via <b>hello@coggle.it</b>.
+complete-payment = Je kunt <a data-l10n-name='invoice-link'>de openstaande betaling bekijken en voltooien</a>, of <a data-l10n-name='cancel'>het abonnement opzeggen</a>.
 
 me-communication-title = Communicatie
 me-emails-title = E-mailadressen
@@ -318,7 +320,7 @@ me-language-title = Kies je Voorkeurstaal
 me-language-tip = Help ons Coggle in je moedertaal aan te bieden, of voeg iets toe dat ontbreekt door bij te dragen aan ons <a data-l10n-name='translate-link'>vertaalproject</a> op Github!
 me-language-questions = Als je vragen hebt over vertalingen – of als je correcties of verbeteringen hebt en niet zeker weet hoe je kunt helpen, stuur ons dan gewoon een e-mail op <a data-l10n-name='translate-email'>translate@coggle.it</a>.
 
-profile-title = Uw profiel in Coggle
+profile-title = Hoe je eruitziet in Coggle
 profile-p1 = Je naam en standaardprofielpictogram zijn afkomstig van het account waarmee je inlogt. Als je je pictogram hier wijzigt, wordt het alleen in Coggle aangepast.
 
 invite-n-more =
@@ -336,7 +338,7 @@ claim-redeem = Nu inwisselen
 
 close-account-title = Sluit je Coggle-account
 close-account = Sluit je gratis Coggle-account definitief.
-close-account-clarification = Je moet eerst elk betaald abonnement opzeggen. Dit kun je doen via je <a data-l10n-name=‘billing-link’>factureringsinstellingen</a> voor persoonlijke Awesome-abonnementen, of via het instellingen-dashboard van je Organisation's voor Organisation-abonnementen..
+close-account-clarification = Je moet eerst alle betaalde abonnementen opzeggen. Dat kan via je <a data-l10n-name='billing-link'>factureringsinstellingen</a> voor persoonlijke Awesome-abonnementen, of via het instellingendashboard van je organisatie voor organisatie-abonnementen.
 close-account-description = Dit proces is <b>onomkeerbaar</b> en wordt onmiddellijk van kracht. Je verliest de toegang tot al je diagrammen, dus zorg ervoor dat je alle diagrammen die je wilt bewaren hebt geëxporteerd.
 close-account-button = Sluit mijn Account
 close-account-enteremail =
@@ -411,23 +413,23 @@ add-label = label toevoegen
 
 help-title-title = De Diagramtitel
 help-title-p1 = Dit is het midden van je diagram en de titel ervan. Je ideeën zullen zich vanaf hier vertakken!
-help-title-p2 = Begin met het bewerken ervan - waar gaat uw diagram over?
-help-gohome-2 = Als u klaar bent met bewerken, klikt u op het logo om terug te gaan naar de startpagina. Uw documenten worden automatisch opgeslagen.
+help-title-p2 = Begin met het bewerken ervan - waar gaat je diagram over?
+help-gohome-2 = Als je klaar bent met bewerken, klik je op het logo om terug te gaan naar de startpagina. Je documenten worden automatisch opgeslagen.
 help-add-node-2 = Beweeg de muis naast een item en klik op een <div data-l10n-name='plus'>+</div>-knop om een tak toe te voegen.
 help-edit-node-p1 = Klik op een willekeurig item om de tekst te bewerken.
 help-edit-node-p2 = Wijzig de tekstgrootte door de hoek van het bewerkingsgebied te verslepen.
 help-move-node = Versleep tekst om deze te verplaatsen.
-help-node-menu = Klik met de rechtermuisknop op items om het menu te openen. Hier kunt u takken toevoegen, verwijderen, kopiëren en ordenen.
+help-node-menu = Klik met de rechtermuisknop op items om het menu te openen. Hier kun je takken toevoegen, verwijderen, kopiëren en ordenen.
 help-morehelp-touch-title = Sneltoetsen en Help
 help-morehelp2-title = Sneltoetsen en Help
 help-morehelp-touch = Open het helpvenster om sneltoetsen te bekijken en snel naar helpartikelen te zoeken
 help-morehelp2 = Open het helpvenster om sneltoetsen te bekijken en snel naar helpartikelen te zoeken
 
-help-multiline = Voeg meerdere regels tekst toe met [ctrl] + [enter], of door de aanpassingsgreep te verslepen voordat u gaat typen.
+help-multiline = Voeg meerdere regels tekst toe met [ctrl] + [enter], of door de aanpassingsgreep te verslepen voordat je gaat typen.
 help-toolbar-invite-title = Samenwerken met anderen
-help-toolbar-invite = Klik om mensen uit te nodigen om deze Coggle te bewerken of te bekijken. U kunt de rechten van mensen beheren door op hun pictogram te klikken.
+help-toolbar-invite = Klik om mensen uit te nodigen om deze Coggle te bewerken of te bekijken. Je kunt de rechten van mensen beheren door op hun pictogram te klikken.
 help-toolbar-invitemulti-title = Meerdere mensen uitnodigen
-help-toolbar-invitemulti = Om tijd te besparen kunt u meerdere mensen tegelijk uitnodigen: typ (of plak) e-mailadressen gescheiden door spaties, komma's<b>,</b> of puntkomma's<b>;</b>
+help-toolbar-invitemulti = Om tijd te besparen kun je meerdere mensen tegelijk uitnodigen: typ (of plak) e-mailadressen gescheiden door spaties, komma's<b>,</b> of puntkomma's<b>;</b>
 
 help-toolbar-invitedonefaster-p1 = Nu je al een tijdje aan het bewerken bent, kun je proberen dingen sneller gedaan te krijgen door samen te werken!
 help-toolbar-invitedonefaster-p2 = Nodig mensen uit om samen met jou te bewerken en zie hun wijzigingen direct.
@@ -535,7 +537,7 @@ access-folder-admin = Beheren<br/><span data-l10n-name="tip">Mensen en documente
 access-remove = Verwijder { $user_givenName }
 
 # Meldingen 
-readonly-warning = U kunt dit diagram niet bewerken. <div data-l10n-name="suggestion">Als u het moet bewerken, vraag dan de auteur om toestemming.</div>
+readonly-warning = Je kunt dit diagram niet bewerken. <div data-l10n-name="suggestion">Als je het moet bewerken, vraag de auteur dan om toestemming.</div>
 
 websocket-offline = Real-time wijzigingen zijn niet beschikbaar vanwege het netwerk. <a data-l10n-name='helpfix'>Meer informatie</a>
 
@@ -545,7 +547,7 @@ banner-undo-warning = Niets meer om ongedaan te maken!
 banner-redo-warning = Niets meer om opnieuw uit te voeren!
 
 # Berichten bij het slepen en neerzetten van afbeeldingen 
-image-resize-plug = Je afbeelding is verkleind - download <a data-l10n-name='awesome'>Awesome</a> om grotere afbeeldingen te uploaden!
+image-resize-plug = Je afbeelding is verkleind - neem <a data-l10n-name='awesome'>Awesome</a> om grotere afbeeldingen te uploaden!
 
 # Helpvenster
 sidebar-contextmenu = Contextmenu
@@ -560,7 +562,7 @@ sidebar-addimages-title = <a data-l10n-name='images'>Afbeeldingen</a> toevoegen:
 
 sidebar-zoom = Zoomen:
 
-sidebar-shortcuts = Snelkoppelingen
+sidebar-shortcuts = Sneltoetsen
 sidebar-undo = Ongedaan maken:
 sidebar-redo = Opnieuw uitvoeren:
 
@@ -575,7 +577,7 @@ sc-ret = enter ⏎
 sc-tab = tab ⇥
 sc-ctrl = ctrl ^
 sc-alt = alt
-sc-option = optie ⌥
+sc-option = option ⌥
 sc-dragdrop = slepen en neerzetten
 
 sidebar-whentyping = Tijdens het typen
@@ -687,14 +689,14 @@ awesome-pitch = Geef je denkproces een boost met Coggle Awesome. Voeg grote afbe
 awesome-signup = MELD JE NU AAN
 awesome-price = ${$monthlyPrice} / MAAND
 
-awesome-feature-cp-title = Controleer lijnpaden
+awesome-feature-cp-title = Lijnpaden bepalen
 awesome-feature-cp = Plaats verbindingen precies waar je ze wilt hebben met behulp van controlepunten op vertakkingspaden.
 
 awesome-feature-shapes-title = Geavanceerde itemvormen
 awesome-feature-shapes = Pas je stroomdiagrammen aan met behulp van alle itemvormen. Gebruik ruiten voor beslissingsknooppunten in stroomdiagrammen en plaats tekst in lijn met verbindingen voor organigrammen.
 
 awesome-feature-private-title = Onbeperkt aantal privé-diagrammen
-awesome-feature-private = Maak zoveel privé-diagrammen als u wilt. Als u uw abonnement ooit opzegt, blijven ze privé en behoudt u de toegang.
+awesome-feature-private = Maak zoveel privédiagrammen als je wilt. Als je je abonnement ooit opzegt, blijven ze privé en houd je toegang.
 
 awesome-feature-joinloop-title = Lussen maken en vertakkingen samenvoegen
 awesome-feature-joinloop = Voeg vertakkingen samen en maak lussen om krachtigere en flexibelere diagrammen te maken die processtromen en andere geavanceerde zaken weergeven.
@@ -706,10 +708,10 @@ awesome-feature-editablelinks-title = Samenwerken zonder installatie
 awesome-feature-editablelinks = Laat een onbeperkt aantal mensen een diagram bewerken door simpelweg een geheime link met hen te delen. Inloggen is niet nodig.
 
 awesome-feature-linestyle-title = Lijnstijl aanpassen
-awesome-feature-linestyle = Pas de dikte en stijl van de lijnen in uw diagram aan.
+awesome-feature-linestyle = Pas de dikte en stijl van de lijnen in je diagram aan.
 
 awesome-feature-bigimages-title = Laat ze het grote geheel zien
-awesome-feature-bigimages = Voeg grote afbeeldingen toe aan uw Coggles om uw ideeën te illustreren: sleep gewoon een afbeelding van uw bureaublad naar een document.
+awesome-feature-bigimages = Voeg grote afbeeldingen toe aan je Coggles om je ideeën te illustreren: sleep gewoon een afbeelding van je bureaublad naar een document.
 
 awesome-feature-colours-title = Meer kleuren
 awesome-feature-colours = Ontgrendel een nieuw scala aan levendige kleuren om je ideeën te ordenen en te benadrukken.
@@ -718,7 +720,7 @@ awesome-feature-autoarrange-title = Automatische indeling van takken
 awesome-feature-autoarrange = Ruim de positie van je takken op met slechts één klik met behulp van de automatische indeling van takken in Coggle Awesome.
 
 awesome-feature-folders-title = Gedeelde mappen
-awesome-feature-folders = Plaats uw diagrammen in mappen om ze georganiseerd te houden en ze gemakkelijk te delen met een groep medewerkers.
+awesome-feature-folders = Plaats je diagrammen in mappen om ze overzichtelijk te houden en ze gemakkelijk te delen met een groep medewerkers.
 
 awesome-feature-flow-title = Krachtige stroomdiagrammen
 awesome-feature-flow = Kies uit een reeks vormen om expressieve, krachtige stroomdiagrammen, proceskaarten en andere diagrammen te maken.
@@ -737,20 +739,20 @@ login-title = Coggle - Log in om te beginnen met mindmappen
 signin-by-email = Inloggen via e-mailadres
 sign-in = Inloggen
 
-login-saml = We ondersteunen ook inloggen op bedrijfsniveau voor Coggle Organisation met OneLogin, Okta en andere SAML 2.0-identiteitsproviders.
-login-saml-where = Als u een Single Sign-On-gebruiker bent, log dan in via de pagina die door de beheerder van uw organisatie is gedeeld.
+login-saml = We ondersteunen ook inloggen op bedrijfsniveau voor Coggle-organisaties met OneLogin, Okta en andere SAML 2.0-identiteitsproviders.
+login-saml-where = Als je een Single Sign-On-gebruiker bent, log dan in via de pagina die de beheerder van je organisatie heeft gedeeld.
 login-saml-more = Lees meer over Single Sign-On.
 
 login-faq = Veelgestelde vragen
 login-colab = Kan ik samenwerken met collega's?
-login-colab-a = Werk samen en zie de wijzigingen van uw collega's direct terwijl ze
-    deze aanbrengen! Nodig medewerkers uit via e-mail en beheer wie wijzigingen mag aanbrengen
-    rechtsboven op de diagram-pagina. 
+login-colab-a = Werk samen en zie de wijzigingen van je collega's direct terwijl ze
+    die aanbrengen! Nodig medewerkers uit via e-mail en beheer rechtsboven op de
+    diagrampagina wie wijzigingen mag aanbrengen. 
 
 login-free = Is Coggle gratis?
 login-free2-a = Ja, alles om geweldige mindmaps te maken – geen tijdslimiet,
     realtime samenwerking, geen limiet op de grootte en meer – is gratis. <a
-    data-l10n-name='pricing'>Upgrade voor extra krachtige functies</a> voor 
+    data-l10n-name='pricing'>Upgrade voor extra krachtige functies</a> voor
     professionals en grote teams.
 
 login-what-q = Wat doen jullie met mijn Google/Microsoft-account?
@@ -774,8 +776,8 @@ login-workschool-a = Ja, je kunt elk Microsoft-account gebruiken, inclusief zowe
 
 login-otherlogin-q = Kan ik een andere authenticatieprovider gebruiken om toegang te krijgen tot Coggle?
 login-otherlogin-a-p1 = Momenteel ondersteunen we Google, Microsoft, Inloggen met Apple en inloggen via e-mail voor persoonlijke accounts.
-login-otherlogin-a-p2 = We ondersteunen <a data-l10n-name="saml">SAML 2.0-aanmelding</a> voor Coggle-organisaties, 
-    en als u geïnteresseerd bent in het hosten van uw eigen versie van Coggle met Active Directory-aanmelding, neem dan 
+login-otherlogin-a-p2 = We ondersteunen <a data-l10n-name="saml">SAML 2.0-aanmelding</a> voor Coggle-organisaties,
+    en als je geïnteresseerd bent in het hosten van je eigen versie van Coggle met Active Directory-aanmelding, neem dan
     contact op met ons <a data-l10n-name="email">verkoopadres voor bedrijven</a>.
 
 login-help =  Waar kan ik hulp of ondersteuning krijgen?
@@ -785,90 +787,90 @@ login-pw-more-q = Ik heb nog steeds een vraag over inloggen
 login-pw-more-a = Vraag het ons! Ons e-mailadres is <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Startpagina Organisaties (/organizations) 
-orgs-pitch-title = Coggle Organisation
-orgs-pitch = Elke Coggle Organisation beschikt over functies die zijn ontworpen voor het beheren van grote groepen mensen, waar leden komen en gaan en waar gevoelige informatie moet worden beschermd.
+orgs-pitch-title = Coggle-organisaties
+orgs-pitch = Elke Coggle-organisatie beschikt over functies die zijn ontworpen voor het beheren van grote groepen mensen, waar leden komen en gaan en waar gevoelige informatie moet worden beschermd.
 
 orgs-signup = ORGANISATIE AANMAKEN
 
-orgs-subpitch-p1 = Wanneer informatie cruciaal is voor uw team, heeft u krachtigere tools nodig en meer controle over uw gegevens. Daarom hebben we <a data-l10n-name="orglink">Coggle-organisaties</a> ontwikkeld.
+orgs-subpitch-p1 = Wanneer informatie cruciaal is voor je team, heb je krachtigere tools nodig en meer controle over je gegevens. Daarom hebben we <a data-l10n-name="orglink">Coggle-organisaties</a> ontwikkeld.
 orgs-subpitch-p2 = De prijsstelling is eenvoudig: <b>$8 per lid per maand</b>.<br><b>Onbeperkt alles</b>.
 
 
 orgs-feature-saml-sso-title = SAML Single Sign-On
-orgs-feature-saml-sso = Verifieer gebruikers met behulp van uw bestaande Single Sign-On-service. Ondersteuning voor OneLogin, Okta en meer.
+orgs-feature-saml-sso = Verifieer gebruikers met je bestaande Single Sign-On-service. Ondersteuning voor OneLogin, Okta en meer.
 
 orgs-feature-in-one-place-title = Alles op één plek
-orgs-feature-in-one-place = Alle diagrammen van je organisaties op één plek. Bewaar het werk van je teams veilig op één overzichtelijke locatie, zodat je precies weet waar je moet zoeken.
+orgs-feature-in-one-place = Alle diagrammen van je organisatie op één plek. Bewaar het werk van je teams veilig op één overzichtelijke locatie, zodat je precies weet waar je moet zoeken.
 
 orgs-feature-control-sharing-title = Delen beheren
-orgs-feature-control-sharing = U kunt ervoor zorgen dat Coggles die in uw organisatie zijn gemaakt, binnen uw organisatie blijven. Dit beschermt gevoelig materiaal tegen onbedoelde openbaarmaking als het verkeerde e-mailadres voor een document wordt uitgenodigd.
+orgs-feature-control-sharing = Je kunt ervoor zorgen dat Coggles die in je organisatie zijn gemaakt, binnen je organisatie blijven. Dit beschermt gevoelig materiaal tegen onbedoelde openbaarmaking als het verkeerde e-mailadres voor een document wordt uitgenodigd.
 
 orgs-feature-manage-users-title = Gebruikers veilig beheren
-orgs-feature-manage-users = Gebruikers veilig beheren Verwijder leden uit uw organisatie zonder het werk dat ze hebben gedaan te verliezen. Gebruik het beheerdersdashboard om alle diagrammen te bekijken die in uw organisatie zijn gemaakt door huidige en voormalige leden, verwijderd of actief
+orgs-feature-manage-users = Verwijder leden uit je organisatie zonder het werk dat ze hebben gedaan te verliezen. Gebruik het beheerdersdashboard om alle diagrammen te bekijken die in je organisatie zijn gemaakt door huidige en voormalige leden, verwijderd of actief.
 
-orgs-feature-export-title = Bulk Exporteren
+orgs-feature-export-title = Bulk-export
 orgs-feature-export = Organisatiebeheerders kunnen met één klik alle Coggles van de organisatie downloaden in een machinaal leesbaar, archiveerbaar JSON-formaat. Ideaal voor naleving van regelgeving of gewoon voor gemoedsrust.
 
-orgs-feature-branding-title = Laat uw merk zien
-orgs-feature-branding = Maak professionele, strakke diagrammen met uw logo en exporteer ze als PDF of PNG. Ideaal voor het delen van diagrammen met klanten of collega's binnen uw bedrijf.
+orgs-feature-branding-title = Laat je merk zien
+orgs-feature-branding = Maak professionele, strakke diagrammen met je logo en exporteer ze als PDF of PNG. Ideaal voor het delen van diagrammen met klanten of collega's binnen je bedrijf.
 
 orgs-feature-editable-links-title = Bewerkbare privé-links
-orgs-feature-editable-links = Maak een privé-link om te delen met medewerkers buiten uw organisatie, zodat zij een diagram kunnen bewerken zonder in te loggen.
+orgs-feature-editable-links = Maak een privélink om te delen met medewerkers buiten je organisatie, zodat zij een diagram kunnen bewerken zonder in te loggen.
 
-orgs-feature-awesome = Bovendien krijgen alle leden van je organisatie toegang tot de <a data-l10n-name=“awesome”>Awesome</a> functies van Coggle.
+orgs-feature-awesome = Bovendien krijgen alle leden van je organisatie de <a data-l10n-name="awesome">Awesome</a>-functies van Coggle.
 
 
 # Aanmeldpagina voor organisaties (/organizations/new)
-orgcreate-title2 = Maak een <a data-l10n-name=“orgs”>Coggle Organisatie aan</a>
+orgcreate-title2 = Maak een <a data-l10n-name="orgs">Coggle-organisatie</a> aan
 orgcreate-nameinput =
-  .placeholder = Kies een Naam voor uw Organisatie
+  .placeholder = Kies een naam voor je organisatie
 orgcreate-namehint = Kies iets kort en herkenbaar!
 orgcreate-createbutton = Aanmaken
 
-faq-orgs-whatare-q = Wat is Coggle Organisation?
+faq-orgs-whatare-q = Wat zijn Coggle-organisaties?
 faq-orgs-whatare-a =
-    <p data-l10n-name='p1'>Coggle Organisation zorgen voor een scheiding tussen
-      uw persoonlijke diagrammen en die van uw bedrijf. Door
-      het persoonlijke te scheiden van het professionele krijgt u meer controle over
-      uw bedrijfsgegevens die zijn opgeslagen in Coggle, inclusief wanneer en hoe deze
-      worden gedeeld door uw medewerkers.</p>
+    <p data-l10n-name='p1'>Coggle-organisaties zorgen voor een scheiding tussen
+      je persoonlijke diagrammen en die van je bedrijf. Door
+      het persoonlijke te scheiden van het professionele krijg je meer controle over
+      de bedrijfsgegevens die in Coggle zijn opgeslagen, inclusief wanneer en hoe die
+      door je medewerkers worden gedeeld.</p>
 
-faq-orgs-whofor-q = Voor wie is Coggle Organisation bedoeld?
+faq-orgs-whofor-q = Voor wie zijn Coggle-organisaties bedoeld?
 faq-orgs-whofor-a =
-    <p data-l10n-name='p1'>Coggle Organisation is ontworpen voor teams die
+    <p data-l10n-name='p1'>Coggle-organisaties zijn ontworpen voor teams die
       meer controle nodig hebben over de gegevens die ze in Coggle invoeren, of die
       persoonlijke gegevens gescheiden moeten houden. Ze worden met succes gebruikt door particuliere
       bedrijven, overheidsinstanties, scholen en universiteiten om groepen te helpen
-      veilig samen te werken.</p> 
+      veilig samen te werken.</p>
     <p data-l10n-name='p2'>Elke groep die meer controle nodig heeft over het delen van diagrammen, of dit nu is voor
-      naleving van regelgeving of intern beleid, zal Coggle Organisation
+      naleving van regelgeving of intern beleid, zal Coggle-organisaties
       nuttig vinden.</p>
 
-faq-orgs-features-q =  Wat zijn de belangrijkste functies van Coggle Organisation?
+faq-orgs-features-q =  Wat zijn de belangrijkste functies van een Coggle-organisatie?
 faq-orgs-features-a =
     <p data-l10n-name='p1'><b>Beheerdersdashboard</b>: volledige controle over diagrammen die zijn gemaakt
-      door leden van uw organisatie, inclusief het herstellen van verwijderde diagrammen.
+      door leden van je organisatie, inclusief het herstellen van verwijderde diagrammen.
     </p>
-    <p data-l10n-name='p2'><b>Gegevensbeheer</b>: kies ervoor om het delen van gegevens te beperken tot alleen binnen uw
+    <p data-l10n-name='p2'><b>Gegevensbeheer</b>: kies ervoor om het delen van gegevens te beperken tot alleen binnen je
       organisatie.</p>
-    <p data-l10n-name='p3'><b>Bulk-export</b>: exporteer alle diagrammen in uw organisatie voor back-up-
+    <p data-l10n-name='p3'><b>Bulk-export</b>: exporteer alle diagrammen in je organisatie voor back-up-
       of regelgevingsdoeleinden.</p>
     <p data-l10n-name='p4'><b>Gecentraliseerde facturering</b>: betaal voor meerdere Awesome-abonnementen op
-      één plek en zeg abonnementen op wanneer leden uw
+      één plek en zeg abonnementen op wanneer leden je
       organisatie verlaten of erbij komen. </p>
 
-faq-orgs-awesome-q = Hoe verhoud Coggle Organisation zich tot Coggle Awesome?
+faq-orgs-awesome-q = Hoe verhouden Coggle-organisaties zich tot Coggle Awesome?
 faq-orgs-awesome-a =
-    <p data-l10n-name='p1'>Coggle Organisation is een geweldige manier om facturering en licentiebeheer
+    <p data-l10n-name='p1'>Coggle-organisaties zijn een geweldige manier om facturering en licentiebeheer
       voor meerdere Coggle Awesome-abonnementen te centraliseren.</p>
-    <p data-l10n-name='p2'>Elke gebruiker in uw organisatie krijgt automatisch Coggle Awesome
-      wanneer hij of zij aan diagrammen werkt in de werkruimte van uw organisatie. Dit betekent
+    <p data-l10n-name='p2'>Elke gebruiker in je organisatie krijgt automatisch Coggle Awesome
+      wanneer hij of zij aan diagrammen werkt in de werkruimte van je organisatie. Dat betekent
       alle geweldige functies, waaronder privédiagrammen, presentatiemodus,
-      uitgebreid kleurenpalet en het uploaden van afbeeldingen met hoge resolutie.</p>
+      een uitgebreid kleurenpalet en het uploaden van afbeeldingen in hoge resolutie.</p>
 
-faq-orgs-billing-q = Hoe werkt de facturering voor Coggle Organisation?
-faq-orgs-billing-a = Coggle Organisation betalen ${$pricePerMemberPerMonth} per lid per maand. U kunt
-  op elk moment leden toevoegen en verwijderen via het dashboard van uw organisatie.
+faq-orgs-billing-q = Hoe werkt de facturering voor Coggle-organisaties?
+faq-orgs-billing-a = Coggle-organisaties betalen ${$pricePerMemberPerMonth} per lid per maand. Je kunt
+  op elk moment leden toevoegen en verwijderen via het dashboard van je organisatie.
 
 faq-orgs-edu-q = Zijn er speciale tarieven voor het onderwijs?
 faq-orgs-edu-a = Ja! Neem contact met ons op via education@coggle.it voor meer informatie.
@@ -885,7 +887,7 @@ about-hello2-p1 =
     en een gedeelde werkruimte om je team te helpen effectiever
     samen te werken.</b>
 about-hello2-p2 =
-    Het is gratis, en we beloven dat het dat altijd zal blijven, maar we beloven ook dat we
+    Het is gratis, en we beloven dat het dat altijd zal blijven, maar we beloven ook
     zo goed mogelijk voor je gegevens te zorgen, back-ups te maken en beveiliging
     serieus te nemen.
 about-hello2-p3 =
@@ -963,7 +965,7 @@ fact-fontsize = Is de tekst te groot? Te klein? Je kunt in- en uitzoomen!<br> Ge
 
 fact-zoomin = Wist je dat je kunt inzoomen om het van dichterbij te bekijken? Dat kan!<br> Gebruik [ctrl] [+], of klik met de rechtermuisknop en sleep het zoomicoontje!
 
-fact-zoomout = Wist je dat je kunt uitzoomen om het totaalbeeld te zien? Dat kan!<br> gebruik [ctrl] [-], of klik met de rechtermuisknop en sleep het zoomicoontje!
+fact-zoomout = Wist je dat je kunt uitzoomen om het totaalbeeld te zien? Dat kan!<br> Gebruik [ctrl] [-], of klik met de rechtermuisknop en sleep het zoomicoontje!
 
 fact-markdown2 = Wist je dat <a data-l10n-name='link'>Markdown</a> geweldig is? Dat is het zeker, en Coggle ondersteunt het!
 
@@ -1013,11 +1015,11 @@ fact-task-lists = Wist je dat je <a data-l10n-name='link'>Markdown</a> kunt gebr
 
 fact-api-1 = Wist je dat we een API hebben? Dat hebben we inderdaad! Programma's kunnen deze gebruiken om Coggles automatisch aan te maken, te bekijken en te bewerken.
 
-fact-organisation = Gebruik je Coggle voor zakelijke doeleinden? Je kunt een Coggle Organisation aanmaken om de Coggles van je bedrijf te beheren.
+fact-organisation = Gebruik je Coggle zakelijk? Je kunt een Coggle-organisatie aanmaken om de Coggles van je bedrijf te beheren.
 
-fact-organisation2 = Wist je dat Coggle Organisation hun logo op hun Coggles kunnen plaatsen? Dat kan!
+fact-organisation2 = Wist je dat Coggle-organisaties hun logo op hun Coggles kunnen plaatsen? Dat kan!
 
-fact-organisation3 = Wist je dat je een Coggle Organisation kunt aanmaken om de Coggles van je bedrijf te organiseren? Dat kan!
+fact-organisation3 = Wist je dat je een Coggle-organisatie kunt aanmaken om de Coggles van je bedrijf te organiseren? Dat kan!
 
 
 # /gratis landingspagina
