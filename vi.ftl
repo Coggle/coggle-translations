@@ -321,6 +321,42 @@ summary-confirm = Xác nhận chuyển đổi
 summary-ending-2 = Bạn đã hủy gói đăng ký <code>{$planName}</code> và sẽ không bị tính phí nữa. Bạn vẫn có thể dùng các tính năng trả phí đến hết thời gian đã thanh toán.<br> <a data-l10n-name='resub'>Đăng ký lại</a>
 summary-overdue-plan = Gói đăng ký của bạn đã ngừng hoạt động do thanh toán quá hạn. Bạn có thể khắc phục bằng cách cập nhật thẻ hoặc liên hệ với chúng tôi qua <b>hello@coggle.it</b>.
 complete-payment = Bạn có thể <a data-l10n-name='invoice-link'>xem và hoàn tất</a> khoản thanh toán còn nợ, hoặc <a data-l10n-name='cancel'>hủy gói đăng ký</a>.
+summary-overdue-plan3 = Gói đăng ký <code>{ $planName }</code> của bạn đã ngừng hoạt động do thanh toán quá hạn.
+billing-plans-load-failed = Đã xảy ra lỗi khi tải các gói của bạn! Vui lòng thử lại.
+billing-resubscribe-failed = Đăng ký lại không thành công – vui lòng thử lại!
+billing-upgrade-failed = Nâng cấp không thành công – vui lòng thử lại hoặc liên hệ bộ phận hỗ trợ!
+billing-cancel-failed = Đã xảy ra lỗi khi hủy gói đăng ký. Vui lòng thử lại hoặc liên hệ bộ phận hỗ trợ của Coggle!
+billing-update-failed = Cập nhật không thành công, vui lòng thử lại.
+cancel-plan-title = Bạn có chắc không?
+cancel-plan-warning = Nếu bạn có hơn 3 sơ đồ riêng tư, bạn sẽ không thể chỉnh sửa chúng trên phiên bản miễn phí. Bạn cũng sẽ mất <b>tùy chỉnh đường đi của đường nối</b>, <b>tùy chỉnh kiểu đường</b> và mọi <a data-l10n-name="awesome">tính năng Awesome</a> khác!
+cancel-plan-back = Quay lại
+invoice-link = Hóa đơn cho { $description } ngày { DATETIME($date, dateStyle: "medium") }
+org-billing-next = Hóa đơn tiếp theo của bạn sẽ vào ngày <b>{ DATETIME($date, dateStyle: "long") }</b>.
+org-billing-no-more = Không còn hóa đơn nào được lên lịch!
+org-billing-members =
+    { $members ->
+       *[other] Bạn sẽ bị tính phí cho { $members } thành viên tổ chức.
+    }
+org-billing-pending-invites =
+    { $invites ->
+       *[other] (Còn có { $invites } lời mời đang chờ chưa được chấp nhận.)
+    }
+org-billing-overdue-complete = Một khoản thanh toán cho tổ chức của bạn đã quá hạn. Bạn cần <a data-l10n-name="invoice-link">xem và hoàn tất</a> khoản thanh toán còn nợ, hoặc cập nhật thông tin thanh toán để tiếp tục sử dụng tổ chức.
+org-billing-setup-incomplete = Tổ chức của bạn chưa hoạt động vì chưa hoàn tất đăng ký thanh toán. Vui lòng cung cấp thông tin thanh toán để kích hoạt tổ chức.
+org-billing-setup-button = Thiết lập thông tin thanh toán
+org-billing-customer-failed = Không tải được thông tin khách hàng.
+org-billing-invoices-failed = Không tải được hóa đơn.
+org-billing-payment-link-failed = Không tải được liên kết thanh toán! Vui lòng thử lại.
+org-billing-overdue = Khoản thanh toán cho tổ chức Coggle của bạn đã quá hạn. Vui lòng cập nhật thông tin thanh toán!
+org-billing-checkout-failed = Không tạo được phiên thanh toán cho tổ chức.
+org-close-title = Khu vực nguy hiểm
+org-close-p1 = Đóng tổ chức này và ngừng thanh toán – <b>các Coggle thuộc tổ chức sẽ không thể truy cập được nữa</b>!
+org-close-p2 = Thao tác này <b>không thể hoàn tác</b> và có hiệu lực ngay, vì vậy hãy cẩn thận.
+org-close-delete = XÓA
+org-close-name =
+    .placeholder = Nhập tên tổ chức
+org-close-failed = Không đóng được tổ chức, vui lòng tải lại trang và thử lại.
+org-close-name-mismatch = Tên không khớp.
 
 me-communication-title = Liên lạc
 me-emails-title = Địa chỉ email

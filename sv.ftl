@@ -322,6 +322,44 @@ summary-confirm = Bekräfta bytet
 summary-ending-2 = Du har avslutat din <code>{$planName}</code>-prenumeration och kommer inte att debiteras igen. Du kan fortsätta använda betalfunktionerna till slutet av den period du redan har betalat för.<br> <a data-l10n-name='resub'>Prenumerera igen</a>
 summary-overdue-plan = Din prenumeration är inaktiv på grund av en försenad betalning. Du kan åtgärda det genom att uppdatera ditt kort eller kontakta oss på <b>hello@coggle.it</b>.
 complete-payment = Du kan <a data-l10n-name='invoice-link'>se och slutföra</a> den utestående betalningen, eller <a data-l10n-name='cancel'>avsluta prenumerationen</a>.
+summary-overdue-plan3 = Din <code>{ $planName }</code>-prenumeration är inaktiv på grund av en försenad betalning.
+billing-plans-load-failed = Något gick fel när dina planer skulle läsas in! Försök igen.
+billing-resubscribe-failed = Det gick inte att prenumerera igen – försök igen!
+billing-upgrade-failed = Uppgraderingen misslyckades – försök igen eller kontakta supporten!
+billing-cancel-failed = Något gick fel när din prenumeration skulle avslutas. Försök igen eller kontakta Coggles support!
+billing-update-failed = Uppdateringen misslyckades, försök igen.
+cancel-plan-title = Är du säker?
+cancel-plan-warning = Om du har fler än 3 privata diagram kan du inte redigera dem i gratisversionen. Du går också miste om <b>styrning av linjedragning</b>, <b>anpassningsbara linjestilar</b> och alla andra <a data-l10n-name="awesome">Awesome-funktioner</a>!
+cancel-plan-back = Tillbaka
+invoice-link = Faktura för { $description } den { DATETIME($date, dateStyle: "medium") }
+org-billing-next = Din nästa faktura kommer den <b>{ DATETIME($date, dateStyle: "long") }</b>.
+org-billing-no-more = Inga fler fakturor är schemalagda!
+org-billing-members =
+    { $members ->
+        [one] Du debiteras för { $members } medlem i organisationen.
+       *[other] Du debiteras för { $members } medlemmar i organisationen.
+    }
+org-billing-pending-invites =
+    { $invites ->
+        [one] (Det finns också { $invites } väntande inbjudan som inte har accepterats än.)
+       *[other] (Det finns också { $invites } väntande inbjudningar som inte har accepterats än.)
+    }
+org-billing-overdue-complete = En betalning för din organisation är förfallen. Du måste <a data-l10n-name="invoice-link">se och slutföra</a> den utestående betalningen, eller uppdatera dina betalningsuppgifter för att kunna fortsätta använda organisationen.
+org-billing-setup-incomplete = Din organisation är inte aktiv eftersom registreringen för fakturering inte har slutförts. Ange betalningsuppgifter för att aktivera organisationen.
+org-billing-setup-button = Ange betalningsuppgifter
+org-billing-customer-failed = Det gick inte att läsa in kunduppgifterna.
+org-billing-invoices-failed = Det gick inte att läsa in fakturorna.
+org-billing-payment-link-failed = Det gick inte att läsa in betalningslänken! Försök igen.
+org-billing-overdue = Betalningen för din Coggle-organisation är förfallen. Uppdatera dina betalningsuppgifter!
+org-billing-checkout-failed = Det gick inte att skapa betalningen för organisationen.
+org-close-title = Farozon
+org-close-p1 = Avsluta den här organisationen och stoppa faktureringen – <b>organisationens Coggles blir då oåtkomliga</b>!
+org-close-p2 = Det här går <b>inte att ångra</b> och gäller omedelbart, så var försiktig.
+org-close-delete = TA BORT
+org-close-name =
+    .placeholder = Skriv organisationens namn
+org-close-failed = Det gick inte att avsluta organisationen. Ladda om sidan och försök igen.
+org-close-name-mismatch = Namnet stämmer inte.
 
 me-communication-title = Kommunikation
 me-emails-title = E-postadresser

@@ -322,6 +322,44 @@ summary-confirm = अपग्रेड पक्का गर्नुहोस
 summary-ending-2 = तपाईंले आफ्नो <code>{$planName}</code> सदस्यता रद्द गर्नुभएको छ, र फेरि शुल्क लाग्ने छैन। तपाईंले पहिले नै भुक्तानी गरेको अवधिको अन्त्यसम्म सशुल्क सुविधाहरू प्रयोग गर्न सक्नुहुन्छ।<br> <a data-l10n-name='resub'>फेरि सदस्यता लिनुहोस्</a>
 summary-overdue-plan = भुक्तानी बाँकी भएकाले तपाईंको सदस्यता निष्क्रिय छ। कार्ड अद्यावधिक गरेर वा <b>hello@coggle.it</b> मा सम्पर्क गरेर तपाईं यो मिलाउन सक्नुहुन्छ।
 complete-payment = तपाईं बाँकी भुक्तानी <a data-l10n-name='invoice-link'>हेरेर पूरा गर्न</a> सक्नुहुन्छ, वा <a data-l10n-name='cancel'>सदस्यता रद्द गर्न</a> सक्नुहुन्छ।
+summary-overdue-plan3 = भुक्तानी बाँकी भएकाले तपाईंको <code>{ $planName }</code> सदस्यता निष्क्रिय छ।
+billing-plans-load-failed = तपाईंका योजनाहरू लोड गर्दा केही गडबड भयो! कृपया फेरि प्रयास गर्नुहोस्।
+billing-resubscribe-failed = फेरि सदस्यता लिन सकिएन - कृपया फेरि प्रयास गर्नुहोस्!
+billing-upgrade-failed = अपग्रेड असफल भयो - कृपया फेरि प्रयास गर्नुहोस् वा सहयोग टोलीलाई सम्पर्क गर्नुहोस्!
+billing-cancel-failed = सदस्यता रद्द गर्दा केही गडबड भयो। कृपया फेरि प्रयास गर्नुहोस् वा Coggle सहयोग टोलीलाई सम्पर्क गर्नुहोस्!
+billing-update-failed = अद्यावधिक असफल भयो, कृपया फेरि प्रयास गर्नुहोस्।
+cancel-plan-title = के तपाईं पक्का हुनुहुन्छ?
+cancel-plan-warning = तपाईंसँग ३ भन्दा बढी निजी रेखाचित्रहरू छन् भने, नि:शुल्क संस्करणमा तिनलाई सम्पादन गर्न सक्नुहुने छैन। तपाईंले <b>रेखाको मार्ग नियन्त्रण</b>, <b>अनुकूलन गर्न मिल्ने रेखा शैली</b> र अन्य सबै <a data-l10n-name="awesome">Awesome सुविधाहरू</a> पनि गुमाउनुहुनेछ!
+cancel-plan-back = पछाडि
+invoice-link = { $description } को बिल ({ DATETIME($date, dateStyle: "medium") })
+org-billing-next = तपाईंको अर्को बिल <b>{ DATETIME($date, dateStyle: "long") }</b> मा आउनेछ।
+org-billing-no-more = थप कुनै बिल तय गरिएको छैन!
+org-billing-members =
+    { $members ->
+        [one] तपाईंलाई { $members } जना संस्था सदस्यको शुल्क लाग्नेछ।
+       *[other] तपाईंलाई { $members } जना संस्था सदस्यहरूको शुल्क लाग्नेछ।
+    }
+org-billing-pending-invites =
+    { $invites ->
+        [one] (स्वीकार नगरिएको { $invites } वटा निम्तो पनि बाँकी छ।)
+       *[other] (स्वीकार नगरिएका { $invites } वटा निम्तोहरू पनि बाँकी छन्।)
+    }
+org-billing-overdue-complete = तपाईंको संस्थाको एउटा भुक्तानी म्याद नाघेको छ। संस्था प्रयोग गरिरहन तपाईंले बाँकी भुक्तानी <a data-l10n-name="invoice-link">हेरेर पूरा गर्नुपर्छ</a>, वा बिलिङ विवरण अद्यावधिक गर्नुपर्छ।
+org-billing-setup-incomplete = बिलिङ दर्ता पूरा नभएकाले तपाईंको संस्था सक्रिय छैन। संस्था सक्रिय गर्न कृपया बिलिङ जानकारी दिनुहोस्।
+org-billing-setup-button = बिलिङ विवरण सेट गर्नुहोस्
+org-billing-customer-failed = ग्राहक विवरण लोड गर्न सकिएन।
+org-billing-invoices-failed = बिलहरू लोड गर्न सकिएन।
+org-billing-payment-link-failed = भुक्तानी लिङ्क लोड गर्न सकिएन! कृपया फेरि प्रयास गर्नुहोस्।
+org-billing-overdue = तपाईंको Coggle संस्थाको भुक्तानी म्याद नाघेको छ। कृपया बिलिङ विवरण अद्यावधिक गर्नुहोस्!
+org-billing-checkout-failed = संस्थाको भुक्तानी प्रक्रिया बनाउन सकिएन।
+org-close-title = खतरा क्षेत्र
+org-close-p1 = यो संस्था बन्द गर्नुहोस् र बिलिङ रोक्नुहोस् - <b>तपाईंको संस्थाका Coggle हरूमा पहुँच रहने छैन</b>!
+org-close-p2 = यो प्रक्रिया <b>फिर्ता गर्न सकिँदैन</b> र तुरुन्तै लागू हुन्छ, त्यसैले सावधानीपूर्वक प्रयोग गर्नुहोस्।
+org-close-delete = मेटाउनुहोस्
+org-close-name =
+    .placeholder = संस्थाको नाम टाइप गर्नुहोस्
+org-close-failed = संस्था बन्द गर्न सकिएन, कृपया पृष्ठ रिलोड गरेर फेरि प्रयास गर्नुहोस्।
+org-close-name-mismatch = नाम मेल खाएन।
 
 me-communication-title = सञ्चार
 me-emails-title = इमेल ठेगानाहरू

@@ -321,6 +321,42 @@ summary-confirm = 変更を確定
 summary-ending-2 = <code>{$planName}</code> サブスクリプションを解約しました。今後請求されることはありません。お支払い済みの期間が終わるまで、有料機能を引き続きご利用いただけます。<br> <a data-l10n-name='resub'>再登録する</a>
 summary-overdue-plan = お支払いが滞っているため、サブスクリプションが無効になっています。カード情報を更新するか、<b>hello@coggle.it</b> までご連絡ください。
 complete-payment = 未払いのお支払いを<a data-l10n-name='invoice-link'>確認して完了する</a>か、<a data-l10n-name='cancel'>サブスクリプションを解約</a>できます。
+summary-overdue-plan3 = お支払いが滞っているため、<code>{ $planName }</code> サブスクリプションは無効になっています。
+billing-plans-load-failed = プランの読み込み中に問題が発生しました。もう一度お試しください。
+billing-resubscribe-failed = サブスクリプションの再開に失敗しました。もう一度お試しください。
+billing-upgrade-failed = アップグレードに失敗しました。もう一度お試しいただくか、サポートにお問い合わせください。
+billing-cancel-failed = サブスクリプションの解約中に問題が発生しました。もう一度お試しいただくか、Coggle サポートにお問い合わせください。
+billing-update-failed = 更新に失敗しました。もう一度お試しください。
+cancel-plan-title = 本当によろしいですか？
+cancel-plan-warning = 非公開ダイアグラムが 3 つを超える場合、無料版ではそれらを編集できなくなります。また、<b>線の経路の調整</b>や<b>線のスタイルのカスタマイズ</b>など、ほかの <a data-l10n-name="awesome">Awesome の機能</a>もすべて使えなくなります。
+cancel-plan-back = 戻る
+invoice-link = { $description } の請求書（{ DATETIME($date, dateStyle: "medium") }）
+org-billing-next = 次回の請求日は <b>{ DATETIME($date, dateStyle: "long") }</b> です。
+org-billing-no-more = 予定されている請求はもうありません。
+org-billing-members =
+    { $members ->
+       *[other] { $members } 人の組織メンバー分が請求されます。
+    }
+org-billing-pending-invites =
+    { $invites ->
+       *[other] （ほかに、まだ承諾されていない招待が { $invites } 件あります。）
+    }
+org-billing-overdue-complete = 組織のお支払いが期限を過ぎています。組織を引き続き使うには、未払いのお支払いを<a data-l10n-name="invoice-link">確認して完了する</a>か、請求先情報を更新してください。
+org-billing-setup-incomplete = 請求の登録が完了していないため、組織は有効になっていません。組織を有効にするには請求先情報を入力してください。
+org-billing-setup-button = 請求先情報を設定
+org-billing-customer-failed = 顧客情報を読み込めませんでした。
+org-billing-invoices-failed = 請求書を読み込めませんでした。
+org-billing-payment-link-failed = 支払いリンクを読み込めませんでした。もう一度お試しください。
+org-billing-overdue = Coggle 組織のお支払いが期限を過ぎています。請求先情報を更新してください。
+org-billing-checkout-failed = 組織の支払い手続きを作成できませんでした。
+org-close-title = 危険な操作
+org-close-p1 = この組織を閉じて請求を停止します。<b>組織が所有する Coggle にはアクセスできなくなります</b>。
+org-close-p2 = この操作は<b>元に戻せず</b>、すぐに反映されます。十分ご注意ください。
+org-close-delete = 削除
+org-close-name =
+    .placeholder = 組織名を入力してください
+org-close-failed = 組織を閉じられませんでした。ページを再読み込みしてもう一度お試しください。
+org-close-name-mismatch = 名前が一致しません。
 
 me-communication-title = 連絡設定
 me-emails-title = メールアドレス

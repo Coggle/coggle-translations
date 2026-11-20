@@ -324,6 +324,44 @@ summary-confirm = Upgrade bevestigen
 summary-ending-2 = Je hebt je <code>{$planName}</code>-abonnement opgezegd en er worden geen kosten meer in rekening gebracht. Je kunt de betaalde functies blijven gebruiken tot het einde van de periode waarvoor je al hebt betaald.<br> <a data-l10n-name='resub'>Opnieuw abonneren</a>
 summary-overdue-plan = Je abonnement is inactief vanwege een achterstallige betaling. Je kunt dit oplossen door je kaartgegevens bij te werken of contact met ons op te nemen via <b>hello@coggle.it</b>.
 complete-payment = Je kunt <a data-l10n-name='invoice-link'>de openstaande betaling bekijken en voltooien</a>, of <a data-l10n-name='cancel'>het abonnement opzeggen</a>.
+summary-overdue-plan3 = Je <code>{ $planName }</code>-abonnement is inactief vanwege een achterstallige betaling.
+billing-plans-load-failed = Er ging iets mis bij het laden van je abonnementen! Probeer het opnieuw.
+billing-resubscribe-failed = Opnieuw abonneren is mislukt – probeer het opnieuw!
+billing-upgrade-failed = Upgraden is mislukt – probeer het opnieuw of neem contact op met support!
+billing-cancel-failed = Er ging iets mis bij het opzeggen van je abonnement. Probeer het opnieuw of neem contact op met Coggle-support!
+billing-update-failed = Bijwerken is mislukt, probeer het opnieuw.
+cancel-plan-title = Weet je het zeker?
+cancel-plan-warning = Als je meer dan 3 privédiagrammen hebt, kun je ze met de gratis versie niet meer bewerken. Je mist ook <b>lijnpaden bepalen</b>, <b>aanpasbare lijnstijlen</b> en alle andere <a data-l10n-name="awesome">Awesome-functies</a>!
+cancel-plan-back = Terug
+invoice-link = Factuur voor { $description } op { DATETIME($date, dateStyle: "medium") }
+org-billing-next = Je volgende factuur komt op <b>{ DATETIME($date, dateStyle: "long") }</b>.
+org-billing-no-more = Er zijn geen facturen meer gepland!
+org-billing-members =
+    { $members ->
+        [one] Je betaalt voor { $members } lid van de organisatie.
+       *[other] Je betaalt voor { $members } leden van de organisatie.
+    }
+org-billing-pending-invites =
+    { $invites ->
+        [one] (Er is ook { $invites } openstaande uitnodiging die nog niet is geaccepteerd.)
+       *[other] (Er zijn ook { $invites } openstaande uitnodigingen die nog niet zijn geaccepteerd.)
+    }
+org-billing-overdue-complete = Een betaling voor je organisatie is achterstallig. Je moet de openstaande betaling <a data-l10n-name="invoice-link">bekijken en voltooien</a>, of je betaalgegevens bijwerken om je organisatie te blijven gebruiken.
+org-billing-setup-incomplete = Je organisatie is niet actief omdat de aanmelding voor facturering niet is voltooid. Vul je betaalgegevens in om je organisatie te activeren.
+org-billing-setup-button = Betaalgegevens instellen
+org-billing-customer-failed = Laden van klantgegevens mislukt.
+org-billing-invoices-failed = Laden van facturen mislukt.
+org-billing-payment-link-failed = Laden van de betaallink mislukt! Probeer het opnieuw.
+org-billing-overdue = De betaling voor je Coggle-organisatie is achterstallig. Werk je betaalgegevens bij!
+org-billing-checkout-failed = Afrekenen voor de organisatie kon niet worden gestart.
+org-close-title = Gevarenzone
+org-close-p1 = Deze organisatie sluiten en de facturering stoppen – <b>de Coggles van je organisatie worden dan ontoegankelijk</b>!
+org-close-p2 = Dit is <b>onomkeerbaar</b> en gaat direct in, dus wees voorzichtig.
+org-close-delete = VERWIJDEREN
+org-close-name =
+    .placeholder = Typ de naam van de organisatie
+org-close-failed = De organisatie kon niet worden gesloten. Herlaad de pagina en probeer het opnieuw.
+org-close-name-mismatch = De naam komt niet overeen.
 
 me-communication-title = Communicatie
 me-emails-title = E-mailadressen

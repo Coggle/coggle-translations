@@ -321,6 +321,42 @@ summary-confirm = 변경 확인
 summary-ending-2 = <code>{$planName}</code> 구독을 취소했으며 더 이상 청구되지 않습니다. 이미 결제한 기간이 끝날 때까지 유료 기능을 계속 사용할 수 있습니다.<br> <a data-l10n-name='resub'>다시 구독하기</a>
 summary-overdue-plan = 결제가 연체되어 구독이 비활성화되었습니다. 카드 정보를 업데이트하거나 <b>hello@coggle.it</b>으로 문의해 해결할 수 있습니다.
 complete-payment = 미결제 금액을 <a data-l10n-name='invoice-link'>확인하고 결제</a>하거나 <a data-l10n-name='cancel'>구독을 취소</a>할 수 있습니다.
+summary-overdue-plan3 = 결제가 연체되어 <code>{ $planName }</code> 구독이 비활성화되었습니다.
+billing-plans-load-failed = 요금제를 불러오는 중 문제가 발생했습니다! 다시 시도해 주세요.
+billing-resubscribe-failed = 구독을 다시 시작하지 못했습니다. 다시 시도해 주세요!
+billing-upgrade-failed = 업그레이드에 실패했습니다. 다시 시도하거나 지원팀에 문의해 주세요!
+billing-cancel-failed = 구독을 취소하는 중 문제가 발생했습니다. 다시 시도하거나 Coggle 지원팀에 문의해 주세요!
+billing-update-failed = 업데이트에 실패했습니다. 다시 시도해 주세요.
+cancel-plan-title = 정말 취소하시겠어요?
+cancel-plan-warning = 비공개 다이어그램이 3개를 넘으면 무료 버전에서는 편집할 수 없습니다. 또한 <b>선 경로 조정</b>, <b>선 스타일 사용자 지정</b> 등 다른 모든 <a data-l10n-name="awesome">Awesome 기능</a>도 사용할 수 없게 됩니다!
+cancel-plan-back = 뒤로
+invoice-link = { $description } 청구서 ({ DATETIME($date, dateStyle: "medium") })
+org-billing-next = 다음 청구일은 <b>{ DATETIME($date, dateStyle: "long") }</b>입니다.
+org-billing-no-more = 예정된 청구가 더 이상 없습니다!
+org-billing-members =
+    { $members ->
+       *[other] 조직 구성원 { $members }명에 대해 청구됩니다.
+    }
+org-billing-pending-invites =
+    { $invites ->
+       *[other] (아직 수락되지 않은 대기 중인 초대도 { $invites }건 있습니다.)
+    }
+org-billing-overdue-complete = 조직 결제가 연체되었습니다. 조직을 계속 사용하려면 미결제 금액을 <a data-l10n-name="invoice-link">확인하고 결제</a>하거나 결제 정보를 업데이트해야 합니다.
+org-billing-setup-incomplete = 결제 등록이 완료되지 않아 조직이 활성화되지 않았습니다. 조직을 활성화하려면 결제 정보를 입력해 주세요.
+org-billing-setup-button = 결제 정보 설정
+org-billing-customer-failed = 고객 정보를 불러오지 못했습니다.
+org-billing-invoices-failed = 청구서를 불러오지 못했습니다.
+org-billing-payment-link-failed = 결제 링크를 불러오지 못했습니다! 다시 시도해 주세요.
+org-billing-overdue = Coggle 조직 결제가 연체되었습니다. 결제 정보를 업데이트해 주세요!
+org-billing-checkout-failed = 조직 결제를 생성하지 못했습니다.
+org-close-title = 위험 구역
+org-close-p1 = 이 조직을 해지하고 청구를 중단합니다. <b>조직이 소유한 Coggle에 접근할 수 없게 됩니다</b>!
+org-close-p2 = 이 작업은 <b>되돌릴 수 없으며</b> 즉시 적용되니 주의하세요.
+org-close-delete = 삭제
+org-close-name =
+    .placeholder = 조직 이름을 입력하세요
+org-close-failed = 조직을 해지하지 못했습니다. 페이지를 새로고침하고 다시 시도해 주세요.
+org-close-name-mismatch = 이름이 일치하지 않습니다.
 
 me-communication-title = 커뮤니케이션
 me-emails-title = 이메일 주소

@@ -325,6 +325,50 @@ summary-confirm = Confirm Upgrade
 summary-ending-2 = You have cancelled your <code>{$planName}</code> subscription, and will not be billed again. You can continue to use the paid features until the end of the period you've already paid for.<br> <a data-l10n-name='resub'>Resubscribe</a>
 summary-overdue-plan = Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.
 complete-payment = You can <a data-l10n-name='invoice-link'>view and complete</a> the outstanding payment, or <a data-l10n-name='cancel'>cancel subscription</a>.
+summary-overdue-plan3 = Your <code>{ $planName }</code> subscription is inactive due to an overdue payment.
+billing-plans-load-failed = Something went wrong loading your plans! Please try again.
+billing-resubscribe-failed = Resubscribe failed - please try again!
+billing-upgrade-failed = Upgrade failed - please try again or contact support!
+billing-cancel-failed = Something went wrong while canceling your subscription, please try again or contact Coggle support!
+billing-update-failed = Update failed, please try again.
+
+# confirmation before cancelling a subscription
+cancel-plan-title = Are you sure?
+cancel-plan-warning = If you have more than 3 private diagrams, you won't be able to edit them while using the free version. You'll also miss out on <b>controlling line paths</b>, <b>customizable line styles</b>, and all the other <a data-l10n-name="awesome">Awesome features</a>!
+cancel-plan-back = Back
+
+# link to each invoice in the billing settings ($date is formatted for the locale)
+invoice-link = Invoice for { $description } on { DATETIME($date, dateStyle: "medium") }
+
+# Organization billing settings
+org-billing-next = Your next bill will be on <b>{ DATETIME($date, dateStyle: "long") }</b>.
+org-billing-no-more = No more bills are scheduled!
+org-billing-members =
+    { $members ->
+        [one] You will be billed for { $members } Organization member.
+       *[other] You will be billed for { $members } Organization members.
+    }
+org-billing-pending-invites =
+    { $invites ->
+        [one] (There is also { $invites } pending invite which has not been accepted yet.)
+       *[other] (There are also { $invites } pending invites which have not been accepted yet.)
+    }
+org-billing-overdue-complete = A payment for your Organization is past due. You must <a data-l10n-name="invoice-link">view and complete</a> the outstanding payment, or update your billing details to continue using your Organization.
+org-billing-setup-incomplete = Your Organization is not active because billing signup has not been completed. Please provide billing information to activate your Organization.
+org-billing-setup-button = Set Up Billing Details
+org-billing-customer-failed = Loading customer failed.
+org-billing-invoices-failed = Failed to load invoices.
+org-billing-payment-link-failed = Failed to load payment link! Please try again.
+org-billing-overdue = Your Coggle Organization payment is overdue. Please update your billing details!
+org-billing-checkout-failed = Creating organization checkout failed.
+org-close-title = Danger zone
+org-close-p1 = Close this organization and stop billing - <b>this will make Coggles your organization owns inaccessible</b>!
+org-close-p2 = This process is <b>irreversible</b> and will take effect immediately so use with caution.
+org-close-delete = DELETE
+org-close-name =
+    .placeholder = Type the organization name
+org-close-failed = Failed to close Organization, please reload and try again.
+org-close-name-mismatch = Name does not match.
 
 me-communication-title = Communication
 me-emails-title = Email Addresses

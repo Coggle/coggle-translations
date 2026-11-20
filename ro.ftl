@@ -324,6 +324,46 @@ summary-confirm = Confirmă Upgrade-ul
 summary-ending-2 = Ai anulat abonamentul tău <code>{$planName}</code>, nu vei mai fi facturat(ă). Poți folosi în continuare funcționalitățile plătite până la finalul perioadei pentru care ai plătit deja.<br> <a data-l10n-name='resub'>Reabonează-te</a>
 summary-overdue-plan = Abonamentul tău este inactiv din cauza unei plăți restante. Poți rezolva asta actualizând cardul tău sau contactându-ne la adresa <b>hello@coggle.it</b>.
 complete-payment = Poți <a data-l10n-name='invoice-link'>vedea și efectua</a> plata restantă, sau poți <a data-l10n-name='cancel'>anula abonamentul</a>.
+summary-overdue-plan3 = Abonamentul tău <code>{ $planName }</code> este inactiv din cauza unei plăți restante.
+billing-plans-load-failed = Ceva nu a mers bine la încărcarea planurilor tale! Te rugăm să încerci din nou.
+billing-resubscribe-failed = Reabonarea a eșuat – te rugăm să încerci din nou!
+billing-upgrade-failed = Upgrade-ul a eșuat – te rugăm să încerci din nou sau să contactezi asistența!
+billing-cancel-failed = Ceva nu a mers bine la anularea abonamentului. Te rugăm să încerci din nou sau să contactezi asistența Coggle!
+billing-update-failed = Actualizarea a eșuat, te rugăm să încerci din nou.
+cancel-plan-title = Ești sigur(ă)?
+cancel-plan-warning = Dacă ai mai mult de 3 diagrame private, nu le vei mai putea edita în versiunea gratuită. Vei pierde și <b>controlul traseului liniilor</b>, <b>stilurile de linie personalizabile</b> și toate celelalte <a data-l10n-name="awesome">funcționalități Awesome</a>!
+cancel-plan-back = Înapoi
+invoice-link = Factura pentru { $description } din { DATETIME($date, dateStyle: "medium") }
+org-billing-next = Următoarea factură va fi pe <b>{ DATETIME($date, dateStyle: "long") }</b>.
+org-billing-no-more = Nu mai sunt facturi programate!
+org-billing-members =
+    { $members ->
+        [one] Vei fi facturat pentru { $members } membru al organizației.
+        [few] Vei fi facturat pentru { $members } membri ai organizației.
+       *[other] Vei fi facturat pentru { $members } de membri ai organizației.
+    }
+org-billing-pending-invites =
+    { $invites ->
+        [one] (Mai există { $invites } invitație în așteptare care nu a fost încă acceptată.)
+        [few] (Mai există { $invites } invitații în așteptare care nu au fost încă acceptate.)
+       *[other] (Mai există { $invites } de invitații în așteptare care nu au fost încă acceptate.)
+    }
+org-billing-overdue-complete = O plată pentru organizația ta este restantă. Trebuie să <a data-l10n-name="invoice-link">vezi și să efectuezi</a> plata restantă, sau să îți actualizezi datele de facturare pentru a folosi în continuare organizația.
+org-billing-setup-incomplete = Organizația ta nu este activă pentru că înregistrarea pentru facturare nu a fost finalizată. Te rugăm să furnizezi datele de facturare pentru a o activa.
+org-billing-setup-button = Configurează datele de facturare
+org-billing-customer-failed = Încărcarea datelor clientului a eșuat.
+org-billing-invoices-failed = Încărcarea facturilor a eșuat.
+org-billing-payment-link-failed = Încărcarea linkului de plată a eșuat! Te rugăm să încerci din nou.
+org-billing-overdue = Plata pentru organizația ta Coggle este restantă. Te rugăm să îți actualizezi datele de facturare!
+org-billing-checkout-failed = Crearea plății pentru organizație a eșuat.
+org-close-title = Zonă periculoasă
+org-close-p1 = Închide această organizație și oprește facturarea – <b>Coggle-urile deținute de organizația ta vor deveni inaccesibile</b>!
+org-close-p2 = Acest proces este <b>ireversibil</b> și intră în vigoare imediat, așa că folosește-l cu grijă.
+org-close-delete = ȘTERGE
+org-close-name =
+    .placeholder = Scrie numele organizației
+org-close-failed = Organizația nu a putut fi închisă. Reîncarcă pagina și încearcă din nou.
+org-close-name-mismatch = Numele nu se potrivește.
 
 me-communication-title = Comunicare
 me-emails-title = Adrese de E-mail

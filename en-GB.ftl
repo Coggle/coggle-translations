@@ -33,6 +33,21 @@ help-createfolder = Create folders to share with groups of people, or categorise
 help-orgs-switch-title = Switch Between Organisations
 help-orgs-switch-p1 = Click to switch between Organisations.
 help-orgs-switch-p2 = Organisations let you control sharing of Coggles and work with larger teams.
+billing-cancel-failed = Something went wrong while cancelling your subscription, please try again or contact Coggle support!
+cancel-plan-warning = If you have more than 3 private diagrams, you won't be able to edit them while using the free version. You'll also miss out on <b>controlling line paths</b>, <b>customisable line styles</b>, and all the other <a data-l10n-name="awesome">Awesome features</a>!
+org-billing-members =
+    { $members ->
+        [one] You will be billed for { $members } Organisation member.
+       *[other] You will be billed for { $members } Organisation members.
+    }
+org-billing-overdue-complete = A payment for your Organisation is past due. You must <a data-l10n-name="invoice-link">view and complete</a> the outstanding payment, or update your billing details to continue using your Organisation.
+org-billing-setup-incomplete = Your Organisation is not active because billing signup has not been completed. Please provide billing information to activate your Organisation.
+org-billing-overdue = Your Coggle Organisation payment is overdue. Please update your billing details!
+org-billing-checkout-failed = Creating organisation checkout failed.
+org-close-p1 = Close this organisation and stop billing - <b>this will make Coggles your organisation owns inaccessible</b>!
+org-close-name =
+    .placeholder = Type the organisation name
+org-close-failed = Failed to close Organisation, please reload and try again.
 
 pick-colour = pick colour
 help-title-p1 = This is the centre of your diagram, and its title. Your ideas will branch out from here!

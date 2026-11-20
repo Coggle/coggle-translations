@@ -321,6 +321,42 @@ summary-confirm = 确认变更
 summary-ending-2 = 你已取消 <code>{$planName}</code> 订阅，之后不会再扣费。在已付费的期限结束前，你仍可继续使用付费功能。<br> <a data-l10n-name='resub'>重新订阅</a>
 summary-overdue-plan = 由于付款逾期，你的订阅已停用。你可以更新银行卡信息，或发送邮件至 <b>hello@coggle.it</b> 联系我们解决。
 complete-payment = 你可以<a data-l10n-name='invoice-link'>查看并完成</a>未付款项，或<a data-l10n-name='cancel'>取消订阅</a>。
+summary-overdue-plan3 = 由于付款逾期，你的 <code>{ $planName }</code> 订阅已停用。
+billing-plans-load-failed = 加载方案时出现问题！请重试。
+billing-resubscribe-failed = 重新订阅失败，请重试！
+billing-upgrade-failed = 升级失败，请重试或联系客服！
+billing-cancel-failed = 取消订阅时出现问题，请重试或联系 Coggle 客服！
+billing-update-failed = 更新失败，请重试。
+cancel-plan-title = 确定要取消吗？
+cancel-plan-warning = 如果你有超过 3 个私有图表，在免费版中将无法编辑它们。你还会失去<b>调整线条路径</b>、<b>自定义线条样式</b>，以及其他所有 <a data-l10n-name="awesome">Awesome 功能</a>！
+cancel-plan-back = 返回
+invoice-link = { $description } 的发票（{ DATETIME($date, dateStyle: "medium") }）
+org-billing-next = 你的下一次账单日期为 <b>{ DATETIME($date, dateStyle: "long") }</b>。
+org-billing-no-more = 已没有计划中的账单！
+org-billing-members =
+    { $members ->
+       *[other] 你将为 { $members } 位组织成员付费。
+    }
+org-billing-pending-invites =
+    { $invites ->
+       *[other] （另有 { $invites } 个尚未接受的待处理邀请。）
+    }
+org-billing-overdue-complete = 你的组织有一笔付款已逾期。你必须<a data-l10n-name="invoice-link">查看并完成</a>未付款项，或更新账单信息，才能继续使用你的组织。
+org-billing-setup-incomplete = 由于账单设置尚未完成，你的组织目前未启用。请提供账单信息以启用组织。
+org-billing-setup-button = 设置账单信息
+org-billing-customer-failed = 无法加载客户信息。
+org-billing-invoices-failed = 无法加载发票。
+org-billing-payment-link-failed = 无法加载付款链接！请重试。
+org-billing-overdue = 你的 Coggle 组织付款已逾期，请更新账单信息！
+org-billing-checkout-failed = 无法创建组织的结账流程。
+org-close-title = 危险区域
+org-close-p1 = 关闭这个组织并停止计费 - <b>组织拥有的 Coggle 将无法访问</b>！
+org-close-p2 = 此操作<b>无法撤销</b>，并会立即生效，请谨慎操作。
+org-close-delete = 删除
+org-close-name =
+    .placeholder = 输入组织名称
+org-close-failed = 无法关闭组织，请刷新页面后重试。
+org-close-name-mismatch = 名称不匹配。
 
 me-communication-title = 通知
 me-emails-title = 邮箱地址
