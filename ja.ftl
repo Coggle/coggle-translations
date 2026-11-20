@@ -363,7 +363,7 @@ help-title-title = ダイアグラムのタイトル
 help-title-p1 = これはダイアグラムの中心であり、そのタイトルです。ここからアイデアが広がります！
 help-title-p2 = まずはタイトルを編集しましょう - あなたのダイアグラムは何についてですか？
 help-gohome = Coggleのロゴをクリックしてホームページに戻ります。ドキュメントは自動的に保存されます。
-help-add-node = <div data-l10n-name='plus'>+</div> ボタンを使用してブランチを追加します。
+help-add-node-2 = アイテムの横にマウスを合わせ、<div data-l10n-name='plus'>+</div> ボタンをクリックしてブランチを追加します。
 help-edit-node-p1 = 任意のアイテムをクリックしてテキストを編集します。
 help-edit-node-p2 = 編集エリアの角をドラッグしてテキストのサイズを変更します。
 help-move-node = テキストをドラッグして移動します。

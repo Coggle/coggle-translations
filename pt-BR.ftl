@@ -412,7 +412,7 @@ help-title-title = O título do diagrama
 help-title-p1 = Este é o centro do seu diagrama e o seu título. Suas ideias vão se ramificar a partir daqui!
 help-title-p2 = Comece escolhendo um título — sobre o que é o seu diagrama?
 help-gohome-2 = Quando terminar de editar, clique no logotipo para voltar à página inicial. Seus documentos são salvos automaticamente.
-help-add-node = Use os botões <div data-l10n-name='plus'>+</div> para adicionar ramificações.
+help-add-node-2 = Passe o mouse ao lado de um item e clique em um botão <div data-l10n-name='plus'>+</div> para adicionar uma ramificação.
 help-edit-node-p1 = Clique em qualquer item para editar o texto.
 help-edit-node-p2 = Altere o tamanho do texto arrastando o canto da área de edição.
 help-move-node = Arraste qualquer texto para movê-lo.

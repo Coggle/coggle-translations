@@ -413,7 +413,7 @@ help-title-title = Il titolo del diagramma
 help-title-p1 = Questo è il centro del tuo diagramma, e il suo titolo. Le tue idee si dirameranno da qui!
 help-title-p2 = Inizia modificandolo: di cosa parla il tuo diagramma?
 help-gohome-2 = Quando hai finito, fai clic sul logo per tornare alla home page. I tuoi documenti vengono salvati automaticamente.
-help-add-node = Usa i pulsanti <div data-l10n-name='plus'>+</div> per aggiungere rami.
+help-add-node-2 = Passa il mouse accanto a un elemento e fai clic su un pulsante <div data-l10n-name='plus'>+</div> per aggiungere un ramo.
 help-edit-node-p1 = Fai clic su un elemento per modificarne il testo.
 help-edit-node-p2 = Cambia la dimensione del testo trascinando l'angolo dell'area di modifica.
 help-move-node = Trascina un testo qualsiasi per spostarlo.

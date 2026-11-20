@@ -361,7 +361,7 @@ help-title-title = 다이어그램 제목
 help-title-p1 = 이는 다이어그램의 중심이며, 그 제목입니다. 여기에서 아이디어가 확장됩니다!
 help-title-p2 = 먼저 제목을 편집해 보세요 - 당신의 다이어그램은 무엇에 대한 것인가요?
 help-gohome = Coggle 로고를 클릭하여 홈페이지로 돌아갑니다. 문서는 자동으로 저장됩니다.
-help-add-node = <div data-l10n-name='plus'>+</div> 버튼을 사용하여 브랜치를 추가합니다.
+help-add-node-2 = 아이템 옆에 마우스를 올린 후 <div data-l10n-name='plus'>+</div> 버튼을 클릭하여 브랜치를 추가합니다.
 help-edit-node-p1 = 원하는 아이템을 클릭하여 텍스트를 편집합니다.
 help-edit-node-p2 = 편집 영역의 모서리를 드래그하여 텍스트 크기를 조정합니다.
 help-move-node = 텍스트를 드래그하여 이동합니다.

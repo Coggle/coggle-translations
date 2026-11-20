@@ -377,7 +377,7 @@ help-title-title = El título del diagrama.
 help-title-p1 = Este es el centro de tu diagrama, y su título. ¡Tus ideas se ramificarán a partir de aquí!
 help-title-p2 = Empieza por editarlo - ¿De qué trata tu diagrama?
 help-gohome = Pincha en el logo de Coggle para volver a la página de inicio donde todos tus documentos se guardan automáticamente.
-help-add-node = Usa el botón <div data-l10n-name='plus'>+</div> para añadir ramas.
+help-add-node-2 = Pasa el ratón junto a un elemento y haz clic en un botón <div data-l10n-name='plus'>+</div> para añadir una rama.
 help-edit-node-p1 = Pincha en cualquier ítem para accede al menú.
 help-edit-node-p2 = Cambia el tamaño del texto arrastrando la esquina del área de edición.
 help-move-node = Arrastra cualquier texto para moverlo.

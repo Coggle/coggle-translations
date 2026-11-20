@@ -413,7 +413,7 @@ help-title-title = De Diagramtitel
 help-title-p1 = Dit is het midden van je diagram en de titel ervan. Je ideeën zullen zich vanaf hier vertakken!
 help-title-p2 = Begin met het bewerken ervan - waar gaat uw diagram over?
 help-gohome-2 = Als u klaar bent met bewerken, klikt u op het logo om terug te gaan naar de startpagina. Uw documenten worden automatisch opgeslagen.
-help-add-node = Gebruik de knoppen <div data-l10n-name='plus'>+</div> om takken toe te voegen.
+help-add-node-2 = Beweeg de muis naast een item en klik op een <div data-l10n-name='plus'>+</div>-knop om een tak toe te voegen.
 help-edit-node-p1 = Klik op een willekeurig item om de tekst te bewerken.
 help-edit-node-p2 = Wijzig de tekstgrootte door de hoek van het bewerkingsgebied te verslepen.
 help-move-node = Versleep tekst om deze te verplaatsen.

@@ -363,7 +363,7 @@ help-title-title = 圖表標題。
 help-title-p1 = 這是圖表的中心及其標題。您的想法將從這裡擴展出來！
 help-title-p2 = 從編輯它開始 - 你的圖表是關於什麼的？
 help-gohome = 點擊Coggle標誌回到主頁，在這裡你的文件會自動保存.
-help-add-node = 使用<div data-l10n-name='plus'>+</div>按鈕來添加分支.
+help-add-node-2 = 將滑鼠移到項目旁，再點擊 <div data-l10n-name='plus'>+</div> 按鈕來新增分支。
 help-edit-node-p1 = 點擊任何項目編輯文字.
 help-edit-node-p2 = 通過拖曳編輯區的角落更改文字大小.
 help-move-node = 拖曳任何文字來移動它.

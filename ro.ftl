@@ -377,7 +377,7 @@ help-title-title = Titlul Diagramei
 help-title-p1 = Acesta este centrul diagramei tale, și titlul său. Ideile tale se vor ramifica de aici!
 help-title-p2 = Începe prin a-l edita - despre ce este diagrama ta?
 help-gohome-2 = Când ai terminat eidtarea, dă clic pe logo pentru a te întoarce pe pagina principală. Documentele tale sunt salvate automat.
-help-add-node = Folosește butoanele <div data-l10n-name='plus'>+</div> pentru a adăuga ramuri.
+help-add-node-2 = Treci cu mouse-ul pe lângă un element și dă clic pe un buton <div data-l10n-name='plus'>+</div> pentru a adăuga o ramură.
 help-edit-node-p1 = Dă clic pe orice element pentru a edita textul.
 help-edit-node-p2 = Schimbă dimensiunea textului glisând colțul zonei de editare.
 help-move-node = Trage orice text pentru a-l muta.

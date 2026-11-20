@@ -361,7 +361,7 @@ help-title-title = Tên sơ đồ
 help-title-p1 = Đây là trung tâm của sơ đồ và tiêu đề của nó. Các ý tưởng của bạn sẽ phân nhánh từ đây!
 help-title-p2 = Bắt đầu bằng cách chỉnh sửa nó - sơ đồ của bạn nói về cái gì?
 help-gohome = Nhấp vào logo của Coggle để quay về trang chủ, nơi tài liệu của bạn được tự động lưu trữ.
-help-add-node = Sử dụng nút <div data-l10n-name='plus'>+</div> để tạo nhánh.
+help-add-node-2 = Di chuột cạnh một khối và nhấp vào nút <div data-l10n-name='plus'>+</div> để thêm nhánh.
 help-edit-node-p1 = Nhấp vào bất kỳ khối nào để chỉnh sửa văn bản.
 help-edit-node-p2 = Thay đổi kích thước văn bản bằng cách kéo vào góc dưới của khối.
 help-move-node = Kéo bất kỳ văn bản nào để dịch chuyển nó.

@@ -413,7 +413,7 @@ help-title-title = The Diagram Title
 help-title-p1 = This is the center of your diagram, and its title. Your ideas will branch out from here!
 help-title-p2 = Start by editing it - what is your diagram about?
 help-gohome-2 = When you have finished editing, click the logo to go back to the homepage. Your documents are automatically saved.
-help-add-node = Use the <div data-l10n-name='plus'>+</div> buttons to add branches.
+help-add-node-2 = Hover next to an item and click a <div data-l10n-name='plus'>+</div> button to add a branch.
 help-edit-node-p1 = Click any item to edit the text.
 help-edit-node-p2 = Change the text size by dragging the corner of the editing area.
 help-move-node = Drag any text to move it.
