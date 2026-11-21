@@ -103,7 +103,7 @@ plans-free-getstarted = 免費使用
 
 plans-awesome-title = Awesome
 plans-awesome-description = 適合<b>個人</b>或<b>專業</b>用途，提供隱私保護與進階功能。
-plans-awesome-price = $5 / 月
+plans-awesome-price = US$5 / 月
 feature-include-free = <b>Free</b> 方案的所有功能
 feature-unlimited-private = <b>無限制</b>私人圖表
 feature-shapes = <b>更多項目形狀</b>
@@ -124,7 +124,7 @@ plans-findoutmore = 了解更多
 
 plans-org-title = Organization
 plans-org-description = 適合想要控管資料存取權並統一帳單的<b>團隊</b>。
-plans-org-price = $8 / 成員 / 月
+plans-org-price = US$8 / 成員 / 月
 feature-org-awesome = <b>Awesome</b> 方案的所有功能
 feature-org-separate = 獨立的個人工作區
 feature-org-billing = 統一帳單
@@ -137,11 +137,11 @@ plans-select = 選擇
 continue-free = 繼續使用 <b>Free</b> 方案
 current-plan = 你目前的方案
 cancel-subscription = 取消訂閱
-awesome-signup-monthly = 註冊，每月 <span>$5</span>
-awesome-signup-yearly = 註冊，每年 <span>$50</span>
-awesome-upgrade-monthly = 升級（<b>$5</b>/月）
-awesome-upgrade-yearly = 升級（<b>$50</b>/年）
-yearly-discount = 按年付款可省 $10
+awesome-signup-monthly = 註冊，每月 <span>US$5</span>
+awesome-signup-yearly = 註冊，每年 <span>US$50</span>
+awesome-upgrade-monthly = 升級（<b>US$5</b>/月）
+awesome-upgrade-yearly = 升級（<b>US$50</b>/年）
+yearly-discount = 按年付款可省 US$10
 switch-yearly = 改為年繳
 manage-subscription = 管理訂閱
 
@@ -154,6 +154,7 @@ awesome-feature = Awesome 方案
 org-feature = Organization 功能
 plans-close =
     .title = 關閉
+plans-currency = US$
 plan-gotquestions = 對升級有疑問嗎？ <a data-l10n-name="faqs">查看常見問題</a>
 plan-alloptions = 方案彈性調整。<br><br>需要更多資訊，或適合整個團隊的方案嗎？ <a data-l10n-name="plans">查看所有方案</a>
 plans-already-in-org = 你已經是<a data-l10n-name="org">{ $orgName } 組織</a>的成員。
@@ -316,9 +317,9 @@ billing-nocard = 你的帳號尚未儲存任何付款方式。<a data-l10n-name=
 summary-subscription = 訂閱
 summary-free-plan = 你尚未訂閱。<a data-l10n-name="subscribe">立即升級！</a>
 summary-active-plan = 你目前使用 <code>{ $planName }</code> 方案。<a data-l10n-name="cancel">取消訂閱</a>或<a data-l10n-name="compare">比較方案</a>。
-summary-uy-1 = 按年付款可免費多得兩個月（<b>省下 15%</b>）。<a data-l10n-name="upgrade">改為年繳（<b>$50</b>）</a>
+summary-uy-1 = 按年付款可免費多得兩個月（<b>省下 15%</b>）。<a data-l10n-name="upgrade">改為年繳（<b>US$50</b>）</a>
 summary-uy-2 = 目前方案的剩餘時間會自動從變更費用中扣除。
-summary-uy-c1 = 確定要變更嗎？我們會依你月繳方案的剩餘時間，從你登記的卡片扣款 $45 至 $50。新的訂閱將在一年後續訂。
+summary-uy-c1 = 確定要變更嗎？我們會依你月繳方案的剩餘時間，從你登記的卡片扣款 US$45 至 US$50。新的訂閱將在一年後續訂。
 summary-confirm = 確認變更
 summary-ending-2 = 你已取消 <code>{$planName}</code> 訂閱，之後不會再被收費。在已付費的期間結束前，你仍可繼續使用付費功能。<br> <a data-l10n-name='resub'>重新訂閱</a>
 summary-overdue-plan = 由於付款逾期，你的訂閱已停用。你可以更新卡片資料，或寫信到 <b>hello@coggle.it</b> 與我們聯絡來解決。
@@ -740,7 +741,7 @@ nodiagram-may-need-access = 如果有人給了你這張圖表的連結，對方�
 awesome-pitch-title = Coggle Awesome
 awesome-pitch = 用 Coggle Awesome 為你的思考加速。加入大尺寸圖片、用 Coggle 做簡報，並建立不會被搜尋引擎索引的私人 Coggle。
 awesome-signup = 立即註冊
-awesome-price = ${$monthlyPrice} / 月
+awesome-price = US${$monthlyPrice} / 月
 
 awesome-feature-cp-title = 調整線條路徑
 awesome-feature-cp = 利用分支路徑上的控制點，把連線精準放在你想要的位置。
@@ -846,7 +847,7 @@ orgs-pitch = 每個 Coggle Organization 都具備專為管理大型團體而設�
 orgs-signup = 建立組織
 
 orgs-subpitch-p1 = 當資訊對團隊至關重要時，你需要更強大的工具，以及對資料更多的掌控權。因此我們打造了 <a data-l10n-name="orglink">Coggle Organizations</a>。
-orgs-subpitch-p2 = 價格很簡單：<b>每位成員每月 $8</b>。<br><b>一切無上限</b>。
+orgs-subpitch-p2 = 價格很簡單：<b>每位成員每月 US$8</b>。<br><b>一切無上限</b>。
 
 
 orgs-feature-saml-sso-title = SAML 單一登入
@@ -914,7 +915,7 @@ faq-orgs-awesome-a =
       等所有強大功能。</p>
 
 faq-orgs-billing-q = Coggle Organizations 如何計費？
-faq-orgs-billing-a = Coggle Organizations 的費用為每位成員每月 ${$pricePerMemberPerMonth}。
+faq-orgs-billing-a = Coggle Organizations 的費用為每位成員每月 US${$pricePerMemberPerMonth}。
   你可以隨時從組織的管理面板新增或移除成員。
 
 faq-orgs-edu-q = 有教育優惠方案嗎？

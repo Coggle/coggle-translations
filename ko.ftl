@@ -154,6 +154,7 @@ awesome-feature = Awesome 요금제
 org-feature = Organization 기능
 plans-close =
     .title = 닫기
+plans-currency = $
 plan-gotquestions = 업그레이드에 대해 궁금한 점이 있으신가요? <a data-l10n-name="faqs">자주 묻는 질문 보기</a>
 plan-alloptions = 자유롭게 변경 가능.<br><br>더 자세한 내용이나 팀 전체를 위한 옵션이 필요하신가요? <a data-l10n-name="plans">모든 요금제 보기</a>
 plans-already-in-org = 이미 <a data-l10n-name="org">{ $orgName } 조직</a>의 구성원입니다.

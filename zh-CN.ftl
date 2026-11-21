@@ -154,6 +154,7 @@ awesome-feature = Awesome 方案
 org-feature = Organization 功能
 plans-close =
     .title = 关闭
+plans-currency = $
 plan-gotquestions = 对升级有疑问吗？ <a data-l10n-name="faqs">查看常见问题</a>
 plan-alloptions = 方案灵活调整。<br><br>需要更多信息，或适合整个团队的方案吗？ <a data-l10n-name="plans">查看所有方案</a>
 plans-already-in-org = 你已经是<a data-l10n-name="org">{ $orgName } 组织</a>的成员。

@@ -155,6 +155,7 @@ awesome-feature = Awesome योजना
 org-feature = Organization सुविधा
 plans-close =
     .title = बन्द गर्नुहोस्
+plans-currency = $
 plan-gotquestions = अपग्रेडबारे प्रश्नहरू छन्? <a data-l10n-name="faqs">बारम्बार सोधिने प्रश्नहरू हेर्नुहोस्</a>
 plan-alloptions = पूर्ण रूपमा लचिलो।<br><br>थप विवरण, वा सम्पूर्ण टोलीका लागि विकल्प चाहिन्छ? <a data-l10n-name="plans">सबै योजनाहरू हेर्नुहोस्</a>
 plans-already-in-org = तपाईं पहिले नै <a data-l10n-name="org">{ $orgName } संस्था</a>को सदस्य हुनुहुन्छ।

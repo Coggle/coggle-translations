@@ -155,6 +155,7 @@ awesome-feature = Piano Awesome
 org-feature = Funzionalità Organizzazione
 plans-close =
     .title = Chiudi
+plans-currency = $
 plan-gotquestions = Hai domande sull'upgrade? <a data-l10n-name="faqs">Leggi le FAQ</a>
 plan-alloptions = Totalmente flessibile.<br><br>Ti servono più dettagli, o un'opzione per tutto il tuo team? <a data-l10n-name="plans">Vedi tutti i piani</a>
 plans-already-in-org = Sei già membro dell'<a data-l10n-name="org">organizzazione { $orgName }.</a>

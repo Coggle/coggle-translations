@@ -154,6 +154,7 @@ awesome-feature = Gói Awesome
 org-feature = Tính năng Organization
 plans-close =
     .title = Đóng
+plans-currency = $
 plan-gotquestions = Bạn có câu hỏi về việc nâng cấp? <a data-l10n-name="faqs">Xem các câu hỏi thường gặp</a>
 plan-alloptions = Hoàn toàn linh hoạt.<br><br>Cần thêm thông tin, hoặc một lựa chọn cho cả nhóm? <a data-l10n-name="plans">Xem tất cả các gói</a>
 plans-already-in-org = Bạn đã là thành viên của <a data-l10n-name="org">tổ chức { $orgName }.</a>
