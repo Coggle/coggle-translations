@@ -155,6 +155,8 @@ awesome-feature = Awesome Plan
 org-feature = Organization Feature
 
 # upgrade page (/plans, and the upgrade dialog)
+plans-close =
+    .title = Close
 plan-gotquestions = Got Questions About Upgrading? <a data-l10n-name="faqs">Check out the FAQs</a>
 plan-alloptions = Fully flexible.<br><br>Need more details, or an option for your whole team? <a data-l10n-name="plans">View all plans</a>
 plans-already-in-org = You are already a member of the <a data-l10n-name="org">{ $orgName } Organization.</a>

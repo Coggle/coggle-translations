@@ -156,6 +156,8 @@ flexible = totalmente flexible
 
 awesome-feature = Plan Awesome
 org-feature = Función de Organización
+plans-close =
+    .title = Cerrar
 plan-gotquestions = ¿Tienes preguntas sobre la mejora? <a data-l10n-name="faqs">Consulta las preguntas frecuentes</a>
 plan-alloptions = Totalmente flexible.<br><br>¿Necesitas más detalles o una opción para todo tu equipo? <a data-l10n-name="plans">Ver todos los planes</a>
 plans-already-in-org = Ya eres miembro de la <a data-l10n-name="org">organización { $orgName }.</a>

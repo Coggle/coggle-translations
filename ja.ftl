@@ -152,6 +152,8 @@ flexible = 柔軟に変更可能
 
 awesome-feature = Awesome プラン
 org-feature = Organization の機能
+plans-close =
+    .title = 閉じる
 plan-gotquestions = アップグレードについてご質問がありますか？ <a data-l10n-name="faqs">よくある質問をご覧ください</a>
 plan-alloptions = いつでも変更可能。<br><br>詳しい情報や、チーム全体向けのプランをお探しですか？ <a data-l10n-name="plans">すべてのプランを見る</a>
 plans-already-in-org = すでに<a data-l10n-name="org">{ $orgName } 組織</a>のメンバーです。

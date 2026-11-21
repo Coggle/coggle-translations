@@ -154,6 +154,8 @@ flexible = поўная гнуткасць
 
 awesome-feature = План Awesome
 org-feature = Функцыя для арганізацый
+plans-close =
+    .title = Закрыць
 plan-gotquestions = Ёсць пытанні пра пераход на платны план? <a data-l10n-name="faqs">Паглядзіце адказы на частыя пытанні</a>
 plan-alloptions = Поўная гнуткасць.<br><br>Патрэбна больш падрабязнасцей або варыянт для ўсёй каманды? <a data-l10n-name="plans">Усе планы</a>
 plans-already-in-org = Вы ўжо ўдзельнік <a data-l10n-name="org">арганізацыі { $orgName }.</a>

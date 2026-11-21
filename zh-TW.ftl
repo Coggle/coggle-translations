@@ -152,6 +152,8 @@ flexible = 彈性調整
 
 awesome-feature = Awesome 方案
 org-feature = Organization 功能
+plans-close =
+    .title = 關閉
 plan-gotquestions = 對升級有疑問嗎？ <a data-l10n-name="faqs">查看常見問題</a>
 plan-alloptions = 方案彈性調整。<br><br>需要更多資訊，或適合整個團隊的方案嗎？ <a data-l10n-name="plans">查看所有方案</a>
 plans-already-in-org = 你已經是<a data-l10n-name="org">{ $orgName } 組織</a>的成員。
