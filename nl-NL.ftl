@@ -764,7 +764,7 @@ nodiagram-may-need-access = Als iemand je een link naar dit diagram heeft gegeve
 
 # Awesome startpagina (/awesome) 
 awesome-pitch-title = Coggle Awesome
-awesome-pitch = Geef je denkproces een boost met Coggle Awesome. Voeg grote afbeeldingen toe, presenteer je Coggles en maak privé-Coggles die niet door zoekmachines worden geïndexeerd.
+awesome-pitch = Geef je denkproces een boost met Coggle Awesome. Pas lijnstijlen aan, gebruik meer vormen en maak meer privé-Coggles die niet door zoekmachines worden geïndexeerd.
 awesome-signup = MELD JE NU AAN
 awesome-price = ${$monthlyPrice} / MAAND
 

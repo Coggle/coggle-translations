@@ -758,7 +758,7 @@ nodiagram-may-need-access = 如果有人给了你这个图表的链接，对方�
 
 # Awesome Landing Page (/awesome)
 awesome-pitch-title = Coggle Awesome
-awesome-pitch = 用 Coggle Awesome 为你的思考加速。添加大尺寸图片、用 Coggle 做演示，并创建不会被搜索引擎收录的私有 Coggle。
+awesome-pitch = 用 Coggle Awesome 为你的思考加速。调整线条样式、使用更多形状，并创建更多不会被搜索引擎收录的私有 Coggle。
 awesome-signup = 立即注册
 awesome-price = ${$monthlyPrice} / 月
 

@@ -758,7 +758,7 @@ nodiagram-may-need-access = 누군가 이 다이어그램 링크를 보냈다면
 
 # Awesome Landing Page (/awesome)
 awesome-pitch-title = Coggle Awesome
-awesome-pitch = Coggle Awesome으로 생각에 날개를 달아 보세요. 큰 이미지를 추가하고, Coggle로 프레젠테이션하고, 검색 엔진에 노출되지 않는 비공개 Coggle을 만들 수 있습니다.
+awesome-pitch = Coggle Awesome으로 생각에 날개를 달아 보세요. 선 스타일을 조정하고, 더 많은 모양을 사용하고, 검색 엔진에 노출되지 않는 비공개 Coggle을 더 많이 만들 수 있습니다.
 awesome-signup = 지금 가입하기
 awesome-price = ${$monthlyPrice} / 월
 

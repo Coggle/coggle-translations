@@ -758,7 +758,7 @@ nodiagram-may-need-access = このダイアグラムのリンクを受け取っ�
 
 # Awesome Landing Page (/awesome)
 awesome-pitch-title = Coggle Awesome
-awesome-pitch = Coggle Awesome で思考をパワーアップ。大きな画像を追加したり、Coggle をプレゼンしたり、検索エンジンにインデックスされない非公開の Coggle を作成したりできます。
+awesome-pitch = Coggle Awesome で思考をパワーアップ。線のスタイルを調整したり、より多くの形を使ったり、検索エンジンにインデックスされない非公開の Coggle をもっと作成したりできます。
 awesome-signup = 今すぐ登録
 awesome-price = ${$monthlyPrice} / 月
 

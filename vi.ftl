@@ -757,7 +757,7 @@ nodiagram-may-need-access = Nếu ai đó đã gửi cho bạn liên kết đế
 
 # Awesome Landing Page (/awesome)
 awesome-pitch-title = Coggle Awesome
-awesome-pitch = Tăng sức mạnh cho tư duy của bạn với Coggle Awesome. Thêm ảnh khổ lớn, trình chiếu các Coggle và tạo Coggle riêng tư không bị công cụ tìm kiếm lập chỉ mục.
+awesome-pitch = Tăng sức mạnh cho tư duy của bạn với Coggle Awesome. Tùy chỉnh kiểu đường, dùng thêm nhiều hình dạng và tạo thêm Coggle riêng tư không bị công cụ tìm kiếm lập chỉ mục.
 awesome-signup = ĐĂNG KÝ NGAY
 awesome-price = ${$monthlyPrice} / THÁNG
 

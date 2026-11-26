@@ -762,7 +762,7 @@ nodiagram-may-need-access = Si alguien te ha pasado un enlace a este diagrama, p
 
 # Awesome Landing Page (/awesome)
 awesome-pitch-title = Coggle Awesome
-awesome-pitch = Dale un impulso a tus ideas con Coggle Awesome. Añade imágenes enormes, presenta tus Coggles y crea Coggles privados que los buscadores no indexarán.
+awesome-pitch = Dale un impulso a tus ideas con Coggle Awesome. Controla el estilo de las líneas, usa más formas y crea más Coggles privados que los buscadores no indexarán.
 awesome-signup = REGÍSTRATE AHORA
 awesome-price = {$monthlyPrice} $ / MES
 
