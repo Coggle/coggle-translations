@@ -582,6 +582,11 @@ download-png = Спампаваць відарыс
 download-mm = .mm-файл
 download-txt = Звычайны тэкставы файл
 download-visio = Блок-схема Visio (.vsdx) 
+download-powerpoint = Слайды PowerPoint (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (працяг)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = Не ўдалося стварыць файл.
     .title = Націсніце для паўторнай спробы
 download-import-tip = <b>Хочаце нешта імпартаваць?</b> Перацягніце .mm або .txt-файл на дыяграму для імпартавання! <a data-l10n-name="import-link">Даведайцеся больш</a>.

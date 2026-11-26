@@ -578,6 +578,11 @@ download-png = छवि डाउनलोड गर्नुहोस्
 download-mm = .mm फाइल
 download-txt = सादा पाठ रूपरेखा
 download-visio = Visio फ्लोचार्ट (.vsdx)
+download-powerpoint = PowerPoint स्लाइडहरू (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (जारी)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = फाइल बनाउन सकिएन।
     .title = फेरि प्रयास गर्न क्लिक गर्नुहोस्
 download-import-tip = <b>आयात गर्न खोज्दै हुनुहुन्छ?</b> आयात गर्न .mm वा .txt फाइललाई रेखाचित्रमा तानेर छोड्नुहोस्! <a data-l10n-name="import-link">थप पढ्नुहोस्।</a>

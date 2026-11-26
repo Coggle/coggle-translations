@@ -580,6 +580,11 @@ download-png = Afbeelding downloaden
 download-mm = .mm-bestand
 download-txt = Overzicht in Platte Tekst
 download-visio = Visio-stroomdiagram (.vsdx) 
+download-powerpoint = PowerPoint-dia's (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (vervolg)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = Het genereren van het bestand is mislukt.
     .title = Klik om het opnieuw te proberen
 download-import-tip = <b>Op zoek naar importmogelijkheden? </b> Sleep een .mm- of .txt-bestand naar een diagram om het te importeren! <a data-l10n-name="import-link">Lees meer.</a>

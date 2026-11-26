@@ -581,6 +581,11 @@ download-png = Скачать изображение
 download-mm = .mm файл
 download-txt = Обычный текст
 download-visio = Блок-схема Visio (.vsdx)
+download-powerpoint = Слайды PowerPoint (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (продолжение)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = Не удалось создать файл.
     .title = Нажмите, чтобы повторить попытку
 download-import-tip = <b>Ищете импорт?</b> Перетащите файл .mm или .txt на диаграмму, чтобы импортировать его! <a data-l10n-name="import-link">Читать далее.</a>

@@ -575,6 +575,11 @@ download-png = 下載圖片
 download-mm = .mm 檔案
 download-txt = 純文字大綱
 download-visio = Visio 流程圖 (.vsdx)
+download-powerpoint = PowerPoint 投影片 (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (續)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = 檔案產生失敗。
     .title = 點選以重試
 download-import-tip = <b>想要匯入嗎？</b>將 .mm 或 .txt 檔案拖曳到圖表上即可匯入！<a data-l10n-name="import-link">了解更多。</a>

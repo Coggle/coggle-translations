@@ -579,6 +579,11 @@ download-png = Descarcă Imagine
 download-mm = Fișier .mm
 download-txt = Structură Text Simplu
 download-visio = Diagramă de flux Visio (.vsdx) 
+download-powerpoint = Diapozitive PowerPoint (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (continuare)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = Generarea fișierului a eșuat.
     .title = Dă clic pentru a reîncerca
 download-import-tip = <b>Cauți importuri?</b> Trage un fișier .mm sau .txt pe o diagramă pentru a-l importa! <a data-l10n-name="import-link">Citește mai mult.</a>

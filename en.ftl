@@ -589,6 +589,11 @@ download-png = Download Image
 download-mm = .mm File
 download-txt = Plain-Text Outline
 download-visio = Visio Flowchart (.vsdx) 
+download-powerpoint = PowerPoint Slides (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (continued)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = File generation failed.
     .title = Click to retry
 download-import-tip = <b>Looking for imports?</b> Drag a .mm or .txt file onto a diagram to import it! <a data-l10n-name="import-link">Read more.</a>

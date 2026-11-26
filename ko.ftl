@@ -575,6 +575,11 @@ download-png = 이미지 다운로드
 download-mm = .mm 파일
 download-txt = 일반 텍스트 개요
 download-visio = Visio 플로우차트 (.vsdx)
+download-powerpoint = PowerPoint 슬라이드 (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (계속)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = 파일을 생성하지 못했습니다.
     .title = 클릭해서 다시 시도
 download-import-tip = <b>가져오기를 찾으세요?</b> .mm 또는 .txt 파일을 다이어그램에 끌어다 놓으면 가져올 수 있습니다! <a data-l10n-name="import-link">자세히 알아보기</a>

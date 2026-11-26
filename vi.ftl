@@ -574,6 +574,11 @@ download-png = Tải hình ảnh
 download-mm = Tệp .mm
 download-txt = Dàn ý văn bản thuần
 download-visio = Lưu đồ Visio (.vsdx)
+download-powerpoint = Trang chiếu PowerPoint (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (tiếp theo)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = Không tạo được tệp.
     .title = Nhấp để thử lại
 download-import-tip = <b>Bạn muốn nhập dữ liệu?</b> Kéo tệp .mm hoặc .txt vào sơ đồ để nhập! <a data-l10n-name="import-link">Tìm hiểu thêm.</a>

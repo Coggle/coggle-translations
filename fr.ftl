@@ -582,6 +582,11 @@ download-png = Télécharger en image
 download-mm = Fichier .mm
 download-txt = Plan en texte brut
 download-visio = Organigramme Visio (.vsdx)
+download-powerpoint = Diapositives PowerPoint (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (suite)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = La génération de fichier a échoué.
     .title = Cliquez pour réessayer.
 download-import-tip = <b>Vous cherchez à importer ?</b> Faites glisser un fichier .mm ou .txt sur un diagramme pour l'importer ! <a data-l10n-name="import-link">En savoir plus.</a>

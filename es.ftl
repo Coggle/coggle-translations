@@ -578,6 +578,11 @@ download-png = Descargar imagen
 download-mm = Archivo .mm
 download-txt = Esquema en texto plano
 download-visio = Diagrama de flujo de Visio (.vsdx)
+download-powerpoint = Diapositivas de PowerPoint (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (continuación)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = No se ha podido generar el archivo.
     .title = Haz clic para volver a intentarlo
 download-import-tip = <b>¿Buscas cómo importar?</b> ¡Arrastra un archivo .mm o .txt a un diagrama para importarlo! <a data-l10n-name="import-link">Más información.</a>

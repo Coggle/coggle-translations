@@ -575,6 +575,11 @@ download-png = 画像をダウンロード
 download-mm = .mm ファイル
 download-txt = テキストのアウトライン
 download-visio = Visio フローチャート (.vsdx)
+download-powerpoint = PowerPoint スライド (.pptx)
+# PowerPoint export: added to a bullet repeated at the top of the next slide
+pptx-continued = (続き)
+# PowerPoint export: added to the title of a branch that is split over several slides
+pptx-page-of = ({ $page }/{ $pages })
 download-failed = ファイルを作成できませんでした。
     .title = クリックして再試行
 download-import-tip = <b>インポートをお探しですか？</b> .mm または .txt ファイルをダイアグラムにドラッグするとインポートできます！<a data-l10n-name="import-link">詳しくはこちら</a>
