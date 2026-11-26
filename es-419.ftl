@@ -17,6 +17,19 @@ index-signupnow = Regístrate ahora
 index-signinstart = Inicia sesión para empezar
 index-title = Coggle: mapas mentales sencillos, rápidos y potentes. ¡Hazlo con Coggle!
 
+index-description =
+    .content = Coggle es una herramienta de mapas mentales para entender cualquier cosa. Plan gratis para siempre con mapas mentales ilimitados de cualquier tamaño, colaboración en tiempo real y uso compartido.
+login-description =
+    .content = Inicia sesión en Coggle con Google, Microsoft, Apple, una llave de acceso o un código enviado a tu correo, sin contraseñas que recordar. ¿Es tu primera vez en Coggle? Registrarte es gratis.
+free-forever-description =
+    .content = Coggle es gratis para siempre: mapas mentales públicos ilimitados, tres privados y colaboración en tiempo real. Sin pruebas, sin límites de tiempo y sin tarjeta.
+awesome-description =
+    .content = Actualiza a Coggle Awesome: diagramas privados ilimitados, más formas de elementos, control del estilo y el trazado de las líneas, alineación del texto e imágenes en alta resolución.
+orgs-description =
+    .content = Con Coggle Organizaciones, los equipos tienen mapas mentales privados y compartidos, con inicio de sesión único SAML, control del uso compartido, administración de miembros y exportación masiva.
+about-description =
+    .content = Acerca de Coggle, la herramienta colaborativa de mapas mentales: nuestra misión, qué son los mapas mentales, para quién son y cómo contactarnos.
+
 index-nav-login = Iniciar sesión
 index-nav-pricing = Precios
 index-nav-features = Funciones

@@ -14,6 +14,19 @@ index-signupnow = Đăng ký ngay
 index-signinstart = Đăng nhập để bắt đầu
 index-title = Coggle - Sơ đồ tư duy đơn giản, nhanh và mạnh mẽ. Cứ dùng Coggle!
 
+index-description =
+    .content = Coggle là công cụ sơ đồ tư duy giúp bạn hiểu rõ mọi điều. Gói miễn phí mãi mãi: sơ đồ tư duy không giới hạn số lượng và kích thước, cộng tác thời gian thực và chia sẻ.
+login-description =
+    .content = Đăng nhập Coggle bằng Google, Microsoft, Apple, khóa truy cập hoặc mã gửi đến email của bạn, không cần nhớ mật khẩu. Mới dùng Coggle? Đăng ký hoàn toàn miễn phí.
+free-forever-description =
+    .content = Coggle miễn phí mãi mãi: sơ đồ tư duy công khai không giới hạn, ba sơ đồ riêng tư và cộng tác thời gian thực. Không dùng thử, không giới hạn thời gian, không cần thẻ.
+awesome-description =
+    .content = Nâng cấp lên Coggle Awesome để có sơ đồ riêng tư không giới hạn, thêm hình dạng khối, tùy chỉnh kiểu dáng và lộ trình của đường nối, căn chỉnh văn bản và tải lên ảnh độ phân giải cao.
+orgs-description =
+    .content = Coggle Organizations mang đến cho nhóm các sơ đồ tư duy riêng tư, dùng chung, cùng đăng nhập một lần SAML, kiểm soát chia sẻ, quản lý thành viên và xuất hàng loạt.
+about-description =
+    .content = Giới thiệu Coggle, công cụ sơ đồ tư duy cộng tác: sứ mệnh của chúng tôi, sơ đồ tư duy là gì, dành cho ai và cách liên hệ với chúng tôi.
+
 index-nav-login = Đăng nhập
 index-nav-pricing = Bảng giá
 index-nav-features = Tính năng

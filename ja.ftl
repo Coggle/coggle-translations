@@ -14,6 +14,19 @@ index-signupnow = 今すぐ登録
 index-signinstart = ログインしてはじめる
 index-title = Coggle - シンプル・高速・パワフルなマインドマップ。Coggle で始めよう！
 
+index-description =
+    .content = Coggle は、どんなことでもわかりやすく整理できるマインドマップツールです。ずっと無料のプランでも、マインドマップは数もサイズも無制限。リアルタイムの共同編集や共有もできます。
+login-description =
+    .content = Google、Microsoft、Apple、パスキー、またはメールで届くコードで Coggle にログインできます。覚えるパスワードは不要です。Coggle は初めてですか？登録は無料です。
+free-forever-description =
+    .content = Coggle はずっと無料です。公開マインドマップは無制限、非公開マインドマップは 3 つまで作成でき、リアルタイムの共同編集も使えます。お試し期間も時間制限もなく、カードの登録も不要です。
+awesome-description =
+    .content = Coggle Awesome にアップグレードすると、非公開ダイアグラムが無制限になり、アイテムの形の追加、線のスタイルと経路の調整、テキストの配置、高解像度画像のアップロードが使えます。
+orgs-description =
+    .content = Coggle Organizations なら、チームで非公開のマインドマップを共有できます。SAML シングルサインオン、共有の管理、メンバー管理、一括エクスポートに対応しています。
+about-description =
+    .content = 共同編集できるマインドマップツール Coggle について。私たちのミッション、マインドマップとは何か、誰に役立つのか、お問い合わせ方法をご紹介します。
+
 index-nav-login = ログイン
 index-nav-pricing = 料金
 index-nav-features = 機能

@@ -14,6 +14,19 @@ index-signupnow = 立即注册
 index-signinstart = 登录开始使用
 index-title = Coggle - 简单、快速、强大的思维导图。用 Coggle 就对了！
 
+index-description =
+    .content = Coggle 是一款思维导图工具，帮你理清任何事情。永久免费方案：无限数量、不限大小的思维导图，以及实时协作和分享。
+login-description =
+    .content = 使用 Google、Microsoft、Apple、通行密钥或发送到你邮箱的验证码登录 Coggle，无需记住密码。第一次使用 Coggle？注册完全免费。
+free-forever-description =
+    .content = Coggle 永久免费：无限公开思维导图、三个私有思维导图以及实时协作。没有试用期，没有时间限制，也无需绑定银行卡。
+awesome-description =
+    .content = 升级到 Coggle Awesome，即可获得无限私有图表、更多项目形状、线条样式和路径调整、文本对齐以及高分辨率图片上传。
+orgs-description =
+    .content = Coggle Organizations 为团队提供私有的共享思维导图，支持 SAML 单点登录、共享控制、成员管理和批量导出。
+about-description =
+    .content = 关于 Coggle 这款协作思维导图工具：我们的使命、什么是思维导图、思维导图适合谁，以及如何联系我们。
+
 index-nav-login = 登录
 index-nav-pricing = 价格
 index-nav-features = 功能

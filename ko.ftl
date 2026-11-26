@@ -14,6 +14,19 @@ index-signupnow = 지금 가입하기
 index-signinstart = 로그인하고 시작하기
 index-title = Coggle - 간단하고 빠르고 강력한 마인드맵. Coggle로 시작하세요!
 
+index-description =
+    .content = Coggle은 무엇이든 쉽게 이해하도록 돕는 마인드맵 도구입니다. 평생 무료 요금제로 크기 제한 없는 마인드맵을 무제한으로 만들고, 실시간으로 협업하고 공유하세요.
+login-description =
+    .content = Google, Microsoft, Apple, 패스키 또는 이메일로 받은 코드로 Coggle에 로그인하세요. 기억할 비밀번호가 없습니다. Coggle이 처음이신가요? 가입은 무료입니다.
+free-forever-description =
+    .content = Coggle은 평생 무료입니다. 공개 마인드맵은 무제한, 비공개 마인드맵은 3개까지 만들 수 있고 실시간 협업도 가능합니다. 체험 기간도, 시간 제한도, 카드 등록도 없습니다.
+awesome-description =
+    .content = Coggle Awesome으로 업그레이드하면 무제한 비공개 다이어그램, 더 많은 항목 모양, 선 스타일과 경로 조정, 텍스트 정렬, 고해상도 이미지 업로드를 사용할 수 있습니다.
+orgs-description =
+    .content = Coggle Organizations는 팀에 비공개 공유 마인드맵과 SAML 싱글 사인온, 공유 제어, 멤버 관리, 일괄 내보내기 기능을 제공합니다.
+about-description =
+    .content = 협업 마인드맵 도구 Coggle 소개: 우리의 미션, 마인드맵이란 무엇인지, 누구에게 유용한지, 그리고 문의 방법을 알려 드립니다.
+
 index-nav-login = 로그인
 index-nav-pricing = 요금제
 index-nav-features = 기능

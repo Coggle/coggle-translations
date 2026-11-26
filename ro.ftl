@@ -15,6 +15,19 @@ index-signinstart = Autentifică-te pentru a începe
 
 index-title = Coggle - Hărți Mentale Simple, Rapide și Puternice. Doar Coggle!
 
+index-description =
+    .content = Coggle este un instrument pentru hărți mentale care te ajută să înțelegi orice. Plan gratuit pentru totdeauna, cu hărți mentale nelimitate de orice dimensiune, colaborare în timp real și partajare.
+login-description =
+    .content = Autentifică-te în Coggle cu Google, Microsoft, Apple, o cheie de acces sau un cod primit pe e-mail, fără nicio parolă de ținut minte. Prima dată pe Coggle? Înregistrarea este gratuită.
+free-forever-description =
+    .content = Coggle este gratuit pentru totdeauna: hărți mentale publice nelimitate, trei private și colaborare în timp real. Fără perioade de probă, fără limite de timp și fără card.
+awesome-description =
+    .content = Treci la Coggle Awesome: diagrame private nelimitate, mai multe forme pentru obiecte, control asupra stilului și traseului liniilor, alinierea textului și imagini la rezoluție înaltă.
+orgs-description =
+    .content = Organizațiile Coggle oferă echipelor hărți mentale private și partajate, cu autentificare unică SAML, control asupra partajării, gestionarea membrilor și exportare în masă.
+about-description =
+    .content = Despre Coggle, instrumentul colaborativ pentru hărți mentale: misiunea noastră, ce sunt hărțile mentale, cui le sunt utile și cum ne poți contacta.
+
 index-nav-login = Autentificare
 index-nav-pricing = Prețuri
 index-nav-features = Funcționalități

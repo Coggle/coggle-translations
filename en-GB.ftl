@@ -17,6 +17,8 @@ feature-extendedcolours = More colours
 plans-org-title = Organisation
 
 org-feature = Organisation Feature
+orgs-description =
+    .content = Coggle Organisations give teams private, shared mind maps with SAML single sign-on, sharing controls, member management and bulk export.
 plans-already-in-org = You are already a member of the <a data-l10n-name="org">{ $orgName } Organisation.</a>
 plans-view-existing-org = View your Organisation
 plans-create-new-org = Create a new Organisation

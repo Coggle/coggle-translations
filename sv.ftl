@@ -14,6 +14,19 @@ index-signupnow = Registrera dig nu
 index-signinstart = Logga in för att komma igång
 index-title = Coggle – Enkla, snabba och kraftfulla tankekartor. Kör på med Coggle!
 
+index-description =
+    .content = Coggle är ett verktyg för tankekartor som hjälper dig att förstå vad som helst. En plan som är gratis för alltid, med obegränsat antal tankekartor i valfri storlek, samarbete i realtid och delning.
+login-description =
+    .content = Logga in på Coggle med Google, Microsoft, Apple, en nyckel (passkey) eller en kod som skickas till din e-post, utan lösenord att komma ihåg. Ny på Coggle? Det är gratis att registrera sig.
+free-forever-description =
+    .content = Coggle är gratis för alltid: obegränsat med offentliga tankekartor, tre privata och samarbete i realtid. Inga provperioder, inga tidsgränser och inget kort behövs.
+awesome-description =
+    .content = Uppgradera till Coggle Awesome för obegränsat med privata diagram, fler objektformer, kontroll över linjestil och linjebanor, textjustering och uppladdning av högupplösta bilder.
+orgs-description =
+    .content = Coggle-organisationer ger team privata, delade tankekartor med SAML-inloggning (SSO), kontroll över delning, medlemshantering och massexport.
+about-description =
+    .content = Om Coggle, verktyget för gemensamma tankekartor: vårt uppdrag, vad tankekartor är, vem de passar för och hur du kontaktar oss.
+
 index-nav-login = Logga in
 index-nav-pricing = Priser
 index-nav-features = Funktioner

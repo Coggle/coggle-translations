@@ -14,6 +14,19 @@ index-signupnow = Zarejestruj się teraz
 index-signinstart = Zaloguj się, aby zacząć
 index-title = Coggle – Proste, szybkie i potężne mapy myśli. Po prostu użyj Coggle!
 
+index-description =
+    .content = Coggle to narzędzie do map myśli, które pomaga zrozumieć wszystko. Plan darmowy na zawsze z nieograniczoną liczbą map myśli dowolnej wielkości, współpracą w czasie rzeczywistym i udostępnianiem.
+login-description =
+    .content = Zaloguj się do Coggle przez Google, Microsoft, Apple, klucz dostępu lub kod wysłany e-mailem – bez hasła do zapamiętania. Pierwszy raz w Coggle? Rejestracja jest bezpłatna.
+free-forever-description =
+    .content = Coggle jest darmowe na zawsze: nieograniczone publiczne mapy myśli, trzy prywatne i współpraca w czasie rzeczywistym. Bez okresów próbnych, bez limitów czasu i bez karty.
+awesome-description =
+    .content = Przejdź na Coggle Awesome: nieograniczone diagramy prywatne, więcej kształtów elementów, kontrola stylu i przebiegu linii, wyrównanie tekstu i obrazy w wysokiej rozdzielczości.
+orgs-description =
+    .content = Organizacje Coggle dają zespołom prywatne, wspólne mapy myśli z logowaniem jednokrotnym SAML, kontrolą udostępniania, zarządzaniem członkami i eksportem zbiorczym.
+about-description =
+    .content = O Coggle, narzędziu do wspólnego tworzenia map myśli: nasza misja, czym są mapy myśli, dla kogo są i jak się z nami skontaktować.
+
 index-nav-login = Zaloguj się
 index-nav-pricing = Cennik
 index-nav-features = Funkcje

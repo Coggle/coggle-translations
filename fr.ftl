@@ -14,6 +14,19 @@ index-signupnow = Inscrivez-vous maintenant
 index-signinstart = Connectez-vous pour commencer
 index-title = Coggle - Des cartes mentales simples, rapides et puissantes.
 
+index-description =
+    .content = Coggle, l'outil de cartes mentales pour y voir clair sur tout. Formule gratuite pour toujours : cartes mentales illimitées de toutes tailles, collaboration en temps réel et partage.
+login-description =
+    .content = Connectez-vous à Coggle avec Google, Microsoft, Apple, une clé d'accès ou un code reçu par e-mail, sans mot de passe à retenir. Nouveau sur Coggle ? L'inscription est gratuite.
+free-forever-description =
+    .content = Coggle est gratuit à vie : cartes mentales publiques illimitées, trois cartes privées et collaboration en temps réel. Pas d'essai, pas de limite de durée, aucune carte bancaire requise.
+awesome-description =
+    .content = Passez à Coggle Awesome pour des diagrammes privés illimités, plus de formes, le contrôle du style et du tracé des lignes, l'alignement du texte et le chargement d'images haute résolution.
+orgs-description =
+    .content = Les organisations Coggle offrent aux équipes des cartes mentales privées et partagées, avec authentification unique SAML, contrôle du partage, gestion des membres et exportation en masse.
+about-description =
+    .content = À propos de Coggle, l'outil collaboratif de cartes mentales : notre mission, ce qu'est une carte mentale, à qui elles s'adressent et comment nous contacter.
+
 index-nav-login = Connexion
 index-nav-pricing = Tarifs
 index-nav-features = Fonctionnalités

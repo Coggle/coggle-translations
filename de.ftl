@@ -14,6 +14,19 @@ index-signupnow = Jetzt registrieren
 index-signinstart = Melde dich an, um loszulegen
 index-title = Coggle – Einfache, schnelle und leistungsstarke Mindmaps. Einfach Coggle nutzen!
 
+index-description =
+    .content = Coggle ist ein Mindmapping-Tool, mit dem du alles verständlich machst. Dauerhaft kostenloser Plan mit unbegrenzt vielen Mindmaps jeder Größe, Zusammenarbeit in Echtzeit und einfachem Teilen.
+login-description =
+    .content = Melde dich bei Coggle mit Google, Microsoft, Apple, einem Passkey oder einem Code per E-Mail an – ganz ohne Passwort. Neu bei Coggle? Die Registrierung ist kostenlos.
+free-forever-description =
+    .content = Coggle ist für immer kostenlos: unbegrenzt öffentliche Mindmaps, drei private und Zusammenarbeit in Echtzeit. Keine Testphasen, keine Zeitlimits, keine Kreditkarte nötig.
+awesome-description =
+    .content = Upgrade auf Coggle Awesome für unbegrenzt private Diagramme, mehr Elementformen, Kontrolle über Linienstil und -verlauf, Textausrichtung und den Upload hochauflösender Bilder.
+orgs-description =
+    .content = Coggle-Organisationen bieten Teams private, gemeinsam genutzte Mindmaps mit SAML Single Sign-on, Kontrolle über das Teilen, Mitgliederverwaltung und Massenexport.
+about-description =
+    .content = Über Coggle, das Tool für gemeinsames Mindmapping: unsere Mission, was Mindmapping ist, für wen Mindmaps gedacht sind und wie du uns erreichst.
+
 index-nav-login = Anmelden
 index-nav-pricing = Preise
 index-nav-features = Funktionen

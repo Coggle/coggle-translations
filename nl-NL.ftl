@@ -14,6 +14,19 @@ index-signupnow = Meld je nu aan
 index-signinstart = Log in om te beginnen
 index-title = Coggle – Eenvoudige, snelle en krachtige mindmaps. Gewoon Coggle het!
 
+index-description =
+    .content = Coggle is een mindmaptool om alles overzichtelijk te maken. Altijd gratis abonnement met onbeperkt veel mindmaps van elk formaat, realtime samenwerking en delen.
+login-description =
+    .content = Log in bij Coggle met Google, Microsoft, Apple, een toegangssleutel of een code per e-mail, zonder wachtwoord om te onthouden. Nieuw bij Coggle? Aanmelden is gratis.
+free-forever-description =
+    .content = Coggle is voor altijd gratis: onbeperkt openbare mindmaps, drie privé-mindmaps en realtime samenwerking. Geen proefperiodes, geen tijdslimieten en geen creditcard nodig.
+awesome-description =
+    .content = Upgrade naar Coggle Awesome voor een onbeperkt aantal privédiagrammen, meer itemvormen, controle over lijnstijlen en lijnpaden, tekstuitlijning en afbeeldingen in hoge resolutie.
+orgs-description =
+    .content = Met Coggle-organisaties krijgen teams gedeelde privé-mindmaps met SAML single sign-on, controle over delen, ledenbeheer en bulk-export.
+about-description =
+    .content = Over Coggle, de tool om samen te mindmappen: onze missie, wat mindmappen is, voor wie mindmaps zijn en hoe je contact met ons opneemt.
+
 index-nav-login = Inloggen
 index-nav-pricing = Prijzen
 index-nav-features = Functies

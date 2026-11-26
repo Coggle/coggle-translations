@@ -14,6 +14,19 @@ index-signupnow = 立即註冊
 index-signinstart = 登入開始使用
 index-title = Coggle - 簡單、快速、強大的心智圖。用 Coggle 就對了！
 
+index-description =
+    .content = Coggle 是一款心智圖工具，幫你釐清任何事情。永久免費方案：數量無限、大小不限的心智圖，以及即時協作和分享。
+login-description =
+    .content = 使用 Google、Microsoft、Apple、通行金鑰或寄到你信箱的驗證碼登入 Coggle，不必記住密碼。第一次使用 Coggle？註冊完全免費。
+free-forever-description =
+    .content = Coggle 永久免費：無限制的公開心智圖、三張私人心智圖，以及即時協作。沒有試用期、沒有時間限制，也不需要信用卡。
+awesome-description =
+    .content = 升級到 Coggle Awesome，即可享有無限制私人圖表、更多項目形狀、線條樣式與路徑調整、文字對齊，以及高解析度圖片上傳。
+orgs-description =
+    .content = Coggle Organizations 為團隊提供私人的共用心智圖，支援 SAML 單一登入、分享控制、成員管理和大量匯出。
+about-description =
+    .content = 關於 Coggle 這款協作心智圖工具：我們的使命、什麼是心智圖、心智圖適合誰，以及如何聯絡我們。
+
 index-nav-login = 登入
 index-nav-pricing = 價格
 index-nav-features = 功能

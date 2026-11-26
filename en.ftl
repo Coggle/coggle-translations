@@ -14,6 +14,23 @@ index-signupnow = Sign Up Now
 index-signinstart = Sign in to Get Started
 index-title = Coggle - Simple, Fast, and Powerful Mind Maps. Just Coggle it!
 
+# Page descriptions: the <meta name="description"> of each translated page,
+# which search engines may show under the result. index-description is also
+# used for the homepage's social link previews. Only use the .content
+# attribute, and keep the text accurate about which plan includes what.
+index-description =
+    .content = Coggle is a mind-mapping tool for making sense of anything. Free-forever plan with unlimited mind maps of any size, real-time collaboration, and sharing.
+login-description =
+    .content = Sign in to Coggle with Google, Microsoft, Apple, a passkey or a code sent to your email, with no password to remember. New to Coggle? Signing up is free.
+free-forever-description =
+    .content = Coggle is free forever: unlimited public mind maps, three private ones and real-time collaboration. No trials, no time limits and no card required.
+awesome-description =
+    .content = Upgrade to Coggle Awesome for unlimited private diagrams, more item shapes, control over line styles and paths, text alignment and high-res image uploads.
+orgs-description =
+    .content = Coggle Organizations give teams private, shared mind maps with SAML single sign-on, sharing controls, member management and bulk export.
+about-description =
+    .content = About Coggle, the collaborative mind-mapping tool: our mission, what mind mapping is, who mind maps are for, and how to get in touch.
+
 index-nav-login = Login
 index-nav-pricing = Pricing
 index-nav-features = Features
