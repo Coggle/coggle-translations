@@ -96,6 +96,7 @@ feature-calc = Dynamiczne <a data-l10n-name='formulae-link'>obliczenia</a>
 feature-labels = Niezależne <b>pola tekstowe</b>
 feature-exports = Eksport do <b>.mm i tekstu</b>
 feature-visio = Eksport do <b>Microsoft Visio</b>
+feature-powerpoint = Eksport do <b>Microsoft PowerPoint</b>
 feature-imports = Import z <b>.mm i tekstu</b>
 feature-chat = Komentarze i czat
 feature-embed = Diagramy do osadzania
@@ -1039,6 +1040,8 @@ fact-markdown2 = Czy wiesz, że <a data-l10n-name='link'>Markdown</a> jest świe
 fact-pdf = Możesz pobrać swoje Coggle jako PDF! Poszukaj przycisku pobierania w prawym górnym rogu ekranu.
 
 fact-png = Możesz pobrać swoje Coggle jako obraz! Poszukaj przycisku pobierania w prawym górnym rogu ekranu.
+
+fact-powerpoint = Czy wiesz, że możesz zamienić swoje Coggle w slajdy PowerPoint? Możesz! Każda główna gałąź dostaje własny slajd. Poszukaj przycisku pobierania w prawym górnym rogu ekranu.
 
 fact-latex2 = Czy wiesz, że Coggle obsługuje LaTeX do matematyki? Tak!<br>Wypróbuj \\( \LaTeX tutaj \\)! Oto <a data-l10n-name='link'>przewodnik po składni</a>.
 

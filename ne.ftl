@@ -95,6 +95,7 @@ feature-calc = गतिशील <a data-l10n-name='formulae-link'>गणना
 feature-labels = नजोडिएका <b>पाठ बाकसहरू</b>
 feature-exports = <b>.mm र पाठ</b> मा निर्यात
 feature-visio = <b>Microsoft Visio</b> का लागि निर्यात
+feature-powerpoint = <b>Microsoft PowerPoint</b> का लागि निर्यात
 feature-imports = <b>.mm र पाठ</b> आयात
 feature-chat = टिप्पणी र च्याट
 feature-embed = इम्बेड गर्न मिल्ने रेखाचित्रहरू
@@ -1030,6 +1031,8 @@ fact-markdown2 = के तपाईंलाई थाहा छ, <a data-l10n-
 fact-pdf = तपाईं आफ्नो Coggle PDF का रूपमा डाउनलोड गर्न सक्नुहुन्छ! स्क्रिनको माथि दायाँ डाउनलोड बटन खोज्नुहोस्।
 
 fact-png = तपाईं आफ्नो Coggle छविका रूपमा डाउनलोड गर्न सक्नुहुन्छ! स्क्रिनको माथि दायाँ डाउनलोड बटन खोज्नुहोस्।
+
+fact-powerpoint = के तपाईंलाई थाहा छ, आफ्नो Coggle लाई PowerPoint स्लाइडहरूमा बदल्न सकिन्छ? सकिन्छ! हरेक मुख्य शाखाले आफ्नै स्लाइड पाउँछ। स्क्रिनको माथि दायाँ डाउनलोड बटन खोज्नुहोस्।
 
 fact-latex2 = के तपाईंलाई थाहा छ, Coggle ले गणितका लागि LaTeX समर्थन गर्छ? गर्छ!<br>प्रयास गर्न \\( यहाँ \LaTeX \\) प्रयोग गर्नुहोस्! यहाँ <a data-l10n-name='link'>सिन्ट्याक्स गाइड</a> छ।
 

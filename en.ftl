@@ -95,6 +95,7 @@ feature-calc = Dynamic <a data-l10n-name='formulae-link'>calculations</a>
 feature-labels = Unconnected <b>text boxes</b>
 feature-exports = Export as <b>.mm and text</b>
 feature-visio = Export for <b>Microsoft Visio</b>
+feature-powerpoint = Export for <b>Microsoft PowerPoint</b>
 feature-imports = Import <b>.mm and text</b>
 feature-chat = Comments & Chat
 feature-embed = Embeddable diagrams
@@ -1046,6 +1047,8 @@ fact-markdown2 = Did you know that <a data-l10n-name='link'>Markdown</a> is awes
 fact-pdf = You can download your Coggle as a PDF! Look for the download button in the top right of the screen.
 
 fact-png = You can download your Coggle as an Image! Look for the download button in the top right of the screen.
+
+fact-powerpoint = Did you know you can turn your Coggle into PowerPoint slides? You can! Each main branch gets its own slide. Look for the download button in the top right of the screen.
 
 fact-latex2 = Did you know Coggle supports LaTeX for math? It does!<br>Use \\( \LaTeX here \\) to try it out! Here's <a data-l10n-name='link'>a syntax guide</a>.
 

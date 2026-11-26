@@ -96,6 +96,7 @@ feature-calc = Дынамічныя <a data-l10n-name='formulae-link'>выліч
 feature-labels = Незвязаныя <b>тэкставыя блокі</b>
 feature-exports = Экспартаванне ў фармаце <b>.mm і тэксту</b>
 feature-visio = Экспартаванне для <b>Microsoft Visio</b>
+feature-powerpoint = Экспартаванне для <b>Microsoft PowerPoint</b>
 feature-imports = Імпартаванне <b>.mm і тэксту</b>
 feature-chat = Каментарыі і чат
 feature-embed = Убудавальныя дыяграмы
@@ -1040,6 +1041,8 @@ fact-markdown2 = Ці ведалі вы, што <a data-l10n-name='link'>Markdow
 fact-pdf = Вы можаце спампаваць свой Coggle у фармаце PDF! Шукайце кнопку спампоўкі ў правым верхнім вугле экрана.
 
 fact-png = Вы можаце спампаваць свой Coggle як відарыс! Шукайце кнопку спампоўкі ў правым верхнім вугле экрана.
+
+fact-powerpoint = Ці ведалі вы, што сваю карту з Coggle можна ператварыць у слайды PowerPoint? Можна! Кожная асноўная галіна атрымлівае ўласны слайд. Шукайце кнопку спампоўвання ў правым верхнім вугле экрана.
 
 fact-latex2 = Ці ведалі вы, што Coggle падтрымлівае LaTeX для матэматыкі? Так!<br>Выкарыстоўвайце \\( \LaTeX тут \\), каб паспрабаваць! Вось <a data-l10n-name='link'>даведнік па сінтаксісе</a>.
 

@@ -96,6 +96,7 @@ feature-calc = <a data-l10n-name='formulae-link'>Calcule</a> dinamice
 feature-labels = <b>Căsuțe de text</b> independente
 feature-exports = Exportă ca <b>.mm și text</b>
 feature-visio = Exportă pentru <b>Microsoft Visio</b>
+feature-powerpoint = Exportă pentru <b>Microsoft PowerPoint</b>
 feature-imports = Importă <b>.mm și text</b>
 feature-chat = Comentarii și Discuții
 feature-embed = Diagrame încorporabile
@@ -1035,6 +1036,8 @@ fact-markdown2 = Știai că <a data-l10n-name='link'>Markdown</a> este grozav? E
 fact-pdf = Îți poți descărca Coggle-ul ca PDF! Caută butonul de descărcare în dreapta sus a ecranului.
 
 fact-png = Îți poți descărca Coggle-ul ca Imagine! Caută butonul de descărcare în dreapta sus a ecranului.
+
+fact-powerpoint = Știai că poți transforma Coggle-ul tău în diapozitive PowerPoint? Poți! Fiecare ramură principală primește propriul diapozitiv. Caută butonul de descărcare în dreapta sus a ecranului.
 
 fact-latex2 = Știai că Coggle acceptă LaTeX pentru matematică? Acceptă!<br>Folosește \\( \LaTeX aici \\) ca să încerci! Aici este <a data-l10n-name='link'>un ghid de sintaxă</a>.
 

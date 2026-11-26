@@ -94,6 +94,7 @@ feature-calc = <a data-l10n-name='formulae-link'>Phép tính</a> động
 feature-labels = <b>Hộp văn bản</b> độc lập
 feature-exports = Xuất ra <b>.mm và văn bản</b>
 feature-visio = Xuất cho <b>Microsoft Visio</b>
+feature-powerpoint = Xuất cho <b>Microsoft PowerPoint</b>
 feature-imports = Nhập từ <b>.mm và văn bản</b>
 feature-chat = Bình luận và trò chuyện
 feature-embed = Sơ đồ có thể nhúng
@@ -1027,6 +1028,8 @@ fact-markdown2 = Bạn có biết <a data-l10n-name='link'>Markdown</a> rất tu
 fact-pdf = Bạn có thể tải Coggle xuống dưới dạng PDF! Hãy tìm nút tải xuống ở góc trên bên phải màn hình.
 
 fact-png = Bạn có thể tải Coggle xuống dưới dạng hình ảnh! Hãy tìm nút tải xuống ở góc trên bên phải màn hình.
+
+fact-powerpoint = Bạn có biết có thể biến Coggle thành các trang chiếu PowerPoint không? Được chứ! Mỗi nhánh chính sẽ có một trang chiếu riêng. Hãy tìm nút tải xuống ở góc trên bên phải màn hình.
 
 fact-latex2 = Bạn có biết Coggle hỗ trợ LaTeX cho toán học không? Đúng vậy!<br>Dùng \\( \LaTeX ở đây \\) để thử nhé! Đây là <a data-l10n-name='link'>hướng dẫn cú pháp</a>.
 

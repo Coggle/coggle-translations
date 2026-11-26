@@ -96,6 +96,7 @@ feature-calc = Динамічні <a data-l10n-name='formulae-link'>обчисл
 feature-labels = Окремі <b>текстові поля</b>
 feature-exports = Експорт у <b>.mm і текст</b>
 feature-visio = Експорт для <b>Microsoft Visio</b>
+feature-powerpoint = Експорт для <b>Microsoft PowerPoint</b>
 feature-imports = Імпорт <b>.mm і тексту</b>
 feature-chat = Коментарі та чат
 feature-embed = Вбудовувані діаграми
@@ -1041,6 +1042,8 @@ fact-markdown2 = Чи знаєте ви, що <a data-l10n-name='link'>Markdown<
 fact-pdf = Свій Coggle можна завантажити як PDF! Шукайте кнопку завантаження у верхньому правому куті екрана.
 
 fact-png = Свій Coggle можна завантажити як зображення! Шукайте кнопку завантаження у верхньому правому куті екрана.
+
+fact-powerpoint = Чи знаєте ви, що свій Coggle можна перетворити на слайди PowerPoint? Так, можна! Кожна основна гілка отримує власний слайд. Шукайте кнопку завантаження у верхньому правому куті екрана.
 
 fact-latex2 = Чи знаєте ви, що Coggle підтримує LaTeX для математики? Так і є!<br>Використовуйте \\( \LaTeX тут \\), щоб спробувати! Ось <a data-l10n-name='link'>посібник із синтаксису</a>.
 

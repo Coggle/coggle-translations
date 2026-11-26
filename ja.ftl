@@ -94,6 +94,7 @@ feature-calc = 動的な<a data-l10n-name='formulae-link'>計算</a>
 feature-labels = 独立した<b>テキストボックス</b>
 feature-exports = <b>.mm とテキスト</b>でエクスポート
 feature-visio = <b>Microsoft Visio</b> 用にエクスポート
+feature-powerpoint = <b>Microsoft PowerPoint</b> 用にエクスポート
 feature-imports = <b>.mm とテキスト</b>をインポート
 feature-chat = コメントとチャット
 feature-embed = 埋め込み可能なダイアグラム
@@ -1025,6 +1026,8 @@ fact-markdown2 = <a data-l10n-name='link'>Markdown</a> がすばらしいこと�
 fact-pdf = Coggle を PDF としてダウンロードできます！画面右上のダウンロードボタンを探してください。
 
 fact-png = Coggle を画像としてダウンロードできます！画面右上のダウンロードボタンを探してください。
+
+fact-powerpoint = Coggle を PowerPoint のスライドにできることをご存知ですか？メインの枝ごとに 1 枚のスライドになります。画面右上のダウンロードボタンを探してください。
 
 fact-latex2 = Coggle が数式用の LaTeX に対応していることをご存知ですか？<br>\\( ここに \LaTeX \\) と入力して試してみましょう！<a data-l10n-name='link'>書き方ガイド</a>もあります。
 

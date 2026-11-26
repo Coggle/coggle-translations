@@ -95,6 +95,7 @@ feature-calc = Dynamische <a data-l10n-name='formulae-link'>berekeningen</a>
 feature-labels = Losstaande <b>tekstvakken</b>
 feature-exports = Exporteer als <b>.mm en tekst</b>
 feature-visio = Exporteren naar <b>Microsoft Visio</b>
+feature-powerpoint = Exporteren naar <b>Microsoft PowerPoint</b>
 feature-imports = Importeren van <b>.mm-bestanden en tekst</b>
 feature-chat = Opmerkingen & Chat
 feature-embed = Diagrammen insluiten
@@ -1037,6 +1038,8 @@ fact-markdown2 = Wist je dat <a data-l10n-name='link'>Markdown</a> geweldig is? 
 fact-pdf = Je kunt je Coggle als pdf downloaden! Zoek de downloadknop rechtsboven in het scherm.
 
 fact-png = Je kunt je Coggle als afbeelding downloaden! Zoek de downloadknop rechtsboven in het scherm.
+
+fact-powerpoint = Wist je dat je je Coggle kunt omzetten in PowerPoint-dia's? Dat kan! Elke hoofdtak krijgt een eigen dia. Zoek de downloadknop rechtsboven in het scherm.
 
 fact-latex2 = Wist je dat Coggle LaTeX ondersteunt voor wiskunde? Dat is zo!<br>Gebruik \\( \LaTeX hier \\) om het uit te proberen! Hier is <a data-l10n-name='link'>een syntaxisgids</a>.
 

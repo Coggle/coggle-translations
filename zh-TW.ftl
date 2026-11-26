@@ -94,6 +94,7 @@ feature-calc = 動態<a data-l10n-name='formulae-link'>計算</a>
 feature-labels = 獨立的<b>文字方塊</b>
 feature-exports = 匯出為 <b>.mm 與文字</b>
 feature-visio = 匯出至 <b>Microsoft Visio</b>
+feature-powerpoint = 匯出至 <b>Microsoft PowerPoint</b>
 feature-imports = 匯入 <b>.mm 與文字</b>
 feature-chat = 留言與聊天
 feature-embed = 可嵌入的圖表
@@ -1015,6 +1016,8 @@ fact-markdown2 = 你知道 <a data-l10n-name='link'>Markdown</a> 很棒嗎？沒
 fact-pdf = 你可以將 Coggle 下載為 PDF！請找畫面右上角的下載按鈕。
 
 fact-png = 你可以將 Coggle 下載為圖片！請找畫面右上角的下載按鈕。
+
+fact-powerpoint = 你知道可以把 Coggle 變成 PowerPoint 投影片嗎？每個主分支都會有自己的一張投影片。請找畫面右上角的下載按鈕。
 
 fact-latex2 = 你知道 Coggle 支援用 LaTeX 寫數學嗎？<br>用 \\( 在這裡寫 \LaTeX \\) 試試看吧！這裡有<a data-l10n-name='link'>語法指南</a>。
 
